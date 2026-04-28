@@ -1,0 +1,2006 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="Cache-Control" content="no-cache, no-store, must-revalidate">
+  <meta http-equiv="Pragma" content="no-cache">
+  <meta http-equiv="Expires" content="0">
+  <title>AI Wiki — Knowledge Base</title>
+  <script defer src="/_vercel/insights/script.js"></script>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=DM+Mono:ital,wght@0,400;0,500;1,400&family=DM+Sans:ital,opsz,wght@0,9..40,300;0,9..40,400;0,9..40,500;1,9..40,300&display=swap" rel="stylesheet">
+  <style>
+    /* ═══════════════════════════════════════════════════════════
+       DESIGN TOKENS
+       All colours, fonts, spacing, radii, shadows here.
+       Change anything below — nothing else needs touching.
+       ═══════════════════════════════════════════════════════════ */
+    :root {
+      /* Backgrounds — Light theme */
+      --color-bg:           #f5f5f8;
+      --color-bg-card:      #ffffff;
+      --color-bg-elevated:  #eeeef2;
+
+      /* Borders */
+      --color-border:       rgba(0,0,0,0.08);
+      --color-border-hover: rgba(0,0,0,0.2);
+
+      /* Text */
+      --color-text:         #1a1a2e;
+      --color-text-muted:   #555570;
+      --color-text-dim:     #8888a0;
+
+      /* Accent colours */
+      --color-accent:       #5b4cd4;
+      --color-accent-glow:  rgba(91,76,212,0.1);
+      --color-accent-2:     #0d9488;
+      --color-accent-3:     #dc2626;
+
+      /* Source badge colours */
+      --color-human:        #0d9488;
+      --color-human-bg:     rgba(13,148,136,0.08);
+      --color-human-border: rgba(13,148,136,0.25);
+      --color-agent:        #5b4cd4;
+      --color-agent-bg:     rgba(91,76,212,0.08);
+      --color-agent-border: rgba(91,76,212,0.25);
+
+      /* Typography */
+      --font-head:    'Inter', sans-serif;
+      --font-body:    'DM Sans', sans-serif;
+      --font-mono:    'DM Mono', monospace;
+      --text-xs:      0.75rem;
+      --text-sm:      0.875rem;
+      --text-base:    1rem;
+      --text-md:      1.125rem;
+      --text-lg:      1.25rem;
+      --text-xl:      1.5rem;
+      --text-2xl:     2rem;
+
+      /* Spacing */
+      --space-1:   4px;
+      --space-2:   8px;
+      --space-3:   12px;
+      --space-4:   16px;
+      --space-5:   24px;
+      --space-6:   32px;
+      --space-8:   48px;
+
+    }
+
+    /* ── Dark mode overrides ── */
+    [data-theme="dark"] {
+      --color-bg:           #09090d;
+      --color-bg-card:      #12121a;
+      --color-bg-elevated:  #1c1c28;
+      --color-border:       rgba(255,255,255,0.08);
+      --color-border-hover: rgba(255,255,255,0.2);
+      --color-text:         #ececf4;
+      --color-text-muted:   #9090ac;
+      --color-text-dim:     #5a5a78;
+      --color-accent:       #7c6af7;
+      --color-accent-glow:  rgba(124,106,247,0.15);
+      --color-accent-2:     #4ecdc4;
+      --color-accent-3:     #ff6b6b;
+      --color-human:        #4ecdc4;
+      --color-human-bg:     rgba(78,205,196,0.12);
+      --color-human-border: rgba(78,205,196,0.3);
+      --color-agent:        #7c6af7;
+      --color-agent-bg:     rgba(124,106,247,0.12);
+      --color-agent-border: rgba(124,106,247,0.3);
+    }
+    [data-theme="dark"] .site-header {
+      background: rgba(9,9,13,0.9);
+    }
+    [data-theme="dark"] .modal-overlay {
+      background: rgba(0,0,0,0.75);
+    }
+    [data-theme="dark"] mark.search-hl {
+      background-color: rgba(124,106,247,0.35) !important;
+      color: #c4b5fd !important;
+    }
+
+    :root {
+      /* Shape */
+      --radius-sm:  6px;
+      --radius:     10px;
+      --radius-lg:  16px;
+      --radius-pill:50px;
+
+      /* Effects */
+      --shadow:      0 2px 12px rgba(0,0,0,0.08);
+      --shadow-glow: 0 0 8px var(--color-accent-glow);
+      --transition:  200ms cubic-bezier(0.4, 0, 0.2, 1);
+
+      /* Layout */
+      --layout-max:      1400px;
+      --sidebar-width:   240px;
+      --header-height:   60px;
+      --modal-max-width: 720px;
+      --modal-max-height:85vh;
+
+      /* Cards */
+      --card-min-width:  300px;
+      --card-gap:        20px;
+    }
+
+    /* ═══════════════════════════════════════════════════════════
+       RESET
+       ═══════════════════════════════════════════════════════════ */
+    *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+    html { scroll-behavior: smooth; }
+    body {
+      font-family: var(--font-body);
+      background: var(--color-bg);
+      color: var(--color-text);
+      min-height: 100vh;
+      line-height: 1.6;
+      -webkit-font-smoothing: antialiased;
+    }
+    a { color: var(--color-accent); }
+    button { cursor: pointer; font-family: var(--font-body); }
+
+    /* Noise texture overlay */
+    body::before {
+      content: '';
+      position: fixed; inset: 0;
+      background-image: url("data:image/svg+xml,%3Csvg viewBox='0 0 256 256' xmlns='http://www.w3.org/2000/svg'%3E%3Cfilter id='noise'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.9' numOctaves='4' stitchTiles='stitch'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23noise)' opacity='0.03'/%3E%3C/svg%3E");
+      pointer-events: none; z-index: 0; opacity: 0.15;
+    }
+
+    /* ═══════════════════════════════════════════════════════════
+       ANIMATIONS
+       ═══════════════════════════════════════════════════════════ */
+    @keyframes pulse    { 0%,100%{opacity:1;transform:scale(1)} 50%{opacity:.5;transform:scale(.8)} }
+    @keyframes fadeUp   { from{opacity:0;transform:translateY(8px)} to{opacity:1;transform:translateY(0)} }
+    @keyframes shimmer  { 0%{background-position:200% 0} 100%{background-position:-200% 0} }
+
+    /* ═══════════════════════════════════════════════════════════
+       HEADER
+       ═══════════════════════════════════════════════════════════ */
+    .site-header {
+      position: sticky; top: 0; z-index: 100;
+      background: rgba(245,245,248,0.9);
+      backdrop-filter: blur(20px);
+      border-bottom: 1px solid var(--color-border);
+      padding: 0 clamp(var(--space-4), 4vw, 48px);
+    }
+    .header-inner {
+      max-width: var(--layout-max); margin: 0 auto;
+      display: flex; align-items: center; justify-content: space-between;
+      height: var(--header-height); gap: var(--space-4);
+    }
+    .logo {
+      font-family: var(--font-head);
+      font-size: var(--text-xl); font-weight: 700;
+      letter-spacing: -0.02em; color: var(--color-text);
+      display: flex; align-items: center; gap: var(--space-2);
+      text-decoration: none; white-space: nowrap;
+    }
+    .logo-dot {
+      width: 8px; height: 8px; border-radius: 50%;
+      background: var(--color-accent);
+      box-shadow: var(--shadow-glow);
+      animation: pulse 2s ease-in-out infinite;
+    }
+    .header-search {
+      flex: 1; max-width: 480px;
+      position: relative;
+    }
+    .header-search input {
+      width: 100%;
+      background: var(--color-bg-elevated);
+      border: 1px solid var(--color-border);
+      border-radius: var(--radius-sm);
+      color: var(--color-text);
+      font-family: var(--font-body);
+      font-size: var(--text-sm);
+      padding: var(--space-2) var(--space-4) var(--space-2) 38px;
+      outline: none;
+      transition: border-color var(--transition);
+      /* Mobile — prevent iOS zoom on focus */
+      font-size: max(16px, var(--text-sm));
+    }
+    .header-search input:focus { border-color: var(--color-accent); }
+    .header-search input::placeholder { color: var(--color-text-dim); }
+    .search-icon {
+      position: absolute; left: var(--space-3); top: 50%;
+      transform: translateY(-50%);
+      color: var(--color-text-dim); font-size: 14px; pointer-events: none;
+    }
+    .header-meta {
+      font-family: var(--font-mono);
+      font-size: var(--text-xs); color: var(--color-text-dim);
+      white-space: nowrap;
+      /* Hide on small screens */
+      display: none;
+    }
+    @media (min-width: 640px) { .header-meta { display: block; } }
+    .theme-toggle {
+      background: var(--color-bg-elevated);
+      border: 1px solid var(--color-border);
+      border-radius: var(--radius-sm);
+      color: var(--color-text-muted);
+      width: 36px; height: 36px;
+      display: flex; align-items: center; justify-content: center;
+      font-size: 16px; cursor: pointer;
+      transition: all var(--transition);
+      flex-shrink: 0;
+    }
+    .theme-toggle:hover { border-color: var(--color-accent); color: var(--color-accent); }
+    .live-dot {
+      display: inline-block; width: 6px; height: 6px;
+      border-radius: 50%; background: var(--color-accent-2);
+      margin-right: 5px;
+      animation: pulse 2s ease-in-out infinite;
+    }
+
+    /* ═══════════════════════════════════════════════════════════
+       LAYOUT — MOBILE FIRST
+       ═══════════════════════════════════════════════════════════ */
+    .layout {
+      max-width: var(--layout-max); margin: 0 auto;
+      padding: clamp(var(--space-4), 3vw, 40px) clamp(var(--space-4), 4vw, 48px);
+      /* Mobile: single column */
+      display: grid;
+      grid-template-columns: 1fr;
+      gap: var(--space-8);
+      align-items: start;
+    }
+    /* Tablet+ — add sidebar */
+    @media (min-width: 769px) {
+      .layout { grid-template-columns: var(--sidebar-width) 1fr; }
+    }
+
+    /* ═══════════════════════════════════════════════════════════
+       SIDEBAR
+       ═══════════════════════════════════════════════════════════ */
+    .sidebar {
+      /* Hidden on mobile until toggled */
+      display: none;
+      background: var(--color-bg-card);
+      border: 1px solid var(--color-border);
+      border-radius: var(--radius-lg);
+      padding: var(--space-5);
+    }
+    .sidebar.open { display: block; }
+    @media (min-width: 769px) {
+      .sidebar {
+        display: block;
+        position: sticky; top: calc(var(--header-height) + var(--space-4));
+        max-height: calc(100vh - var(--header-height) - var(--space-8));
+        overflow-y: auto;
+      }
+    }
+    .sidebar::-webkit-scrollbar { width: 3px; }
+    .sidebar::-webkit-scrollbar-track { background: transparent; }
+    .sidebar::-webkit-scrollbar-thumb { background: rgba(0,0,0,0.15); border-radius: 3px; }
+
+    .sidebar-label {
+      font-family: var(--font-mono);
+      font-size: var(--text-xs); font-weight: 500;
+      letter-spacing: 0.12em; text-transform: uppercase;
+      color: var(--color-text-dim); margin-bottom: var(--space-3);
+    }
+    .sidebar-divider {
+      border: none; border-top: 1px solid var(--color-border);
+      margin: var(--space-3) 0;
+    }
+    .last-updated-text {
+      font-size: 0.75rem; color: var(--color-text-dim); margin-top: var(--space-1);
+    }
+
+    /* Category list */
+    .cat-list { list-style: none; }
+    .cat-item {
+      display: flex; align-items: center; justify-content: space-between;
+      padding: 7px var(--space-2);
+      border-radius: 7px;
+      cursor: pointer;
+      transition: all var(--transition);
+      gap: var(--space-2);
+      /* Minimum touch target */
+      min-height: 36px;
+    }
+    .cat-item:hover, .cat-item.active {
+      background: var(--color-accent-glow);
+      color: var(--color-accent);
+    }
+    .cat-name { font-size: var(--text-base); flex: 1; }
+    .cat-count {
+      font-family: var(--font-mono);
+      font-size: var(--text-xs); color: var(--color-text-dim);
+      background: var(--color-bg-elevated);
+      padding: 2px var(--space-1); border-radius: var(--radius-sm);
+    }
+    .cat-item.active .cat-count { color: var(--color-accent); }
+
+    /* Source filter pills */
+    .source-filters { margin-top: var(--space-1); display: flex; flex-wrap: wrap; gap: var(--space-1); }
+    .filter-pill {
+      display: inline-flex; align-items: center; gap: 5px;
+      padding: var(--space-1) var(--space-2);
+      border-radius: var(--radius-pill);
+      font-size: 0.75rem;
+      border: 1px solid var(--color-border);
+      transition: all var(--transition);
+      background: transparent; color: var(--color-text-muted);
+      min-height: 32px;
+    }
+    .filter-pill:hover { border-color: var(--color-accent); color: var(--color-accent); }
+    .filter-pill.active.human {
+      background: var(--color-human-bg);
+      border-color: var(--color-human-border);
+      color: var(--color-human);
+    }
+    .filter-pill.active.agent {
+      background: var(--color-agent-bg);
+      border-color: var(--color-agent-border);
+      color: var(--color-agent);
+    }
+    .filter-dot { width: 6px; height: 6px; border-radius: 50%; }
+    .type-pill.active {
+      background: var(--color-accent-glow);
+      border-color: var(--color-accent);
+      color: var(--color-accent);
+    }
+    .filter-pill.active.human .filter-dot { background: var(--color-human); }
+    .filter-pill.active.agent .filter-dot { background: var(--color-agent); }
+
+    /* ═══════════════════════════════════════════════════════════
+       MAIN CONTENT AREA
+       ═══════════════════════════════════════════════════════════ */
+    .main { min-width: 0; overflow: hidden; }
+
+    /* Stats bar */
+    .stats-bar {
+      display: grid;
+      grid-template-columns: repeat(2, 1fr);
+      gap: var(--space-3);
+      margin-bottom: var(--space-6);
+    }
+    @media (min-width: 480px) {
+      .stats-bar { grid-template-columns: repeat(4, 1fr); }
+    }
+    .stat-card {
+      background: var(--color-bg-card);
+      border: 1px solid var(--color-border);
+      border-radius: var(--radius);
+      padding: var(--space-3) var(--space-4);
+    }
+    .stat-value {
+      font-family: var(--font-head);
+      font-size: var(--text-xl); font-weight: 700;
+      letter-spacing: -0.02em;
+    }
+    .stat-label { font-size: var(--text-xs); color: var(--color-text-muted); margin-top: 4px; }
+    .stat-card--total .stat-value  { color: var(--color-accent); }
+    .stat-card--human .stat-value  { color: var(--color-human); }
+    .stat-card--agent .stat-value  { color: var(--color-agent); }
+
+    /* Section heading */
+    .section-heading {
+      display: flex; align-items: center; justify-content: space-between;
+      margin-bottom: var(--space-4);
+    }
+    .section-title {
+      font-family: var(--font-head);
+      font-size: var(--text-lg); font-weight: 700;
+      letter-spacing: -0.01em;
+    }
+    .result-count {
+      font-family: var(--font-mono);
+      font-size: var(--text-xs); color: var(--color-text-dim);
+    }
+
+    /* ═══════════════════════════════════════════════════════════
+       ENTRY CARDS — MOBILE FIRST
+       ═══════════════════════════════════════════════════════════ */
+    .entries-grid {
+      display: grid;
+      grid-template-columns: 1fr;
+      gap: var(--card-gap);
+      overflow: hidden;
+    }
+    @media (min-width: 640px) {
+      .entries-grid { grid-template-columns: repeat(auto-fill, minmax(var(--card-min-width), 1fr)); }
+    }
+
+    .entry-card {
+      background: var(--color-bg-card);
+      border: 1px solid var(--color-border);
+      border-left: 3px solid var(--color-accent);
+      border-radius: var(--radius-lg);
+      padding: var(--space-4) var(--space-5);
+      cursor: pointer;
+      transition: all var(--transition);
+      display: flex; flex-direction: column; gap: var(--space-3);
+      animation: fadeUp 0.3s ease both;
+      min-height: 140px;
+      overflow: hidden;
+      word-break: break-word;
+    }
+    .entry-card[data-cat="model-releases"] { border-left-color: #5b4cd4; }
+    .entry-card[data-cat="research"]       { border-left-color: #dc2626; }
+    .entry-card[data-cat="tools"]          { border-left-color: #d97706; }
+    .entry-card[data-cat="local-ai"]       { border-left-color: #0d9488; }
+    .entry-card[data-cat="agents"]         { border-left-color: #16a34a; }
+    .entry-card[data-cat="industry"]       { border-left-color: #2563eb; }
+    .entry-card[data-cat="hardware"]       { border-left-color: #ca8a04; }
+    .entry-card[data-cat="safety"]         { border-left-color: #e11d48; }
+    .entry-card[data-cat="applications"]   { border-left-color: #7c3aed; }
+    .entry-card[data-cat="tutorials"]      { border-left-color: #0891b2; }
+    .entry-card:hover {
+      border-color: var(--color-accent);
+      background: var(--color-bg-elevated);
+      transform: translateY(-3px);
+      box-shadow: 0 8px 24px rgba(0,0,0,0.12), 0 0 0 1px var(--color-accent-glow);
+    }
+    /* Active/pressed state for touch */
+    .entry-card:active { transform: translateY(0); }
+
+    .entry-cat-label {
+      font-family: var(--font-mono);
+      font-size: var(--text-xs); font-weight: 500;
+      text-transform: uppercase; letter-spacing: 0.06em;
+      color: var(--color-text-dim);
+    }
+    .entry-header {
+      display: flex; align-items: flex-start;
+      justify-content: space-between; gap: var(--space-2);
+    }
+    .entry-title {
+      font-family: var(--font-head);
+      font-size: var(--text-base); font-weight: 600;
+      letter-spacing: -0.01em;
+      line-height: 1.45; flex: 1;
+      overflow-wrap: break-word; word-break: break-word;
+    }
+
+    /* Source badge */
+    .source-badge {
+      display: inline-flex; align-items: center; gap: var(--space-1);
+      padding: 3px var(--space-2); border-radius: var(--radius-pill);
+      font-family: var(--font-mono); font-size: var(--text-xs);
+      font-weight: 500; white-space: nowrap; flex-shrink: 0;
+    }
+    .source-badge::before { content:''; width:5px;height:5px;border-radius:50%; }
+    .source-badge--human {
+      background: var(--color-human-bg);
+      border: 1px solid var(--color-human-border);
+      color: var(--color-human);
+    }
+    .source-badge--human::before { background: var(--color-human); }
+    .source-badge--agent {
+      background: var(--color-agent-bg);
+      border: 1px solid var(--color-agent-border);
+      color: var(--color-agent);
+    }
+    .source-badge--agent::before { background: var(--color-agent); }
+
+    .entry-summary {
+      font-size: var(--text-sm); color: var(--color-text-muted);
+      line-height: 1.65;
+      display: -webkit-box;
+      -webkit-line-clamp: 3;
+      -webkit-box-orient: vertical;
+      overflow: hidden;
+      /* Ensure <mark> backgrounds render inside -webkit-box layout */
+      -webkit-background-clip: unset;
+    }
+    .entry-footer {
+      display: flex; align-items: center;
+      justify-content: space-between; gap: var(--space-2);
+      margin-top: auto;
+    }
+    .entry-tags { display: flex; flex-wrap: wrap; gap: 5px; }
+    .tag {
+      font-family: var(--font-mono);
+      font-size: var(--text-xs); color: var(--color-text-dim);
+      background: var(--color-bg-elevated);
+      border: 1px solid var(--color-border);
+      padding: 2px 7px; border-radius: var(--space-1);
+    }
+    .tag--clickable { cursor: pointer; transition: all var(--transition); }
+    .tag--clickable:hover { border-color: var(--color-accent); color: var(--color-accent); }
+    .entry-date {
+      font-family: var(--font-mono);
+      font-size: var(--text-xs); color: var(--color-text-dim);
+      white-space: nowrap;
+    }
+
+    /* ═══════════════════════════════════════════════════════════
+       MODAL — FULL SCREEN ON MOBILE
+       ═══════════════════════════════════════════════════════════ */
+    .modal-overlay {
+      position: fixed; inset: 0; z-index: 200;
+      background: rgba(0,0,0,0.4);
+      backdrop-filter: blur(8px);
+      display: flex; align-items: flex-end; justify-content: center;
+      padding: 0;
+      opacity: 0; pointer-events: none;
+      transition: opacity var(--transition);
+    }
+    .modal-overlay.open { opacity: 1; pointer-events: all; }
+
+    .modal {
+      background: var(--color-bg-card);
+      border: 1px solid var(--color-border-hover);
+      /* Mobile: full width sheet from bottom */
+      border-radius: var(--radius-lg) var(--radius-lg) 0 0;
+      width: 100%;
+      max-height: 92vh;
+      overflow-y: auto;
+      padding: var(--space-5) var(--space-4) var(--space-8);
+      transform: translateY(24px);
+      transition: transform var(--transition);
+      position: relative;
+    }
+    .modal-overlay.open .modal { transform: translateY(0); }
+
+    /* Desktop: centred dialog */
+    @media (min-width: 640px) {
+      .modal-overlay { align-items: center; padding: var(--space-5); }
+      .modal {
+        border-radius: var(--radius-lg);
+        max-width: var(--modal-max-width);
+        max-height: var(--modal-max-height);
+        padding: var(--space-8);
+      }
+    }
+
+    .modal::-webkit-scrollbar { width: 4px; }
+    .modal::-webkit-scrollbar-thumb { background: var(--color-border); border-radius: 4px; }
+
+    /* Drag handle on mobile */
+    .modal-handle {
+      display: block; width: 36px; height: 4px;
+      background: var(--color-border-hover); border-radius: 2px;
+      margin: 0 auto var(--space-4);
+    }
+    @media (min-width: 640px) { .modal-handle { display: none; } }
+
+    .modal-close {
+      position: sticky; top: 0; float: right;
+      background: var(--color-bg-elevated); border: 1px solid var(--color-border);
+      color: var(--color-text-muted); border-radius: var(--radius-sm);
+      width: 32px; height: 32px;
+      display: flex; align-items: center; justify-content: center;
+      font-size: 16px;
+      transition: all var(--transition);
+      margin: -4px -4px var(--space-4) var(--space-4);
+      /* Touch-friendly */
+      min-width: 44px; min-height: 44px;
+    }
+    .modal-close:hover { color: var(--color-text); border-color: var(--color-accent); }
+
+    .modal-title {
+      font-family: var(--font-head);
+      font-size: clamp(1.2rem, 4vw, var(--text-xl));
+      font-weight: 700; letter-spacing: -0.02em; line-height: 1.3;
+      margin-bottom: var(--space-4);
+    }
+    .modal-meta {
+      display: flex; flex-wrap: wrap; gap: var(--space-2);
+      align-items: center; margin-bottom: var(--space-5);
+      padding-bottom: var(--space-5);
+      border-bottom: 1px solid var(--color-border);
+    }
+    .modal-date {
+      margin-left: auto;
+      font-family: var(--font-mono);
+      font-size: var(--text-xs); color: var(--color-text-dim);
+    }
+
+    /* Modal body typography */
+    .modal-body { font-size: var(--text-base); line-height: 1.7; color: var(--color-text-muted); }
+    .modal-body h1, .modal-body h2, .modal-body h3 {
+      font-family: var(--font-head); color: var(--color-text); margin: 1.2em 0 0.5em;
+    }
+    .modal-body h2 { font-size: 1.1rem; }
+    .modal-body h3 { font-size: var(--text-sm); color: var(--color-text-muted); }
+    .modal-body p  { margin-bottom: 0.8em; }
+    .modal-body code {
+      font-family: var(--font-mono); font-size: 0.82em;
+      background: var(--color-bg-elevated); color: var(--color-accent-2);
+      padding: 2px var(--space-1); border-radius: var(--space-1);
+    }
+    .modal-body pre {
+      background: var(--color-bg-elevated); border: 1px solid var(--color-border);
+      border-radius: var(--radius); padding: var(--space-4);
+      overflow-x: auto; margin: 1em 0;
+    }
+    .modal-body pre code { background: none; padding: 0; color: var(--color-text); }
+    .modal-body ul, .modal-body ol { padding-left: 1.4em; margin-bottom: 0.8em; }
+    .modal-body li { margin-bottom: 0.3em; }
+    .modal-body a { color: var(--color-accent); }
+    .modal-body blockquote {
+      border-left: 3px solid var(--color-accent);
+      padding-left: var(--space-4); margin: 1em 0;
+      color: var(--color-text-dim); font-style: italic;
+    }
+
+    /* Clickable wiki links in body */
+    .wiki-link {
+      color: var(--color-accent);
+      cursor: pointer;
+      text-decoration: underline;
+      text-underline-offset: 3px;
+      transition: opacity var(--transition);
+    }
+    .wiki-link:hover { opacity: 0.75; }
+
+    /* Source link button */
+    .modal-source-link {
+      display: inline-flex; align-items: center; gap: var(--space-1);
+      margin-top: var(--space-5); padding: var(--space-2) var(--space-3);
+      background: var(--color-bg-elevated); border: 1px solid var(--color-border);
+      border-radius: 7px; color: var(--color-text-muted);
+      font-size: var(--text-sm); text-decoration: none;
+      transition: all var(--transition);
+    }
+    .modal-source-link:hover { border-color: var(--color-accent); color: var(--color-accent); }
+
+    /* Related entries panel */
+    .related-section {
+      margin-top: var(--space-6);
+      padding-top: var(--space-5);
+      border-top: 1px solid var(--color-border);
+    }
+    .related-label {
+      font-family: var(--font-mono);
+      font-size: var(--text-xs); letter-spacing: 0.1em;
+      text-transform: uppercase; color: var(--color-text-dim);
+      margin-bottom: var(--space-3);
+    }
+    .related-grid { display: flex; flex-wrap: wrap; gap: var(--space-2); }
+    .related-card {
+      background: var(--color-bg-elevated);
+      border: 1px solid var(--color-border);
+      border-radius: 7px;
+      padding: var(--space-1) var(--space-3);
+      cursor: pointer; text-align: left;
+      transition: all var(--transition);
+      min-height: 44px;
+      display: flex; flex-direction: column; justify-content: center;
+    }
+    .related-card:hover { border-color: var(--color-accent); }
+    .related-card-title {
+      font-size: 0.78rem; font-weight: 600; color: var(--color-text);
+    }
+    .related-card-cat {
+      font-size: var(--text-xs); color: var(--color-text-dim); margin-top: 2px;
+    }
+
+    /* Search highlight */
+    mark.search-hl {
+      background-color: #fde68a !important;
+      color: #92400e !important;
+      border-radius: 3px;
+      padding: 1px 4px;
+      font-style: inherit;
+      font-weight: inherit;
+      display: inline !important;
+      -webkit-box-decoration-break: clone;
+      box-decoration-break: clone;
+    }
+    .entry-title mark.search-hl,
+    .entry-summary mark.search-hl {
+      background-color: #fde68a !important;
+      color: #92400e !important;
+    }
+    [data-theme="dark"] mark.search-hl,
+    [data-theme="dark"] .entry-title mark.search-hl,
+    [data-theme="dark"] .entry-summary mark.search-hl {
+      background-color: rgba(124,106,247,0.35) !important;
+      color: #c4b5fd !important;
+    }
+
+    /* Load more button */
+    /* View toggle */
+    .view-toggle {
+      display: flex; border: 1px solid var(--color-border); border-radius: var(--radius-sm); overflow: hidden;
+    }
+    .view-btn {
+      padding: 4px 12px; font-size: var(--text-xs); font-family: var(--font-head); font-weight: 600;
+      background: transparent; border: none; color: var(--color-text-dim); cursor: pointer;
+      transition: all var(--transition);
+    }
+    .view-btn.active { background: var(--color-accent); color: white; }
+    .view-btn:hover:not(.active) { color: var(--color-accent); }
+
+    /* Timeline view */
+    .timeline { display: none; }
+    .timeline.active { display: block; }
+    .timeline-date-group { margin-bottom: var(--space-6); }
+    .timeline-date {
+      font-family: var(--font-head); font-size: var(--text-md); font-weight: 700;
+      color: var(--color-text); margin-bottom: var(--space-3);
+      padding-bottom: var(--space-2); border-bottom: 2px solid var(--color-accent);
+      position: sticky; top: calc(var(--header-height) + 4px); background: var(--color-bg);
+      z-index: 5; padding-top: var(--space-2);
+    }
+    .timeline-item {
+      display: flex; gap: var(--space-4); padding: var(--space-3) 0;
+      border-bottom: 1px solid var(--color-border); cursor: pointer;
+      transition: background var(--transition);
+    }
+    .timeline-item:hover { background: var(--color-bg-elevated); margin: 0 calc(-1 * var(--space-3)); padding-left: var(--space-3); padding-right: var(--space-3); border-radius: var(--radius); }
+    .timeline-item:last-child { border-bottom: none; }
+    .timeline-dot {
+      width: 12px; height: 12px; border-radius: 50%; margin-top: 4px; flex-shrink: 0;
+    }
+    .timeline-content { flex: 1; min-width: 0; }
+    .timeline-title {
+      font-family: var(--font-head); font-size: var(--text-sm); font-weight: 600;
+      line-height: 1.3; margin-bottom: 2px;
+    }
+    .timeline-meta {
+      font-size: var(--text-xs); color: var(--color-text-dim);
+      display: flex; gap: var(--space-2); flex-wrap: wrap; align-items: center;
+    }
+    .timeline-cat {
+      font-family: var(--font-mono); font-size: 10px; text-transform: uppercase;
+      letter-spacing: 0.05em; padding: 1px 6px; border-radius: 3px;
+      background: var(--color-bg-elevated); border: 1px solid var(--color-border);
+    }
+    .timeline-summary {
+      font-size: var(--text-xs); color: var(--color-text-muted); margin-top: 4px;
+      line-height: 1.5; display: -webkit-box; -webkit-line-clamp: 2;
+      -webkit-box-orient: vertical; overflow: hidden;
+    }
+
+    /* Evolution / Swim lane view */
+    .evolution-view { overflow-x: auto; }
+    .swim-lane {
+      margin-bottom: var(--space-5);
+      border: 1px solid var(--color-border);
+      border-radius: var(--radius-lg);
+      background: var(--color-bg-card);
+      overflow: hidden;
+    }
+    .swim-lane-header {
+      padding: var(--space-3) var(--space-4);
+      background: var(--color-bg-elevated);
+      border-bottom: 1px solid var(--color-border);
+      display: flex; align-items: center; gap: var(--space-3);
+      cursor: pointer;
+    }
+    .swim-lane-header:hover { background: var(--color-accent-glow); }
+    .swim-lane-name {
+      font-family: var(--font-head); font-weight: 700;
+      font-size: var(--text-base);
+    }
+    .swim-lane-count {
+      font-family: var(--font-mono); font-size: var(--text-xs);
+      color: var(--color-text-dim); background: var(--color-bg);
+      padding: 2px 8px; border-radius: var(--radius-sm);
+    }
+    .swim-lane-type {
+      font-family: var(--font-mono); font-size: 10px;
+      text-transform: uppercase; letter-spacing: 0.05em;
+      padding: 2px 8px; border-radius: 3px;
+      color: white; font-weight: 600;
+    }
+    .swim-lane-body {
+      display: flex; gap: var(--space-2); padding: var(--space-3) var(--space-4);
+      overflow-x: auto; scroll-snap-type: x mandatory;
+    }
+    .swim-lane-body::-webkit-scrollbar { height: 4px; }
+    .swim-lane-body::-webkit-scrollbar-thumb { background: var(--color-border); border-radius: 4px; }
+    .evo-card {
+      min-width: 220px; max-width: 260px; flex-shrink: 0;
+      scroll-snap-align: start;
+      background: var(--color-bg);
+      border: 1px solid var(--color-border);
+      border-radius: var(--radius);
+      padding: var(--space-3);
+      cursor: pointer;
+      transition: all var(--transition);
+    }
+    .evo-card:hover {
+      border-color: var(--color-accent);
+      transform: translateY(-2px);
+      box-shadow: 0 4px 12px rgba(0,0,0,0.08);
+    }
+    .evo-date {
+      font-family: var(--font-mono); font-size: 10px;
+      color: var(--color-text-dim); margin-bottom: 4px;
+    }
+    .evo-title {
+      font-family: var(--font-head); font-size: var(--text-xs);
+      font-weight: 600; line-height: 1.3; margin-bottom: 4px;
+    }
+    .evo-summary {
+      font-size: 11px; color: var(--color-text-muted);
+      display: -webkit-box; -webkit-line-clamp: 2;
+      -webkit-box-orient: vertical; overflow: hidden; line-height: 1.4;
+    }
+    .evo-connector {
+      display: flex; align-items: center; color: var(--color-text-dim);
+      font-size: 16px; padding: 0 4px; flex-shrink: 0;
+    }
+
+    .load-more-btn {
+      grid-column: 1 / -1;
+      background: var(--color-bg-elevated);
+      border: 1px solid var(--color-border);
+      border-radius: var(--radius);
+      padding: var(--space-4) var(--space-6);
+      color: var(--color-accent);
+      font-family: var(--font-head);
+      font-size: var(--text-sm); font-weight: 600;
+      cursor: pointer;
+      transition: all var(--transition);
+      text-align: center;
+    }
+    .load-more-btn:hover {
+      background: var(--color-accent);
+      color: white;
+      border-color: var(--color-accent);
+    }
+
+    /* ═══════════════════════════════════════════════════════════
+       EMPTY STATE
+       ═══════════════════════════════════════════════════════════ */
+    .empty-state {
+      grid-column: 1 / -1;
+      text-align: center; padding: 60px var(--space-5);
+      color: var(--color-text-dim);
+    }
+    .empty-state .icon { font-size: 3rem; margin-bottom: var(--space-4); }
+    .empty-state p { font-size: var(--text-base); }
+
+    /* ═══════════════════════════════════════════════════════════
+       LOADING SHIMMER
+       ═══════════════════════════════════════════════════════════ */
+    .shimmer {
+      background: linear-gradient(90deg,
+        var(--color-bg-card) 25%,
+        var(--color-bg-elevated) 50%,
+        var(--color-bg-card) 75%);
+      background-size: 200% 100%;
+      animation: shimmer 1.5s infinite;
+      border-radius: var(--radius-lg);
+      height: 160px;
+    }
+
+    /* ═══════════════════════════════════════════════════════════
+       TOAST
+       ═══════════════════════════════════════════════════════════ */
+    .toast {
+      position: fixed; bottom: var(--space-6); right: var(--space-6);
+      background: var(--color-bg-elevated); border: 1px solid var(--color-accent);
+      border-radius: var(--radius); padding: var(--space-3) var(--space-4);
+      font-size: var(--text-sm); color: var(--color-text);
+      z-index: 300; transform: translateY(100px);
+      transition: transform var(--transition);
+      box-shadow: var(--shadow);
+      max-width: calc(100vw - var(--space-8));
+    }
+    .toast.show { transform: translateY(0); }
+
+    /* ═══════════════════════════════════════════════════════════
+       MOBILE FILTER BUTTON (fixed, bottom-left)
+       ═══════════════════════════════════════════════════════════ */
+    .mobile-filter-btn {
+      display: flex; align-items: center; gap: var(--space-1);
+      position: fixed; bottom: var(--space-6); left: var(--space-6);
+      background: var(--color-accent); color: white;
+      border: none; border-radius: var(--radius-pill);
+      padding: var(--space-2) var(--space-4);
+      font-size: var(--text-sm);
+      z-index: 150;
+      box-shadow: 0 4px 16px var(--color-accent-glow);
+      min-height: 44px;
+    }
+    @media (min-width: 769px) { .mobile-filter-btn { display: none; } }
+
+    /* ═══════════════════════════════════════════════════════════
+       FOOTER
+       ═══════════════════════════════════════════════════════════ */
+    .site-footer {
+      border-top: 1px solid var(--color-border);
+      padding: var(--space-6) clamp(var(--space-4), 4vw, 48px);
+      text-align: center;
+      font-family: var(--font-mono);
+      font-size: var(--text-xs); color: var(--color-text-dim);
+    }
+    .site-footer a { color: var(--color-accent); text-decoration: none; }
+
+    /* ═══════════════════════════════════════════════════════════
+       TEST PANEL (hidden by default, toggle with ?test=1)
+       ═══════════════════════════════════════════════════════════ */
+    #testPanel {
+      display: none;
+      position: fixed; inset: 0; z-index: 9999;
+      background: var(--color-bg);
+      overflow-y: auto;
+      padding: var(--space-8);
+      font-family: var(--font-mono);
+      font-size: var(--text-sm);
+    }
+    #testPanel.visible { display: block; }
+    .test-pass { color: var(--color-accent-2); }
+    .test-fail { color: var(--color-accent-3); }
+    .test-group { margin: var(--space-5) 0 var(--space-3); font-weight: bold; color: var(--color-text); }
+    .test-summary { margin-top: var(--space-6); font-size: var(--text-md); font-weight: bold; }
+    .test-close {
+      position: fixed; top: var(--space-4); right: var(--space-4);
+      background: var(--color-accent); color: white;
+      border: none; border-radius: var(--radius-sm);
+      padding: var(--space-2) var(--space-4);
+    }
+  </style>
+</head>
+<body>
+
+<!-- ── HEADER ── -->
+<header class="site-header">
+  <div class="header-inner">
+    <a class="logo" href="#">
+      <div class="logo-dot"></div>
+      AI Wiki
+    </a>
+    <a href="./graph.html" style="font-size:13px;color:var(--color-accent);text-decoration:none;font-weight:600;white-space:nowrap;">◉ Graph</a>
+    <div class="header-search">
+      <span class="search-icon" aria-hidden="true">⌕</span>
+      <input
+        type="search"
+        id="searchInput"
+        placeholder="Search entries…"
+        autocomplete="off"
+        spellcheck="false"
+        aria-label="Search wiki entries"
+      >
+    </div>
+    <div class="header-meta" aria-live="polite">
+      <span class="live-dot" aria-hidden="true"></span>
+      <span id="buildMeta">Loading…</span>
+    </div>
+    <button class="theme-toggle" onclick="toggleTheme()" aria-label="Toggle dark mode" title="Toggle dark mode">
+      <span id="themeIcon">☽</span>
+    </button>
+  </div>
+</header>
+
+<!-- ── LAYOUT ── -->
+<div class="layout">
+
+  <!-- SIDEBAR -->
+  <aside class="sidebar" id="sidebar" aria-label="Filters">
+    <div class="sidebar-label">Categories</div>
+    <ul class="cat-list" id="catList" role="listbox" aria-label="Filter by category">
+      <li class="cat-item active" data-cat="all" role="option" aria-selected="true" tabindex="0" onclick="filterCat(this)" onkeypress="if(event.key==='Enter')filterCat(this)">
+        <span class="cat-name">All entries</span>
+        <span class="cat-count" id="totalCount" aria-label="total entries">–</span>
+      </li>
+    </ul>
+    <hr class="sidebar-divider">
+    <div class="sidebar-label">Source</div>
+    <div class="source-filters">
+      <button class="filter-pill active human" onclick="toggleSource('human',this)" aria-pressed="true" aria-label="Filter by human entries">
+        <span class="filter-dot" aria-hidden="true"></span> Human
+      </button>
+      <button class="filter-pill active agent" onclick="toggleSource('agent',this)" aria-pressed="true" aria-label="Filter by agent entries">
+        <span class="filter-dot" aria-hidden="true"></span> Agent
+      </button>
+    </div>
+    <hr class="sidebar-divider">
+    <div class="sidebar-label">Content type</div>
+    <div class="source-filters" id="typeFilters">
+      <button class="filter-pill active type-pill" data-type="article" onclick="toggleType('article',this)" aria-pressed="true">Blog</button>
+      <button class="filter-pill active type-pill" data-type="x-post" onclick="toggleType('x-post',this)" aria-pressed="true">X Post</button>
+      <button class="filter-pill active type-pill" data-type="paper" onclick="toggleType('paper',this)" aria-pressed="true">Paper</button>
+      <button class="filter-pill active type-pill" data-type="youtube" onclick="toggleType('youtube',this)" aria-pressed="true">YouTube</button>
+      <button class="filter-pill active type-pill" data-type="reddit" onclick="toggleType('reddit',this)" aria-pressed="true">Reddit</button>
+      <button class="filter-pill active type-pill" data-type="github" onclick="toggleType('github',this)" aria-pressed="true">GitHub</button>
+    </div>
+    <hr class="sidebar-divider">
+    <div class="sidebar-label">Last updated</div>
+    <div class="last-updated-text" id="lastUpdated">–</div>
+  </aside>
+
+  <!-- MAIN -->
+  <main class="main" id="main">
+
+    <!-- Stats -->
+    <div class="stats-bar" role="region" aria-label="Wiki statistics">
+      <div class="stat-card stat-card--total">
+        <div class="stat-value" id="statTotal">–</div>
+        <div class="stat-label">Total entries</div>
+      </div>
+      <div class="stat-card stat-card--human">
+        <div class="stat-value" id="statHuman">–</div>
+        <div class="stat-label">Added by human</div>
+      </div>
+      <div class="stat-card stat-card--agent">
+        <div class="stat-value" id="statAgent">–</div>
+        <div class="stat-label">Found by agent</div>
+      </div>
+      <div class="stat-card">
+        <div class="stat-value" id="statCats">–</div>
+        <div class="stat-label">Categories</div>
+      </div>
+    </div>
+
+    <!-- Entries -->
+    <div class="section-heading">
+      <h1 class="section-title" id="sectionTitle">All entries</h1>
+      <div style="display:flex;align-items:center;gap:8px;">
+        <div class="view-toggle">
+          <button class="view-btn active" id="btnGrid" onclick="setView('grid')">Grid</button>
+          <button class="view-btn" id="btnTimeline" onclick="setView('timeline')">Timeline</button>
+          <button class="view-btn" id="btnEvolution" onclick="setView('evolution')">Evolution</button>
+        </div>
+        <div class="result-count" id="resultCount" aria-live="polite"></div>
+      </div>
+    </div>
+    <div class="entries-grid" id="entriesGrid" role="list" aria-label="Wiki entries">
+      <div class="shimmer" aria-hidden="true"></div>
+      <div class="shimmer" aria-hidden="true"></div>
+      <div class="shimmer" aria-hidden="true"></div>
+      <div class="shimmer" aria-hidden="true"></div>
+    </div>
+    <div class="timeline" id="timelineView" role="list" aria-label="Timeline view"></div>
+    <div class="evolution-view" id="evolutionView" style="display:none;"></div>
+
+  </main>
+</div>
+
+<!-- ── MODAL ── -->
+<div class="modal-overlay" id="modalOverlay" role="dialog" aria-modal="true" aria-labelledby="modalTitle" onclick="closeModalOnOverlay(event)">
+  <div class="modal" id="modal">
+    <span class="modal-handle" aria-hidden="true"></span>
+    <button class="modal-close" onclick="closeModal()" aria-label="Close">✕</button>
+    <div id="modalContent"></div>
+  </div>
+</div>
+
+<!-- ── TOAST ── -->
+<div class="toast" id="toast" role="status" aria-live="polite"></div>
+
+<!-- ── MOBILE FILTER BUTTON ── -->
+<button class="mobile-filter-btn" onclick="toggleSidebar()" aria-expanded="false" aria-controls="sidebar">
+  ⊟ Filter
+</button>
+
+<!-- ── FOOTER ── -->
+<footer class="site-footer">
+  <span id="footerMeta"></span>
+</footer>
+
+<!-- ── TEST PANEL ── -->
+<div id="testPanel" role="region" aria-label="Test results">
+  <button class="test-close" onclick="document.getElementById('testPanel').classList.remove('visible')">✕ Close tests</button>
+  <div id="testOutput"></div>
+</div>
+
+<script>
+'use strict';
+
+/* ═══════════════════════════════════════════════════════════
+   CONFIG
+   ═══════════════════════════════════════════════════════════ */
+const CONFIG = {
+  dataUrl:       './data/entries.json',
+  maxRelated:    6,
+  toastDuration: 4000,
+  searchDebounce:250,
+  maxTagsOnCard: 3,
+  pageSize:      60,
+};
+
+/* ═══════════════════════════════════════════════════════════
+   STATE
+   ═══════════════════════════════════════════════════════════ */
+let allEntries     = [];
+let filteredEntries= [];
+let activeCat      = 'all';
+let activeSources  = new Set(['human','agent']);
+let searchQuery    = '';
+let searchTimer    = null;
+let visibleCount   = 60;
+let activeTypes    = new Set(['article','x-post','paper','youtube','reddit','github']);
+
+/* ═══════════════════════════════════════════════════════════
+   HELPERS
+   ═══════════════════════════════════════════════════════════ */
+function esc(s) {
+  return String(s || '').replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;').replace(/"/g,'&quot;');
+}
+function fmtDate(d) {
+  if (!d) return '';
+  try { return new Date(d).toLocaleDateString('en-GB',{day:'numeric',month:'short',year:'numeric'}); }
+  catch { return d; }
+}
+function fmtCat(c) {
+  return String(c||'').replace(/-/g,' ').replace(/\b\w/g, l=>l.toUpperCase());
+}
+function slugify(s) {
+  return String(s||'').toLowerCase().replace(/[^a-z0-9]+/g,'-').replace(/^-|-$/g,'');
+}
+function sourceClass(src) {
+  return src === 'agent' ? 'source-badge--agent' : 'source-badge--human';
+}
+function sourceLabel(src) {
+  return src === 'agent' ? '🤖 Agent' : '👤 Human';
+}
+function showToast(msg) {
+  const t = document.getElementById('toast');
+  t.textContent = msg;
+  t.classList.add('show');
+  setTimeout(() => t.classList.remove('show'), CONFIG.toastDuration);
+}
+
+/* ═══════════════════════════════════════════════════════════
+   INIT
+   ═══════════════════════════════════════════════════════════ */
+async function init() {
+  // Check for test mode
+  if (new URLSearchParams(location.search).get('test') === '1') {
+    // Load demo data then run tests
+    allEntries = getDemoEntries();
+    renderAll();
+    runTests();
+    return;
+  }
+
+  try {
+    const res = await fetch(CONFIG.dataUrl + '?v=' + Date.now());
+    if (!res.ok) throw new Error('no data');
+    const data = await res.json();
+    allEntries = data.entries || [];
+    renderAll();
+    updateMeta(data.meta || {});
+    // Load embeddings for semantic similarity (non-blocking)
+    fetch('./data/embeddings.json?v=' + Date.now())
+      .then(r => r.json())
+      .then(emb => { window._embeddings = emb; })
+      .catch(() => {});
+    // Auto-open entry from URL query param (e.g. ?entry=some-id from graph)
+    const entryParam = new URLSearchParams(location.search).get('entry');
+    if (entryParam) {
+      setTimeout(() => openModal(decodeURIComponent(entryParam)), 300);
+    }
+  } catch {
+    allEntries = getDemoEntries();
+    renderAll();
+    updateMeta({ buildTime: new Date().toISOString() });
+    showToast('📄 Demo mode — connect your wiki repo to see real data');
+  }
+}
+
+/* ═══════════════════════════════════════════════════════════
+   DEMO ENTRIES
+   ═══════════════════════════════════════════════════════════ */
+function getDemoEntries() {
+  return [
+    {
+      id: 'demo-setup', title: 'Getting Started: AI Wiki Setup',
+      category: 'meta', source: 'human',
+      date: new Date().toISOString().split('T')[0],
+      summary: 'This wiki is powered by OpenClaw on a DGX Spark, auto-ingesting from curated AI sources and committing to GitHub.',
+      tags: ['setup','openclaw','dgx-spark'],
+      body_text: 'Getting Started This wiki auto-updates from your DGX Spark. OpenClaw scans sources nightly. New findings are written as md files. GitHub Vercel deploys within seconds.',
+      content: '# Getting Started\n\nThis wiki auto-updates from your DGX Spark.\n\n## How it works\n\n- OpenClaw scans sources nightly\n- New findings are written as `.md` files\n- GitHub → Vercel deploys within seconds\n\nSee [[claude-sonnet-release]] for an example agent entry.',
+      wiki_links: ['claude-sonnet-release'], url: ''
+    },
+    {
+      id: 'claude-sonnet-release', title: 'Claude Sonnet 4.6 Released',
+      category: 'model-releases', source: 'agent',
+      date: new Date().toISOString().split('T')[0],
+      summary: 'Anthropic releases Claude Sonnet 4.6, the latest in the Claude 4 family with improved agentic capabilities.',
+      tags: ['anthropic','claude','model-release'],
+      body_text: 'Claude Sonnet 4.6 Anthropic latest release in the Claude 4 family. Enhanced agentic task performance. Extended thinking mode. Improved code generation.',
+      content: '# Claude Sonnet 4.6\n\nAnthropic\'s latest release.\n\n## Key improvements\n\n- Enhanced agentic task performance\n- Extended thinking mode\n- Improved code generation\n\nSee [[anthropic-company]] for company background.',
+      wiki_links: ['anthropic-company'], url: 'https://anthropic.com/news'
+    },
+    {
+      id: 'anthropic-company', title: 'Anthropic',
+      category: 'companies', source: 'human',
+      date: new Date().toISOString().split('T')[0],
+      summary: 'AI safety company founded in 2021. Creators of Claude. Focused on safe and interpretable AI systems.',
+      tags: ['anthropic','safety','company'],
+      body_text: 'Anthropic AI safety company founded 2021 creators of Claude focused on safe interpretable AI systems',
+      content: '# Anthropic\n\nAI safety company founded in 2021.\n\n## Products\n\n- Claude model family\n- Constitutional AI research\n\n## Related\n\n[[claude-sonnet-release]]',
+      wiki_links: ['claude-sonnet-release'], url: 'https://anthropic.com'
+    },
+    {
+      id: 'openclaw-spark', title: 'OpenClaw on DGX Spark: Performance Numbers',
+      category: 'local-ai', source: 'human',
+      date: new Date().toISOString().split('T')[0],
+      summary: 'Benchmarking OpenClaw with the 120B model on DGX Spark hardware. 59 tok/s with Qwen 3.5 35B.',
+      tags: ['openclaw','dgx-spark','benchmark'],
+      body_text: 'OpenClaw DGX Spark Performance nemotron-3-super 120b 12 tokens per second 65GB memory Qwen 3.5 35B 59 tokens per second 25GB',
+      content: '# OpenClaw DGX Spark Performance\n\n## Models tested\n\n| Model | Tokens/sec | Memory |\n|---|---|---|\n| nemotron-3-super:120b | ~12 tok/s | 65GB |\n| qwen3.5:35b | ~59 tok/s | 25GB |\n\n## Notes\n\n128GB unified memory is the key advantage.',
+      wiki_links: [], url: ''
+    },
+  ];
+}
+
+/* ═══════════════════════════════════════════════════════════
+   RENDER
+   ═══════════════════════════════════════════════════════════ */
+function renderAll() {
+  buildCatList();
+  applyFilters();
+}
+
+function applyFilters() {
+  visibleCount = CONFIG.pageSize;
+  updateStatsAndCats();
+  const q = searchQuery.toLowerCase();
+  filteredEntries = allEntries.filter(e => {
+    const catOk  = activeCat === 'all' || e.category === activeCat;
+    const srcOk  = activeSources.has(e.source || 'human');
+    const typeOk = activeTypes.has(e.source_type || 'article');
+    const qOk    = !q ||
+      String(e.title || '').toLowerCase().includes(q) ||
+      String(e.summary || '').toLowerCase().includes(q) ||
+      String(e.body_text || e.content || '').toLowerCase().includes(q) ||
+      (e.tags || []).some(t => String(t).toLowerCase().includes(q));
+    return catOk && srcOk && typeOk && qOk;
+  });
+  renderEntries();
+  if (currentView === 'timeline') renderTimeline();
+  updateResultCount();
+}
+
+function highlight(text, query) {
+  const t = String(text || '');
+  const q = String(query || '').trim();
+  if (!q || q.length < 2 || !t) return esc(t);
+  // Split text into segments: match vs non-match
+  const parts = [];
+  const lower = t.toLowerCase();
+  const qLower = q.toLowerCase();
+  let last = 0;
+  let idx = lower.indexOf(qLower);
+  while (idx !== -1) {
+    if (idx > last) parts.push({text: t.slice(last, idx), hl: false});
+    parts.push({text: t.slice(idx, idx + q.length), hl: true});
+    last = idx + q.length;
+    idx = lower.indexOf(qLower, last);
+  }
+  if (last < t.length) parts.push({text: t.slice(last), hl: false});
+  return parts.map(p => p.hl
+    ? '<mark class="search-hl">' + esc(p.text) + '</mark>'
+    : esc(p.text)
+  ).join('');
+}
+
+function renderEntries() {
+  const grid = document.getElementById('entriesGrid');
+  if (!filteredEntries.length) {
+    grid.innerHTML = `<div class="empty-state">
+      <div class="icon">◯</div>
+      <p>No entries match — try a different search or filter</p>
+    </div>`;
+    return;
+  }
+  const visible = filteredEntries.slice(0, visibleCount);
+  const hasMore = filteredEntries.length > visibleCount;
+  grid.innerHTML = visible.map((e, i) => `
+    <article class="entry-card"
+      role="listitem"
+      tabindex="0"
+      data-cat="${esc(e.category)}"
+      style="animation-delay:${Math.min(i * 25, 300)}ms"
+      onclick="openModal('${esc(e.id)}')"
+      onkeypress="if(event.key==='Enter')openModal('${esc(e.id)}')"
+      aria-label="${esc(e.title)}"
+    >
+      <div class="entry-cat-label">${esc(fmtCat(e.category))}</div>
+      <div class="entry-header">
+        <h2 class="entry-title">${highlight(e.title, searchQuery)}</h2>
+        <span class="source-badge ${sourceClass(e.source)}">${sourceLabel(e.source)}</span>
+      </div>
+      <p class="entry-summary">${highlight(e.summary || '', searchQuery)}</p>
+      <div class="entry-footer">
+        <div class="entry-tags">
+          ${(e.tags || []).slice(0, CONFIG.maxTagsOnCard).map(t =>
+            `<span class="tag">${highlight(t, searchQuery)}</span>`
+          ).join('')}
+        </div>
+        <time class="entry-date" datetime="${esc(e.date)}">${fmtDate(e.date)}</time>
+      </div>
+    </article>
+  `).join('');
+  if (hasMore) {
+    grid.innerHTML += `<button class="load-more-btn" onclick="loadMore()">
+      Show more (${filteredEntries.length - visibleCount} remaining)
+    </button>`;
+  }
+}
+
+function loadMore() {
+  visibleCount += CONFIG.pageSize;
+  renderEntries();
+  updateResultCount();
+}
+
+/* ═══════════════════════════════════════════════════════════
+   VIEW TOGGLE — GRID / TIMELINE
+   ═══════════════════════════════════════════════════════════ */
+let currentView = 'grid';
+
+function setView(view) {
+  currentView = view;
+  document.getElementById('btnGrid').classList.toggle('active', view === 'grid');
+  document.getElementById('btnTimeline').classList.toggle('active', view === 'timeline');
+  document.getElementById('btnEvolution').classList.toggle('active', view === 'evolution');
+  document.getElementById('entriesGrid').style.display = view === 'grid' ? '' : 'none';
+  document.getElementById('timelineView').style.display = view === 'timeline' ? 'block' : 'none';
+  document.getElementById('evolutionView').style.display = view === 'evolution' ? 'block' : 'none';
+  if (view === 'timeline') renderTimeline();
+  if (view === 'evolution') renderEvolution();
+}
+
+function renderTimeline() {
+  const container = document.getElementById('timelineView');
+  if (!filteredEntries.length) {
+    container.innerHTML = '<div class="empty-state"><div class="icon">◯</div><p>No entries match</p></div>';
+    return;
+  }
+
+  // Sort by date descending
+  const sorted = [...filteredEntries].sort((a,b) => (b.date||'').localeCompare(a.date||''));
+  const visible = sorted.slice(0, visibleCount);
+
+  // Group by date
+  const groups = {};
+  visible.forEach(e => {
+    const date = e.date || 'Unknown';
+    if (!groups[date]) groups[date] = [];
+    groups[date].push(e);
+  });
+
+  const catColors = {
+    'model-releases':'#5b4cd4','research':'#dc2626','tools':'#d97706',
+    'local-ai':'#0d9488','agents':'#16a34a','industry':'#2563eb',
+    'hardware':'#ca8a04','safety':'#e11d48','applications':'#7c3aed',
+    'tutorials':'#0891b2','concepts':'#6366f1',
+  };
+
+  let html = '';
+  for (const [date, entries] of Object.entries(groups)) {
+    const dateStr = fmtDate(date);
+    html += `<div class="timeline-date-group">`;
+    html += `<div class="timeline-date">${dateStr || date}</div>`;
+    entries.forEach(e => {
+      const color = catColors[e.category] || '#888';
+      const summary = String(e.summary || '').slice(0, 150);
+      html += `
+        <div class="timeline-item" onclick="openModal('${esc(e.id)}')">
+          <div class="timeline-dot" style="background:${color}"></div>
+          <div class="timeline-content">
+            <div class="timeline-title">${highlight(e.title, searchQuery)}</div>
+            <div class="timeline-meta">
+              <span class="timeline-cat">${esc(fmtCat(e.category))}</span>
+              <span class="source-badge ${sourceClass(e.source)}" style="font-size:10px;padding:1px 6px;">${sourceLabel(e.source)}</span>
+            </div>
+            ${summary ? `<div class="timeline-summary">${highlight(summary, searchQuery)}</div>` : ''}
+          </div>
+        </div>`;
+    });
+    html += `</div>`;
+  }
+
+  if (sorted.length > visibleCount) {
+    html += `<button class="load-more-btn" onclick="loadMore(); if(currentView==='timeline')renderTimeline();">
+      Show more (${sorted.length - visibleCount} remaining)
+    </button>`;
+  }
+
+  container.innerHTML = html;
+}
+
+/* ═══════════════════════════════════════════════════════════
+   EVOLUTION VIEW — SWIM LANES
+   ═══════════════════════════════════════════════════════════ */
+function renderEvolution() {
+  const container = document.getElementById('evolutionView');
+  const LANES = {
+    'Companies': {
+      'IBM Quantum':       { color: '#054ada', keywords: ['ibm quantum','ibmquantum','heron','condor','eagle','osprey'] },
+      'Google Quantum AI': { color: '#4285f4', keywords: ['google quantum','googlequantum','willow','sycamore'] },
+      'Quantinuum':        { color: '#7c3aed', keywords: ['quantinuum','honeywell quantum','h-series','helios'] },
+      'IonQ':              { color: '#16a34a', keywords: ['ionq','aria','forte','tempo'] },
+      'Rigetti':           { color: '#dc2626', keywords: ['rigetti','aspen','ankaa'] },
+      'PsiQuantum':        { color: '#9333ea', keywords: ['psiquantum'] },
+      'Atom Computing':    { color: '#0891b2', keywords: ['atom computing','phoenix'] },
+      'Pasqal':            { color: '#f59e0b', keywords: ['pasqal'] },
+      'Xanadu':            { color: '#be185d', keywords: ['xanadu','borealis','aurora'] },
+      'D-Wave':            { color: '#1e40af', keywords: ['d-wave','dwave','advantage system','annealer'] },
+      'QuEra':             { color: '#ea580c', keywords: ['quera','aquila'] },
+      'IQM':               { color: '#0d9488', keywords: ['iqm quantum','iqm helmi','iqm radiance'] },
+      'Microsoft Quantum': { color: '#0078d4', keywords: ['azure quantum','microsoft quantum','majorana','topoconductor'] },
+      'AWS Braket':        { color: '#ff9900', keywords: ['aws braket','amazon braket'] },
+    },
+    'Modalities': {
+      'Superconducting':   { color: '#054ada', keywords: ['superconducting','transmon'] },
+      'Trapped ion':       { color: '#16a34a', keywords: ['trapped ion','ion trap','laser-cooled ion'] },
+      'Neutral atom':      { color: '#0891b2', keywords: ['neutral atom','rydberg','optical tweezer'] },
+      'Photonic':          { color: '#be185d', keywords: ['photonic','linear optics','squeezed','gaussian boson sampling'] },
+      'Annealing':         { color: '#1e40af', keywords: ['quantum annealing','adiabatic','ising machine'] },
+      'Topological':       { color: '#9333ea', keywords: ['topological qubit','majorana','anyon'] },
+      'Silicon spin':      { color: '#dc2626', keywords: ['silicon spin','quantum dot','si:p'] },
+      'NV-center':         { color: '#f59e0b', keywords: ['nv center','nitrogen-vacancy','diamond defect'] },
+    },
+    'Themes': {
+      'Error correction':            { color: '#dc2626', keywords: ['error correction','surface code','qec','logical qubit','threshold','fault tolerant','color code','ldpc'] },
+      'NISQ / variational':          { color: '#16a34a', keywords: ['vqe','qaoa','variational quantum','nisq','quantum machine learning','qml','quantum kernel'] },
+      'Quantum advantage':           { color: '#9333ea', keywords: ['quantum advantage','quantum supremacy','quantum primacy','beyond classical','utility-scale'] },
+      'Quantum cryptography':        { color: '#0891b2', keywords: ['qkd','post-quantum','quantum cryptography','quantum random number','quantum key distribution'] },
+      'Quantum networking':          { color: '#0d9488', keywords: ['quantum network','quantum internet','entanglement distribution','quantum repeater','quantum memory'] },
+      'Quantum sensing & metrology': { color: '#f59e0b', keywords: ['quantum sensor','magnetometer','gravimeter','atomic clock','quantum metrology'] },
+      'Quantum simulation':          { color: '#7c3aed', keywords: ['quantum simulation','simulating','many-body','condensed matter','quantum chemistry'] },
+    }
+  };
+  let html = '';
+  for (const [section, lanes] of Object.entries(LANES)) {
+    html += `<h2 style="font-family:var(--font-head);font-size:var(--text-lg);font-weight:700;margin:var(--space-6) 0 var(--space-3);">${section}</h2>`;
+    for (const [name, config] of Object.entries(lanes)) {
+      const matches = filteredEntries.filter(e => {
+        const text = (String(e.title||'')+' '+String(e.summary||'')+' '+(e.tags||[]).join(' ')).toLowerCase();
+        return config.keywords.some(kw => text.includes(kw));
+      }).sort((a,b) => (a.date||'').localeCompare(b.date||''));
+      if (!matches.length) continue;
+      html += `<div class="swim-lane"><div class="swim-lane-header">
+        <span class="swim-lane-type" style="background:${config.color}">${((s) => ({Companies:'Company', Modalities:'Modality', Themes:'Theme', Tools:'Tool', Companies2:'Company'})[s] || s.slice(0,-1))(section)}</span>
+        <span class="swim-lane-name">${name}</span>
+        <span class="swim-lane-count">${matches.length} entries</span>
+      </div><div class="swim-lane-body">`;
+      matches.forEach((e, i) => {
+        if (i > 0) html += `<div class="evo-connector">\u2192</div>`;
+        html += `<div class="evo-card" onclick="openModal('${esc(e.id)}')">
+          <div class="evo-date">${fmtDate(e.date)}</div>
+          <div class="evo-title">${esc(String(e.title||'').slice(0,80))}</div>
+          <div class="evo-summary">${esc(String(e.summary||'').slice(0,100))}</div>
+        </div>`;
+      });
+      html += `</div></div>`;
+    }
+  }
+  if (!html) html = '<div class="empty-state"><div class="icon">\u25CB</div><p>No evolution data</p></div>';
+  container.innerHTML = html;
+}
+
+function buildCatList() {
+  updateStatsAndCats();
+}
+
+function updateStatsAndCats() {
+  // Apply source + type filters (but NOT category or search) to get the "available" pool
+  const pool = allEntries.filter(e => {
+    const srcOk  = activeSources.has(e.source || 'human');
+    const typeOk = activeTypes.has(e.source_type || 'article');
+    return srcOk && typeOk;
+  });
+
+  const cats = {};
+  pool.forEach(e => { cats[e.category || 'uncategorised'] = (cats[e.category || 'uncategorised'] || 0) + 1; });
+
+  document.getElementById('totalCount').textContent = pool.length;
+  document.getElementById('statTotal').textContent  = pool.length;
+  document.getElementById('statHuman').textContent  = pool.filter(e => e.source === 'human').length;
+  document.getElementById('statAgent').textContent  = pool.filter(e => e.source === 'agent').length;
+  document.getElementById('statCats').textContent   = Object.keys(cats).length;
+
+  const list = document.getElementById('catList');
+  [...list.querySelectorAll('[data-cat]:not([data-cat="all"])')].forEach(el => el.remove());
+
+  Object.entries(cats).sort((a,b) => b[1]-a[1]).forEach(([cat, count]) => {
+    const li = document.createElement('li');
+    li.className = 'cat-item' + (activeCat === cat ? ' active' : '');
+    li.dataset.cat = cat;
+    li.setAttribute('role','option');
+    li.setAttribute('tabindex','0');
+    li.onclick = () => filterCat(li);
+    li.onkeypress = e => { if (e.key === 'Enter') filterCat(li); };
+    li.innerHTML = `<span class="cat-name">${esc(fmtCat(cat))}</span><span class="cat-count">${count}</span>`;
+    list.appendChild(li);
+  });
+
+  // Keep "All entries" count updated and active state
+  const allItem = list.querySelector('[data-cat="all"]');
+  if (allItem) {
+    allItem.querySelector('.cat-count').textContent = pool.length;
+    allItem.classList.toggle('active', activeCat === 'all');
+  }
+}
+
+function updateResultCount() {
+  document.getElementById('resultCount').textContent =
+    `${filteredEntries.length} entries`;
+}
+
+function updateMeta(meta) {
+  const bt = meta.buildTime ? new Date(meta.buildTime) : new Date();
+  const str = bt.toLocaleDateString('en-GB',{day:'numeric',month:'short',year:'numeric'})
+    + ' ' + bt.toLocaleTimeString('en-GB',{hour:'2-digit',minute:'2-digit'});
+  document.getElementById('buildMeta').textContent  = 'Updated ' + str;
+  document.getElementById('lastUpdated').textContent = str;
+  document.getElementById('footerMeta').textContent  = 'Last build: ' + str;
+}
+
+/* ═══════════════════════════════════════════════════════════
+   FILTERS
+   ═══════════════════════════════════════════════════════════ */
+function filterCat(el) {
+  document.querySelectorAll('.cat-item').forEach(i => {
+    i.classList.remove('active');
+    i.setAttribute('aria-selected','false');
+  });
+  el.classList.add('active');
+  el.setAttribute('aria-selected','true');
+  activeCat = el.dataset.cat;
+  document.getElementById('sectionTitle').textContent =
+    activeCat === 'all' ? 'All entries' : fmtCat(activeCat);
+  applyFilters();
+}
+
+function toggleSource(src, btn) {
+  if (activeSources.has(src)) {
+    if (activeSources.size === 1) return;
+    activeSources.delete(src);
+    btn.classList.remove('active');
+    btn.setAttribute('aria-pressed','false');
+  } else {
+    activeSources.add(src);
+    btn.classList.add('active');
+    btn.setAttribute('aria-pressed','true');
+  }
+  applyFilters();
+}
+
+function toggleType(type, btn) {
+  if (activeTypes.has(type)) {
+    if (activeTypes.size === 1) return;
+    activeTypes.delete(type);
+    btn.classList.remove('active');
+    btn.setAttribute('aria-pressed','false');
+  } else {
+    activeTypes.add(type);
+    btn.classList.add('active');
+    btn.setAttribute('aria-pressed','true');
+  }
+  applyFilters();
+}
+
+/* ═══════════════════════════════════════════════════════════
+   SEARCH — DEBOUNCED
+   ═══════════════════════════════════════════════════════════ */
+document.getElementById('searchInput').addEventListener('input', function(ev) {
+  searchQuery = ev.target.value.trim();
+  clearTimeout(searchTimer);
+  searchTimer = setTimeout(() => {
+    applyFilters();
+  }, CONFIG.searchDebounce);
+});
+
+function searchByTag(tag) {
+  closeModal();
+  const input = document.getElementById('searchInput');
+  input.value = tag;
+  searchQuery = tag;
+  applyFilters();
+  input.focus();
+}
+
+/* ═══════════════════════════════════════════════════════════
+   MODAL
+   ═══════════════════════════════════════════════════════════ */
+function cosineSim(a, b) {
+  if (!a || !b || a.length !== b.length) return 0;
+  let dot=0, magA=0, magB=0;
+  for (let i=0; i<a.length; i++) { dot+=a[i]*b[i]; magA+=a[i]*a[i]; magB+=b[i]*b[i]; }
+  return dot / (Math.sqrt(magA) * Math.sqrt(magB) || 1);
+}
+
+function findSimilar(id, topN=6) {
+  const emb = window._embeddings;
+  if (!emb || !emb[id]) return [];
+  const target = emb[id];
+  const scored = [];
+  for (const [eid, vec] of Object.entries(emb)) {
+    if (eid === id) continue;
+    scored.push({ id: eid, score: cosineSim(target, vec) });
+  }
+  scored.sort((a,b) => b.score - a.score);
+  return scored.slice(0, topN).filter(s => s.score > 0.5).map(s => {
+    const entry = allEntries.find(e => e.id === s.id);
+    return entry ? { ...entry, similarity: Math.round(s.score * 100) } : null;
+  }).filter(Boolean);
+}
+
+function openModal(id) {
+  const entry = allEntries.find(e => e.id === id);
+  if (!entry) return;
+
+  // Backlinks: entries that explicitly link TO this entry
+  const backlinks = entry.backlinks || [];
+
+  const backlinksHtml = backlinks.length ? `
+    <div class="related-section">
+      <div class="related-label">↩ Linked from</div>
+      <div class="related-grid">
+        ${backlinks.map(b => `
+          <button class="related-card" onclick="openModal('${esc(b.id)}')">
+            <div class="related-card-title">${esc(b.title)}</div>
+            <div class="related-card-cat">${esc(fmtCat(b.category||''))}</div>
+          </button>`).join('')}
+      </div>
+    </div>` : '';
+
+  const tagHtml = (entry.tags || []).map(t =>
+    `<span class="tag tag--clickable" onclick="searchByTag('${esc(t)}')" title="Search for ${esc(t)}">${esc(t)}</span>`
+  ).join('');
+
+  document.getElementById('modalContent').innerHTML = `
+    <div class="modal-title" id="modalTitle">${esc(entry.title)}</div>
+    <div class="modal-meta">
+      <span class="source-badge ${sourceClass(entry.source)}">${sourceLabel(entry.source)}</span>
+      <span class="tag">${esc(fmtCat(entry.category || 'uncategorised'))}</span>
+      ${tagHtml}
+      <time class="modal-date" datetime="${esc(entry.date)}">${fmtDate(entry.date)}</time>
+    </div>
+    <div class="modal-body">${renderMarkdown(entry.content || entry.summary || '')}</div>
+    ${entry.url ? `<a class="modal-source-link" href="${esc(entry.url)}" target="_blank" rel="noopener noreferrer">↗ View original source</a>` : ''}
+    ${backlinksHtml}
+    <div class="related-section" id="semanticSection"></div>
+  `;
+  // Load semantic similar entries (async, non-blocking)
+  setTimeout(() => {
+    const similar = findSimilar(id);
+    if (similar.length) {
+      document.getElementById('semanticSection').innerHTML = `
+        <div class="related-label">🧠 Semantically similar</div>
+        <div class="related-grid">
+          ${similar.map(s => `
+            <button class="related-card" onclick="openModal('${esc(s.id)}')">
+              <div class="related-card-title">${esc(s.title)}</div>
+              <div class="related-card-cat">${esc(fmtCat(s.category||''))} · ${s.similarity}% match</div>
+            </button>`).join('')}
+        </div>`;
+    }
+  }, 50);
+
+  // Wire up wiki-link clicks after innerHTML set
+  document.querySelectorAll('.wiki-link').forEach(el => {
+    el.addEventListener('click', () => {
+      const slug   = el.dataset.slug;
+      const target = allEntries.find(e =>
+        e.id === slug ||
+        (e.file||'').includes(slug) ||
+        slugify(e.title) === slug
+      );
+      if (target) openModal(target.id);
+    });
+  });
+
+  const overlay = document.getElementById('modalOverlay');
+  const modal = document.getElementById('modal');
+  overlay.classList.add('open');
+  document.body.style.overflow = 'hidden';
+  // Scroll modal to top (important when navigating between related entries)
+  modal.scrollTop = 0;
+  modal.focus();
+}
+
+function closeModal() {
+  document.getElementById('modalOverlay').classList.remove('open');
+  document.body.style.overflow = '';
+}
+function closeModalOnOverlay(e) {
+  if (e.target === document.getElementById('modalOverlay')) closeModal();
+}
+document.addEventListener('keydown', e => { if (e.key === 'Escape') closeModal(); });
+
+/* ═══════════════════════════════════════════════════════════
+   SIDEBAR TOGGLE (mobile)
+   ═══════════════════════════════════════════════════════════ */
+function toggleSidebar() {
+  const sb  = document.getElementById('sidebar');
+  const btn = document.querySelector('.mobile-filter-btn');
+  const open = sb.classList.toggle('open');
+  btn.setAttribute('aria-expanded', String(open));
+  if (open) {
+    sb.scrollIntoView({ behavior: 'smooth', block: 'start' });
+  }
+}
+
+/* ═══════════════════════════════════════════════════════════
+   MARKDOWN RENDERER
+   ═══════════════════════════════════════════════════════════ */
+function renderMarkdown(md) {
+  if (!md) return '';
+
+  // 1. Process [[wiki-links]] BEFORE html escaping
+  md = md.replace(/\[\[([^\]|#]+?)(?:\|([^\]]+))?\]\]/g, (_, slug, display) => {
+    const label    = display || slug;
+    const cleanSlug= slugify(slug);
+    const exists   = allEntries.some(e =>
+      e.id === cleanSlug ||
+      (e.file||'').includes(cleanSlug) ||
+      slugify(e.title) === cleanSlug
+    );
+    return exists
+      ? `\x00WIKI:${cleanSlug}:${label}\x00`
+      : `\x00DEAD:${label}\x00`;
+  });
+
+  // 2. HTML escape
+  md = md
+    .replace(/&/g,'&amp;')
+    .replace(/</g,'&lt;')
+    .replace(/>/g,'&gt;');
+
+  // 3. Restore wiki links as interactive spans
+  md = md
+    .replace(/\x00WIKI:([^:]+):([^\x00]+)\x00/g,
+      (_,slug,label) => `<span class="wiki-link" data-slug="${slug}" role="link" tabindex="0" title="Open: ${label}">${label}</span>`)
+    .replace(/\x00DEAD:([^\x00]+)\x00/g,
+      (_,label) => `<span style="color:var(--color-text-dim);text-decoration:line-through" title="Not yet in wiki">${label}</span>`);
+
+  // 4. Standard markdown
+  return md
+    .replace(/^### (.+)$/gm,    '<h3>$1</h3>')
+    .replace(/^## (.+)$/gm,     '<h2>$1</h2>')
+    .replace(/^# (.+)$/gm,      '<h1>$1</h1>')
+    .replace(/\*\*(.+?)\*\*/g,  '<strong>$1</strong>')
+    .replace(/\*(.+?)\*/g,      '<em>$1</em>')
+    .replace(/`([^`]+)`/g,      '<code>$1</code>')
+    .replace(/^\> (.+)$/gm,     '<blockquote>$1</blockquote>')
+    .replace(/^\- (.+)$/gm,     '<li>$1</li>')
+    .replace(/(<li>.*<\/li>\n?)+/g, m => `<ul>${m}</ul>`)
+    .replace(/\[(.+?)\]\((.+?)\)/g, '<a href="$2" target="_blank" rel="noopener noreferrer">$1</a>')
+    .replace(/\n\n/g, '</p><p>')
+    .replace(/^(?!<[hublpa])/gm, '')
+    .replace(/^(.+)/s, '<p>$1</p>');
+}
+
+/* ═══════════════════════════════════════════════════════════
+   TEST SUITE
+   Run by appending ?test=1 to the URL.
+   Also available via console: runTests()
+   ═══════════════════════════════════════════════════════════ */
+function runTests() {
+  const results = [];
+  let passed = 0, failed = 0;
+
+  function expect(description, actual, expected) {
+    const ok = JSON.stringify(actual) === JSON.stringify(expected);
+    results.push({ ok, description, actual, expected });
+    ok ? passed++ : failed++;
+  }
+  function group(name) { results.push({ group: name }); }
+
+  // ── HELPERS ───────────────────────────────────────────────
+  group('Helpers');
+  expect('esc: escapes &',     esc('a & b'),     'a &amp; b');
+  expect('esc: escapes <',     esc('<div>'),      '&lt;div&gt;');
+  expect('esc: escapes "',     esc('"hi"'),       '&quot;hi&quot;');
+  expect('esc: handles null',  esc(null),         '');
+  expect('esc: handles undef', esc(undefined),    '');
+
+  expect('slugify: basic',     slugify('Hello World'), 'hello-world');
+  expect('slugify: special',   slugify('GPT-4o v2'),   'gpt-4o-v2');
+  expect('slugify: trims',     slugify('--test--'),     'test');
+  expect('slugify: empty',     slugify(''),             '');
+  expect('slugify: null',      slugify(null),           '');
+
+  expect('fmtCat: basic',      fmtCat('model-releases'), 'Model Releases');
+  expect('fmtCat: single',     fmtCat('tools'),          'Tools');
+  expect('fmtCat: empty',      fmtCat(''),               '');
+
+  expect('sourceClass: agent', sourceClass('agent'),  'source-badge--agent');
+  expect('sourceClass: human', sourceClass('human'),  'source-badge--human');
+  expect('sourceClass: blank', sourceClass(''),       'source-badge--human');
+
+  expect('sourceLabel: agent', sourceLabel('agent'),  '🤖 Agent');
+  expect('sourceLabel: human', sourceLabel('human'),  '👤 Human');
+
+  // ── MARKDOWN RENDERER ─────────────────────────────────────
+  group('Markdown renderer');
+  expect('headings h1', renderMarkdown('# Hello'), '<p><h1>Hello</h1></p>');
+  expect('headings h2', renderMarkdown('## Sub'),  '<p><h2>Sub</h2></p>');
+  expect('headings h3', renderMarkdown('### Sub'), '<p><h3>Sub</h3></p>');
+  expect('bold',        renderMarkdown('**bold**'), '<p><strong>bold</strong></p>');
+  expect('italic',      renderMarkdown('*italic*'), '<p><em>italic</em></p>');
+  expect('code inline', renderMarkdown('`code`'),   '<p><code>code</code></p>');
+
+  // XSS guard
+  const xss = renderMarkdown('<scr' + 'ipt>alert(1)</scr' + 'ipt>');
+  expect('XSS: script tag escaped', xss.includes('<scr' + 'ipt>'), false);
+
+  // wiki-links
+  const withLink = renderMarkdown('[[demo-setup]]');
+  expect('wiki-link: existing renders as span', withLink.includes('wiki-link'), true);
+  expect('wiki-link: has data-slug', withLink.includes('data-slug="demo-setup"'), true);
+
+  const deadLink = renderMarkdown('[[nonexistent-entry-xyz]]');
+  expect('wiki-link: missing renders as struck text', deadLink.includes('line-through'), true);
+  expect('wiki-link: missing NOT a wiki-link', deadLink.includes('class="wiki-link"'), false);
+
+  // Pipe alias syntax
+  const aliased = renderMarkdown('[[demo-setup|Click here]]');
+  expect('wiki-link: alias shows display text', aliased.includes('Click here'), true);
+  expect('wiki-link: alias uses slug not display', aliased.includes('data-slug="demo-setup"'), true);
+
+  // ── SEARCH FILTER ─────────────────────────────────────────
+  group('Search filter (applyFilters)');
+  // Reset state
+  allEntries     = getDemoEntries();
+  activeCat      = 'all';
+  activeSources  = new Set(['human','agent']);
+
+  searchQuery = 'anthropic';
+  applyFilters();
+  expect('search: title match', filteredEntries.some(e => e.id === 'claude-sonnet-release'), true);
+
+  searchQuery = 'dgx-spark';
+  applyFilters();
+  expect('search: tag match', filteredEntries.some(e => e.tags?.includes('dgx-spark')), true);
+
+  searchQuery = 'nemotron';
+  applyFilters();
+  expect('search: body_text match', filteredEntries.some(e => e.id === 'openclaw-spark'), true);
+
+  searchQuery = 'xyzzy-no-match-999';
+  applyFilters();
+  expect('search: no match = empty', filteredEntries.length, 0);
+
+  searchQuery = '';
+  applyFilters();
+  expect('search: empty query = all', filteredEntries.length, allEntries.length);
+
+  // ── CATEGORY FILTER ───────────────────────────────────────
+  group('Category filter');
+  activeCat = 'model-releases';
+  applyFilters();
+  expect('cat: model-releases only', filteredEntries.every(e => e.category === 'model-releases'), true);
+  expect('cat: at least one result', filteredEntries.length > 0, true);
+
+  activeCat = 'all';
+  applyFilters();
+  expect('cat: all = full list', filteredEntries.length, allEntries.length);
+
+  activeCat = 'nonexistent-cat';
+  applyFilters();
+  expect('cat: nonexistent = empty', filteredEntries.length, 0);
+  activeCat = 'all';
+
+  // ── SOURCE FILTER ─────────────────────────────────────────
+  group('Source filter');
+  activeSources = new Set(['human']);
+  applyFilters();
+  expect('source: human only', filteredEntries.every(e => e.source === 'human'), true);
+  expect('source: human has entries', filteredEntries.length > 0, true);
+
+  activeSources = new Set(['agent']);
+  applyFilters();
+  expect('source: agent only', filteredEntries.every(e => e.source === 'agent'), true);
+
+  activeSources = new Set(['human','agent']);
+  applyFilters();
+  expect('source: both = all entries', filteredEntries.length, allEntries.length);
+
+  // ── RELATED ENTRIES ───────────────────────────────────────
+  group('Related entries logic');
+  const setupEntry = allEntries.find(e => e.id === 'demo-setup');
+  const related = allEntries.filter(e => {
+    if (e.id === 'demo-setup') return false;
+    const sharedTag = (e.tags||[]).some(t => (setupEntry.tags||[]).includes(t));
+    const linked    = (setupEntry.wiki_links||[]).some(s => e.id === s);
+    return sharedTag || linked;
+  });
+  expect('related: finds wiki_links target', related.some(e => e.id === 'claude-sonnet-release'), true);
+
+  // ── DOM ELEMENTS ─────────────────────────────────────────
+  group('DOM elements present');
+  const required = [
+    'searchInput','entriesGrid','sidebar','catList',
+    'statTotal','statHuman','statAgent','statCats',
+    'buildMeta','lastUpdated','footerMeta','resultCount',
+    'sectionTitle','modalOverlay','modal','modalContent','toast'
+  ];
+  required.forEach(id => {
+    expect(`DOM: #${id} exists`, !!document.getElementById(id), true);
+  });
+
+  // ── CSS TOKENS ────────────────────────────────────────────
+  group('CSS custom properties (design tokens)');
+  const style = getComputedStyle(document.documentElement);
+  const tokens = [
+    '--color-bg','--color-bg-card','--color-bg-elevated',
+    '--color-text','--color-text-muted','--color-text-dim',
+    '--color-accent','--color-human','--color-agent',
+    '--color-border','--color-border-hover',
+    '--font-head','--font-body','--font-mono',
+    '--radius','--radius-lg','--radius-sm','--radius-pill',
+    '--transition','--shadow',
+    '--layout-max','--sidebar-width','--header-height',
+    '--modal-max-width','--card-min-width','--card-gap',
+    '--space-1','--space-2','--space-3','--space-4','--space-5','--space-6','--space-8',
+    '--text-xs','--text-sm','--text-base','--text-md','--text-lg','--text-xl','--text-2xl',
+  ];
+  tokens.forEach(token => {
+    expect(`CSS token: ${token} defined`, style.getPropertyValue(token).trim() !== '', true);
+  });
+
+  // ── NO HARDCODED COLOURS ──────────────────────────────────
+  group('No hardcoded colours in JS (all via CSS tokens)');
+  const jsContent = document.querySelector('script').textContent;
+  // These specific hex values should not appear in JS — they're in CSS only
+  const bannedInJs = ['#0a0a0f','#111118','#1a1a24','#7c6af7','#4ecdc4','#e8e8f0'];
+  bannedInJs.forEach(hex => {
+    expect(`JS: ${hex} not hardcoded`, jsContent.includes(hex), false);
+  });
+
+  // ── ACCESSIBILITY ─────────────────────────────────────────
+  group('Accessibility attributes');
+  expect('search: has aria-label', !!document.getElementById('searchInput').getAttribute('aria-label'), true);
+  expect('sidebar: has aria-label', !!document.getElementById('sidebar').getAttribute('aria-label'), true);
+  expect('modal: has role=dialog', document.getElementById('modalOverlay').getAttribute('role'), 'dialog');
+  expect('modal: has aria-modal', document.getElementById('modalOverlay').getAttribute('aria-modal'), 'true');
+  expect('entries: has role=list', document.getElementById('entriesGrid').getAttribute('role'), 'list');
+  expect('toast: has aria-live', document.getElementById('toast').getAttribute('aria-live'), 'polite');
+
+  // ── RENDER RESULTS ────────────────────────────────────────
+  const panel  = document.getElementById('testPanel');
+  const output = document.getElementById('testOutput');
+  panel.classList.add('visible');
+
+  let html = `<div class="test-summary">${passed} passed · ${failed} failed out of ${passed+failed} tests</div>`;
+  results.forEach(r => {
+    if (r.group) {
+      html += `<div class="test-group">── ${r.group} ──</div>`;
+    } else {
+      const icon = r.ok ? '✅' : '❌';
+      const cls  = r.ok ? 'test-pass' : 'test-fail';
+      html += `<div class="${cls}">${icon} ${r.description}`;
+      if (!r.ok) html += `<br>&nbsp;&nbsp;Expected: ${JSON.stringify(r.expected)}<br>&nbsp;&nbsp;Got:      ${JSON.stringify(r.actual)}`;
+      html += `</div>`;
+    }
+  });
+  output.innerHTML = html;
+
+  // Also log to console
+  console.group(`Wiki Tests: ${passed}✅ ${failed}❌`);
+  results.forEach(r => {
+    if (r.group) console.group(r.group);
+    else if (!r.ok) console.warn(`❌ ${r.description}`, {expected:r.expected, got:r.actual});
+    else console.log(`✅ ${r.description}`);
+  });
+  console.groupEnd();
+
+  return { passed, failed, total: passed + failed };
+}
+
+/* Expose for console debugging */
+window.wiki = { runTests, allEntries: () => allEntries, filteredEntries: () => filteredEntries, CONFIG };
+
+/* ── THEME TOGGLE ── */
+function toggleTheme() {
+  const html = document.documentElement;
+  const isDark = html.getAttribute('data-theme') === 'dark';
+  html.setAttribute('data-theme', isDark ? 'light' : 'dark');
+  document.getElementById('themeIcon').textContent = isDark ? '☽' : '☀';
+  localStorage.setItem('wiki-theme', isDark ? 'light' : 'dark');
+}
+// Restore saved theme
+(function() {
+  const saved = localStorage.getItem('wiki-theme');
+  if (saved === 'dark') {
+    document.documentElement.setAttribute('data-theme', 'dark');
+    document.getElementById('themeIcon').textContent = '☀';
+  }
+})();
+
+/* ── START ── */
+init();
+</script>
+</body>
+</html>

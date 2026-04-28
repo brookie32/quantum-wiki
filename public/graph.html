@@ -1,0 +1,303 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>AI Wiki — Knowledge Graph</title>
+<script defer src="/_vercel/insights/script.js"></script>
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=DM+Mono:wght@400&display=swap" rel="stylesheet">
+<style>
+:root {
+  --bg: #f5f5f8; --surface: #ffffff; --text: #1a1a2e;
+  --muted: #555570; --dim: #8888a0; --border: rgba(0,0,0,0.08);
+  --accent: #5b4cd4;
+}
+[data-theme="dark"] {
+  --bg: #09090d; --surface: #12121a; --text: #ececf4;
+  --muted: #9090ac; --dim: #5a5a78; --border: rgba(255,255,255,0.08);
+  --accent: #7c6af7;
+}
+* { margin:0; padding:0; box-sizing:border-box; }
+body { font-family:'Inter',sans-serif; background:var(--bg); color:var(--text); overflow:hidden; height:100vh; }
+.header {
+  position:fixed; top:0; left:0; right:0; z-index:10;
+  background:var(--surface); border-bottom:1px solid var(--border);
+  padding:12px 24px; display:flex; align-items:center; gap:16px;
+}
+.header a { color:var(--accent); text-decoration:none; font-weight:600; }
+.header h1 { font-size:16px; font-weight:700; flex:1; }
+.header .stats { font-family:'DM Mono',monospace; font-size:12px; color:var(--muted); }
+.controls {
+  position:fixed; top:60px; left:16px; z-index:10;
+  background:var(--surface); border:1px solid var(--border);
+  border-radius:8px; padding:12px; display:flex; flex-direction:column; gap:6px;
+  font-size:12px; max-width:200px;
+}
+.controls label { display:flex; align-items:center; gap:6px; cursor:pointer; color:var(--muted); }
+.controls input[type="range"] { width:100%; }
+.controls .cat-dot { width:10px; height:10px; border-radius:50%; flex-shrink:0; }
+.controls .section { font-weight:600; margin-top:6px; color:var(--text); }
+.tooltip {
+  position:fixed; z-index:20;
+  background:var(--surface); border:1px solid var(--accent);
+  border-radius:8px; padding:12px 16px;
+  font-size:13px; pointer-events:none;
+  box-shadow:0 8px 24px rgba(0,0,0,0.12);
+  max-width:320px; display:none;
+}
+.tooltip .title { font-weight:600; margin-bottom:4px; line-height:1.3; }
+.tooltip .cat { font-family:'DM Mono',monospace; font-size:11px; color:var(--muted); text-transform:uppercase; }
+.tooltip .links { font-size:11px; color:var(--dim); margin-top:6px; }
+.tooltip .hint { font-size:10px; color:var(--dim); margin-top:6px; font-style:italic; }
+svg { width:100%; height:100vh; padding-top:52px; }
+.theme-btn {
+  background:var(--surface); border:1px solid var(--border);
+  color:var(--muted); border-radius:6px; width:32px; height:32px;
+  display:flex; align-items:center; justify-content:center; cursor:pointer; font-size:14px;
+}
+.node-label {
+  font-family:'Inter',sans-serif; font-size:11px; fill:var(--text);
+  pointer-events:none; text-anchor:middle; font-weight:500;
+  paint-order:stroke; stroke:var(--bg); stroke-width:3px;
+}
+.graph-search {
+  width:100%; padding:6px 10px; border:1px solid var(--border);
+  border-radius:6px; background:var(--bg); color:var(--text);
+  font-family:'Inter',sans-serif; font-size:12px; outline:none;
+}
+.graph-search:focus { border-color:var(--accent); }
+.graph-search::placeholder { color:var(--dim); }
+</style>
+</head>
+<body>
+<div class="header">
+  <a href="./">← Wiki</a>
+  <h1>Knowledge Graph</h1>
+  <div class="stats" id="stats">Loading...</div>
+  <button class="theme-btn" onclick="toggleTheme()" id="themeBtn">☽</button>
+</div>
+<div class="controls" id="controls">
+  <input type="text" class="graph-search" id="graphSearch" placeholder="Search nodes..." oninput="searchNodes(this.value)">
+  <div class="section">Connections</div>
+  <label>Min links: <strong id="minLinksVal">8</strong></label>
+  <input type="range" id="minLinks" min="1" max="20" value="8" oninput="filterGraph()">
+  <div class="section">Labels</div>
+  <label>Show labels: <strong id="labelThreshVal">3</strong>+ links</label>
+  <input type="range" id="labelThresh" min="1" max="20" value="3" oninput="updateLabels()">
+  <div class="section">Categories</div>
+  <div style="display:flex;gap:6px;margin-bottom:4px;">
+    <button onclick="selectAllCats(true)" style="flex:1;padding:3px 6px;font-size:10px;border:1px solid var(--border);border-radius:4px;background:var(--bg);color:var(--muted);cursor:pointer;">All</button>
+    <button onclick="selectAllCats(false)" style="flex:1;padding:3px 6px;font-size:10px;border:1px solid var(--border);border-radius:4px;background:var(--bg);color:var(--muted);cursor:pointer;">None</button>
+  </div>
+  <div id="catFilters"></div>
+</div>
+<div class="tooltip" id="tooltip">
+  <div class="title" id="ttTitle"></div>
+  <div class="cat" id="ttCat"></div>
+  <div class="links" id="ttLinks"></div>
+  <div class="hint">Click to open entry</div>
+</div>
+<svg id="graph"></svg>
+<script src="https://d3js.org/d3.v7.min.js"></script>
+<script>
+const CAT_COLORS = {
+  'model-releases':'#5b4cd4','research':'#dc2626','tools':'#d97706',
+  'local-ai':'#0d9488','agents':'#16a34a','industry':'#2563eb',
+  'hardware':'#ca8a04','safety':'#e11d48','applications':'#7c3aed',
+  'tutorials':'#0891b2','concepts':'#6366f1',
+};
+let allNodes=[], allLinks=[], simulation, svg, g;
+let activeCats = new Set(Object.keys(CAT_COLORS));
+let hoveredNode = null;
+
+async function init() {
+  const res = await fetch('./data/entries.json?v=' + Date.now());
+  const data = await res.json();
+  const entries = data.entries;
+  const nodeMap = {};
+  entries.forEach(e => {
+    nodeMap[e.id] = {
+      id:e.id, title:e.title, category:e.category,
+      linkCount: (e.wiki_links||[]).length + (e.backlinks||[]).length,
+      wikiLinks: e.wiki_links||[], url:e.url||'',
+    };
+  });
+  const edgeSet = new Set();
+  entries.forEach(e => {
+    (e.wiki_links||[]).forEach(target => {
+      if (nodeMap[target]) {
+        const key = [e.id,target].sort().join('::');
+        if (!edgeSet.has(key)) { edgeSet.add(key); allLinks.push({source:e.id,target:target}); }
+      }
+    });
+  });
+  allNodes = Object.values(nodeMap);
+
+  // Category filters
+  const catCounts = {};
+  allNodes.forEach(n => catCounts[n.category]=(catCounts[n.category]||0)+1);
+  const catDiv = document.getElementById('catFilters');
+  Object.entries(catCounts).sort((a,b)=>b[1]-a[1]).forEach(([cat,count]) => {
+    const color = CAT_COLORS[cat]||'#888';
+    const label = document.createElement('label');
+    label.innerHTML = `<input type="checkbox" checked data-cat="${cat}" onchange="toggleCat('${cat}',this.checked)">
+      <span class="cat-dot" style="background:${color}"></span>${cat.replace(/-/g,' ')} (${count})`;
+    catDiv.appendChild(label);
+  });
+  buildGraph();
+}
+
+function buildGraph() {
+  const minLinks = parseInt(document.getElementById('minLinks').value);
+  document.getElementById('minLinksVal').textContent = minLinks;
+  const nodes = allNodes.filter(n => n.linkCount >= minLinks && activeCats.has(n.category));
+  const nodeIds = new Set(nodes.map(n=>n.id));
+  const links = allLinks.filter(l => {
+    const s = typeof l.source==='object'?l.source.id:l.source;
+    const t = typeof l.target==='object'?l.target.id:l.target;
+    return nodeIds.has(s) && nodeIds.has(t);
+  }).map(l => ({
+    source:typeof l.source==='object'?l.source.id:l.source,
+    target:typeof l.target==='object'?l.target.id:l.target,
+  }));
+
+  document.getElementById('stats').textContent = `${nodes.length} nodes · ${links.length} edges`;
+  d3.select('#graph').selectAll('*').remove();
+  const width = window.innerWidth, height = window.innerHeight-52;
+  svg = d3.select('#graph').attr('viewBox',[0,0,width,height]);
+  g = svg.append('g');
+  svg.call(d3.zoom().scaleExtent([0.1,8]).on('zoom',e=>{
+    g.attr('transform',e.transform);
+    // Show labels only when zoomed in enough
+    const k = e.transform.k;
+    g.select('.labels-group').attr('opacity', k > 1.5 ? 1 : k > 0.8 ? (k-0.8)/0.7 : 0);
+  }));
+
+  // Category clustering force
+  const catCenters = {};
+  const cats = [...new Set(nodes.map(n=>n.category))];
+  const cols = Math.ceil(Math.sqrt(cats.length));
+  cats.forEach((cat,i) => {
+    const row = Math.floor(i/cols), col = i%cols;
+    catCenters[cat] = {
+      x: width*0.2 + (col/(cols-1||1))*width*0.6,
+      y: height*0.2 + (row/(Math.ceil(cats.length/cols)-1||1))*height*0.6
+    };
+  });
+
+  simulation = d3.forceSimulation(nodes)
+    .force('link', d3.forceLink(links).id(d=>d.id).distance(40).strength(0.3))
+    .force('charge', d3.forceManyBody().strength(-60))
+    .force('cluster', d3.forceX(d=>(catCenters[d.category]||{x:width/2}).x).strength(0.15))
+    .force('clusterY', d3.forceY(d=>(catCenters[d.category]||{y:height/2}).y).strength(0.15))
+    .force('collision', d3.forceCollide(d => Math.min(4+Math.sqrt(d.linkCount)*1.2,14)));
+
+  // Links — hidden by default, shown on hover
+  const link = g.append('g').selectAll('line').data(links).join('line')
+    .attr('stroke','var(--accent)').attr('stroke-width',0.5).attr('stroke-opacity',0);
+
+  // Nodes
+  const node = g.append('g').selectAll('circle').data(nodes).join('circle')
+    .attr('r', d => Math.min(5+Math.sqrt(d.linkCount)*1.5, 18))
+    .attr('fill', d => CAT_COLORS[d.category]||'#888')
+    .attr('fill-opacity', 0.85)
+    .attr('stroke','var(--surface)').attr('stroke-width',1)
+    .style('cursor','pointer')
+    .on('mouseover', function(event,d) {
+      hoveredNode = d.id;
+      // Highlight connected edges
+      link.attr('stroke-opacity', l => (l.source.id===d.id||l.target.id===d.id)?0.6:0);
+      // Dim unconnected nodes
+      const connected = new Set();
+      connected.add(d.id);
+      links.forEach(l => {
+        if(l.source.id===d.id) connected.add(l.target.id);
+        if(l.target.id===d.id) connected.add(l.source.id);
+      });
+      node.attr('fill-opacity', n => connected.has(n.id)?1:0.15);
+      showTooltip(event,d);
+    })
+    .on('mouseout', function() {
+      hoveredNode = null;
+      link.attr('stroke-opacity',0);
+      node.attr('fill-opacity',0.85);
+      hideTooltip();
+    })
+    .on('click', (e,d) => { window.location.href = `./?entry=${encodeURIComponent(d.id)}`; })
+    .call(d3.drag()
+      .on('start',(e,d)=>{if(!e.active)simulation.alphaTarget(0.3).restart();d.fx=d.x;d.fy=d.y;})
+      .on('drag',(e,d)=>{d.fx=e.x;d.fy=e.y;})
+      .on('end',(e,d)=>{if(!e.active)simulation.alphaTarget(0);d.fx=null;d.fy=null;}));
+
+  // Labels — threshold controlled by slider
+  const labelThresh = parseInt(document.getElementById('labelThresh').value);
+  document.getElementById('labelThreshVal').textContent = labelThresh;
+  const labels = g.append('g').attr('class','labels-group').attr('opacity',0).selectAll('text')
+    .data(nodes.filter(n=>n.linkCount>=labelThresh)).join('text')
+    .attr('class','node-label')
+    .attr('dy',d => Math.min(4+Math.sqrt(d.linkCount)*1.3,14)+14)
+    .text(d => d.title.length>30 ? d.title.slice(0,27)+'...' : d.title);
+
+  // Store references for search/update
+  window._graphState = { node, link, labels, links, nodes, simulation };
+
+  simulation.on('tick', () => {
+    link.attr('x1',d=>d.source.x).attr('y1',d=>d.source.y)
+        .attr('x2',d=>d.target.x).attr('y2',d=>d.target.y);
+    node.attr('cx',d=>d.x).attr('cy',d=>d.y);
+    labels.attr('x',d=>d.x).attr('y',d=>d.y);
+  });
+}
+
+function filterGraph() { buildGraph(); }
+function updateLabels() { buildGraph(); }
+function selectAllCats(selectAll) {
+  const checkboxes = document.querySelectorAll('#catFilters input[type="checkbox"]');
+  checkboxes.forEach(cb => {
+    cb.checked = selectAll;
+    const cat = cb.getAttribute('data-cat');
+    if (selectAll) activeCats.add(cat); else activeCats.delete(cat);
+  });
+  if (!selectAll) activeCats.clear();
+  buildGraph();
+}
+function searchNodes(query) {
+  if (!window._graphState) return;
+  const {node, labels} = window._graphState;
+  const q = query.toLowerCase().trim();
+  if (!q || q.length < 2) {
+    node.attr('fill-opacity',0.85).attr('r',d=>Math.min(4+Math.sqrt(d.linkCount)*1.3,14));
+    labels.attr('fill','var(--text)').style('font-size','11px');
+    return;
+  }
+  node.attr('fill-opacity',d=>d.title.toLowerCase().includes(q)?1:0.08)
+      .attr('r',d=>d.title.toLowerCase().includes(q)?Math.min(6+Math.sqrt(d.linkCount)*2,20):Math.min(4+Math.sqrt(d.linkCount)*1.3,14));
+  labels.attr('fill',d=>d.title.toLowerCase().includes(q)?'var(--accent)':'var(--text)')
+        .style('font-size',d=>d.title.toLowerCase().includes(q)?'14px':'11px')
+        .style('font-weight',d=>d.title.toLowerCase().includes(q)?'700':'500');
+}
+function toggleCat(cat,checked) { if(checked)activeCats.add(cat);else activeCats.delete(cat); buildGraph(); }
+function showTooltip(event,d) {
+  const tt=document.getElementById('tooltip');
+  document.getElementById('ttTitle').textContent=d.title;
+  document.getElementById('ttCat').textContent=d.category.replace(/-/g,' ');
+  document.getElementById('ttLinks').textContent=`${d.linkCount} connections · ${d.wikiLinks.length} outgoing links`;
+  tt.style.display='block';
+  tt.style.left=(event.pageX+14)+'px';
+  tt.style.top=(event.pageY-10)+'px';
+}
+function hideTooltip(){document.getElementById('tooltip').style.display='none';}
+function toggleTheme(){
+  const isDark=document.documentElement.getAttribute('data-theme')==='dark';
+  document.documentElement.setAttribute('data-theme',isDark?'light':'dark');
+  document.getElementById('themeBtn').textContent=isDark?'☽':'☀';
+  localStorage.setItem('wiki-theme',isDark?'light':'dark');
+}
+(function(){
+  const saved=localStorage.getItem('wiki-theme');
+  if(saved==='dark'){document.documentElement.setAttribute('data-theme','dark');document.getElementById('themeBtn').textContent='☀';}
+})();
+init();
+</script>
+</body>
+</html>
