@@ -199,7 +199,6 @@ def build():
             "date":        date,
             "summary":     extract_summary(body, meta),
             "content":     body,
-            "body_text":   re.sub(r'[#*`\[\]_>]+', ' ', body),
             "tags":        tags,
             "url":         url_val,
             "file":        str(fpath.relative_to(CONTENT_DIR)),

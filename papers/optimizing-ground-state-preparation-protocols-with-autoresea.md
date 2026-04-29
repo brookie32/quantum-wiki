@@ -1,0 +1,17 @@
+---
+title: "Optimizing ground state preparation protocols with autoresearch"
+date: "2026-04-29"
+updated: "2026-04-29"
+source: "agent"
+category: "papers"
+tags: [papers, arxiv-quant-ph]
+url: "https://arxiv.org/abs/2604.25610"
+summary: "arXiv:2604.25610v1 Announce Type: new Abstract: Artificial intelligent language-model based coding agents have significantly changed the way we interact with computers in our day-to-day, as it is comm"
+last_verified: "2026-04-29"
+review_by: "2026-07-28"
+stale: false
+---
+
+arXiv:2604.25610v1 Announce Type: new Abstract: Artificial intelligent language-model based coding agents have significantly changed the way we interact with computers in our day-to-day, as it is common to use them to create, improve, and run programming scripts only using natural language. Agent code updates can be better guided when such programs can be executed and scored automatically rather than judged by human preference. In quantum computing and classical quantum simulation settings, ground-state preparation has a parallel structure: candidate protocols can be ranked by estimated energies and other proxies indicating proper quantum-state convergence. In this work, we study how autoresearch, a code optimization strategy based on coding agents, can be used to optimize hyperparameter choices of different ground-state preparation and sampling protocols, including the variational quantum eigensolver (VQE), density matrix renormalization group (DMRG), and auxiliary-field quantum Monte Carlo (AFQMC). We validate the viability and capacity of this method on simple spin models and molecular Hamiltonians. Across all three settings, the agent mutates simple baselines into complex protocols with improved energy proxies while operating under constrained space-time computational budgets. We conclude with discussions of other quantum routines that support executable scalar scoring, enabling evolutionary coding agents to automate a substantial portion of the protocol-tuning work that would otherwise be required manually.
+
+**Source:** [arXiv quant-ph](https://arxiv.org/abs/2604.25610) | 2026-04-29
