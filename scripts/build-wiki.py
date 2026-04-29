@@ -42,6 +42,12 @@ CATEGORY_MAP = {
     "papers":          "research",       # papers/ → research
     "models":          "model-releases", # models/ → model-releases
     "projects":        "applications",   # projects/ → applications
+    "networking":            "networking",
+    "cryptography":            "cryptography",
+    "sensing":            "sensing",
+    "error-correction":            "error-correction",
+    "chemistry":            "chemistry",
+    "machine-learning":            "machine-learning",
 }
 
 # ── FRONTMATTER PARSER ─────────────────────────────────────────────────────

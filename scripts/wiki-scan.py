@@ -108,6 +108,52 @@ FEEDS = [
     ("https://fxtwitter.com/QuantumNetwork/feed.xml",                    "research",          "Quantum Network (X)"),
     ("https://fxtwitter.com/PhysicsTalk/feed.xml",                       "research",          "Physics Talk (X)"),
     ("https://fxtwitter.com/QuantumWomen/feed.xml",                      "research",          "Quantum Women (X)"),
+
+    # ══════════════════════════════════════════════════════════════════
+    # ADDED 2026-04-29 — quantum specialist categories
+    # ══════════════════════════════════════════════════════════════════
+
+    # — Networking: quantum internet, repeaters, switches ──────────────
+    ("https://newsroom.cisco.com/rss/news.xml",                          "networking",        "Cisco Newsroom"),
+    ("https://aliroquantum.com/blog/feed/",                              "networking",        "Aliro Quantum"),
+    ("https://quantum-internet.team/feed/",                              "networking",        "Quantum Internet Alliance"),
+    ("https://evolutionq.com/feed/",                                     "networking",        "EvolutionQ"),
+    ("https://qunnect.inc/feed/",                                        "networking",        "Qunnect"),
+
+    # — Cryptography: QKD, post-quantum, quantum-safe ──────────────────
+    ("https://eprint.iacr.org/rss/rss.xml",                              "cryptography",      "IACR ePrint Archive"),
+    ("https://www.schneier.com/feed/atom/",                              "cryptography",      "Schneier on Security"),
+    ("https://csrc.nist.gov/projects/post-quantum-cryptography",         "cryptography",      "NIST PQC"),
+    ("https://openquantumsafe.org/papers/",                              "cryptography",      "Open Quantum Safe"),
+    ("https://www.idquantique.com/blog/feed/",                           "cryptography",      "ID Quantique Blog"),
+    ("https://www.idquantique.com/news/feed/",                           "cryptography",      "ID Quantique News"),
+    ("https://pqshield.com/blog/feed/",                                  "cryptography",      "PQShield Blog"),
+    ("https://aws.amazon.com/blogs/security/category/security-cryptography/feed/", "cryptography", "AWS Security Crypto"),
+
+    # — Sensing: magnetometers, atomic clocks, gravimeters ─────────────
+    ("https://infleqtion.com/feed/",                                     "sensing",           "Infleqtion"),
+    ("https://q-ctrl.com/feed/",                                         "sensing",           "Q-CTRL Blog"),
+    ("https://qnami.ch/feed/",                                           "sensing",           "Qnami"),
+    ("https://quspin.com/feed/",                                         "sensing",           "QuSpin"),
+    ("https://www.vectoratomic.com/feed/",                               "sensing",           "Vector Atomic"),
+    ("https://quantxlabs.com/feed/",                                     "sensing",           "QuantX Labs"),
+    ("http://export.arxiv.org/rss/physics.atom-ph",                      "sensing",           "arXiv physics.atom-ph"),
+
+    # — Error correction: FTQC, surface code, LDPC ─────────────────────
+    ("https://www.riverlane.com/feed/",                                  "error-correction",  "Riverlane Blog"),
+    ("https://research.google/blog/rss/",                                "error-correction",  "Google Research"),
+
+    # — Chemistry: quantum chemistry, drug discovery ───────────────────
+    ("https://www.phasecraft.io/feed/",                                  "chemistry",         "Phasecraft"),
+    ("https://qsimulate.com/feed/",                                      "chemistry",         "QSimulate"),
+    ("https://1qbit.com/feed/",                                          "chemistry",         "1QBit"),
+    ("http://export.arxiv.org/rss/physics.chem-ph",                      "chemistry",         "arXiv physics.chem-ph"),
+
+    # — Machine learning: QML, hybrid algorithms ───────────────────────
+    ("https://qcware.com/feed/",                                         "machine-learning",  "QC Ware Blog"),
+    ("https://multiversecomputing.com/feed/",                            "machine-learning",  "Multiverse Computing"),
+    ("https://pennylane.ai/qml/feed.xml",                                "machine-learning",  "PennyLane QML"),
+    ("https://developer.nvidia.com/blog/category/quantum-computing/feed/","machine-learning", "NVIDIA Quantum"),
 ]
 
 def _sanitize_xml(data):

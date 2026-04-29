@@ -69,6 +69,12 @@ Out of scope (kept narrow on purpose):
 ├── tools/                 ← Qiskit/PennyLane/Cirq, dev kits, simulators
 ├── breakthroughs/         ← claimed milestones (advantage / supremacy / fault-tolerance)
 ├── syntheses/             ← cross-cutting reports, surveys, slide decks
+├── networking/            ← quantum networking, internet, repeaters
+├── cryptography/          ← QKD, post-quantum cryptography, quantum-safe
+├── sensing/               ← quantum sensors, magnetometers, atomic clocks
+├── error-correction/      ← FTQC, surface code, LDPC
+├── chemistry/             ← quantum chemistry, drug discovery, catalysis
+├── machine-learning/      ← QML, hybrid quantum-classical
 ├── concepts/              ← auto-extracted entity indexes (people, companies, papers, modalities)
 ├── inbox/                 ← quick capture — process on request
 ├── raw/                   ← original PDFs, screenshots, source files — never modify
@@ -148,6 +154,12 @@ stale: false
 | Application paper (chemistry, ML, finance, defence) | `applications/` |
 | New SDK release, framework update, simulator | `tools/` |
 | Quantum advantage / supremacy / fault-tolerance milestone | `breakthroughs/` |
+| Quantum networking, internet, repeaters | `networking/` |
+| QKD, post-quantum, quantum-safe cryptography | `cryptography/` |
+| Quantum sensors, magnetometers, atomic clocks | `sensing/` |
+| Fault-tolerance, error correction, surface code | `error-correction/` |
+| Quantum chemistry, drug discovery, catalysis | `chemistry/` |
+| Quantum ML, hybrid quantum-classical algorithms | `machine-learning/` |
 | Cross-cutting synthesis | `syntheses/` |
 | Doesn't fit cleanly → **create new folder** | `[new-category]/` |
 
