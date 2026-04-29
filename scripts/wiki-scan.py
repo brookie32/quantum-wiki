@@ -114,11 +114,10 @@ FEEDS = [
     # ══════════════════════════════════════════════════════════════════
 
     # — Networking: quantum internet, repeaters, switches ──────────────
-    ("https://newsroom.cisco.com/rss/news.xml",                          "networking",        "Cisco Newsroom"),
-    ("https://aliroquantum.com/blog/feed/",                              "networking",        "Aliro Quantum"),
-    ("https://quantum-internet.team/feed/",                              "networking",        "Quantum Internet Alliance"),
-    ("https://evolutionq.com/feed/",                                     "networking",        "EvolutionQ"),
-    ("https://qunnect.inc/feed/",                                        "networking",        "Qunnect"),
+    ("https://thequantuminsider.com/category/quantum-networking/feed/",  "networking",        "TQI: Quantum Networking"),
+    ("https://news.google.com/rss/search?q=%22quantum+network%22+OR+%22quantum+repeater%22+OR+%22quantum+internet%22&hl=en-US&gl=US&ceid=US:en", "networking", "Google News: quantum networking"),
+    ("https://news.google.com/rss/search?q=%22Aliro+Quantum%22+OR+%22Qunnect%22+OR+%22EvolutionQ%22&hl=en-US&gl=US&ceid=US:en", "networking", "Google News: networking companies"),
+    ("https://news.google.com/rss/search?q=%22Cisco+quantum%22&hl=en-US&gl=US&ceid=US:en", "networking", "Google News: Cisco quantum"),
 
     # — Cryptography: QKD, post-quantum, quantum-safe ──────────────────
     ("https://eprint.iacr.org/rss/rss.xml",                              "cryptography",      "IACR ePrint Archive"),
@@ -140,8 +139,9 @@ FEEDS = [
     ("http://export.arxiv.org/rss/physics.atom-ph",                      "sensing",           "arXiv physics.atom-ph"),
 
     # — Error correction: FTQC, surface code, LDPC ─────────────────────
-    ("https://www.riverlane.com/feed/",                                  "error-correction",  "Riverlane Blog"),
-    ("https://research.google/blog/rss/",                                "error-correction",  "Google Research"),
+    ("https://thequantuminsider.com/category/error-correction/feed/",    "error-correction",  "TQI: Error Correction"),
+    ("https://news.google.com/rss/search?q=%22quantum+error+correction%22+OR+%22surface+code%22+OR+%22fault+tolerant%22&hl=en-US&gl=US&ceid=US:en", "error-correction", "Google News: error correction"),
+    ("https://news.google.com/rss/search?q=%22Riverlane%22+OR+%22quantum+error%22&hl=en-US&gl=US&ceid=US:en", "error-correction", "Google News: error correction companies"),
 
     # — Chemistry: quantum chemistry, drug discovery ───────────────────
     ("https://www.phasecraft.io/feed/",                                  "chemistry",         "Phasecraft"),
@@ -150,10 +150,9 @@ FEEDS = [
     ("http://export.arxiv.org/rss/physics.chem-ph",                      "chemistry",         "arXiv physics.chem-ph"),
 
     # — Machine learning: QML, hybrid algorithms ───────────────────────
-    ("https://qcware.com/feed/",                                         "machine-learning",  "QC Ware Blog"),
-    ("https://multiversecomputing.com/feed/",                            "machine-learning",  "Multiverse Computing"),
-    ("https://pennylane.ai/qml/feed.xml",                                "machine-learning",  "PennyLane QML"),
-    ("https://developer.nvidia.com/blog/category/quantum-computing/feed/","machine-learning", "NVIDIA Quantum"),
+    ("https://thequantuminsider.com/category/quantum-machine-learning/feed/", "machine-learning",  "TQI: Quantum ML"),
+    ("https://news.google.com/rss/search?q=%22quantum+machine+learning%22+OR+%22QML%22+OR+%22variational+quantum%22&hl=en-US&gl=US&ceid=US:en", "machine-learning", "Google News: QML"),
+    ("https://news.google.com/rss/search?q=%22QC+Ware%22+OR+%22Multiverse+Computing%22+OR+%22Zapata%22&hl=en-US&gl=US&ceid=US:en", "machine-learning", "Google News: QML companies"),
 ]
 
 def _sanitize_xml(data):
@@ -349,36 +348,52 @@ def slugify(title):
     return s[:60]
 
 def smart_classify(title, summary, default_category):
-    """Classify entry based on title/summary keywords, overriding default if confident."""
+    """Classify entry by quantum-domain keywords. Falls back to default_category if no rule fires."""
     text = (title + " " + summary).lower()
 
-    # Model releases — new models, benchmarks, version updates
-    if re.search(r'\b(gpt-[45o]|claude|gemini|gemma|llama|mistral|qwen|nemotron|deepseek|phi-|command-r|released|launches|benchmark|parameter|token.per.sec|context.window|new model)\b', text):
-        return "model-releases"
+    # Networking — quantum internet, repeaters, entanglement distribution
+    if re.search(r'\b(quantum (network|internet|repeater|switch|node|memory)|entanglement (distribution|swapping)|teleportation|quantum link|fiber.{0,10}quantum)\b', text):
+        return "networking"
 
-    # Local AI — ollama, llama.cpp, local inference, DGX, quantization
-    if re.search(r'\b(ollama|llama\.cpp|gguf|ggml|quantiz|local.*(model|inference|ai|llm)|dgx|vram|on-device|edge.ai|mlx)\b', text):
-        return "local-ai"
+    # Cryptography — QKD, post-quantum, quantum-safe
+    if re.search(r'\b(qkd|quantum key|post.quantum|pqc|kyber|ml.?kem|ml.?dsa|dilithium|fips.?20[345]|cryptanaly|quantum.safe|cryptographic|harvest.now)\b', text):
+        return "cryptography"
 
-    # Safety — alignment, safety, regulation, policy, bias
-    if re.search(r'\b(safety|alignment|guardrail|jailbreak|red.team|bias|fairness|regulat|legislation|eu.ai.act|policy|existential|x-risk|responsible.ai)\b', text):
-        return "safety"
+    # Sensing — atomic clocks, magnetometers, gravimeters, NV-center
+    if re.search(r'\b(quantum (sensor|sensing|metrology)|atomic clock|magnetometer|gravimeter|nv.?center|nitrogen.?vacancy|optically.?pumped|cold.atom)\b', text):
+        return "sensing"
 
-    # Hardware — GPU, TPU, chip, inference hardware
-    if re.search(r'\b(gpu|tpu|nvidia|h100|a100|b200|gb200|blackwell|inference.chip|datacent|silicon|tensor.core|cuda)\b', text):
+    # Error correction — surface code, LDPC, fault tolerance
+    if re.search(r'\b(error.correction|surface.code|color.code|ldpc|magic.state|fault.?toleran|logical qubit|threshold theorem|\bqec\b)\b', text):
+        return "error-correction"
+
+    # Chemistry — quantum chemistry, molecular sim, drug discovery
+    if re.search(r'\b(quantum chemistry|molecular (simul|dynam)|drug.discovery|catalys|coupled.cluster|hartree.?fock|electronic.structure)\b', text):
+        return "chemistry"
+
+    # Quantum ML — QML, kernels, hybrid algorithms
+    if re.search(r'\b(qml|quantum (ml|machine.learning|kernel|neural network|generative)|variational classifier)\b', text):
+        return "machine-learning"
+
+    # Breakthroughs — milestones
+    if re.search(r'\b(quantum advantage|quantum supremacy|quantum primacy|first.time|world.first|milestone|breakthrough)\b', text):
+        return "breakthroughs"
+
+    # Hardware — quantum chip, qubit count, fab
+    if re.search(r'\b(qubit|coherence time|t1.time|gate fidelity|cryogenic|dilution refrigerator|chip.{0,5}generation|new.{0,4}qubit|annealer)\b', text):
         return "hardware"
 
-    # Agents — agentic, autonomous, agent framework
-    if re.search(r'\b(agent|agentic|autonomous|tool.use|function.call|mcp|openclraw|nemoclaw|multi-agent|swarm)\b', text):
-        return "agents"
+    # Tools — SDKs, simulators
+    if re.search(r'\b(qiskit|cirq|pennylane|q#|braket|cuquantum|quantum simulator|sdk|framework release)\b', text):
+        return "tools"
 
-    # Tutorials — how to, guide, tutorial, course
-    if re.search(r'\b(tutorial|how.to|step.by.step|guide|course|learn|beginner|walkthrough|hands-on)\b', text):
-        return "tutorials"
+    # Industry — funding, partnership, hires
+    if re.search(r'\b(funding|raised \$|series [a-d]|partnership|merger|acquisition|appoint|named (ceo|cto|cfo)|hires|spinout)\b', text):
+        return "industry"
 
-    # Applications — deployment, case study, real-world use
-    if re.search(r'\b(deploy|production|case.study|real.world|enterprise|healthcare|finance|legal|education|manufacturing)\b', text):
-        return "applications"
+    # Papers — arxiv etc.
+    if re.search(r'\b(arxiv|preprint|theorem|published in (nature|science|prx|prl))\b', text):
+        return "papers"
 
     return default_category
 
