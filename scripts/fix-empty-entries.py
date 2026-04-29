@@ -3,7 +3,7 @@
 import os, re, json, subprocess, html as html_mod
 
 WIKI_DIR = "/sandbox/quantum-wiki"
-OLLAMA_URL = "https://inference.local/v1/chat/completions"
+OLLAMA_URL = "http://host.openshell.internal:11434/v1/chat/completions"
 
 def extract_page_text(html):
     """Extract readable text from HTML using multiple strategies."""

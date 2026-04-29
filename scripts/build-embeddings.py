@@ -28,7 +28,7 @@ def get_embedding(text):
         payload = json.dumps({"model": "nomic-embed-text", "prompt": text})
         result = subprocess.run(
             ["curl", "-s", "--max-time", "15", "-X", "POST",
-             "https://inference.local/api/embeddings",
+             "http://host.openshell.internal:11434/api/embeddings",
              "-H", "Content-Type: application/json", "-d", payload],
             capture_output=True, text=True)
         if result.returncode != 0:

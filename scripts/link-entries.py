@@ -7,7 +7,7 @@ Free — uses local Ollama, not Claude API.
 import os, re, json, subprocess, sys
 
 WIKI_DIR = "/sandbox/quantum-wiki"
-OLLAMA_URL = "https://inference.local/v1/chat/completions"
+OLLAMA_URL = "http://host.openshell.internal:11434/v1/chat/completions"
 
 def slugify(s):
     s = str(s).lower()
@@ -81,7 +81,7 @@ def ask_ollama_for_links(entry, candidates):
     )
     try:
         payload = json.dumps({
-            "model": "gemma4",
+            "model": "qwen3:30b",
             "messages": [{"role": "user", "content": prompt}],
             "max_tokens": 500
         })

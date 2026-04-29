@@ -397,7 +397,7 @@ def existing_urls():
                     pass
     return urls
 
-OLLAMA_URL = "https://inference.local/v1/chat/completions"
+OLLAMA_URL = "http://host.openshell.internal:11434/v1/chat/completions"
 ANTHROPIC_URL = "https://api.anthropic.com/v1/messages"
 ANTHROPIC_KEY_FILES = [
     "/sandbox/.openclaw-data/anthropic-key",
@@ -463,7 +463,7 @@ def ollama_summarize(text, title):
     """Ask Ollama to summarize extracted text."""
     try:
         payload = json.dumps({
-            "model": "gemma4",
+            "model": "qwen3:30b",
             "messages": [{"role": "user", "content":
                 f"Summarize this in 2-3 sentences for an AI knowledge base. Be factual and concise.\n"
                 f"Title: {title}\n\nContent:\n{text[:2000]}"}],
@@ -685,10 +685,10 @@ def main():
             env["ANTHROPIC_API_KEY"] = ANTHROPIC_KEY
         print(f"\n🔗 Enriching {len(written)} new entries with cross-references...")
         try:
-            subprocess.run(["python3", "/sandbox/quantum-wiki/scripts/link-with-claude.py", str(len(written))],
+            subprocess.run(["python3", "/sandbox/quantum-wiki/scripts/link-entries.py", str(len(written))],
                           capture_output=True, text=True, timeout=1200, env=env)
         except Exception as e:
-            print(f"  ⚠ link-with-claude failed: {e}")
+            print(f"  ⚠ link-entries failed: {e}")
 
         # Concept extraction moved to weekly Sunday cron (saves cost)
         # Auto-synthesis moved to weekly Sunday cron (saves cost)
