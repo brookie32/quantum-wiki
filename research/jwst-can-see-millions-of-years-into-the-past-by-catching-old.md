@@ -14,4 +14,10 @@ stale: false
 
 I'll search for information about this topic to provide an accurate summary. JWST observes ancient light that takes time to travel across space , allowing astronomers to see back billions of years into the universe's past. The discussion likely explores the theoretical comparison between JWST's capability to observe distant historical cosmic events through electromagnetic radiation and a hypothetical future scenario where advanced computing could "rewind" Earth's atomic states to reconstruct its historical past—a concept that faces fundamental physical barriers such as entropy and information reversibility.
 
+
+
+## Related
+- [[the-classical-simulation-wall-isnt-at-50-qubits-its-at-entan|The classical simulation wall isn't at 50 qubits — it's at entanglement depth. A 1,000-qubit circuit can be easier to simulate than a 20-qubit one.]]
+- [[quantum-bottleneck-breaks-wide-open-as-one-light-beam-carrie|Quantum bottleneck breaks wide open as one light beam carries 23 secure channels at the same time]]
+
 **Source:** [r/Physics](https://www.reddit.com/r/Physics/comments/1syjt2n/jwst_can_see_millions_of_years_into_the_past_by/) | 2026-04-29
