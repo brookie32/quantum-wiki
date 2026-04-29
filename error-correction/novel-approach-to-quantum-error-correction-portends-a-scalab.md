@@ -1,0 +1,17 @@
+---
+title: "Novel approach to quantum error correction portends a scalable future for quantum computing - MSN"
+date: "2026-04-26"
+updated: "2026-04-29"
+source: "agent"
+category: "error-correction"
+tags: [error-correction, google-news--error-correction-companies]
+url: "https://news.google.com/rss/articles/CBMipANBVV95cUxOaDg2QzQtQlVXS1dLY2l6ZERnR3RwcmRUU2RHMUFYck81SmhBelZpS1gyRllOTXRpTDVWajZGSklMV3pKaGRIVzVLaEM2b1N2a3BYd0xDVk1iOFktRzY4Wjc1TXhyVHU4N1dEX0lXSmpPRU9HandLckx1UWxtZENKaDltaEl5TGNNcTZNaXpDdDJPY24zZVF4RlRTN1MzOFpqNmczXzVwUzFJZW56RFFKNC1Bd3ByVk5ESGRNSVFXMFJ1YVlsclMxM01mZnotckpDd0h2MDg0VHBnRlA2anJDaHZZQVNyckFxVXc2MzBlamxicEZYcjBjZXhVRVliRUFmeEU0RkZPNHNPWFM1aEpIUnVuZ2I1MFJZLWNtUk9QY0d0QmJudnY1NHdWY3ZrQ0J0SDJ5T0pkVF9fMDgxRm9wb0NXMVJndVMxOW5hbTBidDBXV0UtTm82WkR5VTNPUmVwYWx0QTRDLXFnam1SRjN0RXRPWlJpNzZteV93VjNTMlpfNE0wSHhfXzhhbklqNnh1NXpsbzZHWWFoUEVmd1M2U3VuQzU?oc=5"
+summary: "The article reports on a new quantum error‑correction technique that promises to enable scalable quantum computers. It highlights how this approach improves fault tolerance and could make large‑scale "
+last_verified: "2026-04-29"
+review_by: "2026-07-28"
+stale: false
+---
+
+The article reports on a new quantum error‑correction technique that promises to enable scalable quantum computers. It highlights how this approach improves fault tolerance and could make large‑scale quantum systems more practical, indicating a significant step toward commercial‑grade quantum computing.
+
+**Source:** [Google News: error correction companies](https://news.google.com/rss/articles/CBMipANBVV95cUxOaDg2QzQtQlVXS1dLY2l6ZERnR3RwcmRUU2RHMUFYck81SmhBelZpS1gyRllOTXRpTDVWajZGSklMV3pKaGRIVzVLaEM2b1N2a3BYd0xDVk1iOFktRzY4Wjc1TXhyVHU4N1dEX0lXSmpPRU9HandLckx1UWxtZENKaDltaEl5TGNNcTZNaXpDdDJPY24zZVF4RlRTN1MzOFpqNmczXzVwUzFJZW56RFFKNC1Bd3ByVk5ESGRNSVFXMFJ1YVlsclMxM01mZnotckpDd0h2MDg0VHBnRlA2anJDaHZZQVNyckFxVXc2MzBlamxicEZYcjBjZXhVRVliRUFmeEU0RkZPNHNPWFM1aEpIUnVuZ2I1MFJZLWNtUk9QY0d0QmJudnY1NHdWY3ZrQ0J0SDJ5T0pkVF9fMDgxRm9wb0NXMVJndVMxOW5hbTBidDBXV0UtTm82WkR5VTNPUmVwYWx0QTRDLXFnam1SRjN0RXRPWlJpNzZteV93VjNTMlpfNE0wSHhfXzhhbklqNnh1NXpsbzZHWWFoUEVmd1M2U3VuQzU?oc=5) | 2026-04-26

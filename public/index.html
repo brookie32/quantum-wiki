@@ -1646,11 +1646,22 @@ function openModal(id) {
       ${tagHtml}
       <time class="modal-date" datetime="${esc(entry.date)}">${fmtDate(entry.date)}</time>
     </div>
-    <div class="modal-body">${renderMarkdown(entry.content || entry.summary || '')}</div>
+    <div class="modal-body" id="modalBody">${renderMarkdown(entry.content || entry.summary || '')}</div>
     ${entry.url ? `<a class="modal-source-link" href="${esc(entry.url)}" target="_blank" rel="noopener noreferrer">↗ View original source</a>` : ''}
     ${backlinksHtml}
     <div class="related-section" id="semanticSection"></div>
   `;
+  // Phase B: lazy-load full content from per-entry JSON if not already inline
+  if (!entry.content) {
+    fetch('./data/entries/' + encodeURIComponent(entry.id) + '.json')
+      .then(r => r.ok ? r.json() : null)
+      .then(d => {
+        if (d && d.content) {
+          const body = document.getElementById('modalBody');
+          if (body) body.innerHTML = renderMarkdown(d.content);
+        }
+      }).catch(() => {});
+  }
   // Load semantic similar entries (async, non-blocking)
   setTimeout(() => {
     const similar = findSimilar(id);

@@ -198,12 +198,15 @@ def build():
             "source_type": infer_source_type(url_val, body),
             "date":        date,
             "summary":     extract_summary(body, meta),
-            "content":     body,
             "tags":        tags,
             "url":         url_val,
             "file":        str(fpath.relative_to(CONTENT_DIR)),
             "wiki_links":  wiki_links,
         }
+        # Phase B: write full content to its own per-entry JSON, lazy-loaded by frontend on modal open
+        entries_dir = OUTPUT_DIR / "entries"
+        entries_dir.mkdir(parents=True, exist_ok=True)
+        json.dump({"content": body}, open(entries_dir / f"{entry_id}.json", "w"))
         entries.append(entry)
         print(f"  ✓ {entry['source'][:1].upper()} {fpath.name} → [{entry['category']}]")
 
