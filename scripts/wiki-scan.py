@@ -463,7 +463,7 @@ def ollama_summarize(text, title):
     """Ask Ollama to summarize extracted text."""
     try:
         payload = json.dumps({
-            "model": "qwen3:30b",
+            "model": "gpt-oss",
             "messages": [{"role": "user", "content":
                 f"Summarize this in 2-3 sentences for an AI knowledge base. Be factual and concise.\n"
                 f"Title: {title}\n\nContent:\n{text[:2000]}"}],

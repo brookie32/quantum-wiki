@@ -81,7 +81,7 @@ def ask_ollama_for_links(entry, candidates):
     )
     try:
         payload = json.dumps({
-            "model": "qwen3:30b",
+            "model": "gpt-oss",
             "messages": [{"role": "user", "content": prompt}],
             "max_tokens": 500
         })
