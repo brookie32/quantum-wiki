@@ -467,7 +467,7 @@ def ollama_summarize(text, title):
             "messages": [{"role": "user", "content":
                 f"Summarize this in 2-3 sentences for an AI knowledge base. Be factual and concise.\n"
                 f"Title: {title}\n\nContent:\n{text[:2000]}"}],
-            "max_tokens": 200
+            "max_tokens": 500
         })
         result = subprocess.run(
             ["curl", "-s", "--max-time", "30", "-X", "POST",
@@ -478,7 +478,7 @@ def ollama_summarize(text, title):
             return None
         resp = json.loads(result.stdout)
         summary = resp.get("choices", [{}])[0].get("message", {}).get("content", "").strip()
-        return summary if summary and len(summary) > 20 else None
+        return summary if summary and len(summary) > 15 else None
     except:
         return None
 
