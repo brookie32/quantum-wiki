@@ -1,21 +1,21 @@
 {
   "meta": {
-    "buildTime": "2026-04-29T13:59:57.526528+00:00",
-    "totalEntries": 518,
+    "buildTime": "2026-04-30T02:02:28.790847+00:00",
+    "totalEntries": 527,
     "categories": [
-      "sensing",
-      "research",
-      "tools",
-      "hardware",
-      "breakthroughs",
-      "networking",
-      "chemistry",
-      "papers",
-      "cryptography",
       "machine-learning",
       "applications",
+      "cryptography",
+      "sensing",
+      "hardware",
+      "industry",
+      "chemistry",
+      "papers",
+      "tools",
+      "breakthroughs",
+      "research",
       "error-correction",
-      "industry"
+      "networking"
     ]
   },
   "entries": [
@@ -445,6 +445,23 @@
       "backlinks": []
     },
     {
+      "id": "your-ai-is-guessing-this-one-doesnt-qec-v150-1509",
+      "title": "Your AI Is Guessing — This One Doesn’t [QEC v150-150.9]",
+      "category": "error-correction",
+      "source": "agent",
+      "source_type": "reddit",
+      "date": "2026-04-29",
+      "summary": "I'll search for information about this post to provide an accurate summary. Let me search more specifically for the Reddit post content. Based on the title and source information available, here is a ",
+      "tags": [
+        "error-correction",
+        "r-quantum"
+      ],
+      "url": "https://www.reddit.com/r/quantum/comments/1sz5yvj/your_ai_is_guessing_this_one_doesnt_qec_v1501509/",
+      "file": "error-correction/your-ai-is-guessing-this-one-doesnt-qec-v150-1509.md",
+      "wiki_links": [],
+      "backlinks": []
+    },
+    {
       "id": "adaptive-sensing-beyond-non-adaptive-information-limits-end-",
       "title": "Adaptive Sensing beyond Non-Adaptive Information Limits: End-to-End Co-Design of Geometry, Policy, and Inference",
       "category": "hardware",
@@ -666,6 +683,23 @@
       "backlinks": []
     },
     {
+      "id": "today-at-115-pm-catch-christian-weedbrook-cweedbrook-founder",
+      "title": "Today at 1:15 PM, catch Christian Weedbrook (@_cweedbrook), Founder and CEO of Xanadu, in a keynote fireside chat with Sean Silcoff (@SeanSi…",
+      "category": "industry",
+      "source": "agent",
+      "source_type": "x-post",
+      "date": "2026-04-29",
+      "summary": "Today at 1:15 PM, catch Christian Weedbrook (@_cweedbrook), Founder and CEO of Xanadu, in a keynote fireside chat with Sean Silcoff (@SeanSilcoff) in the DiscoveryX Theatre. Don't miss it! #DiscoveryX",
+      "tags": [
+        "industry",
+        "xanadu--x"
+      ],
+      "url": "https://x.com/XanaduAI/status/2049497431679660505",
+      "file": "industry/today-at-115-pm-catch-christian-weedbrook-cweedbrook-founder.md",
+      "wiki_links": [],
+      "backlinks": []
+    },
+    {
       "id": "xanadu-and-oak-ridge-national-laboratory-ornl-are-collaborat",
       "title": "Xanadu and Oak Ridge National Laboratory (@ORNL) are collaborating to bring PennyLane (@PennyLaneAI) to Frontier, one of the most advanced c…",
       "category": "industry",
@@ -850,11 +884,11 @@
       "url": "https://arxiv.org/abs/2604.25424",
       "file": "papers/a-graph-aware-bounded-distance-decoder-for-all-stabilizer-co.md",
       "wiki_links": [
-        "quantum-error-correction-exploiting-quantum-spatial-distribu",
         "fair-decoder-baselines-and-rigorous-finite-size-scaling-for",
         "optimization-using-locally-quantum-decoders",
-        "the-classification-of-pauli-stabilizer-codes-a-lattice-and-c",
-        "networked-realization-of-quantum-ldpc-codes"
+        "networked-realization-of-quantum-ldpc-codes",
+        "quantum-error-correction-exploiting-quantum-spatial-distribu",
+        "the-classification-of-pauli-stabilizer-codes-a-lattice-and-c"
       ],
       "backlinks": [
         {
@@ -879,8 +913,8 @@
       "url": "https://arxiv.org/abs/2604.25825",
       "file": "papers/a-quantum-spectral-framework-for-solving-pdes.md",
       "wiki_links": [
-        "sign-embedding-quantum-algorithms-for-matrix-equations-and-m",
         "quantum-algorithm-for-solving-high-dimensional-linear-stocha",
+        "sign-embedding-quantum-algorithms-for-matrix-equations-and-m",
         "symplectic-perspective-to-quantum-computing-for-hamiltonian"
       ],
       "backlinks": []
@@ -919,9 +953,9 @@
       "url": "https://arxiv.org/abs/2604.25058",
       "file": "papers/a-swap-free-framework-for-qaoa.md",
       "wiki_links": [
+        "reductions-of-qaoa-induced-by-classical-symmetries-theoretic",
         "graph-conditioned-meta-optimizer-for-qaoa-parameter-generati",
-        "query-efficient-quantum-approximate-optimization-via-graph-c",
-        "reductions-of-qaoa-induced-by-classical-symmetries-theoretic"
+        "query-efficient-quantum-approximate-optimization-via-graph-c"
       ],
       "backlinks": [
         {
@@ -1945,10 +1979,10 @@
       "url": "https://arxiv.org/abs/2604.25883",
       "file": "papers/optimized-thermal-control-of-a-dual-wavelength-resonant-nonl.md",
       "wiki_links": [
-        "squeezed-state-degradations-due-to-mode-mismatch-and-thermal",
         "quantum-electrodynamics-of-graphene-landau-levels-in-a-deep",
+        "dynamical-generation-of-stable-optical-microwave-squeezing-i",
         "hidden-optical-nonlinearities-in-linear-spectra-of-quantum-e",
-        "dynamical-generation-of-stable-optical-microwave-squeezing-i"
+        "squeezed-state-degradations-due-to-mode-mismatch-and-thermal"
       ],
       "backlinks": []
     },
@@ -2001,10 +2035,10 @@
       "url": "https://arxiv.org/abs/2604.24889",
       "file": "papers/phase-diagram-of-a-dual-species-rydberg-atom-ladder.md",
       "wiki_links": [
-        "optimization-of-two-photon-excitation-by-indistinguishable-p",
         "parallel-distributed-quantum-gates-for-dual-species-quantum",
-        "enhanced-atom-capture-via-multi-frequency-magneto-optical-tr",
-        "taming-rydberg-decay-with-measurement-based-quantum-computat"
+        "optimization-of-two-photon-excitation-by-indistinguishable-p",
+        "taming-rydberg-decay-with-measurement-based-quantum-computat",
+        "enhanced-atom-capture-via-multi-frequency-magneto-optical-tr"
       ],
       "backlinks": []
     },
@@ -2108,9 +2142,9 @@
       "url": "https://arxiv.org/abs/2604.25807",
       "file": "papers/proof-of-the-error-scaling-for-universally-robust-dynamical-.md",
       "wiki_links": [
-        "improvement-of-performance-of-grovers-algorithm-on-three-gen",
         "few-shot-cross-device-transfer-for-quantum-noise-modeling-on",
-        "pulse-quality-optimisation-in-quantum-optimal-control"
+        "pulse-quality-optimisation-in-quantum-optimal-control",
+        "improvement-of-performance-of-grovers-algorithm-on-three-gen"
       ],
       "backlinks": []
     },
@@ -2224,10 +2258,10 @@
       "url": "https://arxiv.org/abs/2512.07906",
       "file": "papers/quantum-catalysis-enhanced-extractable-energy-in-a-qubit-qua.md",
       "wiki_links": [
-        "unified-theory-of-classical-and-quantum-ergotropy",
-        "impact-of-thermal-and-dissipative-effects-in-a-periodically",
         "work-statistics-via-real-time-effective-field-theory-applica",
-        "charging-dynamics-in-a-distance-modulated-planar-quantum-bat"
+        "impact-of-thermal-and-dissipative-effects-in-a-periodically",
+        "charging-dynamics-in-a-distance-modulated-planar-quantum-bat",
+        "unified-theory-of-classical-and-quantum-ergotropy"
       ],
       "backlinks": []
     },
@@ -2371,8 +2405,8 @@
       "url": "https://arxiv.org/abs/2604.24792",
       "file": "papers/quantum-gravimetry-with-intrinsic-quantum-time-uncertainty.md",
       "wiki_links": [
-        "thermal-time-and-irreversibility-from-non-commuting-observab",
-        "recurrence-time-for-finite-quantum-systems"
+        "recurrence-time-for-finite-quantum-systems",
+        "thermal-time-and-irreversibility-from-non-commuting-observab"
       ],
       "backlinks": []
     },
@@ -2612,8 +2646,8 @@
       "file": "papers/recursion-method-for-out-of-equilibrium-many-body-dynamics-s.md",
       "wiki_links": [
         "peak-valley-mechanism-for-hilbert-space-fragmentation",
-        "coherence-dynamics-in-quantum-many-body-systems-with-conserv",
-        "core-hole-excitation-dynamics-of-one-dimensional-ultracold-t"
+        "core-hole-excitation-dynamics-of-one-dimensional-ultracold-t",
+        "coherence-dynamics-in-quantum-many-body-systems-with-conserv"
       ],
       "backlinks": []
     },
@@ -2870,11 +2904,11 @@
       "url": "https://arxiv.org/abs/2601.10964",
       "file": "papers/stabilizer-code-generic-universal-fault-tolerant-quantum-com.md",
       "wiki_links": [
-        "quantum-decoherence-of-the-surface-code-a-generalized-caldei",
-        "a-graph-aware-bounded-distance-decoder-for-all-stabilizer-co",
         "fair-decoder-baselines-and-rigorous-finite-size-scaling-for",
         "injeqt-improved-magic-state-injection-protocol-for-fault-tol",
-        "networked-realization-of-quantum-ldpc-codes"
+        "networked-realization-of-quantum-ldpc-codes",
+        "a-graph-aware-bounded-distance-decoder-for-all-stabilizer-co",
+        "quantum-decoherence-of-the-surface-code-a-generalized-caldei"
       ],
       "backlinks": []
     },
@@ -2997,10 +3031,10 @@
       "url": "https://arxiv.org/abs/2604.25901",
       "file": "papers/testing-a-continuous-variable-bell-like-inequality-with-a-hy.md",
       "wiki_links": [
-        "symplectic-perspective-to-quantum-computing-for-hamiltonian",
+        "universal-quantum-control-over-non-hermitian-continuous-vari",
         "dynamical-generation-of-stable-optical-microwave-squeezing-i",
-        "heralding-probability-optimization-for-nonclassical-light-ge",
-        "universal-quantum-control-over-non-hermitian-continuous-vari"
+        "symplectic-perspective-to-quantum-computing-for-hamiltonian",
+        "heralding-probability-optimization-for-nonclassical-light-ge"
       ],
       "backlinks": []
     },
@@ -3354,6 +3388,40 @@
       ]
     },
     {
+      "id": "any-professors-at-top-20-us-universities-from-homeless-in-mi",
+      "title": "Any professors at top 20 US universities from homeless in middle school and high school background?",
+      "category": "research",
+      "source": "agent",
+      "source_type": "reddit",
+      "date": "2026-04-29",
+      "summary": "I don't have access to the specific content of that Reddit thread. Based on the title and source, this post likely discusses whether there are documented cases of academic physicists who became profes",
+      "tags": [
+        "research",
+        "r-physics"
+      ],
+      "url": "https://www.reddit.com/r/Physics/comments/1szehvc/any_professors_at_top_20_us_universities_from/",
+      "file": "research/any-professors-at-top-20-us-universities-from-homeless-in-mi.md",
+      "wiki_links": [],
+      "backlinks": []
+    },
+    {
+      "id": "confusion-with-spins",
+      "title": "Confusion with spins",
+      "category": "research",
+      "source": "agent",
+      "source_type": "reddit",
+      "date": "2026-04-29",
+      "summary": "I don't have access to browse that specific Reddit thread. Based on the title and source, this likely covers common misconceptions or questions about quantum spin in physics—such as clarifications abo",
+      "tags": [
+        "research",
+        "r-quantum"
+      ],
+      "url": "https://www.reddit.com/r/quantum/comments/1sz9113/confusion_with_spins/",
+      "file": "research/confusion-with-spins.md",
+      "wiki_links": [],
+      "backlinks": []
+    },
+    {
       "id": "did-giancarlo-lelli-just-bluff-his-way-through-the-qday-priz",
       "title": "Did Giancarlo Lelli Just Bluff His Way Through The QDay Prize?",
       "category": "research",
@@ -3367,6 +3435,23 @@
       ],
       "url": "https://www.reddit.com/r/QuantumComputing/comments/1syw5az/did_giancarlo_lelli_just_bluff_his_way_through/",
       "file": "research/did-giancarlo-lelli-just-bluff-his-way-through-the-qday-priz.md",
+      "wiki_links": [],
+      "backlinks": []
+    },
+    {
+      "id": "does-this-formula-mean-waves-diffract-at-any-size-of-opening",
+      "title": "Does this formula mean waves diffract at any size of opening?",
+      "category": "research",
+      "source": "agent",
+      "source_type": "reddit",
+      "date": "2026-04-29",
+      "summary": "I need to search for information about this Reddit discussion to provide an accurate summary. Diffraction depends on the wavelength and size of the aperture, with diffraction happening dramatically on",
+      "tags": [
+        "research",
+        "r-physics"
+      ],
+      "url": "https://www.reddit.com/r/Physics/comments/1szeb9v/does_this_formula_mean_waves_diffract_at_any_size/",
+      "file": "research/does-this-formula-mean-waves-diffract-at-any-size-of-opening.md",
       "wiki_links": [],
       "backlinks": []
     },
@@ -3402,8 +3487,8 @@
       "url": "https://www.reddit.com/r/Physics/comments/1syjt2n/jwst_can_see_millions_of_years_into_the_past_by/",
       "file": "research/jwst-can-see-millions-of-years-into-the-past-by-catching-old.md",
       "wiki_links": [
-        "quantum-bottleneck-breaks-wide-open-as-one-light-beam-carrie",
-        "the-classical-simulation-wall-isnt-at-50-qubits-its-at-entan"
+        "the-classical-simulation-wall-isnt-at-50-qubits-its-at-entan",
+        "quantum-bottleneck-breaks-wide-open-as-one-light-beam-carrie"
       ],
       "backlinks": []
     },
@@ -3438,6 +3523,40 @@
       ],
       "url": "https://phys.org/news/2026-04-space-boost-links.html",
       "file": "research/light-can-now-be-shaped-in-empty-space-and-it-could-simplify.md",
+      "wiki_links": [],
+      "backlinks": []
+    },
+    {
+      "id": "physicists-reveal-universal-speed-limit-on-quantum-informati",
+      "title": "Physicists reveal universal speed limit on quantum information scrambling",
+      "category": "research",
+      "source": "agent",
+      "source_type": "reddit",
+      "date": "2026-04-29",
+      "summary": "Physicists have discovered a universal 'speed limit' on the time quantum information takes to spread through larger systems. Research published in Physical Review Letters proves this minimum time is l",
+      "tags": [
+        "research",
+        "r-physics"
+      ],
+      "url": "https://www.reddit.com/r/Physics/comments/1sz9r7u/physicists_reveal_universal_speed_limit_on/",
+      "file": "research/physicists-reveal-universal-speed-limit-on-quantum-informati.md",
+      "wiki_links": [],
+      "backlinks": []
+    },
+    {
+      "id": "physists-and-astronomers-if-you-were-able-to-place-any-curre",
+      "title": "Physists and astronomers, if you were able to place any current or developing scientific instrument at the edge of our galaxy to observe and/or measure something of the Universe, and receive the results instantly. Which would it be, and why?",
+      "category": "research",
+      "source": "agent",
+      "source_type": "reddit",
+      "date": "2026-04-29",
+      "summary": "This Reddit discussion from r/Physics explores a hypothetical scenario where physicists and astronomers could place any current or developing scientific instrument at the edge of the galaxy with insta",
+      "tags": [
+        "research",
+        "r-physics"
+      ],
+      "url": "https://www.reddit.com/r/Physics/comments/1sze24n/physists_and_astronomers_if_you_were_able_to/",
+      "file": "research/physists-and-astronomers-if-you-were-able-to-place-any-curre.md",
       "wiki_links": [],
       "backlinks": []
     },
@@ -3490,12 +3609,29 @@
       "url": "https://www.reddit.com/r/QuantumComputing/comments/1sykbpc/the_king_of_england_just_gave_a_shoutout_to/",
       "file": "research/the-king-of-england-just-gave-a-shoutout-to-quantum-computin.md",
       "wiki_links": [
+        "what-impact-doeswill-quantum-computing-have-on-the-coding-wo",
         "quantum-chips-could-scale-faster-with-new-spin-qubit-readout",
-        "two-paths-to-scalable-quantum-computing-optical-links-betwee",
-        "ai-automates-quantum-dot-voltage-tuning-for-scaling-up-quant",
         "a-long-sought-quantum-computing-milestone-arrives-as-fermion",
-        "what-impact-doeswill-quantum-computing-have-on-the-coding-wo"
+        "two-paths-to-scalable-quantum-computing-optical-links-betwee",
+        "ai-automates-quantum-dot-voltage-tuning-for-scaling-up-quant"
       ],
+      "backlinks": []
+    },
+    {
+      "id": "training-qsp-phase-angles-with-gradient-descent",
+      "title": "Training QSP phase angles with gradient descent",
+      "category": "research",
+      "source": "agent",
+      "source_type": "reddit",
+      "date": "2026-04-29",
+      "summary": "I'll search for information about this Reddit post to provide an accurate summary. Discusses methods for computing QSP phase angles, addressing a key challenge in quantum signal processing where calcu",
+      "tags": [
+        "research",
+        "r-quantumcomputing"
+      ],
+      "url": "https://www.reddit.com/r/QuantumComputing/comments/1sz5edq/training_qsp_phase_angles_with_gradient_descent/",
+      "file": "research/training-qsp-phase-angles-with-gradient-descent.md",
+      "wiki_links": [],
       "backlinks": []
     },
     {
@@ -3512,6 +3648,23 @@
       ],
       "url": "https://www.reddit.com/r/Physics/comments/1syoqb8/we_still_dont_have_a_more_precise_value_for_big_g/",
       "file": "research/we-still-dont-have-a-more-precise-value-for-big-g.md",
+      "wiki_links": [],
+      "backlinks": []
+    },
+    {
+      "id": "what-should-i-startmove-onto",
+      "title": "What should I start/move onto",
+      "category": "research",
+      "source": "agent",
+      "source_type": "reddit",
+      "date": "2026-04-29",
+      "summary": "I don't have access to browse that specific Reddit post. Based on the title and subreddit, this likely covers career/educational guidance questions about transitioning between physics topics or fields",
+      "tags": [
+        "research",
+        "r-physics"
+      ],
+      "url": "https://www.reddit.com/r/Physics/comments/1sz6z1k/what_should_i_startmove_onto/",
+      "file": "research/what-should-i-startmove-onto.md",
       "wiki_links": [],
       "backlinks": []
     },
@@ -3581,11 +3734,11 @@
       "url": "https://arxiv.org/abs/2604.24291",
       "file": "applications/catalytic-enhancement-of-coherence-fraction-in-noisy-quantum.md",
       "wiki_links": [
-        "quantum-decoherence-of-the-surface-code-a-generalized-caldei",
-        "quantum-action-dependent-channels",
-        "few-shot-cross-device-transfer-for-quantum-noise-modeling-on",
         "fidelity-preserving-and-decoherence-for-mixed-unitary-quantu",
-        "noise-robust-1-copy-distillation-protocol-for-all-distillabl"
+        "noise-robust-1-copy-distillation-protocol-for-all-distillabl",
+        "few-shot-cross-device-transfer-for-quantum-noise-modeling-on",
+        "quantum-action-dependent-channels",
+        "quantum-decoherence-of-the-surface-code-a-generalized-caldei"
       ],
       "backlinks": []
     },
@@ -3604,9 +3757,9 @@
       "url": "https://thequantuminsider.com/2026/04/28/haiqu-and-hsbc-demonstrate-scalable-quantum-encoding-for-financial-models/",
       "file": "applications/haiqu-and-hsbc-demonstrate-scalable-quantum-encoding-for-fin.md",
       "wiki_links": [
-        "ionq-partners-with-florida-lambdarail-on-secure-network-proj",
         "quantum-informed-ai-improves-long-term-turbulence-forecasts",
         "when-t-depth-misleads-predicting-fault-tolerant-quantum-exec",
+        "ionq-partners-with-florida-lambdarail-on-secure-network-proj",
         "how-are-customers-getting-value-from-their-work-with-us-toda"
       ],
       "backlinks": [
@@ -3638,9 +3791,9 @@
       "file": "applications/how-are-customers-getting-value-from-their-work-with-us-toda.md",
       "wiki_links": [
         "ionq-partners-with-florida-lambdarail-on-secure-network-proj",
-        "were-building-the-connective-tissue-of-a-full-stack-quantum",
-        "creating-a-statewide-quantum-network-in-florida-will-mark-an",
         "haiqu-and-hsbc-demonstrate-scalable-quantum-encoding-for-fin",
+        "creating-a-statewide-quantum-network-in-florida-will-mark-an",
+        "were-building-the-connective-tissue-of-a-full-stack-quantum",
         "together-with-florida-quantum-and-local-colleges-and-univers"
       ],
       "backlinks": [
@@ -3689,9 +3842,9 @@
       "file": "applications/laser-method-unlocks-3000-kelvin-thin-film-synthesis-for-qua.md",
       "wiki_links": [
         "bright-quantum-light-emission-achieved-at-room-temperature-i",
-        "why-ultrashort-laser-pulses-could-make-low-power-electron-so",
         "ai-automates-quantum-dot-voltage-tuning-for-scaling-up-quant",
-        "stretching-and-squeezing-diamond-opens-new-path-for-ultra-pr"
+        "stretching-and-squeezing-diamond-opens-new-path-for-ultra-pr",
+        "why-ultrashort-laser-pulses-could-make-low-power-electron-so"
       ],
       "backlinks": []
     },
@@ -3727,11 +3880,11 @@
       "url": "https://arxiv.org/abs/2604.24727",
       "file": "applications/operating-a-contextual-stern-gerlach-apparatus.md",
       "wiki_links": [
+        "heralded-entanglement-transfer-from-entangled-atomic-pair-to",
+        "enhanced-atom-capture-via-multi-frequency-magneto-optical-tr",
         "kinematic-modulation-in-driven-spin-resonance",
         "overcoming-limitations-on-gate-fidelity-in-noisy-static-exch",
-        "singlet-triplet-oscillations-in-multivalley-si-double-quantu",
-        "heralded-entanglement-transfer-from-entangled-atomic-pair-to",
-        "enhanced-atom-capture-via-multi-frequency-magneto-optical-tr"
+        "singlet-triplet-oscillations-in-multivalley-si-double-quantu"
       ],
       "backlinks": []
     },
@@ -3771,8 +3924,8 @@
       "url": "https://arxiv.org/abs/2510.09834",
       "file": "applications/quantum-action-dependent-channels.md",
       "wiki_links": [
-        "wasserstein-distances-and-divergences-of-order-p-by-quantum",
         "nonlocal-and-quantum-advantages-in-network-coding-for-multip",
+        "wasserstein-distances-and-divergences-of-order-p-by-quantum",
         "fidelity-preserving-and-decoherence-for-mixed-unitary-quantu",
         "enhancing-phase-retrievability-of-quantum-channels-via-inter"
       ],
@@ -3799,10 +3952,10 @@
       "url": "https://arxiv.org/abs/2101.04212",
       "file": "applications/spinors-with-torsion-and-matter-antimatter-asymmetry.md",
       "wiki_links": [
-        "causal-structure-in-spin-foams",
-        "witnessing-entanglement-between-photon-and-matter-due-to-gra",
+        "semiclassical-phases-of-charged-spin-12-matter-wave-interfer",
         "observation-of-oam-non-conservation-in-entangled-photon-gene",
-        "semiclassical-phases-of-charged-spin-12-matter-wave-interfer"
+        "causal-structure-in-spin-foams",
+        "witnessing-entanglement-between-photon-and-matter-due-to-gra"
       ],
       "backlinks": []
     },
@@ -3821,10 +3974,10 @@
       "url": "https://arxiv.org/abs/2604.11409",
       "file": "applications/when-t-depth-misleads-predicting-fault-tolerant-quantum-exec.md",
       "wiki_links": [
-        "locating-rydberg-decay-error-in-swap-leakage-reduction-circu",
+        "refining-quantum-phase-estimation-precision-conditions-on-un",
         "understanding-quantum-instruments",
         "taming-rydberg-decay-with-measurement-based-quantum-computat",
-        "refining-quantum-phase-estimation-precision-conditions-on-un"
+        "locating-rydberg-decay-error-in-swap-leakage-reduction-circu"
       ],
       "backlinks": [
         {
@@ -3953,8 +4106,8 @@
       "wiki_links": [
         "quantum-informed-ai-improves-long-term-turbulence-forecasts",
         "two-paths-to-scalable-quantum-computing-optical-links-betwee",
-        "a-long-sought-quantum-computing-milestone-arrives-as-fermion",
-        "ai-automates-quantum-dot-voltage-tuning-for-scaling-up-quant"
+        "ai-automates-quantum-dot-voltage-tuning-for-scaling-up-quant",
+        "a-long-sought-quantum-computing-milestone-arrives-as-fermion"
       ],
       "backlinks": [
         {
@@ -3980,9 +4133,9 @@
       "file": "hardware/collective-strong-coupling-of-thermal-atoms-to-integrated-mi.md",
       "wiki_links": [
         "optical-depth-dictates-universal-bounds-on-many-body-decay-i",
-        "enhanced-atom-capture-via-multi-frequency-magneto-optical-tr",
         "isotopically-enriched-epitaxial-cawo4-thin-films-for-er3-spi",
-        "a-framework-for-continuous-superradiant-laser-operation-via"
+        "a-framework-for-continuous-superradiant-laser-operation-via",
+        "enhanced-atom-capture-via-multi-frequency-magneto-optical-tr"
       ],
       "backlinks": [
         {
@@ -4007,9 +4160,9 @@
       "url": "https://arxiv.org/abs/2604.24090",
       "file": "hardware/electrically-detected-magnetic-resonance-of-75as-magnetic-cl.md",
       "wiki_links": [
-        "kinematic-modulation-in-driven-spin-resonance",
         "pump-threshold-free-frequency-comb-via-cavity-floquet-engine",
         "enhancing-the-sensitivity-of-single-microwave-photon-detecti",
+        "kinematic-modulation-in-driven-spin-resonance",
         "collective-strong-coupling-of-thermal-atoms-to-integrated-mi"
       ],
       "backlinks": []
@@ -4030,8 +4183,8 @@
       "file": "hardware/quantum-model-explains-how-single-electrons-cause-damage-ins.md",
       "wiki_links": [
         "quantum-chips-could-scale-faster-with-new-spin-qubit-readout",
-        "two-paths-to-scalable-quantum-computing-optical-links-betwee",
-        "ai-automates-quantum-dot-voltage-tuning-for-scaling-up-quant"
+        "ai-automates-quantum-dot-voltage-tuning-for-scaling-up-quant",
+        "two-paths-to-scalable-quantum-computing-optical-links-betwee"
       ],
       "backlinks": []
     },
@@ -4085,10 +4238,10 @@
       "file": "industry/floridas-first-quantum-safe-corridor-lambdarail-and-the-new-.md",
       "wiki_links": [
         "ionq-partners-with-florida-lambdarail-on-secure-network-proj",
-        "together-with-florida-quantum-and-local-colleges-and-univers",
         "why-2026-matters-for-quantum-security",
         "creating-a-statewide-quantum-network-in-florida-will-mark-an",
-        "the-agreement-announced-at-emergeamericas-last-week-represen"
+        "the-agreement-announced-at-emergeamericas-last-week-represen",
+        "together-with-florida-quantum-and-local-colleges-and-univers"
       ],
       "backlinks": []
     },
@@ -4124,9 +4277,9 @@
       "url": "https://thequantuminsider.com/2026/04/28/infleqtion-us-navy-contract-quirc-rf-signal-processing/",
       "file": "industry/infleqtion-awarded-1m-us-navy-contract-to-advance-quantum-ac.md",
       "wiki_links": [
+        "monarch-quantum-and-oratomic-partner-on-quantum-systems",
         "ionq-partners-with-florida-lambdarail-on-secure-network-proj",
         "were-building-the-connective-tissue-of-a-full-stack-quantum",
-        "monarch-quantum-and-oratomic-partner-on-quantum-systems",
         "from-unveiling-aurora-the-worlds-first-networked-photonic-qu"
       ],
       "backlinks": [
@@ -4184,10 +4337,10 @@
       "url": "https://thequantuminsider.com/2026/04/28/monarch-quantum-oratomic-utility-scale-quantum-partnership/",
       "file": "industry/monarch-quantum-and-oratomic-partner-on-quantum-systems.md",
       "wiki_links": [
-        "ionq-partners-with-florida-lambdarail-on-secure-network-proj",
         "two-paths-to-scalable-quantum-computing-optical-links-betwee",
-        "infleqtion-awarded-1m-us-navy-contract-to-advance-quantum-ac",
         "taming-rydberg-decay-with-measurement-based-quantum-computat",
+        "infleqtion-awarded-1m-us-navy-contract-to-advance-quantum-ac",
+        "ionq-partners-with-florida-lambdarail-on-secure-network-proj",
         "from-unveiling-aurora-the-worlds-first-networked-photonic-qu"
       ],
       "backlinks": [
@@ -4223,10 +4376,10 @@
       "url": "https://thequantuminsider.com/2026/04/28/new-chip-can-protect-wireless-biomedical-devices-from-quantum-attacks/",
       "file": "industry/new-chip-can-protect-wireless-biomedical-devices-from-quantu.md",
       "wiki_links": [
-        "ionq-partners-with-florida-lambdarail-on-secure-network-proj",
-        "creating-a-statewide-quantum-network-in-florida-will-mark-an",
         "floridas-first-quantum-safe-corridor-lambdarail-and-the-new",
-        "why-2026-matters-for-quantum-security"
+        "ionq-partners-with-florida-lambdarail-on-secure-network-proj",
+        "why-2026-matters-for-quantum-security",
+        "creating-a-statewide-quantum-network-in-florida-will-mark-an"
       ],
       "backlinks": [
         {
@@ -4252,8 +4405,8 @@
       "file": "industry/on-may-1st-christian-weedbrook-cweedbrook-founder-and-ceo-of.md",
       "wiki_links": [
         "a-huge-thank-you-to-canadian-business-cdnbiz-and-macleans-ma",
-        "the-canadian-workshop-on-quantum-algorithms-2026-kicks-off-t",
         "xanadu-was-proud-to-be-named-a-winner-of-the-2026-canadian-b",
+        "the-canadian-workshop-on-quantum-algorithms-2026-kicks-off-t",
         "from-unveiling-aurora-the-worlds-first-networked-photonic-qu"
       ],
       "backlinks": [
@@ -4328,9 +4481,9 @@
       "url": "https://thequantuminsider.com/2026/04/28/qdnl-participations-rebrands-to-ground-state-ventures-as-fund-hits-88-million-exceeds-target/",
       "file": "industry/qdnl-participations-rebrands-to-ground-state-ventures-as-fun.md",
       "wiki_links": [
+        "floridas-first-quantum-safe-corridor-lambdarail-and-the-new",
         "ionq-partners-with-florida-lambdarail-on-secure-network-proj",
         "infleqtion-awarded-1m-us-navy-contract-to-advance-quantum-ac",
-        "floridas-first-quantum-safe-corridor-lambdarail-and-the-new",
         "from-unveiling-aurora-the-worlds-first-networked-photonic-qu"
       ],
       "backlinks": []
@@ -4350,10 +4503,10 @@
       "url": "https://x.com/XanaduAI/status/2049134059045924969",
       "file": "industry/quantum-computers-have-known-advantages-when-working-in-four.md",
       "wiki_links": [
-        "from-the-basics-of-pennylaneai-to-the-complexities-of-quantu",
+        "monarch-quantum-and-oratomic-partner-on-quantum-systems",
         "read-more-httpsarxivorgabs260324654",
-        "symplectic-perspective-to-quantum-computing-for-hamiltonian",
-        "monarch-quantum-and-oratomic-partner-on-quantum-systems"
+        "from-the-basics-of-pennylaneai-to-the-complexities-of-quantu",
+        "symplectic-perspective-to-quantum-computing-for-hamiltonian"
       ],
       "backlinks": [
         {
@@ -4378,9 +4531,9 @@
       "url": "https://thequantuminsider.com/2026/04/28/quantumdiamonds-deploys-failure-analysis-technology-at-leading-taiwan-semiconductor-test-house/",
       "file": "industry/quantumdiamonds-deploys-failure-analysis-technology-at-leadi.md",
       "wiki_links": [
+        "monarch-quantum-and-oratomic-partner-on-quantum-systems",
         "ionq-partners-with-florida-lambdarail-on-secure-network-proj",
         "infleqtion-awarded-1m-us-navy-contract-to-advance-quantum-ac",
-        "monarch-quantum-and-oratomic-partner-on-quantum-systems",
         "from-unveiling-aurora-the-worlds-first-networked-photonic-qu"
       ],
       "backlinks": []
@@ -4401,10 +4554,10 @@
       "file": "industry/read-more-httpsarxivorgabs260324654.md",
       "wiki_links": [
         "now-available-mihir-bhaskar-our-svp-global-rd-presents-our-c",
-        "quantum-computers-have-known-advantages-when-working-in-four",
         "xanadu-is-proud-to-support-the-next-generation-of-quantum-re",
+        "from-unveiling-aurora-the-worlds-first-networked-photonic-qu",
         "from-the-basics-of-pennylaneai-to-the-complexities-of-quantu",
-        "from-unveiling-aurora-the-worlds-first-networked-photonic-qu"
+        "quantum-computers-have-known-advantages-when-working-in-four"
       ],
       "backlinks": [
         {
@@ -4430,8 +4583,8 @@
       "file": "industry/what-does-it-take-to-build-quantum-in-space-it-starts-with-b.md",
       "wiki_links": [
         "now-available-mihir-bhaskar-our-svp-global-rd-presents-our-c",
-        "creating-a-statewide-quantum-network-in-florida-will-mark-an",
         "floridas-first-quantum-safe-corridor-lambdarail-and-the-new",
+        "creating-a-statewide-quantum-network-in-florida-will-mark-an",
         "from-unveiling-aurora-the-worlds-first-networked-photonic-qu"
       ],
       "backlinks": []
@@ -4451,9 +4604,9 @@
       "url": "https://thequantuminsider.com/2026/04/28/why-2026-matters-quantum-security/",
       "file": "industry/why-2026-matters-for-quantum-security.md",
       "wiki_links": [
-        "ionq-partners-with-florida-lambdarail-on-secure-network-proj",
         "creating-a-statewide-quantum-network-in-florida-will-mark-an",
         "floridas-first-quantum-safe-corridor-lambdarail-and-the-new",
+        "ionq-partners-with-florida-lambdarail-on-secure-network-proj",
         "new-chip-can-protect-wireless-biomedical-devices-from-quantu"
       ],
       "backlinks": [
@@ -4722,9 +4875,9 @@
       "url": "https://arxiv.org/abs/2604.23242",
       "file": "papers/a-conceptual-technology-dependent-framework-of-ternary-quant.md",
       "wiki_links": [
-        "locating-rydberg-decay-error-in-swap-leakage-reduction-circu",
+        "gate-dependent-offset-charge-shifts-and-anharmonicity-in-gat",
         "high-fidelity-collisional-quantum-gates-with-fermionic-atoms",
-        "gate-dependent-offset-charge-shifts-and-anharmonicity-in-gat"
+        "locating-rydberg-decay-error-in-swap-leakage-reduction-circu"
       ],
       "backlinks": [
         {
@@ -4759,8 +4912,8 @@
       "url": "https://arxiv.org/abs/2604.23535",
       "file": "papers/a-fully-quantum-algorithm-for-image-edge-detection.md",
       "wiki_links": [
-        "quantum-prediction-of-transport-dynamics-in-discretized-stat",
         "a-new-algorithm-for-applying-sequences-of-affine-transformat",
+        "quantum-prediction-of-transport-dynamics-in-discretized-stat",
         "quantum-circuit-cutting-complexity-and-optimization",
         "a-conceptual-technology-dependent-framework-of-ternary-quant"
       ],
@@ -4826,10 +4979,10 @@
       "url": "https://arxiv.org/abs/2412.09714",
       "file": "papers/a-new-algorithm-for-applying-sequences-of-affine-transformat.md",
       "wiki_links": [
-        "beyond-monolithic-scaling-modularity-and-heterogeneity-as-an",
-        "constant-factor-analysis-of-optimal-quantum-linear-solvers-i",
         "demonstration-of-a-quantum-c-not-gate-in-a-time-multiplexed",
-        "hermitian-matrix-function-synthesis-without-block-encoding"
+        "hermitian-matrix-function-synthesis-without-block-encoding",
+        "beyond-monolithic-scaling-modularity-and-heterogeneity-as-an",
+        "constant-factor-analysis-of-optimal-quantum-linear-solvers-i"
       ],
       "backlinks": [
         {
@@ -4884,10 +5037,10 @@
       "url": "https://arxiv.org/abs/2602.10733",
       "file": "papers/a-qft-information-protocol-for-charged-black-holes.md",
       "wiki_links": [
-        "wasserstein-distances-and-divergences-of-order-p-by-quantum",
         "callan-symanzik-like-equation-in-information-theory",
+        "quantum-speed-limit-for-measurement-probabilities",
         "multipartite-hardy-paradox-unlocks-device-independent-key-sh",
-        "quantum-speed-limit-for-measurement-probabilities"
+        "wasserstein-distances-and-divergences-of-order-p-by-quantum"
       ],
       "backlinks": [
         {
@@ -4922,8 +5075,8 @@
       "url": "https://arxiv.org/abs/2603.18692",
       "file": "papers/a-simple-understanding-of-quantum-electrodynamics-using-bohm.md",
       "wiki_links": [
-        "on-tunneling-in-the-quantum-multiverse",
-        "halls-exact-variance-decomposition-in-bohmian-mechanics"
+        "halls-exact-variance-decomposition-in-bohmian-mechanics",
+        "on-tunneling-in-the-quantum-multiverse"
       ],
       "backlinks": [
         {
@@ -4963,11 +5116,11 @@
       "url": "https://arxiv.org/abs/2604.22877",
       "file": "papers/a-specialized-importance-aware-quantum-convolutional-neural-.md",
       "wiki_links": [
-        "pixel-translation-equivariant-quantum-convolutional-neural-n",
         "beyond-monolithic-scaling-modularity-and-heterogeneity-as-an",
         "few-shot-cross-device-transfer-for-quantum-noise-modeling-on",
-        "new-non-euclidean-neural-quantum-states-from-additional-type",
-        "diffqec-a-versatile-diffusion-model-for-quantum-error-correc"
+        "pixel-translation-equivariant-quantum-convolutional-neural-n",
+        "diffqec-a-versatile-diffusion-model-for-quantum-error-correc",
+        "new-non-euclidean-neural-quantum-states-from-additional-type"
       ],
       "backlinks": []
     },
@@ -4986,10 +5139,10 @@
       "url": "https://arxiv.org/abs/2603.25582",
       "file": "papers/a-unified-quantum-computing-quantum-monte-carlo-framework-th.md",
       "wiki_links": [
-        "symplectic-perspective-to-quantum-computing-for-hamiltonian",
-        "a-new-algorithm-for-applying-sequences-of-affine-transformat",
+        "refining-quantum-phase-estimation-precision-conditions-on-un",
         "on-the-complexity-of-quantum-numerical-integration-an-angle",
-        "refining-quantum-phase-estimation-precision-conditions-on-un"
+        "a-new-algorithm-for-applying-sequences-of-affine-transformat",
+        "symplectic-perspective-to-quantum-computing-for-hamiltonian"
       ],
       "backlinks": [
         {
@@ -5080,9 +5233,9 @@
       "url": "https://arxiv.org/abs/2604.23138",
       "file": "papers/an-analysis-of-commutation-based-trotter-ordering-strategies.md",
       "wiki_links": [
-        "symplectic-perspective-to-quantum-computing-for-hamiltonian",
-        "how-fast-can-a-quantum-gate-be-exact-speed-limits-from-geome",
         "encoding-strategies-for-quantum-enhanced-fluid-simulations-o",
+        "how-fast-can-a-quantum-gate-be-exact-speed-limits-from-geome",
+        "symplectic-perspective-to-quantum-computing-for-hamiltonian",
         "taming-rydberg-decay-with-measurement-based-quantum-computat"
       ],
       "backlinks": [
@@ -5113,11 +5266,11 @@
       "url": "https://arxiv.org/abs/2604.24742",
       "file": "papers/application-of-a-quantum-amplitude-redistribution-algorithm-.md",
       "wiki_links": [
-        "on-the-complexity-of-quantum-numerical-integration-an-angle",
         "quantum-algorithm-for-solving-high-dimensional-linear-stocha",
         "a-new-algorithm-for-applying-sequences-of-affine-transformat",
+        "a-fully-quantum-algorithm-for-image-edge-detection",
         "new-aspects-of-quantum-topological-data-analysis-betti-numbe",
-        "a-fully-quantum-algorithm-for-image-edge-detection"
+        "on-the-complexity-of-quantum-numerical-integration-an-angle"
       ],
       "backlinks": []
     },
@@ -5136,10 +5289,10 @@
       "url": "https://www.nature.com/articles/s41586-026-10559-8",
       "file": "papers/author-correction-quantum-error-correction-below-the-surface.md",
       "wiki_links": [
-        "quantum-decoherence-of-the-surface-code-a-generalized-caldei",
+        "fair-decoder-baselines-and-rigorous-finite-size-scaling-for",
         "taming-rydberg-decay-with-measurement-based-quantum-computat",
         "few-shot-cross-device-transfer-for-quantum-noise-modeling-on",
-        "fair-decoder-baselines-and-rigorous-finite-size-scaling-for",
+        "quantum-decoherence-of-the-surface-code-a-generalized-caldei",
         "diffqec-a-versatile-diffusion-model-for-quantum-error-correc"
       ],
       "backlinks": []
@@ -5182,8 +5335,8 @@
       "file": "papers/bayesian-phase-transition-for-the-critical-ising-model-enlar.md",
       "wiki_links": [
         "generalized-spectral-statistics-in-the-kicked-ising-model",
-        "scaling-of-entanglement-entropy-and-correlations-in-the-vari",
-        "exact-combinatorial-density-of-states-for-the-critical-1d-is"
+        "exact-combinatorial-density-of-states-for-the-critical-1d-is",
+        "scaling-of-entanglement-entropy-and-correlations-in-the-vari"
       ],
       "backlinks": [
         {
@@ -5213,10 +5366,10 @@
       "url": "https://arxiv.org/abs/2604.22859",
       "file": "papers/bell-inequalities-from-polyhedral-sampling.md",
       "wiki_links": [
-        "dualistic-operational-characterization-of-device-dependent-c",
-        "multipartite-hardy-paradox-unlocks-device-independent-key-sh",
+        "fully-passive-quantum-conference-key-agreement",
         "from-bell-products-to-greenberger-horne-zeilinger-states-qua",
-        "fully-passive-quantum-conference-key-agreement"
+        "dualistic-operational-characterization-of-device-dependent-c",
+        "multipartite-hardy-paradox-unlocks-device-independent-key-sh"
       ],
       "backlinks": [
         {
@@ -5251,9 +5404,9 @@
       "url": "https://arxiv.org/abs/2604.24059",
       "file": "papers/beyond-monolithic-scaling-modularity-and-heterogeneity-as-an.md",
       "wiki_links": [
-        "quantum-circuit-cutting-complexity-and-optimization",
-        "few-shot-cross-device-transfer-for-quantum-noise-modeling-on",
         "fair-decoder-baselines-and-rigorous-finite-size-scaling-for",
+        "few-shot-cross-device-transfer-for-quantum-noise-modeling-on",
+        "quantum-circuit-cutting-complexity-and-optimization",
         "diffqec-a-versatile-diffusion-model-for-quantum-error-correc"
       ],
       "backlinks": [
@@ -5294,10 +5447,10 @@
       "url": "https://arxiv.org/abs/2604.23420",
       "file": "papers/boundary-robust-transmission-asymmetry-as-a-topological-sign.md",
       "wiki_links": [
-        "non-hermitian-magnetic-moment",
         "quantum-skyrmions-in-mixed-states-of-light-and-their-nested",
+        "generalized-spectral-statistics-in-the-kicked-ising-model",
         "fraunhofer-patterns-in-atomic-josephson-junctions",
-        "generalized-spectral-statistics-in-the-kicked-ising-model"
+        "non-hermitian-magnetic-moment"
       ],
       "backlinks": [
         {
@@ -5364,9 +5517,9 @@
       "url": "https://arxiv.org/abs/2109.00986",
       "file": "papers/causal-structure-in-spin-foams.md",
       "wiki_links": [
-        "dynamical-preparation-of-u1-quantum-spin-liquids-in-an-analo",
         "non-identical-anyon-algebras-from-compact-field-quantum-geom",
-        "on-the-invariants-of-finite-groups-arising-in-a-topological"
+        "on-the-invariants-of-finite-groups-arising-in-a-topological",
+        "dynamical-preparation-of-u1-quantum-spin-liquids-in-an-analo"
       ],
       "backlinks": [
         {
@@ -5494,10 +5647,10 @@
       "url": "https://arxiv.org/abs/2604.23614",
       "file": "papers/chaotic-billiard-lasers.md",
       "wiki_links": [
-        "quantum-chaotic-systems-a-random-matrix-approach",
         "thermalization-regimes-in-a-chaotic-tavis-cummings-model",
-        "quantum-mpemba-effect-in-chaotic-systems-with-conservation-l",
-        "fixed-reservoir-vs-variational-quantum-architectures-for-cha"
+        "quantum-chaotic-systems-a-random-matrix-approach",
+        "fixed-reservoir-vs-variational-quantum-architectures-for-cha",
+        "quantum-mpemba-effect-in-chaotic-systems-with-conservation-l"
       ],
       "backlinks": [
         {
@@ -5532,8 +5685,8 @@
       "url": "https://arxiv.org/abs/2604.22878",
       "file": "papers/charging-dynamics-in-a-distance-modulated-planar-quantum-bat.md",
       "wiki_links": [
-        "design-principles-for-enhanced-quantum-transport-with-site-d",
         "impact-of-thermal-and-dissipative-effects-in-a-periodically",
+        "design-principles-for-enhanced-quantum-transport-with-site-d",
         "how-fast-can-a-quantum-gate-be-exact-speed-limits-from-geome",
         "locked-subharmonic-oscillations-in-the-entanglement-spectrum"
       ],
@@ -5565,9 +5718,9 @@
       "url": "https://arxiv.org/abs/2604.12354",
       "file": "papers/chiral-state-conversion-near-an-exceptional-point-speed-nois.md",
       "wiki_links": [
+        "universal-quantum-control-over-non-hermitian-continuous-vari",
         "how-fast-can-a-quantum-gate-be-exact-speed-limits-from-geome",
-        "spectroscopic-signatures-of-a-liouvillian-exceptional-spectr",
-        "universal-quantum-control-over-non-hermitian-continuous-vari"
+        "spectroscopic-signatures-of-a-liouvillian-exceptional-spectr"
       ],
       "backlinks": [
         {
@@ -5617,11 +5770,11 @@
       "url": "https://arxiv.org/abs/2604.23192",
       "file": "papers/coherence-dynamics-in-quantum-many-body-systems-with-conserv.md",
       "wiki_links": [
-        "quantum-mpemba-effect-in-chaotic-systems-with-conservation-l",
-        "peak-valley-mechanism-for-hilbert-space-fragmentation",
         "core-hole-excitation-dynamics-of-one-dimensional-ultracold-t",
-        "quantum-chaotic-systems-a-random-matrix-approach",
-        "entropy-signatures-of-collective-modes-and-vortex-dynamics-i"
+        "quantum-mpemba-effect-in-chaotic-systems-with-conservation-l",
+        "entropy-signatures-of-collective-modes-and-vortex-dynamics-i",
+        "peak-valley-mechanism-for-hilbert-space-fragmentation",
+        "quantum-chaotic-systems-a-random-matrix-approach"
       ],
       "backlinks": [
         {
@@ -5696,10 +5849,10 @@
       "url": "https://arxiv.org/abs/2604.23316",
       "file": "papers/complementarity-between-bosonic-and-fermionic-many-body-inte.md",
       "wiki_links": [
-        "fidelity-preserving-and-decoherence-for-mixed-unitary-quantu",
+        "core-hole-excitation-dynamics-of-one-dimensional-ultracold-t",
         "certain-bcs-wavefunctions-are-quantum-many-body-scars",
         "coherence-dynamics-in-quantum-many-body-systems-with-conserv",
-        "core-hole-excitation-dynamics-of-one-dimensional-ultracold-t"
+        "fidelity-preserving-and-decoherence-for-mixed-unitary-quantu"
       ],
       "backlinks": [
         {
@@ -5755,8 +5908,8 @@
       "url": "https://arxiv.org/abs/2309.13014",
       "file": "papers/completeness-of-qufinite-zxw-calculus-a-graphical-language-f.md",
       "wiki_links": [
-        "demonstration-of-a-quantum-c-not-gate-in-a-time-multiplexed",
         "efficient-quantum-fully-homomorphic-encryption",
+        "demonstration-of-a-quantum-c-not-gate-in-a-time-multiplexed",
         "nonclassical-nullifiers-for-quantum-hypergraph-states"
       ],
       "backlinks": [
@@ -5792,8 +5945,8 @@
       "url": "https://arxiv.org/abs/2604.22185",
       "file": "papers/constant-factor-analysis-of-optimal-quantum-linear-solvers-i.md",
       "wiki_links": [
-        "symplectic-perspective-to-quantum-computing-for-hamiltonian",
-        "quantum-algorithm-for-solving-high-dimensional-linear-stocha"
+        "quantum-algorithm-for-solving-high-dimensional-linear-stocha",
+        "symplectic-perspective-to-quantum-computing-for-hamiltonian"
       ],
       "backlinks": [
         {
@@ -5859,8 +6012,8 @@
       "file": "papers/contextuality-from-the-projector-overlap-matrix.md",
       "wiki_links": [
         "scaling-of-entanglement-entropy-and-correlations-in-the-vari",
-        "how-quantum-contextuality-disappears-in-the-classical-limit",
         "wigner-functions-negativity-volumes-and-experimental-generat",
+        "how-quantum-contextuality-disappears-in-the-classical-limit",
         "complementarity-between-bosonic-and-fermionic-many-body-inte"
       ],
       "backlinks": []
@@ -5880,11 +6033,11 @@
       "url": "https://arxiv.org/abs/2604.23785",
       "file": "papers/core-hole-excitation-dynamics-of-one-dimensional-ultracold-t.md",
       "wiki_links": [
-        "coherence-dynamics-in-quantum-many-body-systems-with-conserv",
-        "strong-interaction-induced-dimensional-crossover-in-1d-quant",
-        "correlated-dynamics-of-three-particle-bound-states-induced-b",
         "complementarity-between-bosonic-and-fermionic-many-body-inte",
-        "high-fidelity-collisional-quantum-gates-with-fermionic-atoms"
+        "correlated-dynamics-of-three-particle-bound-states-induced-b",
+        "high-fidelity-collisional-quantum-gates-with-fermionic-atoms",
+        "coherence-dynamics-in-quantum-many-body-systems-with-conserv",
+        "strong-interaction-induced-dimensional-crossover-in-1d-quant"
       ],
       "backlinks": [
         {
@@ -5969,10 +6122,10 @@
       "url": "https://arxiv.org/abs/2601.20042",
       "file": "papers/correlated-dynamics-of-three-particle-bound-states-induced-b.md",
       "wiki_links": [
-        "high-fidelity-collisional-quantum-gates-with-fermionic-atoms",
-        "partial-solvability-induced-by-dark-states-in-a-box-trap-wit",
+        "strong-interaction-induced-dimensional-crossover-in-1d-quant",
         "core-hole-excitation-dynamics-of-one-dimensional-ultracold-t",
-        "strong-interaction-induced-dimensional-crossover-in-1d-quant"
+        "high-fidelity-collisional-quantum-gates-with-fermionic-atoms",
+        "partial-solvability-induced-by-dark-states-in-a-box-trap-wit"
       ],
       "backlinks": [
         {
@@ -6058,10 +6211,10 @@
       "url": "https://arxiv.org/abs/2412.02478",
       "file": "papers/demonstration-of-a-quantum-c-not-gate-in-a-time-multiplexed-.md",
       "wiki_links": [
-        "locating-rydberg-decay-error-in-swap-leakage-reduction-circu",
         "a-new-algorithm-for-applying-sequences-of-affine-transformat",
         "quantum-prediction-of-transport-dynamics-in-discretized-stat",
-        "an-analysis-of-commutation-based-trotter-ordering-strategies"
+        "an-analysis-of-commutation-based-trotter-ordering-strategies",
+        "locating-rydberg-decay-error-in-swap-leakage-reduction-circu"
       ],
       "backlinks": []
     },
@@ -6080,11 +6233,11 @@
       "url": "https://arxiv.org/abs/2604.23005",
       "file": "papers/design-principles-for-enhanced-quantum-transport-with-site-d.md",
       "wiki_links": [
-        "quantum-decoherence-of-the-surface-code-a-generalized-caldei",
-        "quantum-dynamics-of-vibrationally-assisted-electron-transfer",
-        "noise-correlations-as-a-resource-in-pauli-twirled-circuits",
         "quantum-algorithm-for-solving-high-dimensional-linear-stocha",
-        "few-shot-cross-device-transfer-for-quantum-noise-modeling-on"
+        "noise-correlations-as-a-resource-in-pauli-twirled-circuits",
+        "few-shot-cross-device-transfer-for-quantum-noise-modeling-on",
+        "quantum-decoherence-of-the-surface-code-a-generalized-caldei",
+        "quantum-dynamics-of-vibrationally-assisted-electron-transfer"
       ],
       "backlinks": [
         {
@@ -6151,9 +6304,9 @@
       "url": "https://arxiv.org/abs/2604.24511",
       "file": "papers/deterministic-nucleation-and-dynamics-of-infilled-multiply-c.md",
       "wiki_links": [
-        "entropy-signatures-of-collective-modes-and-vortex-dynamics-i",
         "fraunhofer-patterns-in-atomic-josephson-junctions",
-        "fragmentation-temperature-of-1d-and-3d-quantum-droplets-in-a"
+        "fragmentation-temperature-of-1d-and-3d-quantum-droplets-in-a",
+        "entropy-signatures-of-collective-modes-and-vortex-dynamics-i"
       ],
       "backlinks": []
     },
@@ -6172,11 +6325,11 @@
       "url": "https://arxiv.org/abs/2604.24640",
       "file": "papers/diffqec-a-versatile-diffusion-model-for-quantum-error-correc.md",
       "wiki_links": [
-        "quantum-decoherence-of-the-surface-code-a-generalized-caldei",
-        "taming-rydberg-decay-with-measurement-based-quantum-computat",
-        "few-shot-cross-device-transfer-for-quantum-noise-modeling-on",
         "fair-decoder-baselines-and-rigorous-finite-size-scaling-for",
-        "optimization-using-locally-quantum-decoders"
+        "taming-rydberg-decay-with-measurement-based-quantum-computat",
+        "optimization-using-locally-quantum-decoders",
+        "few-shot-cross-device-transfer-for-quantum-noise-modeling-on",
+        "quantum-decoherence-of-the-surface-code-a-generalized-caldei"
       ],
       "backlinks": [
         {
@@ -6256,10 +6409,10 @@
       "url": "https://arxiv.org/abs/2604.24423",
       "file": "papers/dualistic-operational-characterization-of-device-dependent-c.md",
       "wiki_links": [
-        "quantum-average-correlation-based-on-average-coherence",
         "bell-inequalities-from-polyhedral-sampling",
-        "witnessing-entanglement-between-photon-and-matter-due-to-gra",
-        "noise-robust-1-copy-distillation-protocol-for-all-distillabl"
+        "noise-robust-1-copy-distillation-protocol-for-all-distillabl",
+        "quantum-average-correlation-based-on-average-coherence",
+        "witnessing-entanglement-between-photon-and-matter-due-to-gra"
       ],
       "backlinks": [
         {
@@ -6284,10 +6437,10 @@
       "url": "https://arxiv.org/abs/2604.24215",
       "file": "papers/dynamical-generation-of-stable-optical-microwave-squeezing-i.md",
       "wiki_links": [
-        "squeezed-state-degradations-due-to-mode-mismatch-and-thermal",
         "balancing-quantum-memories-in-asymmetric-repeaters-for-high",
+        "noise-robust-1-copy-distillation-protocol-for-all-distillabl",
         "from-bell-products-to-greenberger-horne-zeilinger-states-qua",
-        "noise-robust-1-copy-distillation-protocol-for-all-distillabl"
+        "squeezed-state-degradations-due-to-mode-mismatch-and-thermal"
       ],
       "backlinks": [
         {
@@ -6362,10 +6515,10 @@
       "url": "https://arxiv.org/abs/2604.24744",
       "file": "papers/dynamical-preparation-of-u1-quantum-spin-liquids-in-an-analo.md",
       "wiki_links": [
-        "core-hole-excitation-dynamics-of-one-dimensional-ultracold-t",
+        "correlated-dynamics-of-three-particle-bound-states-induced-b",
         "strong-interaction-induced-dimensional-crossover-in-1d-quant",
-        "peak-valley-mechanism-for-hilbert-space-fragmentation",
-        "correlated-dynamics-of-three-particle-bound-states-induced-b"
+        "core-hole-excitation-dynamics-of-one-dimensional-ultracold-t",
+        "peak-valley-mechanism-for-hilbert-space-fragmentation"
       ],
       "backlinks": [
         {
@@ -6390,9 +6543,9 @@
       "url": "https://arxiv.org/abs/2604.23490",
       "file": "papers/efficient-quantum-fully-homomorphic-encryption.md",
       "wiki_links": [
-        "beyond-monolithic-scaling-modularity-and-heterogeneity-as-an",
-        "demonstration-of-a-quantum-c-not-gate-in-a-time-multiplexed",
         "a-fully-quantum-algorithm-for-image-edge-detection",
+        "demonstration-of-a-quantum-c-not-gate-in-a-time-multiplexed",
+        "beyond-monolithic-scaling-modularity-and-heterogeneity-as-an",
         "diffqec-a-versatile-diffusion-model-for-quantum-error-correc"
       ],
       "backlinks": [
@@ -6448,10 +6601,10 @@
       "url": "https://arxiv.org/abs/2604.24694",
       "file": "papers/encoding-strategies-for-quantum-enhanced-fluid-simulations-o.md",
       "wiki_links": [
-        "fixed-reservoir-vs-variational-quantum-architectures-for-cha",
-        "symplectic-perspective-to-quantum-computing-for-hamiltonian",
         "quantum-algorithm-for-solving-high-dimensional-linear-stocha",
-        "quantum-prediction-of-transport-dynamics-in-discretized-stat"
+        "quantum-prediction-of-transport-dynamics-in-discretized-stat",
+        "fixed-reservoir-vs-variational-quantum-architectures-for-cha",
+        "symplectic-perspective-to-quantum-computing-for-hamiltonian"
       ],
       "backlinks": [
         {
@@ -6488,9 +6641,9 @@
       "wiki_links": [
         "shake-before-use-universal-enhancement-of-quantum-thermometr",
         "squeezed-state-degradations-due-to-mode-mismatch-and-thermal",
+        "fraunhofer-patterns-in-atomic-josephson-junctions",
         "fiber-integrated-quantum-frequency-conversion-for-long-dista",
-        "isotopically-enriched-epitaxial-cawo4-thin-films-for-er3-spi",
-        "fraunhofer-patterns-in-atomic-josephson-junctions"
+        "isotopically-enriched-epitaxial-cawo4-thin-films-for-er3-spi"
       ],
       "backlinks": [
         {
@@ -6575,10 +6728,10 @@
       "url": "https://arxiv.org/abs/2604.24363",
       "file": "papers/enhancing-phase-retrievability-of-quantum-channels-via-inter.md",
       "wiki_links": [
-        "wasserstein-distances-and-divergences-of-order-p-by-quantum",
         "nonlocal-and-quantum-advantages-in-network-coding-for-multip",
+        "deterministic-multi-user-identification-over-bosonic-channel",
         "fidelity-preserving-and-decoherence-for-mixed-unitary-quantu",
-        "deterministic-multi-user-identification-over-bosonic-channel"
+        "wasserstein-distances-and-divergences-of-order-p-by-quantum"
       ],
       "backlinks": [
         {
@@ -6628,8 +6781,8 @@
       "url": "https://arxiv.org/abs/2501.07354",
       "file": "papers/enhancing-the-sensitivity-of-single-microwave-photon-detecti.md",
       "wiki_links": [
-        "demonstration-of-a-quantum-c-not-gate-in-a-time-multiplexed",
         "realisation-of-a-protected-cat-qutrit-manifold-via-engineere",
+        "demonstration-of-a-quantum-c-not-gate-in-a-time-multiplexed",
         "gate-dependent-offset-charge-shifts-and-anharmonicity-in-gat"
       ],
       "backlinks": [
@@ -6655,10 +6808,10 @@
       "url": "https://arxiv.org/abs/2604.23673",
       "file": "papers/entanglement-12-qed-in-a-double-layer-of-dirac-materials.md",
       "wiki_links": [
-        "scaling-of-entanglement-entropy-and-correlations-in-the-vari",
         "balancing-quantum-memories-in-asymmetric-repeaters-for-high",
+        "noise-robust-1-copy-distillation-protocol-for-all-distillabl",
         "symmetry-guided-design-of-quantum-couplers-in-dirac-material",
-        "noise-robust-1-copy-distillation-protocol-for-all-distillabl"
+        "scaling-of-entanglement-entropy-and-correlations-in-the-vari"
       ],
       "backlinks": [
         {
@@ -6689,9 +6842,9 @@
       "file": "papers/entropy-signatures-of-collective-modes-and-vortex-dynamics-i.md",
       "wiki_links": [
         "scaling-of-entanglement-entropy-and-correlations-in-the-vari",
-        "enhanced-atom-capture-via-multi-frequency-magneto-optical-tr",
+        "core-hole-excitation-dynamics-of-one-dimensional-ultracold-t",
         "coherence-dynamics-in-quantum-many-body-systems-with-conserv",
-        "core-hole-excitation-dynamics-of-one-dimensional-ultracold-t"
+        "enhanced-atom-capture-via-multi-frequency-magneto-optical-tr"
       ],
       "backlinks": [
         {
@@ -6803,10 +6956,10 @@
       "url": "https://arxiv.org/abs/2510.07804",
       "file": "papers/exploring-the-spectral-edge-in-syk-models.md",
       "wiki_links": [
-        "entropy-signatures-of-collective-modes-and-vortex-dynamics-i",
-        "scaling-of-entanglement-entropy-and-correlations-in-the-vari",
         "thermalization-regimes-in-a-chaotic-tavis-cummings-model",
-        "exact-combinatorial-density-of-states-for-the-critical-1d-is"
+        "entropy-signatures-of-collective-modes-and-vortex-dynamics-i",
+        "exact-combinatorial-density-of-states-for-the-critical-1d-is",
+        "scaling-of-entanglement-entropy-and-correlations-in-the-vari"
       ],
       "backlinks": []
     },
@@ -6846,8 +6999,8 @@
       "file": "papers/few-shot-cross-device-transfer-for-quantum-noise-modeling-on.md",
       "wiki_links": [
         "quantum-decoherence-of-the-surface-code-a-generalized-caldei",
-        "fixed-reservoir-vs-variational-quantum-architectures-for-cha",
         "quantum-circuit-cutting-complexity-and-optimization",
+        "fixed-reservoir-vs-variational-quantum-architectures-for-cha",
         "diffqec-a-versatile-diffusion-model-for-quantum-error-correc"
       ],
       "backlinks": [
@@ -6948,9 +7101,9 @@
       "url": "https://arxiv.org/abs/2604.23444",
       "file": "papers/fiber-integrated-quantum-frequency-conversion-for-long-dista.md",
       "wiki_links": [
+        "dynamical-generation-of-stable-optical-microwave-squeezing-i",
         "pump-threshold-free-frequency-comb-via-cavity-floquet-engine",
         "from-bell-products-to-greenberger-horne-zeilinger-states-qua",
-        "dynamical-generation-of-stable-optical-microwave-squeezing-i",
         "isotopically-enriched-epitaxial-cawo4-thin-films-for-er3-spi"
       ],
       "backlinks": [
@@ -6991,10 +7144,10 @@
       "url": "https://arxiv.org/abs/2410.20117",
       "file": "papers/fidelity-preserving-and-decoherence-for-mixed-unitary-quantu.md",
       "wiki_links": [
+        "noise-correlations-as-a-resource-in-pauli-twirled-circuits",
         "quantum-decoherence-of-the-surface-code-a-generalized-caldei",
         "wasserstein-distances-and-divergences-of-order-p-by-quantum",
-        "enhancing-phase-retrievability-of-quantum-channels-via-inter",
-        "noise-correlations-as-a-resource-in-pauli-twirled-circuits"
+        "enhancing-phase-retrievability-of-quantum-channels-via-inter"
       ],
       "backlinks": [
         {
@@ -7044,9 +7197,9 @@
       "url": "https://arxiv.org/abs/2510.11488",
       "file": "papers/finite-key-security-of-the-extended-b92-protocol.md",
       "wiki_links": [
-        "multipartite-hardy-paradox-unlocks-device-independent-key-sh",
+        "fully-passive-quantum-conference-key-agreement",
         "quantum-secret-sharing-rates",
-        "fully-passive-quantum-conference-key-agreement"
+        "multipartite-hardy-paradox-unlocks-device-independent-key-sh"
       ],
       "backlinks": []
     },
@@ -7065,11 +7218,11 @@
       "url": "https://arxiv.org/abs/2604.23743",
       "file": "papers/fixed-reservoir-vs-variational-quantum-architectures-for-cha.md",
       "wiki_links": [
-        "encoding-strategies-for-quantum-enhanced-fluid-simulations-o",
-        "few-shot-cross-device-transfer-for-quantum-noise-modeling-on",
         "quantum-circuit-cutting-complexity-and-optimization",
-        "quantum-chaotic-systems-a-random-matrix-approach",
-        "diffqec-a-versatile-diffusion-model-for-quantum-error-correc"
+        "few-shot-cross-device-transfer-for-quantum-noise-modeling-on",
+        "diffqec-a-versatile-diffusion-model-for-quantum-error-correc",
+        "encoding-strategies-for-quantum-enhanced-fluid-simulations-o",
+        "quantum-chaotic-systems-a-random-matrix-approach"
       ],
       "backlinks": [
         {
@@ -7109,10 +7262,10 @@
       "url": "https://arxiv.org/abs/2604.24375",
       "file": "papers/fragmentation-temperature-of-1d-and-3d-quantum-droplets-in-a.md",
       "wiki_links": [
-        "entropy-signatures-of-collective-modes-and-vortex-dynamics-i",
-        "enhanced-atom-capture-via-multi-frequency-magneto-optical-tr",
         "scissors-modes-in-generalized-gross-pitaevskii-equations",
-        "correlated-dynamics-of-three-particle-bound-states-induced-b"
+        "correlated-dynamics-of-three-particle-bound-states-induced-b",
+        "entropy-signatures-of-collective-modes-and-vortex-dynamics-i",
+        "enhanced-atom-capture-via-multi-frequency-magneto-optical-tr"
       ],
       "backlinks": [
         {
@@ -7138,9 +7291,9 @@
       "file": "papers/fraunhofer-patterns-in-atomic-josephson-junctions.md",
       "wiki_links": [
         "kinematic-modulation-in-driven-spin-resonance",
-        "enhanced-atom-capture-via-multi-frequency-magneto-optical-tr",
+        "strong-interaction-induced-dimensional-crossover-in-1d-quant",
         "locked-subharmonic-oscillations-in-the-entanglement-spectrum",
-        "strong-interaction-induced-dimensional-crossover-in-1d-quant"
+        "enhanced-atom-capture-via-multi-frequency-magneto-optical-tr"
       ],
       "backlinks": [
         {
@@ -7206,8 +7359,8 @@
       "file": "papers/from-bell-products-to-greenberger-horne-zeilinger-states-qua.md",
       "wiki_links": [
         "localizing-genuine-multiparty-entanglement-in-noisy-stabiliz",
-        "balancing-quantum-memories-in-asymmetric-repeaters-for-high",
         "scalable-and-deterministic-greenberger-horne-zeilinger-state",
+        "balancing-quantum-memories-in-asymmetric-repeaters-for-high",
         "decoherence-mitigation-with-local-not-gates-in-multipartite"
       ],
       "backlinks": [
@@ -7293,9 +7446,9 @@
       "url": "https://arxiv.org/abs/2604.23797",
       "file": "papers/from-random-fringes-to-deterministic-response-statistical-fo.md",
       "wiki_links": [
-        "squeezed-state-degradations-due-to-mode-mismatch-and-thermal",
+        "semiclassical-phases-of-charged-spin-12-matter-wave-interfer",
         "fraunhofer-patterns-in-atomic-josephson-junctions",
-        "semiclassical-phases-of-charged-spin-12-matter-wave-interfer"
+        "squeezed-state-degradations-due-to-mode-mismatch-and-thermal"
       ],
       "backlinks": []
     },
@@ -7314,10 +7467,10 @@
       "url": "https://arxiv.org/abs/2407.15761",
       "file": "papers/fully-passive-quantum-conference-key-agreement.md",
       "wiki_links": [
-        "symplectic-perspective-to-quantum-computing-for-hamiltonian",
         "nonlocal-and-quantum-advantages-in-network-coding-for-multip",
-        "constant-factor-analysis-of-optimal-quantum-linear-solvers-i",
-        "efficient-quantum-fully-homomorphic-encryption"
+        "efficient-quantum-fully-homomorphic-encryption",
+        "symplectic-perspective-to-quantum-computing-for-hamiltonian",
+        "constant-factor-analysis-of-optimal-quantum-linear-solvers-i"
       ],
       "backlinks": [
         {
@@ -7424,10 +7577,10 @@
       "url": "https://arxiv.org/abs/2506.15816",
       "file": "papers/generalized-spectral-statistics-in-the-kicked-ising-model.md",
       "wiki_links": [
-        "scaling-of-entanglement-entropy-and-correlations-in-the-vari",
         "thermalization-regimes-in-a-chaotic-tavis-cummings-model",
         "bayesian-phase-transition-for-the-critical-ising-model-enlar",
-        "exact-combinatorial-density-of-states-for-the-critical-1d-is"
+        "exact-combinatorial-density-of-states-for-the-critical-1d-is",
+        "scaling-of-entanglement-entropy-and-correlations-in-the-vari"
       ],
       "backlinks": [
         {
@@ -7482,9 +7635,9 @@
       "url": "https://arxiv.org/abs/2604.23672",
       "file": "papers/graded-hopping-screens-nonreciprocity-and-reorganizes-stark-.md",
       "wiki_links": [
-        "non-hermitian-magnetic-moment",
         "observation-of-erratic-non-hermitian-skin-effect-in-phononic",
-        "chiral-state-conversion-near-an-exceptional-point-speed-nois"
+        "chiral-state-conversion-near-an-exceptional-point-speed-nois",
+        "non-hermitian-magnetic-moment"
       ],
       "backlinks": []
     },
@@ -7503,10 +7656,10 @@
       "url": "https://arxiv.org/abs/2604.24068",
       "file": "papers/ground-state-of-the-hubbard-model-with-spin-dependent-linear.md",
       "wiki_links": [
-        "graded-hopping-screens-nonreciprocity-and-reorganizes-stark",
-        "correlated-dynamics-of-three-particle-bound-states-induced-b",
         "exact-combinatorial-density-of-states-for-the-critical-1d-is",
-        "core-hole-excitation-dynamics-of-one-dimensional-ultracold-t"
+        "correlated-dynamics-of-three-particle-bound-states-induced-b",
+        "core-hole-excitation-dynamics-of-one-dimensional-ultracold-t",
+        "graded-hopping-screens-nonreciprocity-and-reorganizes-stark"
       ],
       "backlinks": []
     },
@@ -7556,11 +7709,11 @@
       "url": "https://arxiv.org/abs/2604.22974",
       "file": "papers/heralded-entanglement-transfer-from-entangled-atomic-pair-to.md",
       "wiki_links": [
+        "dynamical-generation-of-stable-optical-microwave-squeezing-i",
         "from-bell-products-to-greenberger-horne-zeilinger-states-qua",
-        "witnessing-entanglement-between-photon-and-matter-due-to-gra",
-        "balancing-quantum-memories-in-asymmetric-repeaters-for-high",
         "quantum-echo-enabled-high-harmonic-generation-using-ultrafas",
-        "dynamical-generation-of-stable-optical-microwave-squeezing-i"
+        "witnessing-entanglement-between-photon-and-matter-due-to-gra",
+        "balancing-quantum-memories-in-asymmetric-repeaters-for-high"
       ],
       "backlinks": [
         {
@@ -7595,10 +7748,10 @@
       "url": "https://arxiv.org/abs/2512.18249",
       "file": "papers/hermitian-matrix-function-synthesis-without-block-encoding.md",
       "wiki_links": [
-        "universal-quantum-control-over-non-hermitian-continuous-vari",
         "a-new-algorithm-for-applying-sequences-of-affine-transformat",
         "encoding-strategies-for-quantum-enhanced-fluid-simulations-o",
         "symplectic-perspective-to-quantum-computing-for-hamiltonian",
+        "universal-quantum-control-over-non-hermitian-continuous-vari",
         "a-unified-quantum-computing-quantum-monte-carlo-framework-th"
       ],
       "backlinks": [
@@ -7644,11 +7797,11 @@
       "url": "https://arxiv.org/abs/2506.14711",
       "file": "papers/high-fidelity-collisional-quantum-gates-with-fermionic-atoms.md",
       "wiki_links": [
-        "certain-bcs-wavefunctions-are-quantum-many-body-scars",
         "core-hole-excitation-dynamics-of-one-dimensional-ultracold-t",
         "overcoming-limitations-on-gate-fidelity-in-noisy-static-exch",
+        "enhanced-atom-capture-via-multi-frequency-magneto-optical-tr",
         "locating-rydberg-decay-error-in-swap-leakage-reduction-circu",
-        "enhanced-atom-capture-via-multi-frequency-magneto-optical-tr"
+        "certain-bcs-wavefunctions-are-quantum-many-body-scars"
       ],
       "backlinks": [
         {
@@ -7715,8 +7868,8 @@
       "wiki_links": [
         "an-analysis-of-commutation-based-trotter-ordering-strategies",
         "demonstration-of-a-quantum-c-not-gate-in-a-time-multiplexed",
-        "overcoming-limitations-on-gate-fidelity-in-noisy-static-exch",
-        "chiral-state-conversion-near-an-exceptional-point-speed-nois"
+        "chiral-state-conversion-near-an-exceptional-point-speed-nois",
+        "overcoming-limitations-on-gate-fidelity-in-noisy-static-exch"
       ],
       "backlinks": [
         {
@@ -7761,10 +7914,10 @@
       "url": "https://arxiv.org/abs/2604.24735",
       "file": "papers/how-quantum-contextuality-disappears-in-the-classical-limit.md",
       "wiki_links": [
+        "intrinsic-pointer-basis-and-irreversible-classicality-from-c",
         "quantum-decoherence-of-the-surface-code-a-generalized-caldei",
         "quantum-chaotic-systems-a-random-matrix-approach",
-        "locked-subharmonic-oscillations-in-the-entanglement-spectrum",
-        "intrinsic-pointer-basis-and-irreversible-classicality-from-c"
+        "locked-subharmonic-oscillations-in-the-entanglement-spectrum"
       ],
       "backlinks": [
         {
@@ -7835,10 +7988,10 @@
       "url": "https://arxiv.org/abs/2604.23228",
       "file": "papers/improvement-of-performance-of-grovers-algorithm-on-three-gen.md",
       "wiki_links": [
-        "non-unitary-extension-of-grovers-search-algorithm",
+        "a-new-algorithm-for-applying-sequences-of-affine-transformat",
         "accelerating-quantum-gibbs-sampling-without-quantum-walks",
-        "hermitian-matrix-function-synthesis-without-block-encoding",
-        "a-new-algorithm-for-applying-sequences-of-affine-transformat"
+        "non-unitary-extension-of-grovers-search-algorithm",
+        "hermitian-matrix-function-synthesis-without-block-encoding"
       ],
       "backlinks": [
         {
@@ -7910,8 +8063,8 @@
       "url": "https://arxiv.org/abs/2604.24582",
       "file": "papers/isotopically-enriched-epitaxial-cawo4-thin-films-for-er3-spi.md",
       "wiki_links": [
-        "enhanced-atom-capture-via-multi-frequency-magneto-optical-tr",
-        "fiber-integrated-quantum-frequency-conversion-for-long-dista"
+        "fiber-integrated-quantum-frequency-conversion-for-long-dista",
+        "enhanced-atom-capture-via-multi-frequency-magneto-optical-tr"
       ],
       "backlinks": [
         {
@@ -7971,11 +8124,11 @@
       "url": "https://arxiv.org/abs/2602.07636",
       "file": "papers/kinematic-modulation-in-driven-spin-resonance.md",
       "wiki_links": [
-        "non-hermitian-magnetic-moment",
-        "spectroscopic-signatures-of-a-liouvillian-exceptional-spectr",
         "locked-subharmonic-oscillations-in-the-entanglement-spectrum",
+        "minimal-spin-rotor-model-for-barnett-and-einstein--de-haas-p",
+        "spectroscopic-signatures-of-a-liouvillian-exceptional-spectr",
         "overcoming-limitations-on-gate-fidelity-in-noisy-static-exch",
-        "minimal-spin-rotor-model-for-barnett-and-einstein--de-haas-p"
+        "non-hermitian-magnetic-moment"
       ],
       "backlinks": [
         {
@@ -8050,12 +8203,12 @@
       "url": "https://arxiv.org/abs/2211.01064",
       "file": "papers/localizing-genuine-multiparty-entanglement-in-noisy-stabiliz.md",
       "wiki_links": [
-        "multipartite-hardy-paradox-unlocks-device-independent-key-sh",
-        "from-bell-products-to-greenberger-horne-zeilinger-states-qua",
-        "nonclassical-nullifiers-for-quantum-hypergraph-states",
         "scalable-and-deterministic-greenberger-horne-zeilinger-state",
+        "nonclassical-nullifiers-for-quantum-hypergraph-states",
+        "multipartite-hardy-paradox-unlocks-device-independent-key-sh",
+        "noise-robust-1-copy-distillation-protocol-for-all-distillabl",
         "on-non-existence-of-stabilizer-absolutely-maximally-entangle",
-        "noise-robust-1-copy-distillation-protocol-for-all-distillabl"
+        "from-bell-products-to-greenberger-horne-zeilinger-states-qua"
       ],
       "backlinks": [
         {
@@ -8125,9 +8278,9 @@
       "url": "https://arxiv.org/abs/2503.01649",
       "file": "papers/locating-rydberg-decay-error-in-swap-leakage-reduction-circu.md",
       "wiki_links": [
+        "demonstration-of-a-quantum-c-not-gate-in-a-time-multiplexed",
         "quantum-decoherence-of-the-surface-code-a-generalized-caldei",
         "high-fidelity-collisional-quantum-gates-with-fermionic-atoms",
-        "demonstration-of-a-quantum-c-not-gate-in-a-time-multiplexed",
         "taming-rydberg-decay-with-measurement-based-quantum-computat"
       ],
       "backlinks": [
@@ -8178,9 +8331,9 @@
       "url": "https://arxiv.org/abs/2604.07442",
       "file": "papers/locked-subharmonic-oscillations-in-the-entanglement-spectrum.md",
       "wiki_links": [
+        "kinematic-modulation-in-driven-spin-resonance",
         "scaling-of-entanglement-entropy-and-correlations-in-the-vari",
-        "quantum-mpemba-effect-in-chaotic-systems-with-conservation-l",
-        "kinematic-modulation-in-driven-spin-resonance"
+        "quantum-mpemba-effect-in-chaotic-systems-with-conservation-l"
       ],
       "backlinks": [
         {
@@ -8230,10 +8383,10 @@
       "url": "https://arxiv.org/abs/2512.11367",
       "file": "papers/maritime-object-classification-with-sar-imagery-using-quantu.md",
       "wiki_links": [
-        "constant-factor-analysis-of-optimal-quantum-linear-solvers-i",
         "symplectic-perspective-to-quantum-computing-for-hamiltonian",
-        "optimization-using-locally-quantum-decoders",
-        "quantum-kernel-advantage-over-classical-collapse-in-medical"
+        "constant-factor-analysis-of-optimal-quantum-linear-solvers-i",
+        "quantum-kernel-advantage-over-classical-collapse-in-medical",
+        "optimization-using-locally-quantum-decoders"
       ],
       "backlinks": [
         {
@@ -8258,10 +8411,10 @@
       "url": "https://arxiv.org/abs/2604.23768",
       "file": "papers/minimal-spin-rotor-model-for-barnett-and-einstein--de-haas-p.md",
       "wiki_links": [
-        "non-hermitian-magnetic-moment",
+        "semiclassical-phases-of-charged-spin-12-matter-wave-interfer",
         "kinematic-modulation-in-driven-spin-resonance",
         "overcoming-limitations-on-gate-fidelity-in-noisy-static-exch",
-        "semiclassical-phases-of-charged-spin-12-matter-wave-interfer"
+        "non-hermitian-magnetic-moment"
       ],
       "backlinks": [
         {
@@ -8286,9 +8439,9 @@
       "url": "https://arxiv.org/abs/2604.22900",
       "file": "papers/module-lattice-security-part-ii-module-lattice-reduction-via.md",
       "wiki_links": [
-        "wasserstein-distances-and-divergences-of-order-p-by-quantum",
         "boundary-robust-transmission-asymmetry-as-a-topological-sign",
-        "strong-interaction-induced-dimensional-crossover-in-1d-quant"
+        "strong-interaction-induced-dimensional-crossover-in-1d-quant",
+        "wasserstein-distances-and-divergences-of-order-p-by-quantum"
       ],
       "backlinks": [
         {
@@ -8339,10 +8492,10 @@
       "url": "https://arxiv.org/abs/2505.10170",
       "file": "papers/multipartite-hardy-paradox-unlocks-device-independent-key-sh.md",
       "wiki_links": [
-        "fully-passive-quantum-conference-key-agreement",
         "online-voting-using-point-to-multipoint-quantum-key-distribu",
-        "localizing-genuine-multiparty-entanglement-in-noisy-stabiliz",
+        "fully-passive-quantum-conference-key-agreement",
         "bell-inequalities-from-polyhedral-sampling",
+        "localizing-genuine-multiparty-entanglement-in-noisy-stabiliz",
         "quantum-secret-sharing-rates"
       ],
       "backlinks": [
@@ -8399,9 +8552,9 @@
       "file": "papers/natural-orbital-locking-reveals-hidden-steady-state-skin-ord.md",
       "wiki_links": [
         "boundary-robust-transmission-asymmetry-as-a-topological-sign",
-        "spectroscopic-signatures-of-a-liouvillian-exceptional-spectr",
+        "observation-of-erratic-non-hermitian-skin-effect-in-phononic",
         "graded-hopping-screens-nonreciprocity-and-reorganizes-stark",
-        "observation-of-erratic-non-hermitian-skin-effect-in-phononic"
+        "spectroscopic-signatures-of-a-liouvillian-exceptional-spectr"
       ],
       "backlinks": [
         {
@@ -8431,10 +8584,10 @@
       "url": "https://arxiv.org/abs/2506.01432",
       "file": "papers/new-aspects-of-quantum-topological-data-analysis-betti-numbe.md",
       "wiki_links": [
-        "symplectic-perspective-to-quantum-computing-for-hamiltonian",
-        "constant-factor-analysis-of-optimal-quantum-linear-solvers-i",
+        "refining-quantum-phase-estimation-precision-conditions-on-un",
         "a-unified-quantum-computing-quantum-monte-carlo-framework-th",
-        "refining-quantum-phase-estimation-precision-conditions-on-un"
+        "symplectic-perspective-to-quantum-computing-for-hamiltonian",
+        "constant-factor-analysis-of-optimal-quantum-linear-solvers-i"
       ],
       "backlinks": [
         {
@@ -8469,10 +8622,10 @@
       "url": "https://arxiv.org/abs/2604.24337",
       "file": "papers/new-non-euclidean-neural-quantum-states-from-additional-type.md",
       "wiki_links": [
-        "pixel-translation-equivariant-quantum-convolutional-neural-n",
+        "a-unified-quantum-computing-quantum-monte-carlo-framework-th",
         "a-fully-quantum-algorithm-for-image-edge-detection",
-        "a-specialized-importance-aware-quantum-convolutional-neural",
-        "a-unified-quantum-computing-quantum-monte-carlo-framework-th"
+        "pixel-translation-equivariant-quantum-convolutional-neural-n",
+        "a-specialized-importance-aware-quantum-convolutional-neural"
       ],
       "backlinks": [
         {
@@ -8502,11 +8655,11 @@
       "url": "https://arxiv.org/abs/2511.00852",
       "file": "papers/no-classical-gravity-does-not-entangle-quantized-matter-fiel.md",
       "wiki_links": [
-        "from-bell-products-to-greenberger-horne-zeilinger-states-qua",
-        "witnessing-entanglement-between-photon-and-matter-due-to-gra",
         "nonlocal-and-quantum-advantages-in-network-coding-for-multip",
+        "noise-robust-1-copy-distillation-protocol-for-all-distillabl",
+        "from-bell-products-to-greenberger-horne-zeilinger-states-qua",
         "the-typicality-of-symmetry-induced-entanglement",
-        "noise-robust-1-copy-distillation-protocol-for-all-distillabl"
+        "witnessing-entanglement-between-photon-and-matter-due-to-gra"
       ],
       "backlinks": [
         {
@@ -8531,10 +8684,10 @@
       "url": "https://arxiv.org/abs/2604.22960",
       "file": "papers/no-cloning-with-unitary-scaling.md",
       "wiki_links": [
-        "fidelity-preserving-and-decoherence-for-mixed-unitary-quantu",
         "quantum-average-correlations-and-complementarity-relations-v",
+        "intrinsic-pointer-basis-and-irreversible-classicality-from-c",
         "how-quantum-contextuality-disappears-in-the-classical-limit",
-        "intrinsic-pointer-basis-and-irreversible-classicality-from-c"
+        "fidelity-preserving-and-decoherence-for-mixed-unitary-quantu"
       ],
       "backlinks": []
     },
@@ -8553,10 +8706,10 @@
       "url": "https://arxiv.org/abs/2603.12054",
       "file": "papers/noise-correlations-as-a-resource-in-pauli-twirled-circuits.md",
       "wiki_links": [
-        "quantum-decoherence-of-the-surface-code-a-generalized-caldei",
         "design-principles-for-enhanced-quantum-transport-with-site-d",
-        "quantum-circuit-cutting-complexity-and-optimization",
-        "few-shot-cross-device-transfer-for-quantum-noise-modeling-on"
+        "few-shot-cross-device-transfer-for-quantum-noise-modeling-on",
+        "quantum-decoherence-of-the-surface-code-a-generalized-caldei",
+        "quantum-circuit-cutting-complexity-and-optimization"
       ],
       "backlinks": [
         {
@@ -8596,10 +8749,10 @@
       "url": "https://arxiv.org/abs/2604.24460",
       "file": "papers/noise-robust-1-copy-distillation-protocol-for-all-distillabl.md",
       "wiki_links": [
-        "heralded-entanglement-transfer-from-entangled-atomic-pair-to",
-        "decoherence-mitigation-with-local-not-gates-in-multipartite",
+        "localizing-genuine-multiparty-entanglement-in-noisy-stabiliz",
         "qutrit-cliffordt-gates-by-two-body-angular-momentum-coupling",
-        "localizing-genuine-multiparty-entanglement-in-noisy-stabiliz"
+        "heralded-entanglement-transfer-from-entangled-atomic-pair-to",
+        "decoherence-mitigation-with-local-not-gates-in-multipartite"
       ],
       "backlinks": [
         {
@@ -8659,9 +8812,9 @@
       "url": "https://arxiv.org/abs/2506.05206",
       "file": "papers/non-hermitian-magnetic-moment.md",
       "wiki_links": [
-        "spectroscopic-signatures-of-a-liouvillian-exceptional-spectr",
         "observation-of-erratic-non-hermitian-skin-effect-in-phononic",
-        "chiral-state-conversion-near-an-exceptional-point-speed-nois"
+        "chiral-state-conversion-near-an-exceptional-point-speed-nois",
+        "spectroscopic-signatures-of-a-liouvillian-exceptional-spectr"
       ],
       "backlinks": [
         {
@@ -8717,8 +8870,8 @@
       "file": "papers/non-identical-anyon-algebras-from-compact-field-quantum-geom.md",
       "wiki_links": [
         "tensor-network-loop-cluster-expansions-for-quantum-many-body",
-        "certain-bcs-wavefunctions-are-quantum-many-body-scars",
         "peak-valley-mechanism-for-hilbert-space-fragmentation",
+        "certain-bcs-wavefunctions-are-quantum-many-body-scars",
         "coherence-dynamics-in-quantum-many-body-systems-with-conserv"
       ],
       "backlinks": [
@@ -8754,10 +8907,10 @@
       "url": "https://arxiv.org/abs/2604.23382",
       "file": "papers/non-unitary-extension-of-grovers-search-algorithm.md",
       "wiki_links": [
-        "application-of-a-quantum-amplitude-redistribution-algorithm",
         "quantum-algorithm-for-solving-high-dimensional-linear-stocha",
-        "improvement-of-performance-of-grovers-algorithm-on-three-gen",
-        "a-fully-quantum-algorithm-for-image-edge-detection"
+        "application-of-a-quantum-amplitude-redistribution-algorithm",
+        "a-fully-quantum-algorithm-for-image-edge-detection",
+        "improvement-of-performance-of-grovers-algorithm-on-three-gen"
       ],
       "backlinks": [
         {
@@ -8788,8 +8941,8 @@
       "file": "papers/nonclassical-nullifiers-for-quantum-hypergraph-states.md",
       "wiki_links": [
         "localizing-genuine-multiparty-entanglement-in-noisy-stabiliz",
-        "completeness-of-qufinite-zxw-calculus-a-graphical-language-f",
         "scalable-and-deterministic-greenberger-horne-zeilinger-state",
+        "completeness-of-qufinite-zxw-calculus-a-graphical-language-f",
         "from-bell-products-to-greenberger-horne-zeilinger-states-qua"
       ],
       "backlinks": [
@@ -8912,11 +9065,11 @@
       "url": "https://arxiv.org/abs/2604.23713",
       "file": "papers/observation-of-erratic-non-hermitian-skin-effect-in-phononic.md",
       "wiki_links": [
-        "natural-orbital-locking-reveals-hidden-steady-state-skin-ord",
-        "spectroscopic-signatures-of-a-liouvillian-exceptional-spectr",
-        "boundary-robust-transmission-asymmetry-as-a-topological-sign",
+        "graded-hopping-screens-nonreciprocity-and-reorganizes-stark",
         "chiral-state-conversion-near-an-exceptional-point-speed-nois",
-        "graded-hopping-screens-nonreciprocity-and-reorganizes-stark"
+        "spectroscopic-signatures-of-a-liouvillian-exceptional-spectr",
+        "natural-orbital-locking-reveals-hidden-steady-state-skin-ord",
+        "boundary-robust-transmission-asymmetry-as-a-topological-sign"
       ],
       "backlinks": [
         {
@@ -8951,11 +9104,11 @@
       "url": "https://arxiv.org/abs/2604.23550",
       "file": "papers/observation-of-oam-non-conservation-in-entangled-photon-gene.md",
       "wiki_links": [
-        "from-bell-products-to-greenberger-horne-zeilinger-states-qua",
-        "witnessing-entanglement-between-photon-and-matter-due-to-gra",
-        "balancing-quantum-memories-in-asymmetric-repeaters-for-high",
         "dynamical-generation-of-stable-optical-microwave-squeezing-i",
-        "noise-robust-1-copy-distillation-protocol-for-all-distillabl"
+        "noise-robust-1-copy-distillation-protocol-for-all-distillabl",
+        "from-bell-products-to-greenberger-horne-zeilinger-states-qua",
+        "balancing-quantum-memories-in-asymmetric-repeaters-for-high",
+        "witnessing-entanglement-between-photon-and-matter-due-to-gra"
       ],
       "backlinks": [
         {
@@ -8985,8 +9138,8 @@
       "url": "https://arxiv.org/abs/2604.23411",
       "file": "papers/on-bound-state-spectra-of-the-one-electron-diatomic-ions.md",
       "wiki_links": [
-        "quantum-dynamics-of-vibrationally-assisted-electron-transfer",
         "correlated-dynamics-of-three-particle-bound-states-induced-b",
+        "quantum-dynamics-of-vibrationally-assisted-electron-transfer",
         "the-proton-radius-puzzle"
       ],
       "backlinks": [
@@ -9014,8 +9167,8 @@
       "wiki_links": [
         "localizing-genuine-multiparty-entanglement-in-noisy-stabiliz",
         "scalable-and-deterministic-greenberger-horne-zeilinger-state",
-        "from-bell-products-to-greenberger-horne-zeilinger-states-qua",
-        "nonclassical-nullifiers-for-quantum-hypergraph-states"
+        "nonclassical-nullifiers-for-quantum-hypergraph-states",
+        "from-bell-products-to-greenberger-horne-zeilinger-states-qua"
       ],
       "backlinks": [
         {
@@ -9050,8 +9203,8 @@
       "url": "https://arxiv.org/abs/2604.24243",
       "file": "papers/on-realization-of-back-action-evading-measurements-and-quant.md",
       "wiki_links": [
-        "understanding-quantum-instruments",
         "universal-quantum-control-over-non-hermitian-continuous-vari",
+        "understanding-quantum-instruments",
         "enhancing-phase-retrievability-of-quantum-channels-via-inter"
       ],
       "backlinks": []
@@ -9072,9 +9225,9 @@
       "file": "papers/on-the-complexity-of-quantum-numerical-integration-an-angle-.md",
       "wiki_links": [
         "quantum-algorithm-for-solving-high-dimensional-linear-stocha",
-        "application-of-a-quantum-amplitude-redistribution-algorithm",
         "new-aspects-of-quantum-topological-data-analysis-betti-numbe",
         "constant-factor-analysis-of-optimal-quantum-linear-solvers-i",
+        "application-of-a-quantum-amplitude-redistribution-algorithm",
         "a-unified-quantum-computing-quantum-monte-carlo-framework-th"
       ],
       "backlinks": []
@@ -9114,10 +9267,10 @@
       "url": "https://arxiv.org/abs/2601.17856",
       "file": "papers/on-tunneling-in-the-quantum-multiverse.md",
       "wiki_links": [
-        "halls-exact-variance-decomposition-in-bohmian-mechanics",
-        "thermodynamic-recycling-of-algorithmic-failure-branches-quan",
+        "quantum-observers-can-communicate-across-multiverse-branches",
         "quantum-chaotic-systems-a-random-matrix-approach",
-        "quantum-observers-can-communicate-across-multiverse-branches"
+        "halls-exact-variance-decomposition-in-bohmian-mechanics",
+        "thermodynamic-recycling-of-algorithmic-failure-branches-quan"
       ],
       "backlinks": [
         {
@@ -9152,8 +9305,8 @@
       "url": "https://arxiv.org/abs/2505.21756",
       "file": "papers/online-voting-using-point-to-multipoint-quantum-key-distribu.md",
       "wiki_links": [
-        "multipartite-hardy-paradox-unlocks-device-independent-key-sh",
-        "fully-passive-quantum-conference-key-agreement"
+        "fully-passive-quantum-conference-key-agreement",
+        "multipartite-hardy-paradox-unlocks-device-independent-key-sh"
       ],
       "backlinks": [
         {
@@ -9178,8 +9331,8 @@
       "url": "https://arxiv.org/abs/2604.24560",
       "file": "papers/optimization-of-two-photon-excitation-by-indistinguishable-p.md",
       "wiki_links": [
-        "heralded-entanglement-transfer-from-entangled-atomic-pair-to",
         "quantum-criticality-from-spectral-collapse-in-the-two-photon",
+        "heralded-entanglement-transfer-from-entangled-atomic-pair-to",
         "cavity-qed-beyond-the-jaynes-cummings-model",
         "isotopically-enriched-epitaxial-cawo4-thin-films-for-er3-spi"
       ],
@@ -9211,9 +9364,9 @@
       "url": "https://arxiv.org/abs/2604.24633",
       "file": "papers/optimization-using-locally-quantum-decoders.md",
       "wiki_links": [
-        "quantum-circuit-cutting-complexity-and-optimization",
-        "few-shot-cross-device-transfer-for-quantum-noise-modeling-on",
         "fair-decoder-baselines-and-rigorous-finite-size-scaling-for",
+        "few-shot-cross-device-transfer-for-quantum-noise-modeling-on",
+        "quantum-circuit-cutting-complexity-and-optimization",
         "diffqec-a-versatile-diffusion-model-for-quantum-error-correc"
       ],
       "backlinks": [
@@ -9249,9 +9402,9 @@
       "url": "https://arxiv.org/abs/2604.23417",
       "file": "papers/optimum-transmission-free-space-optical-communications.md",
       "wiki_links": [
-        "squeezed-state-degradations-due-to-mode-mismatch-and-thermal",
         "quantum-skyrmions-in-mixed-states-of-light-and-their-nested",
-        "fiber-integrated-quantum-frequency-conversion-for-long-dista"
+        "fiber-integrated-quantum-frequency-conversion-for-long-dista",
+        "squeezed-state-degradations-due-to-mode-mismatch-and-thermal"
       ],
       "backlinks": []
     },
@@ -9271,10 +9424,10 @@
       "file": "papers/overcoming-limitations-on-gate-fidelity-in-noisy-static-exch.md",
       "wiki_links": [
         "how-fast-can-a-quantum-gate-be-exact-speed-limits-from-geome",
-        "gate-dependent-offset-charge-shifts-and-anharmonicity-in-gat",
-        "singlet-triplet-oscillations-in-multivalley-si-double-quantu",
         "high-fidelity-collisional-quantum-gates-with-fermionic-atoms",
-        "demonstration-of-a-quantum-c-not-gate-in-a-time-multiplexed"
+        "demonstration-of-a-quantum-c-not-gate-in-a-time-multiplexed",
+        "gate-dependent-offset-charge-shifts-and-anharmonicity-in-gat",
+        "singlet-triplet-oscillations-in-multivalley-si-double-quantu"
       ],
       "backlinks": [
         {
@@ -9334,11 +9487,11 @@
       "url": "https://arxiv.org/abs/2604.23507",
       "file": "papers/partial-solvability-induced-by-dark-states-in-a-box-trap-wit.md",
       "wiki_links": [
-        "peak-valley-mechanism-for-hilbert-space-fragmentation",
-        "strong-interaction-induced-dimensional-crossover-in-1d-quant",
         "core-hole-excitation-dynamics-of-one-dimensional-ultracold-t",
+        "complementarity-between-bosonic-and-fermionic-many-body-inte",
         "correlated-dynamics-of-three-particle-bound-states-induced-b",
-        "complementarity-between-bosonic-and-fermionic-many-body-inte"
+        "strong-interaction-induced-dimensional-crossover-in-1d-quant",
+        "peak-valley-mechanism-for-hilbert-space-fragmentation"
       ],
       "backlinks": [
         {
@@ -9368,10 +9521,10 @@
       "url": "https://arxiv.org/abs/2604.23659",
       "file": "papers/peak-valley-mechanism-for-hilbert-space-fragmentation.md",
       "wiki_links": [
-        "quantum-chaotic-systems-a-random-matrix-approach",
-        "quantum-mpemba-effect-in-chaotic-systems-with-conservation-l",
         "certain-bcs-wavefunctions-are-quantum-many-body-scars",
-        "coherence-dynamics-in-quantum-many-body-systems-with-conserv"
+        "quantum-chaotic-systems-a-random-matrix-approach",
+        "coherence-dynamics-in-quantum-many-body-systems-with-conserv",
+        "quantum-mpemba-effect-in-chaotic-systems-with-conservation-l"
       ],
       "backlinks": [
         {
@@ -9426,9 +9579,9 @@
       "url": "https://arxiv.org/abs/2604.06094",
       "file": "papers/pixel-translation-equivariant-quantum-convolutional-neural-n.md",
       "wiki_links": [
-        "new-non-euclidean-neural-quantum-states-from-additional-type",
         "a-new-algorithm-for-applying-sequences-of-affine-transformat",
         "demonstration-of-a-quantum-c-not-gate-in-a-time-multiplexed",
+        "new-non-euclidean-neural-quantum-states-from-additional-type",
         "a-specialized-importance-aware-quantum-convolutional-neural"
       ],
       "backlinks": [
@@ -9459,11 +9612,11 @@
       "url": "https://arxiv.org/abs/2604.23409",
       "file": "papers/principles-of-relativistic-quantum-statistical-thermodynamic.md",
       "wiki_links": [
-        "quantum-decoherence-of-the-surface-code-a-generalized-caldei",
         "non-identical-anyon-algebras-from-compact-field-quantum-geom",
+        "quantum-decoherence-of-the-surface-code-a-generalized-caldei",
         "quantum-sufficiency-for-self-adjoint-statistical-models-via",
-        "scaling-of-entanglement-entropy-and-correlations-in-the-vari",
-        "how-quantum-contextuality-disappears-in-the-classical-limit"
+        "how-quantum-contextuality-disappears-in-the-classical-limit",
+        "scaling-of-entanglement-entropy-and-correlations-in-the-vari"
       ],
       "backlinks": []
     },
@@ -9483,8 +9636,8 @@
       "file": "papers/pump-threshold-free-frequency-comb-via-cavity-floquet-engine.md",
       "wiki_links": [
         "boundary-robust-transmission-asymmetry-as-a-topological-sign",
-        "cavity-qed-beyond-the-jaynes-cummings-model",
-        "realisation-of-a-protected-cat-qutrit-manifold-via-engineere"
+        "realisation-of-a-protected-cat-qutrit-manifold-via-engineere",
+        "cavity-qed-beyond-the-jaynes-cummings-model"
       ],
       "backlinks": [
         {
@@ -9519,10 +9672,10 @@
       "url": "https://arxiv.org/abs/2504.09610",
       "file": "papers/q-ball-mechanism-of-electron-transport-and-spin-excitations-.md",
       "wiki_links": [
+        "design-principles-for-enhanced-quantum-transport-with-site-d",
         "kinematic-modulation-in-driven-spin-resonance",
-        "non-hermitian-magnetic-moment",
         "high-fidelity-collisional-quantum-gates-with-fermionic-atoms",
-        "design-principles-for-enhanced-quantum-transport-with-site-d"
+        "non-hermitian-magnetic-moment"
       ],
       "backlinks": []
     },
@@ -9541,10 +9694,10 @@
       "url": "https://arxiv.org/abs/2604.24133",
       "file": "papers/quantum-algorithm-for-solving-high-dimensional-linear-stocha.md",
       "wiki_links": [
-        "symplectic-perspective-to-quantum-computing-for-hamiltonian",
-        "constant-factor-analysis-of-optimal-quantum-linear-solvers-i",
+        "on-the-complexity-of-quantum-numerical-integration-an-angle",
         "hermitian-matrix-function-synthesis-without-block-encoding",
-        "on-the-complexity-of-quantum-numerical-integration-an-angle"
+        "symplectic-perspective-to-quantum-computing-for-hamiltonian",
+        "constant-factor-analysis-of-optimal-quantum-linear-solvers-i"
       ],
       "backlinks": [
         {
@@ -9605,8 +9758,8 @@
       "file": "papers/quantum-average-correlation-based-on-average-coherence.md",
       "wiki_links": [
         "quantum-average-correlations-and-complementarity-relations-v",
-        "coherence-dynamics-in-quantum-many-body-systems-with-conserv",
-        "intrinsic-pointer-basis-and-irreversible-classicality-from-c"
+        "intrinsic-pointer-basis-and-irreversible-classicality-from-c",
+        "coherence-dynamics-in-quantum-many-body-systems-with-conserv"
       ],
       "backlinks": [
         {
@@ -9652,9 +9805,9 @@
       "file": "papers/quantum-average-correlations-and-complementarity-relations-v.md",
       "wiki_links": [
         "quantum-average-correlation-based-on-average-coherence",
-        "scaling-of-entanglement-entropy-and-correlations-in-the-vari",
+        "quantum-sufficiency-for-self-adjoint-statistical-models-via",
         "bell-inequalities-from-polyhedral-sampling",
-        "quantum-sufficiency-for-self-adjoint-statistical-models-via"
+        "scaling-of-entanglement-entropy-and-correlations-in-the-vari"
       ],
       "backlinks": [
         {
@@ -9694,10 +9847,10 @@
       "url": "https://arxiv.org/abs/2604.12141",
       "file": "papers/quantum-chaotic-systems-a-random-matrix-approach.md",
       "wiki_links": [
-        "how-quantum-contextuality-disappears-in-the-classical-limit",
-        "quantum-mpemba-effect-in-chaotic-systems-with-conservation-l",
+        "chaotic-billiard-lasers",
         "thermalization-regimes-in-a-chaotic-tavis-cummings-model",
-        "chaotic-billiard-lasers"
+        "how-quantum-contextuality-disappears-in-the-classical-limit",
+        "quantum-mpemba-effect-in-chaotic-systems-with-conservation-l"
       ],
       "backlinks": [
         {
@@ -9772,10 +9925,10 @@
       "url": "https://arxiv.org/abs/2604.23700",
       "file": "papers/quantum-circuit-cutting-complexity-and-optimization.md",
       "wiki_links": [
+        "few-shot-cross-device-transfer-for-quantum-noise-modeling-on",
         "quantum-decoherence-of-the-surface-code-a-generalized-caldei",
-        "fixed-reservoir-vs-variational-quantum-architectures-for-cha",
         "beyond-monolithic-scaling-modularity-and-heterogeneity-as-an",
-        "few-shot-cross-device-transfer-for-quantum-noise-modeling-on"
+        "fixed-reservoir-vs-variational-quantum-architectures-for-cha"
       ],
       "backlinks": [
         {
@@ -9825,10 +9978,10 @@
       "url": "https://arxiv.org/abs/2604.23164",
       "file": "papers/quantum-criticality-from-spectral-collapse-in-the-two-photon.md",
       "wiki_links": [
+        "quantum-skyrmions-in-mixed-states-of-light-and-their-nested",
         "thermalization-regimes-in-a-chaotic-tavis-cummings-model",
         "witnessing-entanglement-between-photon-and-matter-due-to-gra",
-        "isotopically-enriched-epitaxial-cawo4-thin-films-for-er3-spi",
-        "quantum-skyrmions-in-mixed-states-of-light-and-their-nested"
+        "isotopically-enriched-epitaxial-cawo4-thin-films-for-er3-spi"
       ],
       "backlinks": [
         {
@@ -9861,8 +10014,8 @@
         "taming-rydberg-decay-with-measurement-based-quantum-computat",
         "noise-correlations-as-a-resource-in-pauli-twirled-circuits",
         "few-shot-cross-device-transfer-for-quantum-noise-modeling-on",
-        "a-mixture-of-experts-vision-transformer-for-high-fidelity-su",
-        "diffqec-a-versatile-diffusion-model-for-quantum-error-correc"
+        "diffqec-a-versatile-diffusion-model-for-quantum-error-correc",
+        "a-mixture-of-experts-vision-transformer-for-high-fidelity-su"
       ],
       "backlinks": [
         {
@@ -9967,10 +10120,10 @@
       "url": "https://arxiv.org/abs/2602.06469",
       "file": "papers/quantum-dynamics-of-vibrationally-assisted-electron-transfer.md",
       "wiki_links": [
+        "quantum-echo-enabled-high-harmonic-generation-using-ultrafas",
         "core-hole-excitation-dynamics-of-one-dimensional-ultracold-t",
         "a-simple-understanding-of-quantum-electrodynamics-using-bohm",
-        "a-unified-quantum-computing-quantum-monte-carlo-framework-th",
-        "quantum-echo-enabled-high-harmonic-generation-using-ultrafas"
+        "a-unified-quantum-computing-quantum-monte-carlo-framework-th"
       ],
       "backlinks": [
         {
@@ -10005,10 +10158,10 @@
       "url": "https://arxiv.org/abs/2604.23569",
       "file": "papers/quantum-echo-enabled-high-harmonic-generation-using-ultrafas.md",
       "wiki_links": [
-        "optimization-of-two-photon-excitation-by-indistinguishable-p",
+        "quantum-dynamics-of-vibrationally-assisted-electron-transfer",
         "a-simple-understanding-of-quantum-electrodynamics-using-bohm",
-        "enhanced-atom-capture-via-multi-frequency-magneto-optical-tr",
-        "quantum-dynamics-of-vibrationally-assisted-electron-transfer"
+        "optimization-of-two-photon-excitation-by-indistinguishable-p",
+        "enhanced-atom-capture-via-multi-frequency-magneto-optical-tr"
       ],
       "backlinks": [
         {
@@ -10058,9 +10211,9 @@
       "url": "https://arxiv.org/abs/2604.11876",
       "file": "papers/quantum-mpemba-effect-in-chaotic-systems-with-conservation-l.md",
       "wiki_links": [
-        "quantum-chaotic-systems-a-random-matrix-approach",
-        "thermalization-regimes-in-a-chaotic-tavis-cummings-model",
         "peak-valley-mechanism-for-hilbert-space-fragmentation",
+        "thermalization-regimes-in-a-chaotic-tavis-cummings-model",
+        "quantum-chaotic-systems-a-random-matrix-approach",
         "coherence-dynamics-in-quantum-many-body-systems-with-conserv"
       ],
       "backlinks": [
@@ -10121,8 +10274,8 @@
       "url": "https://arxiv.org/abs/2601.08102",
       "file": "papers/quantum-observers-can-communicate-across-multiverse-branches.md",
       "wiki_links": [
-        "nonlocal-and-quantum-advantages-in-network-coding-for-multip",
         "fully-passive-quantum-conference-key-agreement",
+        "nonlocal-and-quantum-advantages-in-network-coding-for-multip",
         "on-tunneling-in-the-quantum-multiverse"
       ],
       "backlinks": [
@@ -10148,9 +10301,9 @@
       "url": "https://arxiv.org/abs/2604.24161",
       "file": "papers/quantum-prediction-of-transport-dynamics-in-discretized-stat.md",
       "wiki_links": [
-        "on-the-complexity-of-quantum-numerical-integration-an-angle",
         "quantum-algorithm-for-solving-high-dimensional-linear-stocha",
         "constant-factor-analysis-of-optimal-quantum-linear-solvers-i",
+        "on-the-complexity-of-quantum-numerical-integration-an-angle",
         "a-unified-quantum-computing-quantum-monte-carlo-framework-th"
       ],
       "backlinks": [
@@ -10186,10 +10339,10 @@
       "url": "https://arxiv.org/abs/2512.22049",
       "file": "papers/quantum-secret-sharing-rates.md",
       "wiki_links": [
-        "localizing-genuine-multiparty-entanglement-in-noisy-stabiliz",
-        "multipartite-hardy-paradox-unlocks-device-independent-key-sh",
+        "fully-passive-quantum-conference-key-agreement",
         "nonlocal-and-quantum-advantages-in-network-coding-for-multip",
-        "fully-passive-quantum-conference-key-agreement"
+        "localizing-genuine-multiparty-entanglement-in-noisy-stabiliz",
+        "multipartite-hardy-paradox-unlocks-device-independent-key-sh"
       ],
       "backlinks": [
         {
@@ -10225,9 +10378,9 @@
       "file": "papers/quantum-skyrmions-in-mixed-states-of-light-and-their-nested-.md",
       "wiki_links": [
         "squeezed-state-degradations-due-to-mode-mismatch-and-thermal",
+        "locked-subharmonic-oscillations-in-the-entanglement-spectrum",
         "from-bell-products-to-greenberger-horne-zeilinger-states-qua",
-        "dynamical-generation-of-stable-optical-microwave-squeezing-i",
-        "locked-subharmonic-oscillations-in-the-entanglement-spectrum"
+        "dynamical-generation-of-stable-optical-microwave-squeezing-i"
       ],
       "backlinks": []
     },
@@ -10246,10 +10399,10 @@
       "url": "https://arxiv.org/abs/2604.23160",
       "file": "papers/quantum-speed-limit-for-measurement-probabilities.md",
       "wiki_links": [
-        "how-quantum-contextuality-disappears-in-the-classical-limit",
         "quantum-average-correlations-and-complementarity-relations-v",
         "how-fast-can-a-quantum-gate-be-exact-speed-limits-from-geome",
-        "understanding-quantum-instruments"
+        "understanding-quantum-instruments",
+        "how-quantum-contextuality-disappears-in-the-classical-limit"
       ],
       "backlinks": [
         {
@@ -10296,8 +10449,8 @@
       "file": "papers/qutrit-cliffordt-gates-by-two-body-angular-momentum-coupling.md",
       "wiki_links": [
         "noise-robust-1-copy-distillation-protocol-for-all-distillabl",
-        "on-non-existence-of-stabilizer-absolutely-maximally-entangle",
         "realisation-of-a-protected-cat-qutrit-manifold-via-engineere",
+        "on-non-existence-of-stabilizer-absolutely-maximally-entangle",
         "a-conceptual-technology-dependent-framework-of-ternary-quant"
       ],
       "backlinks": [
@@ -10323,9 +10476,9 @@
       "url": "https://arxiv.org/abs/2601.17675",
       "file": "papers/realisation-of-a-protected-cat-qutrit-manifold-via-engineere.md",
       "wiki_links": [
+        "few-shot-cross-device-transfer-for-quantum-noise-modeling-on",
         "quantum-decoherence-of-the-surface-code-a-generalized-caldei",
         "taming-rydberg-decay-with-measurement-based-quantum-computat",
-        "few-shot-cross-device-transfer-for-quantum-noise-modeling-on",
         "noise-correlations-as-a-resource-in-pauli-twirled-circuits"
       ],
       "backlinks": [
@@ -10361,9 +10514,9 @@
       "url": "https://arxiv.org/abs/2604.04298",
       "file": "papers/refining-quantum-phase-estimation-precision-conditions-on-un.md",
       "wiki_links": [
-        "new-aspects-of-quantum-topological-data-analysis-betti-numbe",
-        "symplectic-perspective-to-quantum-computing-for-hamiltonian",
         "representability-for-quantum-theory-beyond-particle-number-c",
+        "symplectic-perspective-to-quantum-computing-for-hamiltonian",
+        "new-aspects-of-quantum-topological-data-analysis-betti-numbe",
         "a-unified-quantum-computing-quantum-monte-carlo-framework-th"
       ],
       "backlinks": [
@@ -10419,8 +10572,8 @@
       "url": "https://arxiv.org/abs/2604.23544",
       "file": "papers/regularization-of-divergent-power-sums-via-fractional-extens.md",
       "wiki_links": [
-        "wasserstein-distances-and-divergences-of-order-p-by-quantum",
-        "module-lattice-security-part-ii-module-lattice-reduction-via"
+        "module-lattice-security-part-ii-module-lattice-reduction-via",
+        "wasserstein-distances-and-divergences-of-order-p-by-quantum"
       ],
       "backlinks": []
     },
@@ -10439,10 +10592,10 @@
       "url": "https://arxiv.org/abs/2604.23869",
       "file": "papers/representability-for-quantum-theory-beyond-particle-number-c.md",
       "wiki_links": [
-        "coherence-dynamics-in-quantum-many-body-systems-with-conserv",
+        "refining-quantum-phase-estimation-precision-conditions-on-un",
         "quantum-mpemba-effect-in-chaotic-systems-with-conservation-l",
-        "a-unified-quantum-computing-quantum-monte-carlo-framework-th",
-        "refining-quantum-phase-estimation-precision-conditions-on-un"
+        "coherence-dynamics-in-quantum-many-body-systems-with-conserv",
+        "a-unified-quantum-computing-quantum-monte-carlo-framework-th"
       ],
       "backlinks": [
         {
@@ -10477,11 +10630,11 @@
       "url": "https://arxiv.org/abs/2410.15892",
       "file": "papers/scalable-and-deterministic-greenberger-horne-zeilinger-state.md",
       "wiki_links": [
-        "from-bell-products-to-greenberger-horne-zeilinger-states-qua",
-        "taming-rydberg-decay-with-measurement-based-quantum-computat",
         "nonclassical-nullifiers-for-quantum-hypergraph-states",
+        "taming-rydberg-decay-with-measurement-based-quantum-computat",
         "localizing-genuine-multiparty-entanglement-in-noisy-stabiliz",
-        "on-non-existence-of-stabilizer-absolutely-maximally-entangle"
+        "on-non-existence-of-stabilizer-absolutely-maximally-entangle",
+        "from-bell-products-to-greenberger-horne-zeilinger-states-qua"
       ],
       "backlinks": [
         {
@@ -10527,9 +10680,9 @@
       "file": "papers/scaling-of-entanglement-entropy-and-correlations-in-the-vari.md",
       "wiki_links": [
         "generalized-spectral-statistics-in-the-kicked-ising-model",
-        "the-typicality-of-symmetry-induced-entanglement",
+        "nonclassical-nullifiers-for-quantum-hypergraph-states",
         "exact-combinatorial-density-of-states-for-the-critical-1d-is",
-        "nonclassical-nullifiers-for-quantum-hypergraph-states"
+        "the-typicality-of-symmetry-induced-entanglement"
       ],
       "backlinks": [
         {
@@ -10626,10 +10779,10 @@
       "url": "https://arxiv.org/abs/2604.24751",
       "file": "papers/semiclassical-phases-of-charged-spin-12-matter-wave-interfer.md",
       "wiki_links": [
-        "squeezed-state-degradations-due-to-mode-mismatch-and-thermal",
-        "witnessing-entanglement-between-photon-and-matter-due-to-gra",
         "fraunhofer-patterns-in-atomic-josephson-junctions",
-        "a-qft-information-protocol-for-charged-black-holes"
+        "a-qft-information-protocol-for-charged-black-holes",
+        "witnessing-entanglement-between-photon-and-matter-due-to-gra",
+        "squeezed-state-degradations-due-to-mode-mismatch-and-thermal"
       ],
       "backlinks": [
         {
@@ -10679,10 +10832,10 @@
       "url": "https://arxiv.org/abs/2511.19631",
       "file": "papers/shake-before-use-universal-enhancement-of-quantum-thermometr.md",
       "wiki_links": [
-        "symplectic-perspective-to-quantum-computing-for-hamiltonian",
+        "refining-quantum-phase-estimation-precision-conditions-on-un",
         "thermalization-regimes-in-a-chaotic-tavis-cummings-model",
-        "constant-factor-analysis-of-optimal-quantum-linear-solvers-i",
-        "refining-quantum-phase-estimation-precision-conditions-on-un"
+        "symplectic-perspective-to-quantum-computing-for-hamiltonian",
+        "constant-factor-analysis-of-optimal-quantum-linear-solvers-i"
       ],
       "backlinks": [
         {
@@ -10708,8 +10861,8 @@
       "file": "papers/simple-tunable-phase-locked-lasers-for-quantum-technologies.md",
       "wiki_links": [
         "chaotic-billiard-lasers",
-        "enhanced-atom-capture-via-multi-frequency-magneto-optical-tr",
-        "fraunhofer-patterns-in-atomic-josephson-junctions"
+        "fraunhofer-patterns-in-atomic-josephson-junctions",
+        "enhanced-atom-capture-via-multi-frequency-magneto-optical-tr"
       ],
       "backlinks": []
     },
@@ -10728,10 +10881,10 @@
       "url": "https://arxiv.org/abs/2604.24689",
       "file": "papers/singlet-triplet-oscillations-in-multivalley-si-double-quantu.md",
       "wiki_links": [
-        "isotopically-enriched-epitaxial-cawo4-thin-films-for-er3-spi",
-        "overcoming-limitations-on-gate-fidelity-in-noisy-static-exch",
         "few-shot-cross-device-transfer-for-quantum-noise-modeling-on",
-        "gate-dependent-offset-charge-shifts-and-anharmonicity-in-gat"
+        "gate-dependent-offset-charge-shifts-and-anharmonicity-in-gat",
+        "overcoming-limitations-on-gate-fidelity-in-noisy-static-exch",
+        "isotopically-enriched-epitaxial-cawo4-thin-films-for-er3-spi"
       ],
       "backlinks": [
         {
@@ -10761,9 +10914,9 @@
       "url": "https://arxiv.org/abs/2602.01375",
       "file": "papers/spectroscopic-signatures-of-a-liouvillian-exceptional-spectr.md",
       "wiki_links": [
-        "natural-orbital-locking-reveals-hidden-steady-state-skin-ord",
         "universal-quantum-control-over-non-hermitian-continuous-vari",
-        "chiral-state-conversion-near-an-exceptional-point-speed-nois"
+        "chiral-state-conversion-near-an-exceptional-point-speed-nois",
+        "natural-orbital-locking-reveals-hidden-steady-state-skin-ord"
       ],
       "backlinks": [
         {
@@ -10813,9 +10966,9 @@
       "url": "https://arxiv.org/abs/2604.23835",
       "file": "papers/squeezed-state-degradations-due-to-mode-mismatch-and-thermal.md",
       "wiki_links": [
+        "semiclassical-phases-of-charged-spin-12-matter-wave-interfer",
         "enhanced-atom-capture-via-multi-frequency-magneto-optical-tr",
-        "dynamical-generation-of-stable-optical-microwave-squeezing-i",
-        "semiclassical-phases-of-charged-spin-12-matter-wave-interfer"
+        "dynamical-generation-of-stable-optical-microwave-squeezing-i"
       ],
       "backlinks": [
         {
@@ -10870,9 +11023,9 @@
       "url": "https://arxiv.org/abs/2411.13088",
       "file": "papers/strong-interaction-induced-dimensional-crossover-in-1d-quant.md",
       "wiki_links": [
+        "correlated-dynamics-of-three-particle-bound-states-induced-b",
         "core-hole-excitation-dynamics-of-one-dimensional-ultracold-t",
-        "partial-solvability-induced-by-dark-states-in-a-box-trap-wit",
-        "correlated-dynamics-of-three-particle-bound-states-induced-b"
+        "partial-solvability-induced-by-dark-states-in-a-box-trap-wit"
       ],
       "backlinks": [
         {
@@ -10933,8 +11086,8 @@
       "file": "papers/symmetry-guided-design-of-quantum-couplers-in-dirac-material.md",
       "wiki_links": [
         "design-principles-for-enhanced-quantum-transport-with-site-d",
-        "symplectic-perspective-to-quantum-computing-for-hamiltonian",
         "few-shot-cross-device-transfer-for-quantum-noise-modeling-on",
+        "symplectic-perspective-to-quantum-computing-for-hamiltonian",
         "entanglement-12-qed-in-a-double-layer-of-dirac-materials"
       ],
       "backlinks": [
@@ -10960,10 +11113,10 @@
       "url": "https://arxiv.org/abs/2604.10794",
       "file": "papers/symplectic-perspective-to-quantum-computing-for-hamiltonian-.md",
       "wiki_links": [
-        "hermitian-matrix-function-synthesis-without-block-encoding",
-        "a-unified-quantum-computing-quantum-monte-carlo-framework-th",
         "refining-quantum-phase-estimation-precision-conditions-on-un",
-        "universal-quantum-control-over-non-hermitian-continuous-vari"
+        "universal-quantum-control-over-non-hermitian-continuous-vari",
+        "hermitian-matrix-function-synthesis-without-block-encoding",
+        "a-unified-quantum-computing-quantum-monte-carlo-framework-th"
       ],
       "backlinks": []
     },
@@ -10982,9 +11135,9 @@
       "url": "https://arxiv.org/abs/2411.04664",
       "file": "papers/taming-rydberg-decay-with-measurement-based-quantum-computat.md",
       "wiki_links": [
-        "locating-rydberg-decay-error-in-swap-leakage-reduction-circu",
         "quantum-decoherence-of-the-surface-code-a-generalized-caldei",
-        "diffqec-a-versatile-diffusion-model-for-quantum-error-correc"
+        "diffqec-a-versatile-diffusion-model-for-quantum-error-correc",
+        "locating-rydberg-decay-error-in-swap-leakage-reduction-circu"
       ],
       "backlinks": [
         {
@@ -11064,10 +11217,10 @@
       "url": "https://arxiv.org/abs/2510.05647",
       "file": "papers/tensor-network-loop-cluster-expansions-for-quantum-many-body.md",
       "wiki_links": [
+        "generalized-spectral-statistics-in-the-kicked-ising-model",
         "quantum-chaotic-systems-a-random-matrix-approach",
-        "symplectic-perspective-to-quantum-computing-for-hamiltonian",
         "certain-bcs-wavefunctions-are-quantum-many-body-scars",
-        "generalized-spectral-statistics-in-the-kicked-ising-model"
+        "symplectic-perspective-to-quantum-computing-for-hamiltonian"
       ],
       "backlinks": [
         {
@@ -11097,10 +11250,10 @@
       "url": "https://arxiv.org/abs/2602.07281",
       "file": "papers/the-continuous-spectrum-of-bound-states-in-expulsive-potenti.md",
       "wiki_links": [
-        "quantum-chaotic-systems-a-random-matrix-approach",
-        "certain-bcs-wavefunctions-are-quantum-many-body-scars",
         "universal-quantum-control-over-non-hermitian-continuous-vari",
-        "correlated-dynamics-of-three-particle-bound-states-induced-b"
+        "correlated-dynamics-of-three-particle-bound-states-induced-b",
+        "quantum-chaotic-systems-a-random-matrix-approach",
+        "certain-bcs-wavefunctions-are-quantum-many-body-scars"
       ],
       "backlinks": [
         {
@@ -11126,8 +11279,8 @@
       "file": "papers/the-proton-radius-puzzle.md",
       "wiki_links": [
         "on-bound-state-spectra-of-the-one-electron-diatomic-ions",
-        "refining-quantum-phase-estimation-precision-conditions-on-un",
-        "the-continuous-spectrum-of-bound-states-in-expulsive-potenti"
+        "the-continuous-spectrum-of-bound-states-in-expulsive-potenti",
+        "refining-quantum-phase-estimation-precision-conditions-on-un"
       ],
       "backlinks": [
         {
@@ -11153,9 +11306,9 @@
       "file": "papers/the-typicality-of-symmetry-induced-entanglement.md",
       "wiki_links": [
         "localizing-genuine-multiparty-entanglement-in-noisy-stabiliz",
+        "nonclassical-nullifiers-for-quantum-hypergraph-states",
         "scaling-of-entanglement-entropy-and-correlations-in-the-vari",
-        "representability-for-quantum-theory-beyond-particle-number-c",
-        "nonclassical-nullifiers-for-quantum-hypergraph-states"
+        "representability-for-quantum-theory-beyond-particle-number-c"
       ],
       "backlinks": [
         {
@@ -11185,10 +11338,10 @@
       "url": "https://arxiv.org/abs/2604.20955",
       "file": "papers/thermalization-regimes-in-a-chaotic-tavis-cummings-model.md",
       "wiki_links": [
+        "chaotic-billiard-lasers",
         "quantum-chaotic-systems-a-random-matrix-approach",
-        "quantum-mpemba-effect-in-chaotic-systems-with-conservation-l",
         "cavity-qed-beyond-the-jaynes-cummings-model",
-        "chaotic-billiard-lasers"
+        "quantum-mpemba-effect-in-chaotic-systems-with-conservation-l"
       ],
       "backlinks": [
         {
@@ -11248,11 +11401,11 @@
       "url": "https://arxiv.org/abs/2601.07522",
       "file": "papers/thermodynamic-recycling-of-algorithmic-failure-branches-quan.md",
       "wiki_links": [
-        "quantum-decoherence-of-the-surface-code-a-generalized-caldei",
         "taming-rydberg-decay-with-measurement-based-quantum-computat",
-        "overcoming-limitations-on-gate-fidelity-in-noisy-static-exch",
+        "quantum-decoherence-of-the-surface-code-a-generalized-caldei",
+        "diffqec-a-versatile-diffusion-model-for-quantum-error-correc",
         "locating-rydberg-decay-error-in-swap-leakage-reduction-circu",
-        "diffqec-a-versatile-diffusion-model-for-quantum-error-correc"
+        "overcoming-limitations-on-gate-fidelity-in-noisy-static-exch"
       ],
       "backlinks": [
         {
@@ -11277,10 +11430,10 @@
       "url": "https://arxiv.org/abs/2512.05014",
       "file": "papers/transverse-response-from-anisotropic-fermi-surfaces.md",
       "wiki_links": [
-        "non-hermitian-magnetic-moment",
         "high-fidelity-collisional-quantum-gates-with-fermionic-atoms",
+        "correlated-dynamics-of-three-particle-bound-states-induced-b",
         "certain-bcs-wavefunctions-are-quantum-many-body-scars",
-        "correlated-dynamics-of-three-particle-bound-states-induced-b"
+        "non-hermitian-magnetic-moment"
       ],
       "backlinks": []
     },
@@ -11299,10 +11452,10 @@
       "url": "https://arxiv.org/abs/2604.11756",
       "file": "papers/trapped-bosons-in-mean-field-qed-nonlinear-resonance-cascade.md",
       "wiki_links": [
-        "cavity-qed-beyond-the-jaynes-cummings-model",
-        "a-simple-understanding-of-quantum-electrodynamics-using-bohm",
         "fraunhofer-patterns-in-atomic-josephson-junctions",
-        "core-hole-excitation-dynamics-of-one-dimensional-ultracold-t"
+        "core-hole-excitation-dynamics-of-one-dimensional-ultracold-t",
+        "a-simple-understanding-of-quantum-electrodynamics-using-bohm",
+        "cavity-qed-beyond-the-jaynes-cummings-model"
       ],
       "backlinks": [
         {
@@ -11327,9 +11480,9 @@
       "url": "https://arxiv.org/abs/2604.18884",
       "file": "papers/understanding-quantum-instruments.md",
       "wiki_links": [
+        "diffqec-a-versatile-diffusion-model-for-quantum-error-correc",
         "quantum-decoherence-of-the-surface-code-a-generalized-caldei",
-        "taming-rydberg-decay-with-measurement-based-quantum-computat",
-        "diffqec-a-versatile-diffusion-model-for-quantum-error-correc"
+        "taming-rydberg-decay-with-measurement-based-quantum-computat"
       ],
       "backlinks": [
         {
@@ -11384,9 +11537,9 @@
       "url": "https://arxiv.org/abs/2512.04495",
       "file": "papers/universal-quantum-control-over-non-hermitian-continuous-vari.md",
       "wiki_links": [
-        "non-hermitian-magnetic-moment",
+        "chiral-state-conversion-near-an-exceptional-point-speed-nois",
         "spectroscopic-signatures-of-a-liouvillian-exceptional-spectr",
-        "chiral-state-conversion-near-an-exceptional-point-speed-nois"
+        "non-hermitian-magnetic-moment"
       ],
       "backlinks": [
         {
@@ -11441,9 +11594,9 @@
       "url": "https://arxiv.org/abs/2501.08066",
       "file": "papers/wasserstein-distances-and-divergences-of-order-p-by-quantum-.md",
       "wiki_links": [
-        "fidelity-preserving-and-decoherence-for-mixed-unitary-quantu",
         "completeness-of-qufinite-zxw-calculus-a-graphical-language-f",
         "nonlocal-and-quantum-advantages-in-network-coding-for-multip",
+        "fidelity-preserving-and-decoherence-for-mixed-unitary-quantu",
         "enhancing-phase-retrievability-of-quantum-channels-via-inter"
       ],
       "backlinks": []
@@ -11463,10 +11616,10 @@
       "url": "https://arxiv.org/abs/2604.23660",
       "file": "papers/wichmann-kroll-vacuum-polarization-correction-to-lithium-lik.md",
       "wiki_links": [
-        "high-fidelity-collisional-quantum-gates-with-fermionic-atoms",
-        "enhanced-atom-capture-via-multi-frequency-magneto-optical-tr",
         "strong-interaction-induced-dimensional-crossover-in-1d-quant",
-        "core-hole-excitation-dynamics-of-one-dimensional-ultracold-t"
+        "core-hole-excitation-dynamics-of-one-dimensional-ultracold-t",
+        "high-fidelity-collisional-quantum-gates-with-fermionic-atoms",
+        "enhanced-atom-capture-via-multi-frequency-magneto-optical-tr"
       ],
       "backlinks": []
     },
@@ -11485,10 +11638,10 @@
       "url": "https://arxiv.org/abs/2604.23086",
       "file": "papers/wigner-functions-negativity-volumes-and-experimental-generat.md",
       "wiki_links": [
+        "fraunhofer-patterns-in-atomic-josephson-junctions",
         "dynamical-generation-of-stable-optical-microwave-squeezing-i",
         "observation-of-oam-non-conservation-in-entangled-photon-gene",
-        "enhancing-phase-retrievability-of-quantum-channels-via-inter",
-        "fraunhofer-patterns-in-atomic-josephson-junctions"
+        "enhancing-phase-retrievability-of-quantum-channels-via-inter"
       ],
       "backlinks": [
         {
@@ -11515,8 +11668,8 @@
       "wiki_links": [
         "semiclassical-phases-of-charged-spin-12-matter-wave-interfer",
         "no-classical-gravity-does-not-entangle-quantized-matter-fiel",
-        "isotopically-enriched-epitaxial-cawo4-thin-films-for-er3-spi",
-        "entanglement-12-qed-in-a-double-layer-of-dirac-materials"
+        "entanglement-12-qed-in-a-double-layer-of-dirac-materials",
+        "isotopically-enriched-epitaxial-cawo4-thin-films-for-er3-spi"
       ],
       "backlinks": [
         {
@@ -11594,9 +11747,9 @@
       "file": "research/a-long-sought-quantum-computing-milestone-arrives-as-fermion.md",
       "wiki_links": [
         "quantum-chips-could-scale-faster-with-new-spin-qubit-readout",
+        "ai-automates-quantum-dot-voltage-tuning-for-scaling-up-quant",
         "two-paths-to-scalable-quantum-computing-optical-links-betwee",
-        "quantum-dark-modes-no-longer-block-phonon-control-opening-ne",
-        "ai-automates-quantum-dot-voltage-tuning-for-scaling-up-quant"
+        "quantum-dark-modes-no-longer-block-phonon-control-opening-ne"
       ],
       "backlinks": [
         {
@@ -11681,10 +11834,10 @@
       "url": "https://phys.org/news/2026-04-ai-automates-quantum-dot-voltage.html",
       "file": "research/ai-automates-quantum-dot-voltage-tuning-for-scaling-up-quant.md",
       "wiki_links": [
+        "bright-quantum-light-emission-achieved-at-room-temperature-i",
         "quantum-chips-could-scale-faster-with-new-spin-qubit-readout",
         "a-long-sought-quantum-computing-milestone-arrives-as-fermion",
-        "quantum-dark-modes-no-longer-block-phonon-control-opening-ne",
-        "bright-quantum-light-emission-achieved-at-room-temperature-i"
+        "quantum-dark-modes-no-longer-block-phonon-control-opening-ne"
       ],
       "backlinks": [
         {
@@ -11795,10 +11948,10 @@
       "file": "research/bright-quantum-light-emission-achieved-at-room-temperature-i.md",
       "wiki_links": [
         "quantum-chips-could-scale-faster-with-new-spin-qubit-readout",
-        "trying-to-understand-the-value-of-cryocmos-over-room-tempera",
         "ai-automates-quantum-dot-voltage-tuning-for-scaling-up-quant",
         "why-ultrashort-laser-pulses-could-make-low-power-electron-so",
-        "quantum-dark-modes-no-longer-block-phonon-control-opening-ne"
+        "quantum-dark-modes-no-longer-block-phonon-control-opening-ne",
+        "trying-to-understand-the-value-of-cryocmos-over-room-tempera"
       ],
       "backlinks": [
         {
@@ -11838,9 +11991,9 @@
       "url": "https://phys.org/news/2026-04-quantum-lab-clock-young.html",
       "file": "research/bringing-quantum-time-into-the-laba-single-clock-can-run-you.md",
       "wiki_links": [
-        "do-decoherence-gravity-dark-matter-and-dark-energy-all-origi",
-        "a-long-sought-quantum-computing-milestone-arrives-as-fermion",
         "universal-quantum-protocol-extracts-maximum-work-without-kno",
+        "a-long-sought-quantum-computing-milestone-arrives-as-fermion",
+        "do-decoherence-gravity-dark-matter-and-dark-energy-all-origi",
         "stretching-and-squeezing-diamond-opens-new-path-for-ultra-pr"
       ],
       "backlinks": [
@@ -11937,9 +12090,9 @@
       "url": "https://phys.org/news/2026-04-mathematical-universe-cosmological-constant-problem.html",
       "file": "research/could-the-mathematical-shape-of-the-universe-solve-the-cosmo.md",
       "wiki_links": [
+        "universal-quantum-protocol-extracts-maximum-work-without-kno",
         "do-decoherence-gravity-dark-matter-and-dark-energy-all-origi",
-        "particle-thought-to-break-physics-followed-rules-all-along-r",
-        "universal-quantum-protocol-extracts-maximum-work-without-kno"
+        "particle-thought-to-break-physics-followed-rules-all-along-r"
       ],
       "backlinks": [
         {
@@ -11964,9 +12117,9 @@
       "url": "https://phys.org/news/2026-04-decoherence-gravity-dark-energy-quantum.html",
       "file": "research/do-decoherence-gravity-dark-matter-and-dark-energy-all-origi.md",
       "wiki_links": [
-        "classical-physics-can-explain-quantum-weirdness-study-shows",
         "quantum-simulations-that-bypass-resolution-limits-offer-insi",
         "quantum-gas-resists-heating-under-periodic-kicks-revealing-m",
+        "classical-physics-can-explain-quantum-weirdness-study-shows",
         "could-the-mathematical-shape-of-the-universe-solve-the-cosmo"
       ],
       "backlinks": [
@@ -12002,11 +12155,11 @@
       "url": "https://www.reddit.com/r/Physics/comments/1sxow3b/does_industry_for_a_year_make_you_more_or_less/",
       "file": "research/does-industry-for-a-year-make-you-more-or-less-competitive-f.md",
       "wiki_links": [
-        "how-are-people-doing-research-in-undergrad",
-        "afraid-of-the-job-market-at-the-end-of-my-phd",
         "working-in-quantum-technology",
+        "how-are-people-doing-research-in-undergrad",
+        "do-american-undergrads-usually-have-taken-courses-in-qft-or",
         "people-who-actually-put-your-physics-bsba-degree-to-use-what",
-        "do-american-undergrads-usually-have-taken-courses-in-qft-or"
+        "afraid-of-the-job-market-at-the-end-of-my-phd"
       ],
       "backlinks": [
         {
@@ -12081,10 +12234,10 @@
       "url": "https://www.reddit.com/r/Physics/comments/1sy5d7u/esteemed_physicists_of_yesteryear/",
       "file": "research/esteemed-physicists-of-yesteryear.md",
       "wiki_links": [
-        "why-did-the-copenhagen-interpretation-become-mainstream-vide",
+        "if-you-were-to-place-all-the-atoms-of-the-universe-into-a-si",
         "teaching-general-relativity-to-4th-graders",
         "people-who-actually-put-your-physics-bsba-degree-to-use-what",
-        "if-you-were-to-place-all-the-atoms-of-the-universe-into-a-si"
+        "why-did-the-copenhagen-interpretation-become-mainstream-vide"
       ],
       "backlinks": [
         {
@@ -12110,9 +12263,9 @@
       "file": "research/if-you-were-to-place-all-the-atoms-of-the-universe-into-a-si.md",
       "wiki_links": [
         "what-impact-doeswill-quantum-computing-have-on-the-coding-wo",
+        "physics-questions---weekly-discussion-thread---april-28-2026",
         "lhc-running-at-high-luminosity-with-hl-lhc-nominal-trains-fo",
-        "the-classical-simulation-wall-isnt-at-50-qubits-its-at-entan",
-        "physics-questions---weekly-discussion-thread---april-28-2026"
+        "the-classical-simulation-wall-isnt-at-50-qubits-its-at-entan"
       ],
       "backlinks": [
         {
@@ -12179,9 +12332,9 @@
       "url": "https://www.reddit.com/r/Physics/comments/1syci48/is_this_stokes_law/",
       "file": "research/is-this-stokes-law.md",
       "wiki_links": [
-        "how-are-people-doing-research-in-undergrad",
-        "self-studying-physics",
         "people-who-actually-put-your-physics-bsba-degree-to-use-what",
+        "self-studying-physics",
+        "how-are-people-doing-research-in-undergrad",
         "do-american-undergrads-usually-have-taken-courses-in-qft-or"
       ],
       "backlinks": []
@@ -12201,11 +12354,11 @@
       "url": "https://www.reddit.com/r/Physics/comments/1sy9uey/onsite_registration_for_damops_day1_workshop/",
       "file": "research/on-site-registration-for-damops-day-1-workshop.md",
       "wiki_links": [
-        "how-are-people-doing-research-in-undergrad",
-        "afraid-of-the-job-market-at-the-end-of-my-phd",
         "physics-questions---weekly-discussion-thread---april-28-2026",
         "does-industry-for-a-year-make-you-more-or-less-competitive-f",
-        "self-studying-physics"
+        "how-are-people-doing-research-in-undergrad",
+        "self-studying-physics",
+        "afraid-of-the-job-market-at-the-end-of-my-phd"
       ],
       "backlinks": []
     },
@@ -12225,8 +12378,8 @@
       "file": "research/one-way-phonon-synchronization-could-survive-noise-and-defec.md",
       "wiki_links": [
         "water-simulation-of-famous-quantum-effect-reveals-unexpected",
-        "quantum-gas-resists-heating-under-periodic-kicks-revealing-m",
         "quantum-dark-modes-no-longer-block-phonon-control-opening-ne",
+        "quantum-gas-resists-heating-under-periodic-kicks-revealing-m",
         "this-ultracold-quantum-device-turns-electricity-into-somethi"
       ],
       "backlinks": [
@@ -12262,9 +12415,9 @@
       "url": "https://phys.org/news/2026-04-particle-thought-physics-reveals.html",
       "file": "research/particle-thought-to-break-physics-followed-rules-all-along-r.md",
       "wiki_links": [
-        "classical-physics-can-explain-quantum-weirdness-study-shows",
+        "do-decoherence-gravity-dark-matter-and-dark-energy-all-origi",
         "soundwaves-settle-debate-about-elusive-quantum-particle",
-        "do-decoherence-gravity-dark-matter-and-dark-energy-all-origi"
+        "classical-physics-can-explain-quantum-weirdness-study-shows"
       ],
       "backlinks": [
         {
@@ -12294,10 +12447,10 @@
       "url": "https://www.reddit.com/r/Physics/comments/1sxn8xm/people_who_actually_put_your_physics_bsba_degree/",
       "file": "research/people-who-actually-put-your-physics-bsba-degree-to-use-what.md",
       "wiki_links": [
-        "working-in-quantum-technology",
-        "how-are-people-doing-research-in-undergrad",
         "does-industry-for-a-year-make-you-more-or-less-competitive-f",
-        "afraid-of-the-job-market-at-the-end-of-my-phd"
+        "afraid-of-the-job-market-at-the-end-of-my-phd",
+        "working-in-quantum-technology",
+        "how-are-people-doing-research-in-undergrad"
       ],
       "backlinks": [
         {
@@ -12372,9 +12525,9 @@
       "url": "https://www.reddit.com/r/Physics/comments/1sy0qpp/physics_questions_weekly_discussion_thread_april/",
       "file": "research/physics-questions---weekly-discussion-thread---april-28-2026.md",
       "wiki_links": [
-        "how-are-people-doing-research-in-undergrad",
-        "self-studying-physics",
         "people-who-actually-put-your-physics-bsba-degree-to-use-what",
+        "self-studying-physics",
+        "how-are-people-doing-research-in-undergrad",
         "do-american-undergrads-usually-have-taken-courses-in-qft-or"
       ],
       "backlinks": [
@@ -12420,10 +12573,10 @@
       "url": "https://phys.org/news/2026-04-pressure-tuned-quantum-liquid-behavior.html",
       "file": "research/pressure-tuned-quantum-spin-liquid-like-behavior-observed-in.md",
       "wiki_links": [
-        "quantum-simulations-that-bypass-resolution-limits-offer-insi",
-        "two-paths-to-scalable-quantum-computing-optical-links-betwee",
         "ai-automates-quantum-dot-voltage-tuning-for-scaling-up-quant",
-        "stretching-and-squeezing-diamond-opens-new-path-for-ultra-pr"
+        "two-paths-to-scalable-quantum-computing-optical-links-betwee",
+        "stretching-and-squeezing-diamond-opens-new-path-for-ultra-pr",
+        "quantum-simulations-that-bypass-resolution-limits-offer-insi"
       ],
       "backlinks": [
         {
@@ -12454,9 +12607,9 @@
       "file": "research/quantum-bottleneck-breaks-wide-open-as-one-light-beam-carrie.md",
       "wiki_links": [
         "quantum-chips-could-scale-faster-with-new-spin-qubit-readout",
+        "a-long-sought-quantum-computing-milestone-arrives-as-fermion",
         "two-paths-to-scalable-quantum-computing-optical-links-betwee",
         "ai-automates-quantum-dot-voltage-tuning-for-scaling-up-quant",
-        "a-long-sought-quantum-computing-milestone-arrives-as-fermion",
         "scientists-take-a-step-toward-a-quantum-internet-using-new-y"
       ],
       "backlinks": [
@@ -12497,9 +12650,9 @@
       "url": "https://phys.org/news/2026-04-quantum-chips-scale-faster-qubit.html",
       "file": "research/quantum-chips-could-scale-faster-with-new-spin-qubit-readout.md",
       "wiki_links": [
-        "a-long-sought-quantum-computing-milestone-arrives-as-fermion",
+        "ai-automates-quantum-dot-voltage-tuning-for-scaling-up-quant",
         "two-paths-to-scalable-quantum-computing-optical-links-betwee",
-        "ai-automates-quantum-dot-voltage-tuning-for-scaling-up-quant"
+        "a-long-sought-quantum-computing-milestone-arrives-as-fermion"
       ],
       "backlinks": [
         {
@@ -12589,10 +12742,10 @@
       "url": "https://phys.org/news/2026-04-quantum-dark-modes-longer-block.html",
       "file": "research/quantum-dark-modes-no-longer-block-phonon-control-opening-ne.md",
       "wiki_links": [
-        "one-way-phonon-synchronization-could-survive-noise-and-defec",
-        "this-ultracold-quantum-device-turns-electricity-into-somethi",
         "ai-automates-quantum-dot-voltage-tuning-for-scaling-up-quant",
-        "stretching-and-squeezing-diamond-opens-new-path-for-ultra-pr"
+        "one-way-phonon-synchronization-could-survive-noise-and-defec",
+        "stretching-and-squeezing-diamond-opens-new-path-for-ultra-pr",
+        "this-ultracold-quantum-device-turns-electricity-into-somethi"
       ],
       "backlinks": [
         {
@@ -12663,9 +12816,9 @@
       "file": "research/quantum-gas-resists-heating-under-periodic-kicks-revealing-m.md",
       "wiki_links": [
         "a-long-sought-quantum-computing-milestone-arrives-as-fermion",
-        "quantum-simulations-that-bypass-resolution-limits-offer-insi",
+        "quantum-dark-modes-no-longer-block-phonon-control-opening-ne",
         "this-ultracold-quantum-device-turns-electricity-into-somethi",
-        "quantum-dark-modes-no-longer-block-phonon-control-opening-ne"
+        "quantum-simulations-that-bypass-resolution-limits-offer-insi"
       ],
       "backlinks": [
         {
@@ -12706,9 +12859,9 @@
       "file": "research/quantum-informed-ai-improves-long-term-turbulence-forecasts-.md",
       "wiki_links": [
         "quantum-chips-could-scale-faster-with-new-spin-qubit-readout",
+        "ai-automates-quantum-dot-voltage-tuning-for-scaling-up-quant",
         "two-paths-to-scalable-quantum-computing-optical-links-betwee",
-        "trying-to-understand-the-value-of-cryocmos-over-room-tempera",
-        "ai-automates-quantum-dot-voltage-tuning-for-scaling-up-quant"
+        "trying-to-understand-the-value-of-cryocmos-over-room-tempera"
       ],
       "backlinks": []
     },
@@ -12727,10 +12880,10 @@
       "url": "https://www.reddit.com/r/QuantumComputing/comments/1syf7wg/quantum_resistant_timelines_meaning_for_the/",
       "file": "research/quantum-resistant-timelines-meaning-for-the-industry.md",
       "wiki_links": [
-        "quantum-chips-could-scale-faster-with-new-spin-qubit-readout",
-        "quantum-bottleneck-breaks-wide-open-as-one-light-beam-carrie",
         "what-impact-doeswill-quantum-computing-have-on-the-coding-wo",
-        "two-paths-to-scalable-quantum-computing-optical-links-betwee"
+        "quantum-chips-could-scale-faster-with-new-spin-qubit-readout",
+        "two-paths-to-scalable-quantum-computing-optical-links-betwee",
+        "quantum-bottleneck-breaks-wide-open-as-one-light-beam-carrie"
       ],
       "backlinks": []
     },
@@ -12803,9 +12956,9 @@
       "file": "research/scientists-take-a-step-toward-a-quantum-internet-using-new-y.md",
       "wiki_links": [
         "quantum-chips-could-scale-faster-with-new-spin-qubit-readout",
-        "quantum-bottleneck-breaks-wide-open-as-one-light-beam-carrie",
+        "ai-automates-quantum-dot-voltage-tuning-for-scaling-up-quant",
         "two-paths-to-scalable-quantum-computing-optical-links-betwee",
-        "ai-automates-quantum-dot-voltage-tuning-for-scaling-up-quant"
+        "quantum-bottleneck-breaks-wide-open-as-one-light-beam-carrie"
       ],
       "backlinks": [
         {
@@ -12835,10 +12988,10 @@
       "url": "https://phys.org/news/2026-04-ray-photons-reveal-hidden-interactions.html",
       "file": "research/single-x-ray-photons-reveal-hidden-light-matter-interactions.md",
       "wiki_links": [
-        "classical-physics-can-explain-quantum-weirdness-study-shows",
         "water-simulation-of-famous-quantum-effect-reveals-unexpected",
         "quantum-simulations-that-bypass-resolution-limits-offer-insi",
-        "why-ultrashort-laser-pulses-could-make-low-power-electron-so"
+        "why-ultrashort-laser-pulses-could-make-low-power-electron-so",
+        "classical-physics-can-explain-quantum-weirdness-study-shows"
       ],
       "backlinks": [
         {
@@ -12869,9 +13022,9 @@
       "file": "research/soundwaves-settle-debate-about-elusive-quantum-particle.md",
       "wiki_links": [
         "one-way-phonon-synchronization-could-survive-noise-and-defec",
-        "pressure-tuned-quantum-spin-liquid-like-behavior-observed-in",
         "quantum-dark-modes-no-longer-block-phonon-control-opening-ne",
-        "this-ultracold-quantum-device-turns-electricity-into-somethi"
+        "this-ultracold-quantum-device-turns-electricity-into-somethi",
+        "pressure-tuned-quantum-spin-liquid-like-behavior-observed-in"
       ],
       "backlinks": [
         {
@@ -12906,10 +13059,10 @@
       "url": "https://phys.org/news/2026-04-diamond-path-ultra-precise-quantum.html",
       "file": "research/stretching-and-squeezing-diamond-opens-new-path-for-ultra-pr.md",
       "wiki_links": [
+        "ai-automates-quantum-dot-voltage-tuning-for-scaling-up-quant",
         "two-paths-to-scalable-quantum-computing-optical-links-betwee",
-        "pressure-tuned-quantum-spin-liquid-like-behavior-observed-in",
         "quantum-dark-modes-no-longer-block-phonon-control-opening-ne",
-        "ai-automates-quantum-dot-voltage-tuning-for-scaling-up-quant"
+        "pressure-tuned-quantum-spin-liquid-like-behavior-observed-in"
       ],
       "backlinks": [
         {
@@ -12955,9 +13108,9 @@
       "file": "research/the-classical-simulation-wall-isnt-at-50-qubits-its-at-entan.md",
       "wiki_links": [
         "quantum-chips-could-scale-faster-with-new-spin-qubit-readout",
-        "a-long-sought-quantum-computing-milestone-arrives-as-fermion",
+        "ai-automates-quantum-dot-voltage-tuning-for-scaling-up-quant",
         "two-paths-to-scalable-quantum-computing-optical-links-betwee",
-        "ai-automates-quantum-dot-voltage-tuning-for-scaling-up-quant"
+        "a-long-sought-quantum-computing-milestone-arrives-as-fermion"
       ],
       "backlinks": [
         {
@@ -13007,12 +13160,12 @@
       "url": "https://www.reddit.com/r/Physics/comments/1sxnmgt/the_science_behind_the_adidas_shoes_that_helped/",
       "file": "research/the-science-behind-the-adidas-shoes-that-helped-two-marathon.md",
       "wiki_links": [
-        "how-is-this-possible",
-        "afraid-of-the-job-market-at-the-end-of-my-phd",
-        "what-do-you-think",
         "lhc-running-at-high-luminosity-with-hl-lhc-nominal-trains-fo",
         "why-did-the-copenhagen-interpretation-become-mainstream-vide",
-        "do-american-undergrads-usually-have-taken-courses-in-qft-or"
+        "what-do-you-think",
+        "do-american-undergrads-usually-have-taken-courses-in-qft-or",
+        "how-is-this-possible",
+        "afraid-of-the-job-market-at-the-end-of-my-phd"
       ],
       "backlinks": [
         {
@@ -13037,8 +13190,8 @@
       "url": "https://phys.org/news/2026-04-ultracold-quantum-device-electricity-stranger.html",
       "file": "research/this-ultracold-quantum-device-turns-electricity-into-somethi.md",
       "wiki_links": [
-        "one-way-phonon-synchronization-could-survive-noise-and-defec",
         "quantum-dark-modes-no-longer-block-phonon-control-opening-ne",
+        "one-way-phonon-synchronization-could-survive-noise-and-defec",
         "soundwaves-settle-debate-about-elusive-quantum-particle"
       ],
       "backlinks": [
@@ -13080,9 +13233,9 @@
       "file": "research/two-paths-to-scalable-quantum-computing-optical-links-betwee.md",
       "wiki_links": [
         "quantum-chips-could-scale-faster-with-new-spin-qubit-readout",
-        "a-long-sought-quantum-computing-milestone-arrives-as-fermion",
+        "ai-automates-quantum-dot-voltage-tuning-for-scaling-up-quant",
         "quantum-dark-modes-no-longer-block-phonon-control-opening-ne",
-        "ai-automates-quantum-dot-voltage-tuning-for-scaling-up-quant"
+        "a-long-sought-quantum-computing-milestone-arrives-as-fermion"
       ],
       "backlinks": [
         {
@@ -13182,10 +13335,10 @@
       "url": "https://phys.org/news/2026-04-universal-quantum-protocol-maximum-state.html",
       "file": "research/universal-quantum-protocol-extracts-maximum-work-without-kno.md",
       "wiki_links": [
-        "a-long-sought-quantum-computing-milestone-arrives-as-fermion",
-        "quantum-simulations-that-bypass-resolution-limits-offer-insi",
         "what-impact-doeswill-quantum-computing-have-on-the-coding-wo",
-        "ai-automates-quantum-dot-voltage-tuning-for-scaling-up-quant"
+        "ai-automates-quantum-dot-voltage-tuning-for-scaling-up-quant",
+        "a-long-sought-quantum-computing-milestone-arrives-as-fermion",
+        "quantum-simulations-that-bypass-resolution-limits-offer-insi"
       ],
       "backlinks": [
         {
@@ -13215,10 +13368,10 @@
       "url": "https://phys.org/news/2026-04-simulation-famous-quantum-effect-reveals.html",
       "file": "research/water-simulation-of-famous-quantum-effect-reveals-unexpected.md",
       "wiki_links": [
-        "classical-physics-can-explain-quantum-weirdness-study-shows",
         "quantum-simulations-that-bypass-resolution-limits-offer-insi",
         "quantum-gas-resists-heating-under-periodic-kicks-revealing-m",
-        "soundwaves-settle-debate-about-elusive-quantum-particle"
+        "soundwaves-settle-debate-about-elusive-quantum-particle",
+        "classical-physics-can-explain-quantum-weirdness-study-shows"
       ],
       "backlinks": [
         {
@@ -13258,10 +13411,10 @@
       "url": "https://www.reddit.com/r/Physics/comments/1sy8ebf/which_is_a_better_conductor_of_heat_denim_jeans/",
       "file": "research/which-is-a-better-conductor-of-heat-denim-jeans-or-human-ski.md",
       "wiki_links": [
-        "electromagnetic-field-strength-tensor",
-        "the-classical-simulation-wall-isnt-at-50-qubits-its-at-entan",
         "if-you-were-to-place-all-the-atoms-of-the-universe-into-a-si",
-        "physics-questions---weekly-discussion-thread---april-28-2026"
+        "physics-questions---weekly-discussion-thread---april-28-2026",
+        "electromagnetic-field-strength-tensor",
+        "the-classical-simulation-wall-isnt-at-50-qubits-its-at-entan"
       ],
       "backlinks": [
         {
@@ -13287,8 +13440,8 @@
       "file": "research/why-cant-i-jump-farther.md",
       "wiki_links": [
         "if-you-were-to-place-all-the-atoms-of-the-universe-into-a-si",
-        "swing-problem-not-homework",
         "weight-distribution-question",
+        "swing-problem-not-homework",
         "which-is-a-better-conductor-of-heat-denim-jeans-or-human-ski"
       ],
       "backlinks": []
@@ -13309,9 +13462,9 @@
       "file": "research/why-did-the-copenhagen-interpretation-become-mainstream-vide.md",
       "wiki_links": [
         "electromagnetic-field-strength-tensor",
-        "esteemed-physicists-of-yesteryear",
+        "impossible-physics-is-implicit-in-quantum-value-propisnt-it",
         "why-quantum-matters",
-        "impossible-physics-is-implicit-in-quantum-value-propisnt-it"
+        "esteemed-physicists-of-yesteryear"
       ],
       "backlinks": [
         {
@@ -13403,11 +13556,11 @@
       "url": "https://www.reddit.com/r/quantum/comments/1sy4pjz/working_in_quantum_technology/",
       "file": "research/working-in-quantum-technology.md",
       "wiki_links": [
-        "why-quantum-matters",
-        "afraid-of-the-job-market-at-the-end-of-my-phd",
         "does-industry-for-a-year-make-you-more-or-less-competitive-f",
+        "part-time-quantum-computing-opportunities",
         "people-who-actually-put-your-physics-bsba-degree-to-use-what",
-        "part-time-quantum-computing-opportunities"
+        "why-quantum-matters",
+        "afraid-of-the-job-market-at-the-end-of-my-phd"
       ],
       "backlinks": [
         {
@@ -13491,10 +13644,10 @@
       "url": "https://thequantuminsider.com/2026/04/27/ionq-florida-lambdarail-quantum-safe-network/",
       "file": "applications/ionq-partners-with-florida-lambdarail-on-secure-network-proj.md",
       "wiki_links": [
-        "together-with-florida-quantum-and-local-colleges-and-univers",
-        "the-agreement-announced-at-emergeamericas-last-week-represen",
         "creating-a-statewide-quantum-network-in-florida-will-mark-an",
-        "floridas-first-quantum-safe-corridor-lambdarail-and-the-new"
+        "floridas-first-quantum-safe-corridor-lambdarail-and-the-new",
+        "together-with-florida-quantum-and-local-colleges-and-univers",
+        "the-agreement-announced-at-emergeamericas-last-week-represen"
       ],
       "backlinks": [
         {
@@ -13613,10 +13766,10 @@
       "url": "https://x.com/IonQ_Inc/status/2048736563236929653",
       "file": "applications/together-with-florida-quantum-and-local-colleges-and-univers.md",
       "wiki_links": [
+        "floridas-first-quantum-safe-corridor-lambdarail-and-the-new",
         "ionq-partners-with-florida-lambdarail-on-secure-network-proj",
-        "the-agreement-announced-at-emergeamericas-last-week-represen",
         "creating-a-statewide-quantum-network-in-florida-will-mark-an",
-        "floridas-first-quantum-safe-corridor-lambdarail-and-the-new"
+        "the-agreement-announced-at-emergeamericas-last-week-represen"
       ],
       "backlinks": [
         {
@@ -13763,10 +13916,10 @@
       "url": "https://www.reddit.com/r/QuantumComputing/comments/1sxi8u2/nvidias_ai_toolkit_release_has_nothing_to_do_with/",
       "file": "hardware/nvidias-ai-toolkit-release-has-nothing-to-do-with-quantum-ai.md",
       "wiki_links": [
-        "infleqtion-awarded-1m-us-navy-contract-to-advance-quantum-ac",
         "ai-accelerators-deliver-accurate-models-for-challenging-quan",
-        "trying-to-understand-the-value-of-cryocmos-over-room-tempera",
-        "haiqu-and-hsbc-demonstrate-scalable-quantum-encoding-for-fin"
+        "haiqu-and-hsbc-demonstrate-scalable-quantum-encoding-for-fin",
+        "infleqtion-awarded-1m-us-navy-contract-to-advance-quantum-ac",
+        "trying-to-understand-the-value-of-cryocmos-over-room-tempera"
       ],
       "backlinks": []
     },
@@ -13818,10 +13971,10 @@
       "url": "https://x.com/IonQ_Inc/status/2048735989976195232",
       "file": "industry/creating-a-statewide-quantum-network-in-florida-will-mark-an.md",
       "wiki_links": [
-        "ionq-partners-with-florida-lambdarail-on-secure-network-proj",
-        "the-agreement-announced-at-emergeamericas-last-week-represen",
         "floridas-first-quantum-safe-corridor-lambdarail-and-the-new",
-        "together-with-florida-quantum-and-local-colleges-and-univers"
+        "ionq-partners-with-florida-lambdarail-on-secure-network-proj",
+        "together-with-florida-quantum-and-local-colleges-and-univers",
+        "the-agreement-announced-at-emergeamericas-last-week-represen"
       ],
       "backlinks": [
         {
@@ -13910,11 +14063,11 @@
       "file": "industry/from-unveiling-aurora-the-worlds-first-networked-photonic-qu.md",
       "wiki_links": [
         "now-available-mihir-bhaskar-our-svp-global-rd-presents-our-c",
-        "on-may-1st-christian-weedbrook-cweedbrook-founder-and-ceo-of",
-        "the-canadian-workshop-on-quantum-algorithms-2026-kicks-off-t",
-        "xanadu-was-proud-to-be-named-a-winner-of-the-2026-canadian-b",
         "xanadu-is-proud-to-support-the-next-generation-of-quantum-re",
-        "from-the-basics-of-pennylaneai-to-the-complexities-of-quantu"
+        "the-canadian-workshop-on-quantum-algorithms-2026-kicks-off-t",
+        "from-the-basics-of-pennylaneai-to-the-complexities-of-quantu",
+        "xanadu-was-proud-to-be-named-a-winner-of-the-2026-canadian-b",
+        "on-may-1st-christian-weedbrook-cweedbrook-founder-and-ceo-of"
       ],
       "backlinks": [
         {
@@ -13985,8 +14138,8 @@
       "file": "industry/now-available-mihir-bhaskar-our-svp-global-rd-presents-our-c.md",
       "wiki_links": [
         "were-building-the-connective-tissue-of-a-full-stack-quantum",
-        "ionq-partners-with-florida-lambdarail-on-secure-network-proj",
-        "how-are-customers-getting-value-from-their-work-with-us-toda"
+        "how-are-customers-getting-value-from-their-work-with-us-toda",
+        "ionq-partners-with-florida-lambdarail-on-secure-network-proj"
       ],
       "backlinks": [
         {
@@ -14060,10 +14213,10 @@
       "url": "https://x.com/IonQ_Inc/status/2048737060563939740",
       "file": "industry/the-agreement-announced-at-emergeamericas-last-week-represen.md",
       "wiki_links": [
-        "ionq-partners-with-florida-lambdarail-on-secure-network-proj",
-        "together-with-florida-quantum-and-local-colleges-and-univers",
         "floridas-first-quantum-safe-corridor-lambdarail-and-the-new",
-        "scientists-take-a-step-toward-a-quantum-internet-using-new-y"
+        "ionq-partners-with-florida-lambdarail-on-secure-network-proj",
+        "scientists-take-a-step-toward-a-quantum-internet-using-new-y",
+        "together-with-florida-quantum-and-local-colleges-and-univers"
       ],
       "backlinks": [
         {
@@ -14105,8 +14258,8 @@
       "wiki_links": [
         "on-may-1st-christian-weedbrook-cweedbrook-founder-and-ceo-of",
         "xanadu-was-proud-to-be-named-a-winner-of-the-2026-canadian-b",
-        "from-unveiling-aurora-the-worlds-first-networked-photonic-qu",
-        "xanadu-is-proud-to-support-the-next-generation-of-quantum-re"
+        "xanadu-is-proud-to-support-the-next-generation-of-quantum-re",
+        "from-unveiling-aurora-the-worlds-first-networked-photonic-qu"
       ],
       "backlinks": [
         {
@@ -14191,8 +14344,8 @@
       "url": "https://x.com/XanaduAI/status/2048750297393037775",
       "file": "industry/xanadu-was-proud-to-be-named-a-winner-of-the-2026-canadian-b.md",
       "wiki_links": [
-        "on-may-1st-christian-weedbrook-cweedbrook-founder-and-ceo-of",
         "a-huge-thank-you-to-canadian-business-cdnbiz-and-macleans-ma",
+        "on-may-1st-christian-weedbrook-cweedbrook-founder-and-ceo-of",
         "xanadu-is-proud-to-support-the-next-generation-of-quantum-re",
         "from-unveiling-aurora-the-worlds-first-networked-photonic-qu"
       ],
@@ -14320,8 +14473,8 @@
       "file": "papers/a-quantum-coherent-photonemitter-interface-in-the-original-t.md",
       "wiki_links": [
         "quantum-criticality-from-spectral-collapse-in-the-two-photon",
-        "isotopically-enriched-epitaxial-cawo4-thin-films-for-er3-spi",
-        "fiber-integrated-quantum-frequency-conversion-for-long-dista"
+        "fiber-integrated-quantum-frequency-conversion-for-long-dista",
+        "isotopically-enriched-epitaxial-cawo4-thin-films-for-er3-spi"
       ],
       "backlinks": [
         {
@@ -14346,8 +14499,8 @@
       "url": "https://www.nature.com/articles/s42005-026-02632-5",
       "file": "papers/probing-minimal-observable-length-with-dark-modes-in-an-opto.md",
       "wiki_links": [
-        "levitated-ferromagnetic-torsional-oscillators-for-high-preci",
         "dynamical-generation-of-stable-optical-microwave-squeezing-i",
+        "levitated-ferromagnetic-torsional-oscillators-for-high-preci",
         "witnessing-entanglement-between-photon-and-matter-due-to-gra",
         "a-quantum-coherent-photonemitter-interface-in-the-original-t"
       ],
@@ -14368,12 +14521,12 @@
       "url": "https://www.reddit.com/r/Physics/comments/1sxfqo3/afraid_of_the_job_market_at_the_end_of_my_phd/",
       "file": "research/afraid-of-the-job-market-at-the-end-of-my-phd.md",
       "wiki_links": [
-        "how-are-people-doing-research-in-undergrad",
-        "can-a-non-eu-bsc-physics-graduate-get-into-an-msc-aerospace",
         "does-industry-for-a-year-make-you-more-or-less-competitive-f",
-        "people-who-actually-put-your-physics-bsba-degree-to-use-what",
+        "how-are-people-doing-research-in-undergrad",
         "do-american-undergrads-usually-have-taken-courses-in-qft-or",
-        "part-time-quantum-computing-opportunities"
+        "part-time-quantum-computing-opportunities",
+        "can-a-non-eu-bsc-physics-graduate-get-into-an-msc-aerospace",
+        "people-who-actually-put-your-physics-bsba-degree-to-use-what"
       ],
       "backlinks": [
         {
@@ -14438,10 +14591,10 @@
       "url": "https://www.reddit.com/r/Physics/comments/1sx0trm/do_american_undergrads_usually_have_taken_courses/",
       "file": "research/do-american-undergrads-usually-have-taken-courses-in-qft-or-.md",
       "wiki_links": [
-        "working-in-quantum-technology",
-        "how-are-people-doing-research-in-undergrad",
         "does-industry-for-a-year-make-you-more-or-less-competitive-f",
-        "afraid-of-the-job-market-at-the-end-of-my-phd"
+        "afraid-of-the-job-market-at-the-end-of-my-phd",
+        "working-in-quantum-technology",
+        "how-are-people-doing-research-in-undergrad"
       ],
       "backlinks": []
     },
@@ -14460,10 +14613,10 @@
       "url": "https://www.reddit.com/r/Physics/comments/1sxap5e/earth_to_moon_transfer_in_our_custom_spacecraft/",
       "file": "research/earth-to-moon-transfer-in-our-custom-spacecraft-simulator.md",
       "wiki_links": [
-        "how-are-people-doing-research-in-undergrad",
         "swing-problem-not-homework",
-        "do-american-undergrads-usually-have-taken-courses-in-qft-or",
-        "weight-distribution-question"
+        "weight-distribution-question",
+        "how-are-people-doing-research-in-undergrad",
+        "do-american-undergrads-usually-have-taken-courses-in-qft-or"
       ],
       "backlinks": [
         {
@@ -14488,8 +14641,8 @@
       "url": "https://www.reddit.com/r/quantum/comments/1sx6fbf/has_anyone_ever_recorded_a_video_of_doubleslit/",
       "file": "research/has-anyone-ever-recorded-a-video-of-double-slit-experiment-w.md",
       "wiki_links": [
-        "classical-physics-can-explain-quantum-weirdness-study-shows",
         "water-simulation-of-famous-quantum-effect-reveals-unexpected",
+        "classical-physics-can-explain-quantum-weirdness-study-shows",
         "why-did-the-copenhagen-interpretation-become-mainstream-vide"
       ],
       "backlinks": [
@@ -14515,9 +14668,9 @@
       "url": "https://www.reddit.com/r/quantum/comments/1sx1upx/images_for_a_presentation/",
       "file": "research/images-for-a-presentation.md",
       "wiki_links": [
-        "quantum-bottleneck-breaks-wide-open-as-one-light-beam-carrie",
         "what-impact-doeswill-quantum-computing-have-on-the-coding-wo",
-        "the-classical-simulation-wall-isnt-at-50-qubits-its-at-entan"
+        "the-classical-simulation-wall-isnt-at-50-qubits-its-at-entan",
+        "quantum-bottleneck-breaks-wide-open-as-one-light-beam-carrie"
       ],
       "backlinks": []
     },
@@ -14536,10 +14689,10 @@
       "url": "https://www.reddit.com/r/Physics/comments/1swxt7a/lhc_running_at_high_luminosity_with_hllhc_nominal/",
       "file": "research/lhc-running-at-high-luminosity-with-hl-lhc-nominal-trains-fo.md",
       "wiki_links": [
-        "weight-distribution-question",
+        "physics-questions---weekly-discussion-thread---april-28-2026",
         "the-science-behind-the-adidas-shoes-that-helped-two-marathon",
-        "new-fridge-guy-video",
-        "physics-questions---weekly-discussion-thread---april-28-2026"
+        "weight-distribution-question",
+        "new-fridge-guy-video"
       ],
       "backlinks": [
         {
@@ -14575,9 +14728,9 @@
       "file": "research/part-time-quantum-computing-opportunities.md",
       "wiki_links": [
         "does-industry-for-a-year-make-you-more-or-less-competitive-f",
-        "afraid-of-the-job-market-at-the-end-of-my-phd",
         "working-in-quantum-technology",
-        "people-who-actually-put-your-physics-bsba-degree-to-use-what"
+        "people-who-actually-put-your-physics-bsba-degree-to-use-what",
+        "afraid-of-the-job-market-at-the-end-of-my-phd"
       ],
       "backlinks": [
         {
@@ -14617,10 +14770,10 @@
       "url": "https://www.reddit.com/r/Physics/comments/1swo3aq/self_studying_physics/",
       "file": "research/self-studying-physics.md",
       "wiki_links": [
-        "how-are-people-doing-research-in-undergrad",
         "does-industry-for-a-year-make-you-more-or-less-competitive-f",
         "people-who-actually-put-your-physics-bsba-degree-to-use-what",
-        "can-a-non-eu-bsc-physics-graduate-get-into-an-msc-aerospace"
+        "can-a-non-eu-bsc-physics-graduate-get-into-an-msc-aerospace",
+        "how-are-people-doing-research-in-undergrad"
       ],
       "backlinks": [
         {
@@ -14680,11 +14833,11 @@
       "url": "https://www.reddit.com/r/quantum/comments/1swujr5/the_lastest_april_2026_edit_of_quantum_mechanics/",
       "file": "research/the-lastest-april-2026-edit-of-quantum-mechanics-by-konstant.md",
       "wiki_links": [
-        "classical-physics-can-explain-quantum-weirdness-study-shows",
-        "particle-thought-to-break-physics-followed-rules-all-along-r",
-        "quantum-gas-resists-heating-under-periodic-kicks-revealing-m",
         "physics-questions---weekly-discussion-thread---april-28-2026",
-        "bringing-quantum-time-into-the-laba-single-clock-can-run-you"
+        "quantum-gas-resists-heating-under-periodic-kicks-revealing-m",
+        "classical-physics-can-explain-quantum-weirdness-study-shows",
+        "bringing-quantum-time-into-the-laba-single-clock-can-run-you",
+        "particle-thought-to-break-physics-followed-rules-all-along-r"
       ],
       "backlinks": [
         {
@@ -14710,9 +14863,9 @@
       "file": "research/trying-to-understand-the-value-of-cryocmos-over-room-tempera.md",
       "wiki_links": [
         "quantum-chips-could-scale-faster-with-new-spin-qubit-readout",
-        "a-long-sought-quantum-computing-milestone-arrives-as-fermion",
+        "ai-automates-quantum-dot-voltage-tuning-for-scaling-up-quant",
         "two-paths-to-scalable-quantum-computing-optical-links-betwee",
-        "ai-automates-quantum-dot-voltage-tuning-for-scaling-up-quant"
+        "a-long-sought-quantum-computing-milestone-arrives-as-fermion"
       ],
       "backlinks": [
         {
@@ -14753,9 +14906,9 @@
       "file": "research/what-impact-doeswill-quantum-computing-have-on-the-coding-wo.md",
       "wiki_links": [
         "quantum-chips-could-scale-faster-with-new-spin-qubit-readout",
+        "a-long-sought-quantum-computing-milestone-arrives-as-fermion",
         "two-paths-to-scalable-quantum-computing-optical-links-betwee",
         "ai-automates-quantum-dot-voltage-tuning-for-scaling-up-quant",
-        "a-long-sought-quantum-computing-milestone-arrives-as-fermion",
         "the-classical-simulation-wall-isnt-at-50-qubits-its-at-entan"
       ],
       "backlinks": [
@@ -14806,9 +14959,9 @@
       "url": "https://www.reddit.com/r/Physics/comments/1sxcfvx/why_do_i_suddenly_see_sine_waves_in_my_mirror/",
       "file": "research/why-do-i-suddenly-see-sine-waves-in-my-mirror.md",
       "wiki_links": [
+        "excellent-example-of-the-doppler-effect",
         "electromagnetic-field-strength-tensor",
-        "why-did-the-copenhagen-interpretation-become-mainstream-vide",
-        "excellent-example-of-the-doppler-effect"
+        "why-did-the-copenhagen-interpretation-become-mainstream-vide"
       ],
       "backlinks": []
     },
@@ -14827,10 +14980,10 @@
       "url": "https://www.reddit.com/r/quantum/comments/1sx9p57/why_quantum_matters/",
       "file": "research/why-quantum-matters.md",
       "wiki_links": [
-        "why-did-the-copenhagen-interpretation-become-mainstream-vide",
-        "the-lastest-april-2026-edit-of-quantum-mechanics-by-konstant",
         "working-in-quantum-technology",
-        "impossible-physics-is-implicit-in-quantum-value-propisnt-it"
+        "impossible-physics-is-implicit-in-quantum-value-propisnt-it",
+        "the-lastest-april-2026-edit-of-quantum-mechanics-by-konstant",
+        "why-did-the-copenhagen-interpretation-become-mainstream-vide"
       ],
       "backlinks": [
         {
@@ -14916,10 +15069,10 @@
       "url": "https://www.reddit.com/r/Physics/comments/1swhsyh/excellent_example_of_the_doppler_effect/",
       "file": "research/excellent-example-of-the-doppler-effect.md",
       "wiki_links": [
-        "electromagnetic-field-strength-tensor",
         "if-you-were-to-place-all-the-atoms-of-the-universe-into-a-si",
-        "swing-problem-not-homework",
-        "how-is-this-possible"
+        "how-is-this-possible",
+        "electromagnetic-field-strength-tensor",
+        "swing-problem-not-homework"
       ],
       "backlinks": [
         {
@@ -14949,12 +15102,12 @@
       "url": "https://www.reddit.com/r/Physics/comments/1swg64l/how_are_people_doing_research_in_undergrad/",
       "file": "research/how-are-people-doing-research-in-undergrad.md",
       "wiki_links": [
-        "afraid-of-the-job-market-at-the-end-of-my-phd",
         "does-industry-for-a-year-make-you-more-or-less-competitive-f",
         "working-in-quantum-technology",
-        "people-who-actually-put-your-physics-bsba-degree-to-use-what",
         "do-american-undergrads-usually-have-taken-courses-in-qft-or",
-        "part-time-quantum-computing-opportunities"
+        "part-time-quantum-computing-opportunities",
+        "people-who-actually-put-your-physics-bsba-degree-to-use-what",
+        "afraid-of-the-job-market-at-the-end-of-my-phd"
       ],
       "backlinks": [
         {
@@ -15039,10 +15192,10 @@
       "url": "https://www.reddit.com/r/Physics/comments/1sw9h95/how_is_this_possible/",
       "file": "research/how-is-this-possible.md",
       "wiki_links": [
-        "how-are-people-doing-research-in-undergrad",
+        "part-time-quantum-computing-opportunities",
         "does-industry-for-a-year-make-you-more-or-less-competitive-f",
         "self-studying-physics",
-        "part-time-quantum-computing-opportunities"
+        "how-are-people-doing-research-in-undergrad"
       ],
       "backlinks": [
         {
@@ -15078,8 +15231,8 @@
       "file": "research/impossible-physics-is-implicit-in-quantum-value-propisnt-it.md",
       "wiki_links": [
         "what-impact-doeswill-quantum-computing-have-on-the-coding-wo",
-        "why-quantum-matters",
         "the-classical-simulation-wall-isnt-at-50-qubits-its-at-entan",
+        "why-quantum-matters",
         "trying-to-understand-the-value-of-cryocmos-over-room-tempera"
       ],
       "backlinks": [
@@ -15133,8 +15286,8 @@
       "url": "https://www.reddit.com/r/Physics/comments/1sw1fqn/showing_the_decay_chains_on_the_table_of_nuclides/",
       "file": "research/showing-the-decay-chains-on-the-table-of-nuclides.md",
       "wiki_links": [
-        "electromagnetic-field-strength-tensor",
         "if-you-were-to-place-all-the-atoms-of-the-universe-into-a-si",
+        "electromagnetic-field-strength-tensor",
         "lhc-running-at-high-luminosity-with-hl-lhc-nominal-trains-fo"
       ],
       "backlinks": []
@@ -15154,10 +15307,10 @@
       "url": "https://www.reddit.com/r/Physics/comments/1svt2bw/swing_problem_not_homework/",
       "file": "research/swing-problem-not-homework.md",
       "wiki_links": [
-        "electromagnetic-field-strength-tensor",
+        "excellent-example-of-the-doppler-effect",
         "teaching-general-relativity-to-4th-graders",
-        "self-studying-physics",
-        "excellent-example-of-the-doppler-effect"
+        "electromagnetic-field-strength-tensor",
+        "self-studying-physics"
       ],
       "backlinks": [
         {
@@ -15198,9 +15351,9 @@
       "file": "research/weight-distribution-question.md",
       "wiki_links": [
         "if-you-were-to-place-all-the-atoms-of-the-universe-into-a-si",
-        "swing-problem-not-homework",
         "how-is-this-possible",
-        "earth-to-moon-transfer-in-our-custom-spacecraft-simulator"
+        "earth-to-moon-transfer-in-our-custom-spacecraft-simulator",
+        "swing-problem-not-homework"
       ],
       "backlinks": [
         {
@@ -15235,12 +15388,12 @@
       "url": "https://www.reddit.com/r/Physics/comments/1swn46g/what_do_you_think/",
       "file": "research/what-do-you-think.md",
       "wiki_links": [
-        "how-are-people-doing-research-in-undergrad",
-        "afraid-of-the-job-market-at-the-end-of-my-phd",
         "does-industry-for-a-year-make-you-more-or-less-competitive-f",
-        "self-studying-physics",
+        "how-are-people-doing-research-in-undergrad",
+        "do-american-undergrads-usually-have-taken-courses-in-qft-or",
         "people-who-actually-put-your-physics-bsba-degree-to-use-what",
-        "do-american-undergrads-usually-have-taken-courses-in-qft-or"
+        "self-studying-physics",
+        "afraid-of-the-job-market-at-the-end-of-my-phd"
       ],
       "backlinks": [
         {
@@ -15283,8 +15436,8 @@
       "file": "research/electromagnetic-field-strength-tensor.md",
       "wiki_links": [
         "how-are-people-doing-research-in-undergrad",
-        "why-did-the-copenhagen-interpretation-become-mainstream-vide",
         "self-studying-physics",
+        "why-did-the-copenhagen-interpretation-become-mainstream-vide",
         "do-american-undergrads-usually-have-taken-courses-in-qft-or"
       ],
       "backlinks": [
@@ -15335,9 +15488,9 @@
       "url": "https://www.reddit.com/r/Physics/comments/1svhdjf/teaching_general_relativity_to_4th_graders/",
       "file": "research/teaching-general-relativity-to-4th-graders.md",
       "wiki_links": [
-        "how-are-people-doing-research-in-undergrad",
-        "self-studying-physics",
         "people-who-actually-put-your-physics-bsba-degree-to-use-what",
+        "self-studying-physics",
+        "how-are-people-doing-research-in-undergrad",
         "do-american-undergrads-usually-have-taken-courses-in-qft-or"
       ],
       "backlinks": [
