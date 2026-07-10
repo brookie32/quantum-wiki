@@ -732,5 +732,36 @@ def main():
 
     print(f"\n✅ Wiki agent done — {TODAY}")
 
+def _push_guard():
+    """Alarm if commits are stranded locally because the push/auth broke.
+    Writes a .push-failed flag and exits non-zero so the openclaw cron
+    surfaces it (as lastError) instead of the backlog silently piling up —
+    the failure mode behind the 2026-07-09 expired-PAT outage. The flag is
+    cleared automatically on the next run once we're back in sync."""
+    import subprocess, os, sys
+    root = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+    flag = os.path.join(root, ".push-failed")
+    try:
+        subprocess.run(["git", "-c", "http.sslVerify=false", "fetch", "origin", "main"],
+                       cwd=root, capture_output=True, timeout=120)
+        ahead = subprocess.run(["git", "rev-list", "--count", "origin/main..HEAD"],
+                               cwd=root, capture_output=True, text=True).stdout.strip()
+    except Exception:
+        ahead = "?"
+    if ahead not in ("0", ""):
+        with open(flag, "w") as fh:
+            fh.write("PUSH FAILED — %s local commit(s) not on GitHub.\n"
+                     "The live site will not update until these are pushed.\n"
+                     "Likely cause: expired/revoked GitHub token in the remote URL.\n"
+                     "Fix: git remote set-url origin with a fresh PAT (repo scope),\n"
+                     "then git push origin main.\n" % ahead)
+        print("::PUSH-GUARD:: %s COMMIT(S) STRANDED — wrote %s" % (ahead, flag), file=sys.stderr)
+        sys.exit(1)
+    if os.path.exists(flag):
+        os.remove(flag)
+    print("push-guard: in sync with origin/main")
+
+
 if __name__ == "__main__":
     main()
+    _push_guard()
