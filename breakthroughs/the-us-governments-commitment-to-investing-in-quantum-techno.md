@@ -14,4 +14,12 @@ stale: false
 
 The U.S. government's commitment to investing in quantum technologies reflects a growing understanding that quantum is foundational to economic growth, innovation, and national competitiveness. As @RepStefanik notes, investments made over the past decade are already producing results, from quantum networking deployments at the Air Force Research Lab to broader advances across computing, networking, manufacturing, and secure communications. The next phase is about scale: translating scientific leadership into commercial advantage. Sustained investment across research, infrastructure, talent, and commercialization will help ensure the U.S. remains at the forefront of the global quantum race. Public-private collaboration will be essential to building a thriving quantum ecosystem and turning breakthrough technologies into real-world economic and strategic advantages. Read the article → https://www.realcleardefense.com/articles/2026/06/15/a_quantum_public-private_leap_for_america_1188587.html #IonQ #QuantumTechnology #QuantumIsNow
 
+
+
+## Related
+- [[at-reaganinstitutes-rnef-our-ceo-niccolodemasi-speaks-on-the|At @ReaganInstitute's #RNEF, our CEO @NiccoloDeMasi speaks on the importance of procurement signals in advancing quantum technology:]]
+- [[were-excited-by-the-validation-and-recognition-that-quantum-|'We're excited by the validation and recognition that quantum is now.' Our CEO @NiccoloDeMasi at the Reagan National Economic Forum. #RNEF @…]]
+- [[our-ceo-niccolodemasi-at-the-reagan-national-economic-forum-|Our CEO @NiccoloDeMasi at the Reagan National Economic Forum on the impact of quantum technology across industries; where it dovetails with …]]
+- [[ionq-welcomes-the-trump-administrations-executive-orders-on-|IonQ welcomes the Trump Administration’s Executive Orders on advancing U.S. leadership in quantum technology. The Executive Orders reflect t…]]
+
 **Source:** [IonQ (X)](https://x.com/IonQ_Inc/status/2068049894447710296) | 2026-06-19
