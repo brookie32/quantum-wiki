@@ -1,0 +1,17 @@
+---
+title: "Scientists create stable 'boron graphene' and uncover quantum liquid crystal state"
+date: "2026-07-19"
+updated: "2026-07-19"
+source: "agent"
+category: "papers"
+tags: [papers, phys-org-quantum]
+url: "https://phys.org/news/2026-07-scientists-stable-boron-graphene-uncover.html"
+summary: "Graphene has long been regarded as one of the most promising materials for future electronics, but its relatively weak electron interactions have limited its potential for applications such as high-te"
+last_verified: "2026-07-19"
+review_by: "2026-10-17"
+stale: false
+---
+
+Graphene has long been regarded as one of the most promising materials for future electronics, but its relatively weak electron interactions have limited its potential for applications such as high-temperature superconductivity. Now, researchers from Tohoku University have overcome a major obstacle by creating a stable version of the long-sought "boron graphene" on the surface of a three-dimensional crystal, revealing a new quantum state that could lead to more energy-efficient electronic devices. The findings were published in Science Advances on July 2, 2026.
+
+**Source:** [Phys.org Quantum](https://phys.org/news/2026-07-scientists-stable-boron-graphene-uncover.html) | 2026-07-19
