@@ -16,4 +16,9 @@ I need to search for information about Oaknin's relational/gauge model and its r
 
  Oaknin's paper examines the CHSH experiment as a multi-round game and explores the role of symmetries and spontaneous symmetry breaking in determining maximally achievable correlations.   The model proposes that spontaneous breaking of rotational symmetry allows for stronger correlations than without it, potentially leading to CHSH inequality violation.  The Reddit discussion likely questions whether this approach genuinely avoids Bell's no-go theorem or merely exploits measurement-dependence loopholes in the theorem's assumptions.
 
+
+
+## Related
+- [[do-bell-inequality-violations-necessarily-imply-nonlocality-|Do Bell inequality violations necessarily imply nonlocality, or could they arise from how observables are defined?]]
+
 **Source:** [r/quantum](https://www.reddit.com/r/quantum/comments/1uh16lc/does_oaknins_relationalgauge_model_arxiv240307935/) | 2026-06-27

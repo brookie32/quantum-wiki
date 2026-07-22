@@ -1,0 +1,17 @@
+---
+title: "Missouri Task Force 1 supports recovery efforts near Rio Grande River - KOMU 8"
+date: "2026-07-21"
+updated: "2026-07-22"
+source: "agent"
+category: "machine-learning"
+tags: [machine-learning, google-news--qml-companies]
+url: "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOX0RKc1ZCck84ZUt6Vk4yOEpIQmdGVUZBZmZiZnJXTGdaaVg5UkxlNUhQX1RYcDFoXzQ3cjdoVUJWQmRrUHM1aGMxZmw0cEZ6ZVVnTF9CUFQ0bWlsNEVYWXBDWFQ2UW5KVC00VzJGS0NoVktQSHlTRG5SRGNPeGluVkFrMklGQ0xiSEtpWjZScWJfVFFoaEVrWTIyMENJbkNYeTc2aGp1RVpyZ1VtQ3A3c2xHZkdreFFJREFvM29iZndNMWpSeHVQNmtEcWdfRVA1LVBjNjJxODJ3RXRGLVRtV0trd2dNc0RDTnFHdDBJLUNZdGfSAfgBQVVfeXFMTU4zc2tsc2tRQjdNZG9FbnZhVE43cFdWbzBTT25melpWSElOSURnMFgyelMzNEtLOFVqbHlETjNJSVhHeWx0V3RTYVE0MExkWkp4WTQzU2wxY0JhSF96SkNfWDJvejEybEpsMl9Ecm1RbUFBQUlTVlJpNFZwU2cwNjA0WllNTE9KTzY4cTZHajlGLWxYMDBONWZ5cGtTa0ZSczF1a1BqTzQ0ZUpqekJOaVp0SllnclB0NGstMTZIWGxRTnZsdEp0YmkyR1RydW1wQ2xOY2J1eWFpRXJ2UDY1cDhjNU9UaWNpOGh0UWdscVJjWkYtUVhaRjc?oc=5"
+summary: "Missouri Task Force 1 deployed near the Rio Grande River to assist with disaster recovery, providing on‑scene services such as debris removal, search‑and‑rescue and emergency support. The operation wa"
+last_verified: "2026-07-22"
+review_by: "2026-10-20"
+stale: false
+---
+
+Missouri Task Force 1 deployed near the Rio Grande River to assist with disaster recovery, providing on‑scene services such as debris removal, search‑and‑rescue and emergency support. The operation was reported by KOMU 8, highlighting the task force’s coordination with local responders and the state disaster agency.
+
+**Source:** [Google News: QML companies](https://news.google.com/rss/articles/CBMi8wFBVV95cUxOX0RKc1ZCck84ZUt6Vk4yOEpIQmdGVUZBZmZiZnJXTGdaaVg5UkxlNUhQX1RYcDFoXzQ3cjdoVUJWQmRrUHM1aGMxZmw0cEZ6ZVVnTF9CUFQ0bWlsNEVYWXBDWFQ2UW5KVC00VzJGS0NoVktQSHlTRG5SRGNPeGluVkFrMklGQ0xiSEtpWjZScWJfVFFoaEVrWTIyMENJbkNYeTc2aGp1RVpyZ1VtQ3A3c2xHZkdreFFJREFvM29iZndNMWpSeHVQNmtEcWdfRVA1LVBjNjJxODJ3RXRGLVRtV0trd2dNc0RDTnFHdDBJLUNZdGfSAfgBQVVfeXFMTU4zc2tsc2tRQjdNZG9FbnZhVE43cFdWbzBTT25melpWSElOSURnMFgyelMzNEtLOFVqbHlETjNJSVhHeWx0V3RTYVE0MExkWkp4WTQzU2wxY0JhSF96SkNfWDJvejEybEpsMl9Ecm1RbUFBQUlTVlJpNFZwU2cwNjA0WllNTE9KTzY4cTZHajlGLWxYMDBONWZ5cGtTa0ZSczF1a1BqTzQ0ZUpqekJOaVp0SllnclB0NGstMTZIWGxRTnZsdEp0YmkyR1RydW1wQ2xOY2J1eWFpRXJ2UDY1cDhjNU9UaWNpOGh0UWdscVJjWkYtUVhaRjc?oc=5) | 2026-07-21

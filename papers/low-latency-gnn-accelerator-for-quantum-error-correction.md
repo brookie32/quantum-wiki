@@ -14,4 +14,13 @@ stale: false
 
 arXiv:2603.22149v2 Announce Type: replace Abstract: Quantum computers have the potential to solve certain complex problems in a much more efficient way than classical computers. Nevertheless, current quantum computer implementations are limited by high physical error rates. This issue is addressed by Quantum Error Correction (QEC) codes, which use multiple physical qubits to form a logical qubit to achieve a lower logical error rate, with the surface code being one of the most commonly used. The most time-critical step in this process is interpreting the measurements of the physical qubits to determine which errors have most likely occurred - a task called decoding. Consequently, the main challenge for QEC is to achieve error correction with high accuracy within the tight 1mu s decoding time budget imposed by superconducting qubits. State-of-the-art QEC approaches trade accuracy for latency. In this work, we propose an FPGA accelerator for a Neural Network based decoder as a way to achieve a lower logical error rate than current methods within the tight time constraint, for code distance up to d=7. We achieved this goal by applying different hardware-aware optimizations to a high-accuracy GNN-based decoder. In addition, we propose several accelerator optimizations leading to the FPGA-based decoder achieving a latency smaller than 1mu s, with a lower error rate compared to the state-of-the-art.
 
+
+
+## Related
+- [[diffqec-a-versatile-diffusion-model-for-quantum-error-correc|DiffQEC: A versatile diffusion model for quantum error correction]]
+- [[quantum-decoherence-of-the-surface-code-a-generalized-caldei|Quantum Decoherence of the Surface Code: A Generalized Caldeira-Leggett Approach]]
+- [[stabilizer-code-generic-universal-fault-tolerant-quantum-com|Stabilizer Code-Generic Universal Fault-Tolerant Quantum Computation]]
+- [[fair-decoder-baselines-and-rigorous-finite-size-scaling-for-|Fair Decoder Baselines and Rigorous Finite-Size Scaling for Bivariate Bicycle Codes on the Quantum Erasure Channel]]
+- [[quantum-error-correction-exploiting-quantum-spatial-distribu|Quantum Error Correction Exploiting Quantum Spatial Distribution and Gauge Symmetry]]
+
 **Source:** [arXiv quant-ph](https://arxiv.org/abs/2603.22149) | 2026-04-29
