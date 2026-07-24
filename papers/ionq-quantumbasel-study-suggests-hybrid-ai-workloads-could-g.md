@@ -14,4 +14,11 @@ stale: false
 
 Insider Brief A hybrid quantum-classical approach to fine-tuning artificial intelligence models could eventually consume less energy than classical simulation while matching or surpassing several conventional machine-learning methods on a text classification task, offering an early indication that quantum computers may provide practical advantages beyond computational speed. The research, published on arXiv by scientists from IonQ […]
 
+
+
+## Related
+- [[getting-large-scale-quantum-neural-networks-ready-for-quantu|Getting large-scale quantum neural networks ready for quantum hardware]]
+- [[few-shot-cross-device-transfer-for-quantum-noise-modeling-on|Few-Shot Cross-Device Transfer for Quantum Noise Modeling on Real Hardware]]
+- [[new-white-paper-co-authored-by-ionq-co-founder-chris-monroe-|New white paper co-authored by IonQ co-founder Chris Monroe points to a quantum future that looks like the early internet: smaller, high-qua…]]
+
 **Source:** [The Quantum Insider](https://thequantuminsider.com/2026/07/21/ionq-quantumbasel-study-suggests-hybrid-ai-workloads-could-gain-energy-advantages-from-quantum-hardware-as-systems-scale/) | 2026-07-21
