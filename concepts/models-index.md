@@ -14,7 +14,7 @@ stale: false
 
 # All Models
 
-Auto-generated index of models extracted from wiki entries. 1 models with 2+ mentions.
+Auto-generated index of models extracted from wiki entries. 5 models with 2+ mentions.
 
 ## LittleLamb
 *Mentioned in 3 entries*
@@ -22,3 +22,27 @@ Auto-generated index of models extracted from wiki entries. 1 models with 2+ men
 - [[multiverse-computing-launches-littlelamb-model-family-expand]]
 - [[multiverse-computing-launches-littlelamb-model-family-on-hug]]
 - [[multiverse-computing-launches-ultra-compressed-littlelamb-mo]]
+
+## Willow
+*Mentioned in 2 entries*
+
+- [[alphaevolves-quantum-result-was-trotter-formula-optimization]]
+- [[studying-particle-diffusion-in-quantum-systems-is-a-major-cl]]
+
+## Gemini
+*Mentioned in 2 entries*
+
+- [[gemini-for-science-ai-experiments-and-tools-for-a-new-era-of]]
+- [[the-latest-ai-news-we-announced-in-june-2026]]
+
+## Claude
+*Mentioned in 2 entries*
+
+- [[claude-mythos-has-found-271-zero-days-in-firefox]]
+- [[i-feel-guilty-when-i-ask-claude-to-do-something-i-could-have]]
+
+## CompactifAI
+*Mentioned in 2 entries*
+
+- [[multiverse-computing-reports-all-compactifai-models-now-run-]]
+- [[multiverse-computing-unveils-breakthrough-all-compactifai-mo]]

@@ -1,60 +1,59 @@
 ---
 title: "Synthesis: Arxiv-Quant-Ph"
-date: "2026-05-24"
-updated: "2026-05-24"
+date: "2026-07-26"
+updated: "2026-07-26"
 source: "agent"
 category: "syntheses"
 tags: [synthesis, arxiv-quant-ph, auto-generated]
 url: ""
-summary: "Auto-generated synthesis of 305 entries about arxiv-quant-ph"
-last_verified: "2026-05-24"
-review_by: "2026-05-24"
+summary: "Auto-generated synthesis of 567 entries about arxiv-quant-ph"
+last_verified: "2026-07-26"
+review_by: "2026-07-26"
 stale: false
 ---
 
-# arxiv-quant-ph: Synthesis Overview
+# arxiv-quant-ph: Knowledge Wiki Synthesis
 
 ## Current State
-The quantum physics preprint landscape reflects a field in rapid transition, bridging theoretical foundations with engineering realities. Research spans quantum computing hardware, error correction, algorithms, and fundamental quantum information theory, with increasing emphasis on practical near-term implementations in the NISQ era.
+Quantum computing research is advancing rapidly across hardware, algorithms, and error correction, with the field intensely focused on demonstrating genuine quantum advantage over classical systems. The NISQ (Noisy Intermediate-Scale Quantum) era dominates current work, with researchers navigating fundamental tradeoffs between noise, scale, and computational utility. Theoretical boundaries are being actively mapped alongside experimental progress.
 
 ---
 
 ## Key Developments
-
-- **Quantum Advantage Pursuit**: Structured experimental workflows are emerging to rigorously benchmark combinatorial optimization algorithms toward demonstrable quantum advantage
-- **Noise & Error Correction**: GNN-based low-latency decoders and few-shot cross-device noise modeling are advancing fault-tolerant quantum computing practicality
-- **Hardware Characterization**: Gatemon qubit studies and offset charge behavior in weak tunneling regimes deepen superconducting qubit design understanding
-- **Quantum Information Theory**: New QFT protocols for charged black holes extend quantum information retrieval concepts to fundamental physics contexts
-- **Measurement Efficiency**: Classical shadow techniques and polynomial-resource circuit classification are improving scalable quantum state characterization
-- **Open Quantum Systems**: Mixed-state Floquet topology in dissipative systems reveals novel non-equilibrium quantum phases
-- **Quantum Sensing**: Single-photon image classification via quantum compressed sensing demonstrates practical quantum sensing applications
+- **Quantum advantage benchmarking**: Random circuit sampling (RCS) and boson sampling remain leading candidates, though classical simulation via matrix product states continues to challenge claimed advantages
+- **Error correction acceleration**: Low-latency GNN-based decoders are emerging to meet real-time quantum error correction demands
+- **Quantum reservoir computing (QRC)**: Growing interest in fixed-topology quantum systems for machine learning tasks
+- **Hardware characterization**: Noise modeling advances include few-shot cross-device transfer learning for NISQ hardware; gatemon qubit behavior is being mapped in weak tunneling regimes
+- **Algorithmic limits identified**: Provable constraints on quantum speedup established for power flow and combinatorial optimization problems
+- **Quantum sensing/optics**: Sublinear optical response and chiroptical molecular discrimination pushing quantum metrology boundaries
+- **Open quantum systems**: Floquet topology in dissipative systems revealing new mixed-state phases
 
 ---
 
 ## Key Players & Institutions
-- Academic research groups driving superconducting qubit, topological, and photonic hardware studies
-- Quantum hardware companies (IBM, Google, IonQ ecosystem) implicitly referenced through NISQ-era benchmarking contexts
-- Theoretical physics groups bridging quantum gravity and quantum information
+- Academic groups publishing on arXiv (broadly distributed globally)
+- Implicit industry relevance: **IBM, Google, IonQ, Microsoft** (hardware platforms referenced in noise/error correction work)
+- National labs and university quantum centers driving theoretical complexity results
 
 ---
 
 ## Outlook
-Research is converging toward **fault-tolerant, scalable quantum systems**, with near-term focus on hybrid classical-quantum workflows and hardware-aware noise mitigation. The integration of machine learning (GNNs, score matching) into quantum simulation and error correction signals a maturing cross-disciplinary methodology. Fundamental questions linking black hole physics to quantum information continue to push theoretical boundaries.
+The field is moving toward **fault-tolerant quantum computing** with increasing urgency around classical simulation thresholds. Near-term focus will sharpen on **verifiable quantum advantage**, practical error correction at scale, and identifying realistic application domains where quantum methods outperform classical alternatives with rigorous proof.
 
 ## Source Entries
 
 - [[experimental-workflows-for-combinatorial-optimization-toward|Experimental Workflows for Combinatorial Optimization: Towards Quantum Advantage]]
+- [[the-limits-of-quantum-computers-for-power-flow|The Limits of Quantum Computers for Power Flow]]
+- [[nonlinear-response-via-sublinear-optics|Nonlinear Response via Sublinear Optics]]
+- [[hardness-and-complexity-transition-of-noisy-random-circuit-s|Hardness and Complexity Transition of Noisy Random Circuit Sampling]]
+- [[quantum-reservoir-computing-recent-advances-and-future-direc|Quantum Reservoir Computing: Recent Advances and Future Directions]]
+- [[matrix-product-state-approach-to-lossy-boson-sampling-and-no|Matrix product state approach to lossy boson sampling and noisy IQP sampling]]
 - [[a-qft-information-protocol-for-charged-black-holes|A QFT information protocol for charged black holes]]
 - [[few-shot-cross-device-transfer-for-quantum-noise-modeling-on|Few-Shot Cross-Device Transfer for Quantum Noise Modeling on Real Hardware]]
 - [[gate-dependent-offset-charge-shifts-and-anharmonicity-in-gat|Gate-dependent offset charge shifts and anharmonicity in gatemon qubits in the weak tunneling regime]]
 - [[polynomial-resource-classification-of-quantum-circuit-famile|Polynomial Resource Classification of Quantum Circuit Familes via Classical Shadows]]
 - [[low-latency-gnn-accelerator-for-quantum-error-correction|Low Latency GNN Accelerator for Quantum Error Correction]]
+- [[basis-independent-coherence-and-quantum-correlations-in-two-|Basis-independent coherence and quantum correlations in two dipole-dipole-coupled electrons in double quantum-dot molecules]]
 - [[scaling-of-entanglement-entropy-and-correlations-in-the-vari|Scaling of entanglement entropy and correlations in the variable-range extended Ising model]]
 - [[anomalous-mixed-state-floquet-topology-in-one-dimensional-op|Anomalous Mixed-State Floquet Topology in One-Dimensional Open Quantum Systems]]
-- [[kinematic-modulation-in-driven-spin-resonance|Kinematic Modulation in Driven Spin Resonance]]
-- [[quantum-compressed-sensing-enables-image-classification-with|Quantum Compressed Sensing Enables Image Classification with a Single Photon]]
-- [[charging-dynamics-in-a-distance-modulated-planar-quantum-bat|Charging Dynamics in a Distance-Modulated Planar Quantum-Battery Architecture]]
-- [[representability-for-quantum-theory-beyond-particle-number-c|Representability for Quantum Theory beyond Particle-Number Conservation]]
-- [[wigner-functions-negativity-volumes-and-experimental-generat|Wigner functions, negativity volumes, and experimental generation of Pegg-Barnett phase-operator eigenstates]]
-- [[quantum-dynamics-via-score-matching-on-bohmian-trajectories|Quantum Dynamics via Score Matching on Bohmian Trajectories]]
-- [[six-textbook-mistakes-in-quantum-field-theory|Six textbook mistakes in quantum field theory]]
+- [[quantum-limits-to-chiroptical-molecular-discrimination|Quantum limits to chiroptical molecular discrimination]]
