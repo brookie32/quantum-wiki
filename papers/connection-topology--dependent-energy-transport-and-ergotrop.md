@@ -14,4 +14,12 @@ stale: false
 
 arXiv:2603.23009v2 Announce Type: replace Abstract: The realization of scalable quantum battery architectures requires concern not only with how much energy can be stored, but also with how energy is transported, distributed, and converted into extractable work across connected battery nodes. While previous studies mainly focused on collective charging in multi-cell quantum batteries, the topology-dependent transport law and the corresponding work-oriented performance of quantum battery networks remain largely unexplored. In this work, we investigate quantum battery networks with engineered reciprocal and nonreciprocal couplings and compare different connection topologies, including cascaded and parallel architectures, within a unified transport framework. In the nonreciprocal regime, the optimal coupling follows distinct scaling laws for the two connection topologies, namely J_{rm op}^{c}propto N for cascaded transport and J_{rm op}^{p}propto N^{-1/2} for parallel charging in the large-N limit. In reciprocal cascaded networks, a parity-dependent spectral response produces an odd-even transport effect that is absent in the nonreciprocal and parallel configurations. We further analyze the role of thermal and squeezed reservoirs and show that thermal noise mainly increases passive energy, whereas squeezing enhances ergotropy and thus the useful fraction of stored energy. These results shift the emphasis from charging enhancement to transport engineering and provide architecture-level design principles for quantum battery networks.
 
+
+
+## Related
+- [[unified-theory-of-classical-and-quantum-ergotropy|Unified theory of classical and quantum ergotropy]]
+- [[quantum-catalysis-enhanced-extractable-energy-in-a-qubit-qua|Quantum-catalysis-enhanced extractable energy in a qubit quantum battery]]
+- [[charging-dynamics-in-a-distance-modulated-planar-quantum-bat|Charging Dynamics in a Distance-Modulated Planar Quantum-Battery Architecture]]
+- [[design-principles-for-enhanced-quantum-transport-with-site-d|Design Principles for Enhanced Quantum Transport with Site-Dependent Noise]]
+
 **Source:** [arXiv quant-ph](https://arxiv.org/abs/2603.23009) | 2026-07-24
