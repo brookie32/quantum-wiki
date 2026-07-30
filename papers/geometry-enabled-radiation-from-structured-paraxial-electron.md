@@ -1,0 +1,17 @@
+---
+title: "Geometry-Enabled Radiation from Structured Paraxial Electrons"
+date: "2026-07-30"
+updated: "2026-07-30"
+source: "agent"
+category: "papers"
+tags: [papers, arxiv-quant-ph]
+url: "https://arxiv.org/abs/2602.07858"
+summary: "arXiv:2602.07858v2 Announce Type: replace Abstract: We present a microscopic calculation of spontaneous photon emission by twisted (paraxial) electrons propagating through inhomogeneous, axisymmetric "
+last_verified: "2026-07-30"
+review_by: "2026-10-28"
+stale: false
+---
+
+arXiv:2602.07858v2 Announce Type: replace Abstract: We present a microscopic calculation of spontaneous photon emission by twisted (paraxial) electrons propagating through inhomogeneous, axisymmetric magnetic fields. We construct exact electron states that incorporate transverse mode structure and wavefront curvature by combining the Foldy-Wouthuysen transformation with a geometric framework based on Lewis-Ermakov invariants and metaplectic transformations. We show that the evolution of such structured states corresponds to an open path in the space of quadratic forms, giving rise to a geometric contribution to the emission amplitude that cannot be eliminated by gauge choice or adiabatic arguments. The inverse radius of curvature of the electron wavefront controls a finite-window boundary contribution to the emission amplitude in regions where the external magnetic field vanishes locally, this contribution vanishes when the observation window is extended to infinity. Presented mechanism generalizes Landau-level radiation to nonasymptotic, structured electron states and establishes a direct connection between noncyclic geometric evolution and photon emission.
+
+**Source:** [arXiv quant-ph](https://arxiv.org/abs/2602.07858) | 2026-07-30

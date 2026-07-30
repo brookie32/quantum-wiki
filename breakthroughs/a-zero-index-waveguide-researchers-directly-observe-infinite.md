@@ -14,4 +14,9 @@ stale: false
 
 I'll search for information about this zero-index waveguide research. Harvard researchers developed a zero-index waveguide compatible with current silicon photonic technologies, directly observing a standing wave of light—a physical phenomenon that is usually unobservable.   This advance is significant for integrated photonics because infinitely long wavelengths eliminate the need to match the phase of different light waves, since optical fields remain uniform everywhere.   The research was published in ACS Photonics.
 
+
+
+## Related
+- [[can-energy-bands-be-derived-directly-from-blochs-theorem|Can energy bands be derived directly from Blochs theorem?]]
+
 **Source:** [r/Physics](https://www.reddit.com/r/Physics/comments/1ttp518/a_zeroindex_waveguide_researchers_directly/) | 2026-06-01
