@@ -14,4 +14,11 @@ stale: false
 
 # All Papers
 
-Auto-generated index of papers extracted from wiki entries. 0 papers with 2+ mentions.
+Auto-generated index of papers extracted from wiki entries. 1 papers with 2+ mentions.
+
+## Gottesman-Kitaev-Preskill
+*Mentioned in 3 entries*
+
+- [[building-a-fault-tolerant-quantum-computer-means-tackling-er]]
+- [[generating-gottesman-kitaev-preskill-gkp-states-are-importan]]
+- [[work-with-our-team-of-high-performing-quantum-experts-and-bu]]

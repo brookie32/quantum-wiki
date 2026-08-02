@@ -1,58 +1,60 @@
 ---
 title: "Synthesis: Phys-Org-Quantum"
-date: "2026-07-26"
-updated: "2026-07-26"
+date: "2026-08-02"
+updated: "2026-08-02"
 source: "agent"
 category: "syntheses"
 tags: [synthesis, phys-org-quantum, auto-generated]
 url: ""
-summary: "Auto-generated synthesis of 79 entries about phys-org-quantum"
-last_verified: "2026-07-26"
-review_by: "2026-07-26"
+summary: "Auto-generated synthesis of 98 entries about phys-org-quantum"
+last_verified: "2026-08-02"
+review_by: "2026-08-02"
 stale: false
 ---
 
-# Quantum Physics & Technology: Synthesis Overview
+# Quantum Physics & Technology: Knowledge Wiki Overview
 
 ## Current State
-Quantum science is advancing rapidly across hardware, materials, sensing, and error correction domains, with multiple experimental milestones being achieved in 2024-2025. Research is transitioning from theoretical frameworks toward practical demonstrations, including room-temperature quantum effects and first-of-kind qubit architectures. The field is increasingly interdisciplinary, merging AI/ML methods, photonics, and materials science to overcome scalability challenges.
+Quantum science is experiencing rapid parallel progress across hardware, materials, algorithms, and error correction—moving from theoretical promise toward practical demonstration. IBM's recent achievement of verified quantum advantage marks a critical inflection point, while new qubit modalities and quantum materials continue to expand the solution space for scalable systems.
 
 ---
 
 ## Key Developments
-- **Novel qubits**: First zinc oxide spin qubit demonstrated; electron-on-helium qubit achieves strong microwave photon coupling
-- **Room-temperature breakthroughs**: Spontaneous magnon coherence and quantum heat waves (phonon focusing) observed at ambient conditions
-- **Materials discovery**: Stable boron graphene synthesized; quantum liquid crystal state uncovered; ML methods accelerate 2D quantum material identification
-- **Computing milestones**: Quantum computers model nine fusion fuel material configurations for the first time
-- **Photonics**: Photonic chip generates UV light 100× brighter than previous benchmarks
-- **Error correction**: Holographic universe models explored as framework for quantum error correction
-- **Hardware challenges**: Quantum Zeno effect identified as scaling risk; single-electron damage mechanisms in silicon chips clarified
+- **Quantum advantage demonstrated**: IBM and University of Chicago verified a computational task beyond practical classical reach
+- **Novel qubit platforms**: First zinc oxide spin qubit and electron-on-helium qubit achieving microwave photon coupling
+- **Error correction advances**: Non-commutative quantum codes showing greater stability and power than conventional alternatives
+- **Materials breakthroughs**: Boron graphene quantum liquid crystal state discovered; 2D quantum material search accelerated via ML
+- **Room-temperature phenomena**: Spontaneous magnon coherence and quantum heat waves (phonon focusing) observed at ambient conditions
+- **Fusion applications**: Quantum computers modeled nine fusion fuel molecular configurations for the first time
+- **Photonics**: UV light generation on-chip at milliwatt levels, 100× brighter than previous benchmarks
 
 ---
 
 ## Key Players & Institutions
-- **National Labs/Universities**: Oak Ridge National Laboratory, RPTU Kaiserslautern-Landau, SKKU, UC Santa Barbara, University of Manchester, University of Twente, CIC nanoGUNE, Harvard University
-- **Industry**: IBM, Cleveland Clinic, Quantum Motion
+- **IBM**, Oak Ridge National Laboratory, Cleveland Clinic
+- **RPTU Kaiserslautern-Landau**, SKKU (South Korea), UC Santa Barbara
+- **University of Manchester**, University of Chicago, University of Twente, Harvard University
+- **CIC nanoGUNE**, Quantum Motion (UK)
 
 ---
 
 ## Outlook
-Near-term progress will focus on room-temperature-compatible qubit platforms and scalable silicon processors. AI-assisted materials discovery and GPU-accelerated quantum chemistry will compress development timelines. Bridging error correction with fundamental physics (emergent gravity, holography) suggests quantum hardware and theory are converging toward more unified frameworks.
+The field is converging on near-term practical utility, with room-temperature quantum effects reducing cryogenic dependencies and error correction maturing toward fault tolerance. Expect accelerating crossover between quantum computing and real-world domains—particularly materials science, fusion energy, and photonics—within the next 3–5 years.
 
 ## Source Entries
 
 - [[direct-observation-of-spontaneous-magnon-coherence-at-room-t|Direct observation of spontaneous magnon coherence at room temperature]]
 - [[worlds-first-zinc-oxide-spin-qubit-could-advance-scalable-qu|World's first 'zinc oxide spin qubit' could advance scalable quantum devices]]
 - [[quantum-computers-model-nine-fusion-fuel-material-configurat|Quantum computers model nine fusion fuel material configurations for first time]]
+- [[quantum-computer-completes-verified-task-beyond-practical-re|Quantum computer completes verified task beyond practical reach of classical simulations]]
 - [[scientists-create-stable-boron-graphene-and-uncover-quantum-|Scientists create stable 'boron graphene' and uncover quantum liquid crystal state]]
 - [[new-physics-based-machine-learning-method-speeds-search-for-|New physics-based machine-learning method speeds search for 2D quantum materials]]
 - [[laser-method-unlocks-3000-kelvin-thin-film-synthesis-for-qua|Laser method unlocks 3,000-Kelvin thin-film synthesis for quantum materials]]
 - [[photonic-chip-generates-milliwatt-level-uv-light-100-times-b|Photonic chip generates milliwatt-level UV light, 100 times brighter than before]]
 - [[from-quantum-error-correction-to-emergent-gravity-probing-ho|From quantum error correction to emergent gravity: Probing holographic universes at QLab]]
 - [[ultra-compact-sensor-paves-the-way-for-more-powerful-and-sca|Ultra-compact sensor paves the way for more powerful and scalable silicon quantum processors]]
+- [[less-explored-form-of-quantum-code-could-be-more-powerfuland|Less-explored form of quantum code could be more powerful—and more stable—than its alternative in error correction]]
 - [[quantum-model-explains-how-single-electrons-cause-damage-ins|Quantum model explains how single electrons cause damage inside silicon chips]]
 - [[ai-accelerators-deliver-accurate-models-for-challenging-quan|AI accelerators deliver accurate models for challenging quantum chemistry calculations]]
 - [[engineers-observe-quantum-heat-waves-at-room-temperature|Engineers observe quantum heat waves at room temperature]]
 - [[long-theorized-electron-on-helium-qubit-achieves-strong-coup|Long-theorized electron-on-helium qubit achieves strong coupling to a single microwave photon]]
-- [[quantum-zeno-effect-could-freeze-computations-as-qubit-syste|Quantum Zeno effect could freeze computations as qubit systems scale up]]
-- [[quantum-sensing-microscope-illuminates-transistor-design|Quantum sensing microscope illuminates transistor design]]

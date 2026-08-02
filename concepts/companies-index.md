@@ -14,13 +14,15 @@ stale: false
 
 # All Companies
 
-Auto-generated index of companies extracted from wiki entries. 73 companies with 2+ mentions.
+Auto-generated index of companies extracted from wiki entries. 91 companies with 2+ mentions.
 
 ## Xanadu
-*Mentioned in 84 entries*
+*Mentioned in 92 entries*
 
+- [[a-million-lights-are-dancing-xanadus-ultra-low-loss-300-mm-p]]
 - [[at-last-weeks-optica-quantum-industry-summit-in-glasgow-xana]]
 - [[big-thanks-to-our-collaborators-marco-cerezo-mvscerezo-john-]]
+- [[building-a-fault-tolerant-quantum-computer-means-tackling-er]]
 - [[catch-the-session-from-100---230-pm-to-learn-how-pennylane-p]]
 - [[check-out-our-latest-blog-about-our-new-perspective-on-qml-h]]
 - [[christian-weedbrook-cweedbrook-founder-and-ceo-of-xanadu-joi]]
@@ -30,13 +32,30 @@ Auto-generated index of companies extracted from wiki entries. 73 companies with
 - [[dont-miss-the-chance-to-hear-from-dylan-mahler-in-qubec-city]]
 - [[dont-miss-xanadus-torin-stetina-at-the-simons-institute-simo]]
 - [[enrolled-in-the-q-ready-program-save-your-seat-httpschicagoq]]
+- [[excited-to-support-the-university-of-toronto-uoft-quantum-co]]
 - [[four-years-ago-today-xanadu-achieved-quantum-computational-a]]
-- [[from-navigating-us-darpa-milestones-to-entering-final-negoti]]
-- [[from-unveiling-aurora-the-worlds-first-networked-photonic-qu]]
-- [[full-video-here-httpswwwyoutubecomwatchvyvehnwwvzza]]
+
+## IBM
+*Mentioned in 42 entries*
+
+- [[96-qubit-structured-output-benchmark-on-ibm-hardware]]
+- [[ab-benchmark-ibm-level-3-compiler-vs-custom-on-ibm-fez]]
+- [[bluequbit-supports-qedma-ibm-and-riken-study-on-error-mitiga]]
+- [[bypassed-ibms-level-3-compiler-via-jit-hardware-routing-achi]]
+- [[cleveland-clinic-and-ibm-researchers-create-quantum-machine-]]
+- [[comments-on-ibms-acquisition-of-the-hrl-laboratories]]
+- [[day-1330-visual-cheat-sheet-on-ibm-quantum-hardware-architec]]
+- [[former-ibm-quantum-executive-denise-ruffner-joins-haiqu-to-e]]
+- [[heron-r2-entanglement-test]]
+- [[ibm-and-algorithmiq-develop-framework-for-verifying-quantum-]]
+- [[ibm-and-ecosystem-partners-demonstrate-trusted-quantum-advan]]
+- [[ibm-and-qedma-demonstrate-error-mitigated-quantum-simulation]]
+- [[ibm-and-university-of-chicago-demonstrate-verified-logical-q]]
+- [[ibm-ceo-expects-quantum-computing-to-drive-revenue-by-2020s-]]
+- [[ibm-cleveland-clinic-and-riken-simulate-massive-12635-atom-p]]
 
 ## IonQ
-*Mentioned in 35 entries*
+*Mentioned in 40 entries*
 
 - [[a-new-paper-with-ionq-affiliated-authors-including-chris-mon]]
 - [[as-i-close-my-first-full-year-as-chairman-ceo-of-ionq-2025-s]]
@@ -52,32 +71,16 @@ Auto-generated index of companies extracted from wiki entries. 73 companies with
 - [[how-are-customers-getting-value-from-their-work-with-us-toda]]
 - [[inder-singh-our-coo-and-cfo-spoke-this-week-at-jpmorgans-202]]
 - [[ionq-and-florida-lambdarail-launch-us-statewide-quantum-safe]]
-- [[ionq-is-aiming-for-8000-logical-qubits-in-2029-and-quantinuu]]
-
-## IBM
-*Mentioned in 30 entries*
-
-- [[96-qubit-structured-output-benchmark-on-ibm-hardware]]
-- [[ab-benchmark-ibm-level-3-compiler-vs-custom-on-ibm-fez]]
-- [[bypassed-ibms-level-3-compiler-via-jit-hardware-routing-achi]]
-- [[comments-on-ibms-acquisition-of-the-hrl-laboratories]]
-- [[day-1330-visual-cheat-sheet-on-ibm-quantum-hardware-architec]]
-- [[former-ibm-quantum-executive-denise-ruffner-joins-haiqu-to-e]]
-- [[heron-r2-entanglement-test]]
-- [[ibm-cleveland-clinic-and-riken-simulate-massive-12635-atom-p]]
-- [[ibm-commits-50m-in-qpu-compute-access-to-support-us-doe-gene]]
-- [[ibm-expands-quantum-data-center-in-new-york-to-advance-algor]]
-- [[ibm-nighthawk-processor-validated-in-quantum-chromodynamics-]]
-- [[ibm-plans-10-billion-quantum-push-as-efforts-to-commercializ]]
-- [[ibm-qiskit-summer-school-2026-schedule]]
-- [[ibm-to-acquire-hrl-laboratories-to-expand-quantum-computing-]]
-- [[ibm-to-acquire-hrl-laboratories-to-expand-quantum-roadmap-wi]]
+- [[ionq-clears-final-regulatory-hurdle-to-complete-acquisition-]]
 
 ## Google
-*Mentioned in 25 entries*
+*Mentioned in 30 entries*
 
 - [[a-new-experiment-brings-better-group-meetings-to-google-beam]]
+- [[a-new-route-to-fault-tolerant-quantum-computers---embeddedco]]
+- [[a-quantum-machine-learning-framework-to-predict-neoantigen-i]]
 - [[apply-now-for-googles-academic-research-awards-a-global-open]]
+- [[cisco-routers-now-run-quantum-encryption-via-live-eqkd-netwo]]
 - [[gemini-for-science-ai-experiments-and-tools-for-a-new-era-of]]
 - [[google-uses-ai-reinforcement-learning-for-quantum-error-corr]]
 - [[google-wants-to-use-quantum-computing-and-ai-to-understand-h]]
@@ -88,9 +91,25 @@ Auto-generated index of companies extracted from wiki entries. 73 companies with
 - [[ionqs-quantum-network-deal-tests-real-world-use-and-stock-ex]]
 - [[multiverse-computing-reports-all-compactifai-models-now-run-]]
 - [[our-team-ran-a-verifiable-quantum-algorithm-that-probes-how-]]
-- [[project-dense-evolution-v804-running-deep-nisq-circuits-up-t]]
-- [[published-today-in-nature-weve-unified-calibration-with-comp]]
-- [[quantum-resilience-how-to-defend-against-store-now-decrypt-l]]
+
+## Multiverse Computing
+*Mentioned in 20 entries*
+
+- [[intel-says-multiverse-computings-ai-compression-boosts-token]]
+- [[multiverse-computing-announces-series-c-fundraising---globen]]
+- [[multiverse-computing-announces-series-c-fundraising-targetin]]
+- [[multiverse-computing-launches-littlelamb-model-family-expand]]
+- [[multiverse-computing-launches-littlelamb-model-family-on-hug]]
+- [[multiverse-computing-launches-ultra-compressed-littlelamb-mo]]
+- [[multiverse-computing-licenses-mitigas-climate-data-in-multi-]]
+- [[multiverse-computing-raises-500-million-in-series-c-funding-]]
+- [[multiverse-computing-raises-570m-in-series-c-funding---finsm]]
+- [[multiverse-computing-reports-all-compactifai-models-now-run-]]
+- [[multiverse-computing-secures-570m-funding-to-develop-efficie]]
+- [[multiverse-computing-secures-570m-to-compress-ai-for-edge-de]]
+- [[multiverse-computing-targeting-500m-round-at-unicorn-valuati]]
+- [[multiverse-computing-targeting-up-to-570m-in-latest-round---]]
+- [[multiverse-computing-targets-570-million-series-c-at-17-bill]]
 
 ## PsiQuantum
 *Mentioned in 20 entries*
@@ -112,7 +131,7 @@ Auto-generated index of companies extracted from wiki entries. 73 companies with
 - [[ten-years-in-and-a-big-week-ahead]]
 
 ## Quantinuum
-*Mentioned in 13 entries*
+*Mentioned in 14 entries*
 
 - [[ionq-is-aiming-for-8000-logical-qubits-in-2029-and-quantinuu]]
 - [[new-materials-telecom-fraud-quantinuum-maps-quantums-path---]]
@@ -124,25 +143,29 @@ Auto-generated index of companies extracted from wiki entries. 73 companies with
 - [[quantinuum-appoints-new-chief-legal-officer-and-chief-people]]
 - [[quantinuum-explores-alternative-route-to-fault-tolerant-quan]]
 - [[quantinuums-trapped-ion-qccd-tech-and-infleqtions-neutral-at]]
+- [[researchers-ai-can-learn-to-build-quantum-circuits-for-drug-]]
 - [[riken-activates-roquo-supercomputer-integrating-quantinuums-]]
 - [[rolls-royce-and-epcc-partner-with-quantinuum-and-riverlane-t]]
 - [[whos-news-strategic-appointments-at-quantum-computing-inc-an]]
 
-## Multiverse Computing
-*Mentioned in 8 entries*
+## Infleqtion
+*Mentioned in 10 entries*
 
-- [[intel-says-multiverse-computings-ai-compression-boosts-token]]
-- [[multiverse-computing-launches-littlelamb-model-family-expand]]
-- [[multiverse-computing-launches-littlelamb-model-family-on-hug]]
-- [[multiverse-computing-launches-ultra-compressed-littlelamb-mo]]
-- [[multiverse-computing-licenses-mitigas-climate-data-in-multi-]]
-- [[multiverse-computing-reports-all-compactifai-models-now-run-]]
-- [[multiverse-computing-unveils-breakthrough-all-compactifai-mo]]
-- [[multiverse-computings-ai-model-compression-boo---pluang]]
+- [[four-quantum-firms-join-abq-net-to-validate-defense-and-secu]]
+- [[infleqtion-appoints-dr-joseph-buck-as-senior-vice-president-]]
+- [[infleqtion-awarded-1m-us-navy-contract-to-advance-quantum-ac]]
+- [[infleqtion-ceo-matt-kinsella-provides-testimony-for-house-co]]
+- [[infleqtion-secures-three-genesis-mission-projects-from-us-de]]
+- [[infleqtion-to-deploy-fault-tolerant-neutral-atom-quantum-com]]
+- [[infleqtion-to-deploy-neutral-atom-quantum-computer-at-illino]]
+- [[infleqtion-to-report-second-quarter-2026-financial-results-o]]
+- [[quantinuums-trapped-ion-qccd-tech-and-infleqtions-neutral-at]]
+- [[thoughts-on-infleqtion]]
 
 ## RIKEN
-*Mentioned in 6 entries*
+*Mentioned in 7 entries*
 
+- [[bluequbit-supports-qedma-ibm-and-riken-study-on-error-mitiga]]
 - [[ibm-cleveland-clinic-and-riken-simulate-massive-12635-atom-p]]
 - [[is-quantum-magic-becoming-a-promising-idea-in-particle-physi]]
 - [[one-way-phonon-synchronization-could-survive-noise-and-defec]]
@@ -150,25 +173,37 @@ Auto-generated index of companies extracted from wiki entries. 73 companies with
 - [[quantum-dark-modes-no-longer-block-phonon-control-opening-ne]]
 - [[riken-activates-roquo-supercomputer-integrating-quantinuums-]]
 
-## Infleqtion
-*Mentioned in 6 entries*
+## NVIDIA
+*Mentioned in 7 entries*
 
-- [[infleqtion-awarded-1m-us-navy-contract-to-advance-quantum-ac]]
-- [[infleqtion-ceo-matt-kinsella-provides-testimony-for-house-co]]
-- [[infleqtion-secures-three-genesis-mission-projects-from-us-de]]
-- [[infleqtion-to-deploy-fault-tolerant-neutral-atom-quantum-com]]
-- [[infleqtion-to-deploy-neutral-atom-quantum-computer-at-illino]]
-- [[quantinuums-trapped-ion-qccd-tech-and-infleqtions-neutral-at]]
+- [[exclusive-inside-psiquantum-the-7b-startup-backed-by-nvidia-]]
+- [[explore-nvidia-cuda-q-applications-hub-and-academic-library-]]
+- [[nvidias-ai-toolkit-release-has-nothing-to-do-with-quantum-ai]]
+- [[quantum-x-labs-announces-progress-on-ai-driven-quantum-error]]
+- [[quantum-x-labs-tests-ai-based-error-correction-decoder-with-]]
+- [[researchers-ai-can-learn-to-build-quantum-circuits-for-drug-]]
+- [[riken-activates-roquo-supercomputer-integrating-quantinuums-]]
 
 ## Microsoft
-*Mentioned in 6 entries*
+*Mentioned in 7 entries*
 
 - [[big-critique-of-microsofts-majorana-approach]]
 - [[helion-energy-is-building-a-fusion-power-plant-can-its-techn]]
 - [[is-quantum-potential-undervalued-by-investors-when-it-comes-]]
+- [[long-lived-vulnerability-in-microsoft-secure-boot]]
 - [[microsoft-is-introducing-the-majorana-2-chip]]
 - [[microsoft-upgrades-controversial-quantum-chip-researchers-ar]]
 - [[microsofts-secret-quantum-lab-was-shut-down-what-they-found-]]
+
+## Google Quantum AI
+*Mentioned in 6 entries*
+
+- [[author-correction-quantum-error-correction-below-the-surface]]
+- [[google-wants-to-use-quantum-computing-and-ai-to-understand-h]]
+- [[quantum-systems-are-everywhere-just-look-at-nature-itself-ou]]
+- [[role-of-flavor-degrees-of-freedom-in-quantum-simulations-of-]]
+- [[video-on-google-otoc-paper]]
+- [[were-launching-repliqa-a-10m-research-initiative-with-google]]
 
 ## U.S. Department of Energy
 *Mentioned in 6 entries*
@@ -180,23 +215,15 @@ Auto-generated index of companies extracted from wiki entries. 73 companies with
 - [[rice-joins-department-of-energys-quantum-science-center---ri]]
 - [[rice-university-joins-doe-quantum-science-center-to-advance-]]
 
-## Google Quantum AI
-*Mentioned in 5 entries*
+## Quantum X Labs
+*Mentioned in 6 entries*
 
-- [[author-correction-quantum-error-correction-below-the-surface]]
-- [[google-wants-to-use-quantum-computing-and-ai-to-understand-h]]
-- [[quantum-systems-are-everywhere-just-look-at-nature-itself-ou]]
-- [[video-on-google-otoc-paper]]
-- [[were-launching-repliqa-a-10m-research-initiative-with-google]]
-
-## NVIDIA
-*Mentioned in 5 entries*
-
-- [[exclusive-inside-psiquantum-the-7b-startup-backed-by-nvidia-]]
-- [[explore-nvidia-cuda-q-applications-hub-and-academic-library-]]
-- [[nvidias-ai-toolkit-release-has-nothing-to-do-with-quantum-ai]]
+- [[quantum-x-labs-advances-ai-driven-quantum-error---pluang]]
 - [[quantum-x-labs-announces-progress-on-ai-driven-quantum-error]]
-- [[riken-activates-roquo-supercomputer-integrating-quantinuums-]]
+- [[quantum-x-labs-completes-quantum-error-correction-milestones]]
+- [[quantum-x-labs-qxl-advances-ai-driven-quantum-error-correcti]]
+- [[quantum-x-labs-tests-ai-based-error-correction-decoder-with-]]
+- [[quantum-x-labs-validates-ai-decoder-on-surface-code-simulati]]
 
 ## Intel
 *Mentioned in 5 entries*
@@ -207,14 +234,32 @@ Auto-generated index of companies extracted from wiki entries. 73 companies with
 - [[multiverse-computing-unveils-breakthrough-all-compactifai-mo]]
 - [[we-are-thrilled-to-announce-that-lipbutan1-intel-ceo-and-lon]]
 
-## Quantum X Labs
+## Cisco
 *Mentioned in 5 entries*
 
-- [[quantum-x-labs-advances-ai-driven-quantum-error---pluang]]
-- [[quantum-x-labs-announces-progress-on-ai-driven-quantum-error]]
-- [[quantum-x-labs-completes-quantum-error-correction-milestones]]
-- [[quantum-x-labs-qxl-advances-ai-driven-quantum-error-correcti]]
-- [[quantum-x-labs-validates-ai-decoder-on-surface-code-simulati]]
+- [[cisco-backed-qunnect-attracts-quad-of-quantum-focused-abq-ne]]
+- [[cisco-routers-now-run-quantum-encryption-via-live-eqkd-netwo]]
+- [[cisco-unveils-universal-quantum-switch-for-mixed-systems---t]]
+- [[cisco-unveils-universal-quantum-switch-for-multi-vendor-inte]]
+- [[ciscos-universal-quantum-switch-ushers-in-quantum-networking]]
+
+## Riverlane
+*Mentioned in 5 entries*
+
+- [[riverlane-and-unitary-foundation-launch-deltakit-community-f]]
+- [[riverlane-funds-quantum-features-for-open-source-deltakit-to]]
+- [[riverlane-quantum]]
+- [[riverlane-unitary-foundation-launch-deltakit-for-open-source]]
+- [[rolls-royce-and-epcc-partner-with-quantinuum-and-riverlane-t]]
+
+## HRL Laboratories
+*Mentioned in 5 entries*
+
+- [[comments-on-ibms-acquisition-of-the-hrl-laboratories]]
+- [[hrl-laboratories-demonstrates-self-running-silicon-qpu-in-na]]
+- [[ibm-to-acquire-hrl-laboratories-to-expand-quantum-computing-]]
+- [[ibm-to-acquire-hrl-laboratories-to-expand-quantum-roadmap-wi]]
+- [[ibm-to-acquire-hrl-laboratories-to-power-the-future-of-quant]]
 
 ## DARPA
 *Mentioned in 5 entries*
@@ -224,6 +269,14 @@ Auto-generated index of companies extracted from wiki entries. 73 companies with
 - [[psiquantum-has-signed-a-new-125-million-expanded-agreement-w]]
 - [[quantum-is-in-the-air-in-washington-darpas-quantum-benchmark]]
 - [[semafor-a-new-vote-of-confidence-for-psiquantums-efforts-to-]]
+
+## Cleveland Clinic
+*Mentioned in 4 entries*
+
+- [[cleveland-clinic-and-ibm-researchers-create-quantum-machine-]]
+- [[ibm-cleveland-clinic-and-riken-simulate-massive-12635-atom-p]]
+- [[quantum-computers-model-nine-fusion-fuel-material-configurat]]
+- [[researchers-from-cleveland-clinic-and-ibm-simulate-protein-s]]
 
 ## Xanadu AI
 *Mentioned in 4 entries*
@@ -241,13 +294,53 @@ Auto-generated index of companies extracted from wiki entries. 73 companies with
 - [[rice-university-joins-doe-quantum-science-center-to-advance-]]
 - [[xanadu-and-oak-ridge-national-laboratory-ornl-are-collaborat]]
 
-## HRL Laboratories
+## Qunnect
 *Mentioned in 4 entries*
 
-- [[comments-on-ibms-acquisition-of-the-hrl-laboratories]]
-- [[ibm-to-acquire-hrl-laboratories-to-expand-quantum-computing-]]
-- [[ibm-to-acquire-hrl-laboratories-to-expand-quantum-roadmap-wi]]
-- [[ibm-to-acquire-hrl-laboratories-to-power-the-future-of-quant]]
+- [[qunnect-highlights-abq-net-ecosystem-development-and-quantum]]
+- [[qunnect-highlights-abq-net-quantum-network-near-key-us-natio]]
+- [[qunnect-positions-abq-net-as-open-access-us-quantum-networki]]
+- [[qunnects-abq-net-attracts-4-quantum-companies-to-test-secure]]
+
+## Bloq Quantum
+*Mentioned in 4 entries*
+
+- [[bloq-quantum-and-qclairvoyance-partner-on-quantum-education-]]
+- [[bloq-quantum-expands-quantum-education-and-workforce-ecosyst]]
+- [[bloq-quantum-partners-with-miuul-to-expand-quantum-machine-l]]
+- [[bloq-quantum-partners-with-sree-buddha-college-of-engineerin]]
+
+## BlueQubit
+*Mentioned in 4 entries*
+
+- [[bluequbit-and-partners-awarded-15m-in-doe-genesis-mission-gr]]
+- [[bluequbit-and-partners-receive-15-million-in-doe-grants-for-]]
+- [[bluequbit-secures-15m-doe-grants-for-ai-driven-quantum-error]]
+- [[bluequbit-supports-qedma-ibm-and-riken-study-on-error-mitiga]]
+
+## University of Toronto
+*Mentioned in 4 entries*
+
+- [[excited-to-support-the-university-of-toronto-uoft-quantum-co]]
+- [[learn-more-about-the-project-funded-by-the-nserc-nserccrsng-]]
+- [[researchers-explore-gold-nanoclusters-as-a-potential-quantum]]
+- [[should-you-use-ai-for-a-task-heres-a-simple-way-to-decide]]
+
+## University of Chicago
+*Mentioned in 4 entries*
+
+- [[ibm-and-ecosystem-partners-demonstrate-trusted-quantum-advan]]
+- [[ibm-and-university-of-chicago-demonstrate-verified-logical-q]]
+- [[ibm-quantum-advantage-announcement---thoughts]]
+- [[quantum-computer-completes-verified-task-beyond-practical-re]]
+
+## SkyWater Technology
+*Mentioned in 4 entries*
+
+- [[ionq-clears-final-regulatory-hurdle-to-complete-acquisition-]]
+- [[ionq-completes-acquisition-of-skywater-technology]]
+- [[its-official-today-ionq-successfully-completed-our-acquisiti]]
+- [[with-our-acquisition-of-skywater-technology-complete-ionq-is]]
 
 ## Haiqu
 *Mentioned in 3 entries*
@@ -284,12 +377,19 @@ Auto-generated index of companies extracted from wiki entries. 73 companies with
 - [[how-to-find-the-cover-article-for-optics-letters-and-optics-]]
 - [[view-the-full-agenda-and-speaker-lineup-here-httpswwwopticao]]
 
-## Cleveland Clinic
+## Caltech
 *Mentioned in 3 entries*
 
-- [[ibm-cleveland-clinic-and-riken-simulate-massive-12635-atom-p]]
-- [[quantum-computers-model-nine-fusion-fuel-material-configurat]]
-- [[researchers-from-cleveland-clinic-and-ibm-simulate-protein-s]]
+- [[from-dream-to-reality-the-bridge-connecting-quantum-informat]]
+- [[infleqtion-appoints-dr-joseph-buck-as-senior-vice-president-]]
+- [[today-caltech-and-jpl-welcome-renowned-astrophysicist-acclai]]
+
+## Quantum Economic Development Consortium
+*Mentioned in 3 entries*
+
+- [[2026-state-of-the-global-quantum-industry-report-released-by]]
+- [[niccolodemasi-fiiinstitute1-were-turning-unsolvable-problems]]
+- [[qed-c-and-center-for-quantum-networks-release-quantum-networ]]
 
 ## Chicago Quantum Exchange
 *Mentioned in 3 entries*
@@ -305,19 +405,12 @@ Auto-generated index of companies extracted from wiki entries. 73 companies with
 - [[scaling-the-quantum-industry-requires-alignment-across-borde]]
 - [[we-are-thrilled-to-share-that-christian-weedbrook-cweedbrook]]
 
-## Cisco
+## Anthropic
 *Mentioned in 3 entries*
 
-- [[cisco-unveils-universal-quantum-switch-for-mixed-systems---t]]
-- [[cisco-unveils-universal-quantum-switch-for-multi-vendor-inte]]
-- [[ciscos-universal-quantum-switch-ushers-in-quantum-networking]]
-
-## Bloq Quantum
-*Mentioned in 3 entries*
-
-- [[bloq-quantum-expands-quantum-education-and-workforce-ecosyst]]
-- [[bloq-quantum-partners-with-miuul-to-expand-quantum-machine-l]]
-- [[bloq-quantum-partners-with-sree-buddha-college-of-engineerin]]
+- [[anthropics-opus-5-is-better-at-resisting-prompt-injection]]
+- [[measuring-llms-ability-to-perform-cryptanalysis]]
+- [[what-anthropics-mythos-means-for-the-future-of-cybersecurity]]
 
 ## Rice University
 *Mentioned in 3 entries*
@@ -326,12 +419,12 @@ Auto-generated index of companies extracted from wiki entries. 73 companies with
 - [[rice-joins-department-of-energys-quantum-science-center-to-a]]
 - [[rice-university-joins-doe-quantum-science-center-to-advance-]]
 
-## BlueQubit
+## Qedma
 *Mentioned in 3 entries*
 
-- [[bluequbit-and-partners-awarded-15m-in-doe-genesis-mission-gr]]
-- [[bluequbit-and-partners-receive-15-million-in-doe-grants-for-]]
-- [[bluequbit-secures-15m-doe-grants-for-ai-driven-quantum-error]]
+- [[bluequbit-supports-qedma-ibm-and-riken-study-on-error-mitiga]]
+- [[qedma-integrates-qesem-error-mitigation-software-with-quanti]]
+- [[qedma-integrates-quantum-error-mitigation-software-with-quan]]
 
 ## VideoAmp
 *Mentioned in 3 entries*
@@ -339,6 +432,34 @@ Auto-generated index of companies extracted from wiki entries. 73 companies with
 - [[andrea-zapata-joins-videoamp-as-svp-agency-partnerships---va]]
 - [[videoamp-appoints-andrea-zapata-as-senior-vice-president-of-]]
 - [[videoamp-appoints-andrea-zapata-as-svp-agency-partnerships--]]
+
+## Boeing
+*Mentioned in 3 entries*
+
+- [[hrl-laboratories-demonstrates-self-running-silicon-qpu-in-na]]
+- [[ibm-to-acquire-hrl-laboratories-to-expand-quantum-roadmap-wi]]
+- [[ibm-to-acquire-hrl-laboratories-to-power-the-future-of-quant]]
+
+## General Motors
+*Mentioned in 3 entries*
+
+- [[hrl-laboratories-demonstrates-self-running-silicon-qpu-in-na]]
+- [[ibm-to-acquire-hrl-laboratories-to-expand-quantum-roadmap-wi]]
+- [[ibm-to-acquire-hrl-laboratories-to-power-the-future-of-quant]]
+
+## D-Wave
+*Mentioned in 3 entries*
+
+- [[d-wave-and-att-explore-quantum-computing-applications-in-net]]
+- [[d-waves-quantum-ai-published-read-between-the-lines]]
+- [[proposal-for-estimating-the-energy-gap-of-the-transverse-fie]]
+
+## Lockheed Martin
+*Mentioned in 3 entries*
+
+- [[building-quantum-readiness-from-within-thats-what-were-doing]]
+- [[infleqtion-appoints-dr-joseph-buck-as-senior-vice-president-]]
+- [[lockheedmartin-will-explore-quantum-concepts-with-xanaduais-]]
 
 ## HSBC
 *Mentioned in 2 entries*
@@ -352,6 +473,12 @@ Auto-generated index of companies extracted from wiki entries. 73 companies with
 - [[ionq-and-florida-lambdarail-launch-us-statewide-quantum-safe]]
 - [[ionq-partners-with-florida-lambdarail-on-secure-network-proj]]
 
+## Hugging Face
+*Mentioned in 2 entries*
+
+- [[measuring-the-tendency-of-ai-agents-to-go-rogue]]
+- [[multiverse-computing-launches-littlelamb-model-family-on-hug]]
+
 ## Zapata Quantum
 *Mentioned in 2 entries*
 
@@ -363,6 +490,12 @@ Auto-generated index of companies extracted from wiki entries. 73 companies with
 
 - [[algorithms-fail-beyond-linear-objectives-gradients-vanish-ra]]
 - [[qoreo-language-guarantees-deadlock-free-quantum-network-prog]]
+
+## OneFootball
+*Mentioned in 2 entries*
+
+- [[santos---ucv-3---2-pnalti-perdido---juan-zapata---onefootbal]]
+- [[torino-inter-zapata-su-dazn-potevamo-anche-vincerla---onefoo]]
 
 ## QuantX Labs
 *Mentioned in 2 entries*
@@ -388,18 +521,6 @@ Auto-generated index of companies extracted from wiki entries. 73 companies with
 - [[quantum-error-correction-with-toric-code-at-atom-computing]]
 - [[we-built-a-free-reference-site-for-the-colorado-quantum-ecos]]
 
-## Caltech
-*Mentioned in 2 entries*
-
-- [[from-dream-to-reality-the-bridge-connecting-quantum-informat]]
-- [[today-caltech-and-jpl-welcome-renowned-astrophysicist-acclai]]
-
-## Quantum Economic Development Consortium
-*Mentioned in 2 entries*
-
-- [[2026-state-of-the-global-quantum-industry-report-released-by]]
-- [[niccolodemasi-fiiinstitute1-were-turning-unsolvable-problems]]
-
 ## McGill University
 *Mentioned in 2 entries*
 
@@ -418,12 +539,6 @@ Auto-generated index of companies extracted from wiki entries. 73 companies with
 - [[learn-more-httpswwwnewswirecanews-releasesxanadu-and-ev-grou]]
 - [[multiple-functional-materials-on-a-single-unified-photonic-c]]
 
-## Qunnect
-*Mentioned in 2 entries*
-
-- [[qunnect-highlights-abq-net-quantum-network-near-key-us-natio]]
-- [[qunnect-positions-abq-net-as-open-access-us-quantum-networki]]
-
 ## ETH Zurich
 *Mentioned in 2 entries*
 
@@ -441,6 +556,18 @@ Auto-generated index of companies extracted from wiki entries. 73 companies with
 
 - [[how-do-you-build-things-that-dont-exist-yet-as-part-of-toron]]
 - [[last-week-during-toronto-tech-week-totechweek-christian-weed]]
+
+## The University of Manchester
+*Mentioned in 2 entries*
+
+- [[new-physics-based-machine-learning-method-speeds-search-for-]]
+- [[new-research-shows-how-hot-electrons-can-reshape-metals-in-b]]
+
+## QuEra
+*Mentioned in 2 entries*
+
+- [[geometry-induced-domain-wall-pinning-and-z2-asymmetry-in-nom]]
+- [[qldpc-codes-in-practice-have-achieved-encoding-rates-around-]]
 
 ## Amazon
 *Mentioned in 2 entries*
@@ -466,35 +593,11 @@ Auto-generated index of companies extracted from wiki entries. 73 companies with
 - [[skku-led-team-identifies-zinc-oxide-spin-qubit-a-semiconduct]]
 - [[worlds-first-zinc-oxide-spin-qubit-could-advance-scalable-qu]]
 
-## Qedma
-*Mentioned in 2 entries*
-
-- [[qedma-integrates-qesem-error-mitigation-software-with-quanti]]
-- [[qedma-integrates-quantum-error-mitigation-software-with-quan]]
-
-## Riverlane
-*Mentioned in 2 entries*
-
-- [[riverlane-quantum]]
-- [[rolls-royce-and-epcc-partner-with-quantinuum-and-riverlane-t]]
-
 ## E.ON
 *Mentioned in 2 entries*
 
 - [[wiser-and-eon-advance-energy-demand-forecasting-with-quantum]]
 - [[wiser-and-eon-benchmark-quantum-machine-learning-for-smart-g]]
-
-## Boeing
-*Mentioned in 2 entries*
-
-- [[ibm-to-acquire-hrl-laboratories-to-expand-quantum-roadmap-wi]]
-- [[ibm-to-acquire-hrl-laboratories-to-power-the-future-of-quant]]
-
-## General Motors
-*Mentioned in 2 entries*
-
-- [[ibm-to-acquire-hrl-laboratories-to-expand-quantum-roadmap-wi]]
-- [[ibm-to-acquire-hrl-laboratories-to-power-the-future-of-quant]]
 
 ## SAXON Q
 *Mentioned in 2 entries*
@@ -502,11 +605,23 @@ Auto-generated index of companies extracted from wiki entries. 73 companies with
 - [[german-firm-debuts-first-100-qubit-diamond-based-quantum-pro]]
 - [[saxon-q-launches-commercial-diamond-based-nv-center-quantum-]]
 
+## MIT
+*Mentioned in 2 entries*
+
+- [[ai-helped-produce-two-proofs-for-the-same-cryptography-probl]]
+- [[qmind-v20-quantum-inspired-ai-reasoning-system-mit-license-p]]
+
 ## Rigetti Computing
 *Mentioned in 2 entries*
 
 - [[is-rigetti-computing-an-overlooked-quantum-pure-player]]
 - [[rigetti-computing-to-report-second-quarter-2026-financial-re]]
+
+## NIST
+*Mentioned in 2 entries*
+
+- [[excellent-to-see-the-white-house-continue-to-support-the-adv]]
+- [[nists-andrew-regenscheid-explains-the-transition-to-post-qua]]
 
 ## Innolume
 *Mentioned in 2 entries*
@@ -544,18 +659,6 @@ Auto-generated index of companies extracted from wiki entries. 73 companies with
 - [[at-reaganinstitutes-rnef-our-ceo-niccolodemasi-speaks-on-the]]
 - [[our-chairman-and-ceo-niccolodemasi-will-speak-today-at-the-r]]
 
-## University of Toronto
-*Mentioned in 2 entries*
-
-- [[learn-more-about-the-project-funded-by-the-nserc-nserccrsng-]]
-- [[researchers-explore-gold-nanoclusters-as-a-potential-quantum]]
-
-## Lockheed Martin
-*Mentioned in 2 entries*
-
-- [[building-quantum-readiness-from-within-thats-what-were-doing]]
-- [[lockheedmartin-will-explore-quantum-concepts-with-xanaduais-]]
-
 ## Creative Destruction Lab
 *Mentioned in 2 entries*
 
@@ -580,8 +683,56 @@ Auto-generated index of companies extracted from wiki entries. 73 companies with
 - [[terra-quantum-and-apexai-demonstrate-quantum-safe-security-f]]
 - [[terra-quantum-and-apexai-integrate-nist-post-quantum-cryptog]]
 
+## Flock
+*Mentioned in 2 entries*
+
+- [[axon-is-another-license-plate-surveillance-company]]
+- [[on-flock-license-plate-tracking-cameras]]
+
 ## Quantum Elements
 *Mentioned in 2 entries*
 
 - [[quantum-elements-launches-orbit-as-qiskit-function-for-autom]]
 - [[quantum-elements-launches-orbit-error-suppression-tool-throu]]
+
+## Qedma Quantum Computing
+*Mentioned in 2 entries*
+
+- [[ibm-and-ecosystem-partners-demonstrate-trusted-quantum-advan]]
+- [[ibm-and-qedma-demonstrate-error-mitigated-quantum-simulation]]
+
+## Algorithmiq
+*Mentioned in 2 entries*
+
+- [[ibm-and-algorithmiq-develop-framework-for-verifying-quantum-]]
+- [[ibm-and-ecosystem-partners-demonstrate-trusted-quantum-advan]]
+
+## Pusan National University
+*Mentioned in 2 entries*
+
+- [[pusan-national-university-and-unist-demonstrate-hybrid-quant]]
+- [[pusan-national-university-researchers-have-developed-a-hybri]]
+
+## Unitary Foundation
+*Mentioned in 2 entries*
+
+- [[riverlane-and-unitary-foundation-launch-deltakit-community-f]]
+- [[riverlane-unitary-foundation-launch-deltakit-for-open-source]]
+
+## U.S. Naval Research Laboratory
+*Mentioned in 2 entries*
+
+- [[nrl-expands-quantum-research-efforts-across-sensing-computin]]
+- [[us-naval-research-laboratory-outlines-strategic-quantum-rese]]
+
+## AT&T
+*Mentioned in 2 entries*
+
+- [[att-expands-d-wave-quantum-network-optimization-partnership-]]
+- [[d-wave-and-att-explore-quantum-computing-applications-in-net]]
+
+## Northwestern University
+*Mentioned in 2 entries*
+
+- [[how-northwestern-is-bringing-quantum-internet-closer-to-real]]
+- [[northwestern-proves-quantum-internet-can-share-existing-tele]]

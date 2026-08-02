@@ -14,7 +14,7 @@ stale: false
 
 # All Tools
 
-Auto-generated index of tools extracted from wiki entries. 11 tools with 2+ mentions.
+Auto-generated index of tools extracted from wiki entries. 12 tools with 2+ mentions.
 
 ## PennyLane
 *Mentioned in 13 entries*
@@ -34,13 +34,14 @@ Auto-generated index of tools extracted from wiki entries. 11 tools with 2+ ment
 - [[xanadu-and-oak-ridge-national-laboratory-ornl-are-collaborat]]
 
 ## Qiskit
-*Mentioned in 5 entries*
+*Mentioned in 6 entries*
 
 - [[exploring-observability-options-for-quantum-sdk-workflows-ru]]
 - [[ibm-qiskit-summer-school-2026-schedule]]
 - [[quantum-elements-launches-orbit-as-qiskit-function-for-autom]]
 - [[quantum-elements-launches-orbit-error-suppression-tool-throu]]
 - [[what-mean-qiskit-i-know-kit-but-qis]]
+- [[why-is-my-qiskit-variational-quantum-regressor-vqr-training-]]
 
 ## Willow
 *Mentioned in 3 entries*
@@ -63,6 +64,27 @@ Auto-generated index of tools extracted from wiki entries. 11 tools with 2+ ment
 - [[ieeequantumweek-is-coming-to-toronto-and-xanadu-is-proud-to-]]
 - [[together-theyll-explore-everything-from-real-applications-th]]
 
+## ABQ-Net
+*Mentioned in 3 entries*
+
+- [[qunnect-highlights-abq-net-quantum-network-near-key-us-natio]]
+- [[qunnect-positions-abq-net-as-open-access-us-quantum-networki]]
+- [[qunnects-abq-net-attracts-4-quantum-companies-to-test-secure]]
+
+## CUDA-Q
+*Mentioned in 3 entries*
+
+- [[explore-nvidia-cuda-q-applications-hub-and-academic-library-]]
+- [[quantum-x-labs-announces-progress-on-ai-driven-quantum-error]]
+- [[quantum-x-labs-tests-ai-based-error-correction-decoder-with-]]
+
+## Deltakit
+*Mentioned in 3 entries*
+
+- [[riverlane-and-unitary-foundation-launch-deltakit-community-f]]
+- [[riverlane-funds-quantum-features-for-open-source-deltakit-to]]
+- [[riverlane-unitary-foundation-launch-deltakit-for-open-source]]
+
 ## QAOA
 *Mentioned in 2 entries*
 
@@ -75,23 +97,11 @@ Auto-generated index of tools extracted from wiki entries. 11 tools with 2+ ment
 - [[looking-for-collaborators-on-a-quantum-simulator-in-rust]]
 - [[open-source-rustpython-anyon-braiding-surface-code-simulatio]]
 
-## ABQ-Net
-*Mentioned in 2 entries*
-
-- [[qunnect-highlights-abq-net-quantum-network-near-key-us-natio]]
-- [[qunnect-positions-abq-net-as-open-access-us-quantum-networki]]
-
 ## Amazon Braket
 *Mentioned in 2 entries*
 
 - [[amazon-braket-launches-rigetti-cepheus-1-108q-superconductin]]
 - [[explore-nvidia-cuda-q-applications-hub-and-academic-library-]]
-
-## CUDA-Q
-*Mentioned in 2 entries*
-
-- [[explore-nvidia-cuda-q-applications-hub-and-academic-library-]]
-- [[quantum-x-labs-announces-progress-on-ai-driven-quantum-error]]
 
 ## Orbit
 *Mentioned in 2 entries*

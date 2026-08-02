@@ -14,10 +14,10 @@ stale: false
 
 # All People
 
-Auto-generated index of people extracted from wiki entries. 36 people with 2+ mentions.
+Auto-generated index of people extracted from wiki entries. 39 people with 2+ mentions.
 
 ## Christian Weedbrook
-*Mentioned in 17 entries*
+*Mentioned in 18 entries*
 
 - [[christian-weedbrook-cweedbrook-founder-and-ceo-of-xanadu-joi]]
 - [[christian-weedbrook-cweedbrook-founder-and-ceo-of-xanadu-was]]
@@ -25,6 +25,7 @@ Auto-generated index of people extracted from wiki entries. 36 people with 2+ me
 - [[how-do-you-build-things-that-dont-exist-yet-as-part-of-toron]]
 - [[in-this-qa-with-fello-agency-christian-weedbrook-cweedbrook-]]
 - [[it-was-a-great-week-at-the-toronto-machine-learning-summit-c]]
+- [[join-xanadu-at-ieee-quantum-week-this-september-christian-we]]
 - [[kicking-off-toronto-tech-week-totechweek-on-monday-christian]]
 - [[last-week-at-discoveryx-christian-weedbrook-cweedbrook-found]]
 - [[last-week-christian-weedbrook-cweedbrook-founder-and-ceo-of-]]
@@ -33,7 +34,6 @@ Auto-generated index of people extracted from wiki entries. 36 people with 2+ me
 - [[quantum-computing-could-be-just-as-transformative-as-ai-so-w]]
 - [[scaling-the-quantum-industry-requires-alignment-across-borde]]
 - [[today-at-115-pm-catch-christian-weedbrook-cweedbrook-founder]]
-- [[true-ambition-requires-playing-the-long-game-were-excited-fo]]
 
 ## Daniel Felipe Nino
 *Mentioned in 8 entries*
@@ -65,6 +65,14 @@ Auto-generated index of people extracted from wiki entries. 36 people with 2+ me
 - [[ready-to-program-for-the-fault-tolerant-era-dont-miss-ben-la]]
 - [[xanadu-is-heading-to-the-campus-of-ua-little-rock-on-june-25]]
 - [[xanadu-is-proud-to-support-the-next-generation-of-quantum-re]]
+
+## John Preskill
+*Mentioned in 4 entries*
+
+- [[from-dream-to-reality-the-bridge-connecting-quantum-informat]]
+- [[i-feel-guilty-when-i-ask-claude-to-do-something-i-could-have]]
+- [[i-learned-about-markwisesays-from-john-preskills-eulogy-for-]]
+- [[my-friend-mark-wise-httpsquantumfrontierscom20260718my-frien]]
 
 ## Mihir Bhaskar
 *Mentioned in 4 entries*
@@ -104,12 +112,12 @@ Auto-generated index of people extracted from wiki entries. 36 people with 2+ me
 - [[dylan-mahler-is-heading-to-qubec-city-in-a-few-weeks-for-pho]]
 - [[the-nucleus-annual-symposium-kicks-off-june-1st-at-universit]]
 
-## John Preskill
+## Inder Singh
 *Mentioned in 3 entries*
 
-- [[from-dream-to-reality-the-bridge-connecting-quantum-informat]]
-- [[i-feel-guilty-when-i-ask-claude-to-do-something-i-could-have]]
-- [[my-friend-mark-wise-httpsquantumfrontierscom20260718my-frien]]
+- [[an-insightful-interview-with-inder-singh-our-coo-and-cfo-wat]]
+- [[inder-singh-our-coo-and-cfo-spoke-this-week-at-jpmorgans-202]]
+- [[we-now-have-over-350-customers-around-the-world-using-either]]
 
 ## Vasilis Belis
 *Mentioned in 3 entries*
@@ -131,6 +139,13 @@ Auto-generated index of people extracted from wiki entries. 36 people with 2+ me
 - [[andrea-zapata-joins-videoamp-as-svp-agency-partnerships---va]]
 - [[videoamp-appoints-andrea-zapata-as-senior-vice-president-of-]]
 - [[videoamp-appoints-andrea-zapata-as-svp-agency-partnerships--]]
+
+## Mark Wise
+*Mentioned in 3 entries*
+
+- [[i-learned-about-markwisesays-from-john-preskills-eulogy-for-]]
+- [[mark-wise-1953-2026-hero-of-theoretical-particle-physics-mas]]
+- [[my-friend-mark-wise-httpsquantumfrontierscom20260718my-frien]]
 
 ## Danial Motlagh
 *Mentioned in 3 entries*
@@ -194,11 +209,11 @@ Auto-generated index of people extracted from wiki entries. 36 people with 2+ me
 - [[check-your-ingredients-a-new-blueprint-for-using-fermis-gold]]
 - [[the-legacy-of-enrico-fermi-to-varenna]]
 
-## Inder Singh
+## Yuval Boger
 *Mentioned in 2 entries*
 
-- [[inder-singh-our-coo-and-cfo-spoke-this-week-at-jpmorgans-202]]
-- [[we-now-have-over-350-customers-around-the-world-using-either]]
+- [[gil-kalai-hebrew-university-reichman-university-why-noise-ma]]
+- [[podcast-with-lionel-martellini-founding-director-of-the-edhe]]
 
 ## Feynman
 *Mentioned in 2 entries*
@@ -217,6 +232,12 @@ Auto-generated index of people extracted from wiki entries. 36 people with 2+ me
 
 - [[quantum-computers-have-known-advantages-when-working-in-four]]
 - [[xanadu-is-demonstrating-that-quantum-machine-learning-can-be]]
+
+## Ignacio Loaiza
+*Mentioned in 2 entries*
+
+- [[excited-to-support-the-university-of-toronto-uoft-quantum-co]]
+- [[the-canadian-workshop-on-quantum-algorithms-2026-kicks-off-t]]
 
 ## Niccolo de Masi
 *Mentioned in 2 entries*
@@ -266,8 +287,8 @@ Auto-generated index of people extracted from wiki entries. 36 people with 2+ me
 - [[heading-to-the-european-conference-on-integrated-optics-ecio]]
 - [[thats-a-wrap-on-the-european-conference-on-integrated-optics]]
 
-## Mark Wise
+## Barath Raghavan
 *Mentioned in 2 entries*
 
-- [[mark-wise-1953-2026-hero-of-theoretical-particle-physics-mas]]
-- [[my-friend-mark-wise-httpsquantumfrontierscom20260718my-frien]]
+- [[measuring-the-tendency-of-ai-agents-to-go-rogue]]
+- [[why-ai-needs-a-genie-coefficient]]
