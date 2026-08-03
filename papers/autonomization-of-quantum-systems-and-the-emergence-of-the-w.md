@@ -14,4 +14,11 @@ stale: false
 
 arXiv:2607.20602v1 Announce Type: new Abstract: Estimation of work at the quantum scale remains a central challenge in quantum thermodynamics. Canonical approaches have a fundamental drawback: they assume classical control of the quantum system, as implicit in a time-dependent Hamiltonian. Yet the energetic cost of implementing this control is omitted and can exceed the system's energy scale by orders of magnitude, calling into question the operational significance of work values. We address this by autonomizing the controlled energy transfer, embedding the driven dynamics into an energy-conserving evolution on a larger quantum system. Work is then unambiguously identified with the energy transferred between the two systems, singling out a unique observable on the driven system: the work operator. We show that the quantum work operator evades a no-go theorem by deriving a quantum fluctuation theorem that recovers the Jarzynski equality in classical scenarios. We incorporate imperfect control and quantify corrections to work statistics. Extending the framework to open quantum systems, we obtain an operatorial first law in which work, heat, and internal-energy changes are represented by distinct operators on the reduced system. Together, these results settle the long-standing debate over whether work is a quantum observable: it is, once the controlling system is included in the description rather than treated as external.
 
+
+
+## Related
+- [[experimental-demonstration-of-a-measurement-feedback-quantum|Experimental Demonstration of a Measurement-Feedback Quantum Information Engine]]
+- [[work-and-heat-exchanged-during-sudden-quenches-of-strongly-c|Work and heat exchanged during sudden quenches of strongly coupled quantum systems]]
+- [[work-statistics-via-real-time-effective-field-theory-applica|Work Statistics via Real-Time Effective Field Theory: Application to Work Extraction from Thermal Bath with Qubit Coupling]]
+
 **Source:** [arXiv quant-ph](https://arxiv.org/abs/2607.20602) | 2026-07-24

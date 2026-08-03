@@ -14,4 +14,9 @@ stale: false
 
 New white paper co-authored by IonQ co-founder Chris Monroe points to a quantum future that looks like the early internet: smaller, high-quality systems connected by light, not one giant machine: https://arxiv.org/abs/2606.17173 #IonQ #QuantumComputing
 
+
+
+## Related
+- [[a-new-paper-with-ionq-affiliated-authors-including-chris-mon|A new paper with IonQ-affiliated authors, including Chris Monroe, uses IonQ Forte like a wind tunnel for quantum gravity. The researchers we…]]
+
 **Source:** [IonQ (X)](https://x.com/IonQ_Inc/status/2068069626441867443) | 2026-06-19
