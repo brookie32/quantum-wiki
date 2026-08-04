@@ -14,4 +14,9 @@ stale: false
 
 A team of scientists from Oak Ridge National Laboratory, Cleveland Clinic and IBM has calculated nine molecular configurations of a promising material to produce fuel for fusion energy—the first known instance of such computations on quantum computers.
 
+
+
+## Related
+- [[bluequbit-supports-qedma-ibm-and-riken-study-on-error-mitiga|BlueQubit Supports Qedma, IBM and RIKEN Study on Error-Mitigated Quantum Simulation]]
+
 **Source:** [Phys.org Quantum](https://phys.org/news/2026-07-quantum-fusion-fuel-material-configurations.html) | 2026-07-19

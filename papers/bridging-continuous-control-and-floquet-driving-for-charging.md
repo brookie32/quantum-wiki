@@ -14,4 +14,12 @@ stale: false
 
 arXiv:2607.27985v1 Announce Type: new Abstract: Recent advances in quantum information and quantum thermodynamics have reshaped the understanding of energy storage at the microscopic scale, paving the way toward protocols for storing and transferring energy in quantum devices. These systems, known as quantum batteries, offer a conceptual alternative to conventional macroscopic chemical batteries by exploiting quantum coherence, correlations, and many-body dynamics. By navigating the landscape of established spin-based quantum batteries, we review existing charging and work-extraction protocols, as well as the impact of external factors on their performance. Motivated by Floquet-engineered proposals, we further establish a connection between continuously and periodically driven spin chains as platforms for quantum energy storage. Finally, we survey experimental realizations and proposals, highlighting their implementability and scalability in current and near-term quantum technologies.
 
+
+
+## Related
+- [[quantum-limit-cycles-with-continuous-symmetries-from-coheren|Quantum limit cycles with continuous symmetries from coherent parametric driving: exact solutions and many-body extensions]]
+- [[dissipation-in-periodically-driven-quantum-systems-partial-s|Dissipation in Periodically Driven Quantum Systems: Partial Secularization and Thermodynamic Consistency]]
+- [[quantum-optimal-control-at-intermediate-times-controlling-re|Quantum Optimal Control at Intermediate Times: Controlling Revivals in Spin Chains]]
+- [[dissipative-stabilization-of-floquet-engineered-many-body-or|Dissipative Stabilization of Floquet-Engineered Many-Body Order]]
+
 **Source:** [arXiv quant-ph](https://arxiv.org/abs/2607.27985) | 2026-07-31
