@@ -14,4 +14,9 @@ stale: false
 
 Scientists from Rice University in the U.S. have developed a way to precisely tune the temperature inside a trapped-ion simulator. The breakthrough means they will be able to run quantum simulations at precise temperatures that better reflect real-world conditions.
 
+
+
+## Related
+- [[realizing-the-fermionic-laughlin-state-on-a-trapped-ion-quan|Realizing the fermionic Laughlin state on a trapped-ion quantum processor]]
+
 **Source:** [Phys.org Quantum](https://phys.org/news/2026-08-temperature-dial-realistic-quantum-simulations.html) | 2026-08-05
