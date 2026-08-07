@@ -14,4 +14,11 @@ stale: false
 
 arXiv:2409.08265v4 Announce Type: replace Abstract: Hamiltonian simulation using product formulas is arguably the most straightforward and practical approach for algorithmic simulation of a quantum system's dynamics on a quantum computer. Here we present corrected product formulas (CPFs), a variation of product formulas achieved by injecting auxiliary terms called correctors into standard product formulas. We establish several correctors that improve the accuracy of standard product formulas by orders of magnitude when simulating Hamiltonians comprised of two exactly simulatable partitions, a common structure of lattice Hamiltonians. Importantly, injecting these correctors increases the overall simulation cost by only a small additive or multiplicative factor. We show that correctors are particularly advantageous for perturbed systems, where one partition has a relatively small norm compared to the other, as they allow the small norm to be utilized as an additional parameter for controlling the simulation error. We demonstrate the performance of CPFs by numerical simulations for several lattice Hamiltonians. Numerical results show that our theoretical error bounds for CPFs match or outperform the empirical error scaling of standard product formulas for these systems. We also demonstrate improvements offered by CPFs by implementing small-size systems on actual quantum hardware, as well as on noisy and noiseless quantum simulators. CPFs could be a valuable algorithmic tool for early fault-tolerant quantum computers with limited computing resources. As for standard product formulas, CPFs could also be used for simulations on a classical computer.
 
+
+
+## Related
+- [[trotter-error-compensation-with-polylogarithmic-precision-an|Trotter error compensation with polylogarithmic precision and nested-commutator scaling without ancillas]]
+- [[time-dependent-low-energy-simulation-accelerates-adiabatic-s|Time-Dependent Low-Energy Simulation Accelerates Adiabatic State Preparation]]
+- [[error-mitigated-hamiltonian-simulation-complexity-analysis-a|Error-Mitigated Hamiltonian Simulation: Complexity Analysis and Optimization for Near-Term and Early-Fault-Tolerant Quantum Computers]]
+
 **Source:** [arXiv quant-ph](https://arxiv.org/abs/2409.08265) | 2026-07-30
