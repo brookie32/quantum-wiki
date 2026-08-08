@@ -1,0 +1,17 @@
+---
+title: "QC Ware Demonstration of Hybrid Quantum-Classical Workflow Using Promethium and IBM Quantum - The Manila Times"
+date: "2026-08-07"
+updated: "2026-08-08"
+source: "agent"
+category: "machine-learning"
+tags: [machine-learning, google-news--qml-companies]
+url: "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQM3V6UnY4dTRFa1dYTGM3QkFoSUNTSmhFYnZORHM2R2JkR2JSOFQyaGZ2OVZlU0JXUU82TlFqOWtjMU1hQzVEc3ZoSE42MlI1TkJmNXFDU3puNV96OWNEZlk1RHM0c29YU2xPd0xNQzNvNmNjZXREVFFXa25xbGt3REdsUW85UlZ6NXR2TllGcFBfTzZkeEZTM215LVdrLWNBVVVSQUpmNmhZZU90dDRQb0hBZkRhVXBSVlBzZXByYlVkY1c5TmNEVGhYZHVSYzNCdGpRRVFkTXVEODIzYW9SVklIbFVHakg2R3ZpelFJazE4VG1YSGfSAfsBQVVfeXFMT0poMS1landDMEpuTXU0NWNkdHJYSkVSd01QSU4tOHg1b1V2N0RQNWJRbnIyUXpZZGlQUEJEb25MNnFkeGswTGt4bDJNUFFaVDJfa0FsWXJBZGY4c2dkV3pvUUFxa1I0UnB6YVlHVU8wRFN0bUR4NmlqMG51UE9jam84enFLNENleGMxUGhxLTNMWXpjbnRlNDdVSGszcjZsaVV3ZUVzbGc4UG1iMGd2OHc4Vnk0UXhEeUU0ekY5YlBtUi0yQW1nNW1yRGpBMmVMQ3BJeEpRXzBaNlFIcnNPWlhicFhjbE1OeTJGSnBpMkpVWGtxQ2xxOFVwTnM?oc=5"
+summary: "The Manila Times reported that QC Ware showcased a hybrid quantum‑classical workflow by combining its Promethium platform with IBM Quantum’s hardware. The demonstration illustrated how classical code "
+last_verified: "2026-08-08"
+review_by: "2026-11-06"
+stale: false
+---
+
+The Manila Times reported that QC Ware showcased a hybrid quantum‑classical workflow by combining its Promethium platform with IBM Quantum’s hardware. The demonstration illustrated how classical code can preprocess data, send it to a nearby quantum processor, and then use the results in post‑processing steps—all within a single cloud‑based pipeline. This example emphasizes interoperability between commercial quantum services and third‑party software stacks for practical near‑term applications.
+
+**Source:** [Google News: QML companies](https://news.google.com/rss/articles/CBMi9gFBVV95cUxQM3V6UnY4dTRFa1dYTGM3QkFoSUNTSmhFYnZORHM2R2JkR2JSOFQyaGZ2OVZlU0JXUU82TlFqOWtjMU1hQzVEc3ZoSE42MlI1TkJmNXFDU3puNV96OWNEZlk1RHM0c29YU2xPd0xNQzNvNmNjZXREVFFXa25xbGt3REdsUW85UlZ6NXR2TllGcFBfTzZkeEZTM215LVdrLWNBVVVSQUpmNmhZZU90dDRQb0hBZkRhVXBSVlBzZXByYlVkY1c5TmNEVGhYZHVSYzNCdGpRRVFkTXVEODIzYW9SVklIbFVHakg2R3ZpelFJazE4VG1YSGfSAfsBQVVfeXFMT0poMS1landDMEpuTXU0NWNkdHJYSkVSd01QSU4tOHg1b1V2N0RQNWJRbnIyUXpZZGlQUEJEb25MNnFkeGswTGt4bDJNUFFaVDJfa0FsWXJBZGY4c2dkV3pvUUFxa1I0UnB6YVlHVU8wRFN0bUR4NmlqMG51UE9jam84enFLNENleGMxUGhxLTNMWXpjbnRlNDdVSGszcjZsaVV3ZUVzbGc4UG1iMGd2OHc4Vnk0UXhEeUU0ekY5YlBtUi0yQW1nNW1yRGpBMmVMQ3BJeEpRXzBaNlFIcnNPWlhicFhjbE1OeTJGSnBpMkpVWGtxQ2xxOFVwTnM?oc=5) | 2026-08-07
