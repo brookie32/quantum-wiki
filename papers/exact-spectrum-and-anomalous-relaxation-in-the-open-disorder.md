@@ -14,4 +14,12 @@ stale: false
 
 arXiv:2606.08079v2 Announce Type: replace-cross Abstract: We study a disorder-free variant of the Sachdev-Ye-Kitaev (SYK) model with dissipation within the Gorini-Kossakowski-Sudarshan-Lindblad formalism. By utilizing the integrability of the clean SYK model, we derive an exact solution in a spectrum-resolved form, i.e., the eigenvalues and corresponding projection superoperators of the Liouvillian for arbitrary system size N. We determine the scaling of the gap that governs the long-time decay of the two-point correlation functions. Importantly, the gap does not vanish in the dissipationless limit when the thermodynamic limit is taken first, despite the integrability of the model. This phenomenon, known as anomalous relaxation, suggests a possible connection with chaotic dynamics and quantum Ruelle-Pollicott resonances. We also find several spectral features, such as transitions in the Liouvillian spectrum from complex to real eigenvalues with increasing dissipation strength, as well as the convergence of the dissipative form factor to the spectral form factor in the dissipationless limit. These findings indicate that the present model offers a useful platform for exploring nontrivial open dynamics of many-body quantum systems.
 
+
+
+## Related
+- [[size-operator-and-spectral-clustering-in-the-two-coupled-syk|Size Operator and Spectral Clustering in the Two Coupled SYK Model]]
+- [[deforming-the-double-scaled-syk-reaching-the-stretched-horiz|Deforming the Double-Scaled SYK & Reaching the Stretched Horizon From Finite Cutoff Holography]]
+- [[sharp-bounds-on-ground-state-energy-of-the-syk-model|Sharp Bounds on Ground State Energy of the SYK Model]]
+- [[dissipation--versus-chaos-induced-relaxation-in-non-markovia|Dissipation- versus Chaos-Induced Relaxation in Non-Markovian Quantum Many-Body Systems]]
+
 **Source:** [arXiv quant-ph](https://arxiv.org/abs/2606.08079) | 2026-08-07

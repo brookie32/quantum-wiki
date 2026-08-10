@@ -14,4 +14,10 @@ stale: false
 
 arXiv:2606.23751v2 Announce Type: replace Abstract: Variational quantum algorithms (VQAs) are a promising paradigm for quantum advantage, yet their trainability is severely hampered by barren plateaus (BPs). Several recent works have proposed dynamic parameterized quantum circuits (DPQCs), which interleave unitary layers with parameterized CPTP maps, such as engineered dissipation, feedforward gadgets, and periodic resets, as a possible strategy for mitigating BPs. We unify this class of circuits into a formalization for DPQCs.We identify constraints on the nature and the structure of DPQCs if they are to prevent a significant number of parameters from becoming untrainable. Using purification and Pauli-path analysis, we further identify a mechanism by which the cost function can remain anti-concentrated even when many parameters remain untrainable. Our analysis reveals ways to design DPQCs that do not have an exponentially concentrated cost function, and our results suggest that BP mitigation via DPQCs is at least as hard as designing BP-free unitaries.
 
+
+
+## Related
+- [[entanglement-geometry-separates-circuit-cutting-classical-ha|Entanglement geometry separates circuit cutting, classical hardness, and trainability]]
+- [[krylov-lie-algebras-for-variational-quantum-algorithms-geome|Krylov-Lie Algebras for Variational Quantum Algorithms: Geometric, Depth-Aware Insights into Expressivity and Trainability]]
+
 **Source:** [arXiv quant-ph](https://arxiv.org/abs/2606.23751) | 2026-08-04
