@@ -1,0 +1,17 @@
+---
+title: "Qunnect and Monarch Quantum Partner to Commercialize Deployable Quantum Networking Infrastructure - Quantum Computing Report"
+date: "2026-08-10"
+updated: "2026-08-11"
+source: "agent"
+category: "networking"
+tags: [networking, google-news--networking-companies]
+url: "https://news.google.com/rss/articles/CBMizgFBVV95cUxPdHJwNEJWWFdaMlpsTllVbWlPTURKb1ZQSUR1b2FndXNwcEhWRnJVcWJGZlJyaGp2R0tjLUFoUkhpVnlKTUJNZ2FtXzlDNXp4djd1NHFRWjZaeW1fWFZIanVGSE56UVlGYnhyeDJMbFloajUzQVZnRFFpTklYYjhDLVh0OHJXT2NpVk5uQlRZMmhhWmpJYmsza2RNYVNaYVA4NWYxcTNfTWdTS2NldXpsN3lBc0JtTkl0TUctSFFZclBhbkRzUnVkMWk4Mk1RQdIB0wFBVV95cUxPWml2VFVSRlBiclFPaGhtVzFGa3JWNHAtOWF6aFdlODN3dy1rVnJ5bW1rNXdPR3NGQnJBV2cxMFd6YlBLZTZ4SXNpaGhuWUpneVloN09rdEJwU2hFM0VCYUNyV1pSeW82QVN3Yi1kNzZCYjZiQVQ0YTZaTWlzSU5mSC1XSEVIRkhhN1NVWTBmeDVlMjB6YUNMYzMtTExBbHJuS1VyYngtbnJHallEQ2RGS2R1dzFsN2lFNU5BakkweWdVYVp5eklZbnRKLXlFMVJrYkZF?oc=5"
+summary: "Qunnect and Monarch Quantum have announced a partnership to commercialize deployable quantum networking infrastructure, targeting the rapid deployment of large‑scale quantum communication networks. Th"
+last_verified: "2026-08-11"
+review_by: "2026-11-09"
+stale: false
+---
+
+Qunnect and Monarch Quantum have announced a partnership to commercialize deployable quantum networking infrastructure, targeting the rapid deployment of large‑scale quantum communication networks. The collaboration unites Qunnect’s network expertise with Monarch Quantum’s quantum technology platform to offer end‑to‑end solutions for secure, high‑performance quantum communications. The announcement is reported across multiple global news outlets, aggregated by Google News.
+
+**Source:** [Google News: networking companies](https://news.google.com/rss/articles/CBMizgFBVV95cUxPdHJwNEJWWFdaMlpsTllVbWlPTURKb1ZQSUR1b2FndXNwcEhWRnJVcWJGZlJyaGp2R0tjLUFoUkhpVnlKTUJNZ2FtXzlDNXp4djd1NHFRWjZaeW1fWFZIanVGSE56UVlGYnhyeDJMbFloajUzQVZnRFFpTklYYjhDLVh0OHJXT2NpVk5uQlRZMmhhWmpJYmsza2RNYVNaYVA4NWYxcTNfTWdTS2NldXpsN3lBc0JtTkl0TUctSFFZclBhbkRzUnVkMWk4Mk1RQdIB0wFBVV95cUxPWml2VFVSRlBiclFPaGhtVzFGa3JWNHAtOWF6aFdlODN3dy1rVnJ5bW1rNXdPR3NGQnJBV2cxMFd6YlBLZTZ4SXNpaGhuWUpneVloN09rdEJwU2hFM0VCYUNyV1pSeW82QVN3Yi1kNzZCYjZiQVQ0YTZaTWlzSU5mSC1XSEVIRkhhN1NVWTBmeDVlMjB6YUNMYzMtTExBbHJuS1VyYngtbnJHallEQ2RGS2R1dzFsN2lFNU5BakkweWdVYVp5eklZbnRKLXlFMVJrYkZF?oc=5) | 2026-08-10
