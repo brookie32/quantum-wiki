@@ -14,4 +14,9 @@ stale: false
 
 arXiv:2608.00637v1 Announce Type: cross Abstract: In the space mathbb R^3, for Robin parameter L>0, it is shown that there is a family of Schrodinger operators with penetrable toroidal solenoid and variable conductivity that approximates the magnetic Aharonov-Bohm operator with a Robin boundary condition at the solenoid (border). It is also shown that approximations via smooth potentials and then a barrier in the solenoid interior give Dirichlet boundary conditions. The approximations are in the strong resolvent sense and obtained through the Gamma-convergence technique, and they hold for the more general setting of smooth, closed and compact surfaces and continuous and bounded magnetic potentials.
 
+
+
+## Related
+- [[understanding-interaction-driven-transport-in-flux-lattices-|Understanding interaction-driven transport in flux lattices with evolution-path symmetry]]
+
 **Source:** [arXiv quant-ph](https://arxiv.org/abs/2608.00637) | 2026-08-04

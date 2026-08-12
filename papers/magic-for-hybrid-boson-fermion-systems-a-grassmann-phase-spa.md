@@ -14,4 +14,12 @@ stale: false
 
 arXiv:2509.05264v2 Announce Type: replace Abstract: Non-stabilizerness enables universality beyond Gaussian/Clifford dynamics, yet no resource theory exists for systems combining bosonic and fermionic degrees of freedom. Using the Grassmann approach of Cahill and Glauber, we develop a phase-space framework defining hybrid magic via the L_p norm of a hybrid Wigner function. We demonstrate it in the Holstein polaron, where phonon-electron coupling enhances magic growth, and in the fermionic Jaynes-Cummings model, examining dependence on atomic and cavity states. At the gate level, we define the non-stabilizer power of hybrid operations and derive a closed-form result for the conditional displacement gate. This establishes a unified quantification of non-stabilizerness in realistic hybrid systems.
 
+
+
+## Related
+- [[first-and-second-quantized-digital-quantum-simulations-of-bo|First and second quantized digital quantum simulations of bosonic systems]]
+- [[universality-of-magic-in-local-quantum-field-theory|Universality of Magic in Local Quantum Field Theory]]
+- [[fermionic-entropy-an-efficiently-measurable-strong-monotone-|Fermionic entropy: an efficiently measurable strong monotone for non-Gaussianity]]
+- [[flow-based-phase-space-tomography-of-continuous-variable-qua|Flow-based Phase-space Tomography of Continuous-variable Quantum States]]
+
 **Source:** [arXiv quant-ph](https://arxiv.org/abs/2509.05264) | 2026-07-31

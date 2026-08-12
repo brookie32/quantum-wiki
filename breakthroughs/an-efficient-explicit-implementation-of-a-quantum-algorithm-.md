@@ -14,4 +14,9 @@ stale: false
 
 arXiv:2608.09675v1 Announce Type: new Abstract: Quantum algorithms for nonlinear partial differential equations remain challenging because nonlinear dynamics are not directly amenable to unitary quantum simulation. Building on the level-set formulation, we construct a quantum algorithm and provide an explicit gate-level implementation for solving scalar conservation laws. The nonlinear equation is first lifted to a linear Liouville equation, discretized by finite differences, and then embedded into a unitary evolution through Schrodingerisation. We further develop quantum procedures for estimating relevant observables from the evolved state. Error bounds and gate-complexity estimates are established for the complete algorithm. The resulting complexity comparison demonstrates a quantum advantage for observable estimation in sufficiently high spatial dimensions, under standard assumptions on state preparation and oracle access. Finally, numerical experiments validate the accuracy, multidimensional applicability, and predicted scaling of the proposed method.
 
+
+
+## Related
+- [[unconditionally-successful-quantum-time-marching-algorithm-v|Unconditionally successful quantum Time-Marching algorithm via LCU for nonlinear Burgers equation]]
+
 **Source:** [arXiv quant-ph](https://arxiv.org/abs/2608.09675) | 2026-08-11

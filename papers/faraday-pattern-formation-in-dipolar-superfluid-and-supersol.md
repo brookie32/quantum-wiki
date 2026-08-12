@@ -14,4 +14,12 @@ stale: false
 
 arXiv:2608.03553v1 Announce Type: new Abstract: We investigate Faraday instabilities in three-dimensional parametrically driven trapped dipolar quantum gases within the framework of the extended Gross-Pitaevskii equation. In the superfluid regime, periodic modulation of the short-range interactions induces the resonant excitation of discrete polygonal surface modes displaying sub-harmonic response. The resonance frequencies and the parametric windows of instability are accurately captured by an appropriate Mathieu equation, further corroborating our simulations. It is also shown that dipolar interactions in superfluids shift the resonance frequencies to lower values compared to their non-dipolar counterparts. Near the superfluid-to-supersolid transition, intrinsic density undulations associated with the softened roton mode accelerate pattern formation, yielding hybrid surface and bulk excitations. The bulk patterns prevail deeper in the supersolid regime, emerging from droplet collisions with the superfluid background. Our results reveal a crossover from surface collective modes to hybrid surface-bulk excitations and demonstrate how parametric driving dictates pattern formation in long-range interacting quantum fluids.
 
+
+
+## Related
+- [[density-instabilities-and-thermal-stabilization-of-phase-sep|Density instabilities and thermal stabilization of phase separated states in dipolar lattice bosons]]
+- [[acoustic-fluctuations-of-two-dimensional-dipolar-supersolids|Acoustic fluctuations of two-dimensional dipolar supersolids]]
+- [[scissors-modes-in-generalized-gross-pitaevskii-equations|Scissors modes in generalized Gross-Pitaevskii equations]]
+- [[coexisting-regular-and-chaotic-dynamics-in-the-dysprosium-fe|Coexisting Regular and Chaotic Dynamics in the Dysprosium Feshbach Spectrum]]
+
 **Source:** [arXiv cond-mat.quant-gas](https://arxiv.org/abs/2608.03553) | 2026-08-05

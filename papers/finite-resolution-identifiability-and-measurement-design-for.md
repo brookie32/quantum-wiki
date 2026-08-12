@@ -14,4 +14,12 @@ stale: false
 
 arXiv:2608.02637v1 Announce Type: new Abstract: Conformer assignment is meaningful only when the measurement can distinguish the candidate structures. We formulate conformer spectroscopy as a measurement-model-dependent identifiability problem in which each modality defines an observation law with explicit experimental and theoretical uncertainty. Equality of observation laws defines exact classes that refine as modalities are added, whereas finite-resolution ambiguity is non-transitive and is represented by a Bayes-error graph. We also give rank and constrained-Fisher criteria for population recovery from unnormalized additive spectra. The framework is applied to audited B3LYP-D3(BJ)/def2-TZVP ensembles of 1,2-difluoroethane, ethylene glycol, and n-pentane. Under the declared shared-covariance working model, IR separates all non-mirror pairs, leaving only mirror pairs that are exactly degenerate under the achiral observation maps. This within-method result does not imply general IR sufficiency: in a six-case PBE0-to-B3LYP diagnostic, fixed calibration recovers one intended representative, whereas scale-and-shift profiling with a conservative cross-method covariance recovers five representatives and all six achiral classes. Under a combined stress-test covariance, n-pentane develops one non-mirror quotient ambiguity. Three individual Raman windows remove it, while no tested IR window does. Mirror-collapsed class populations remain identifiable and well conditioned under the calibrated-scale working model, whereas separate mirror-partner populations are exactly unidentifiable from achiral additive spectra.
 
+
+
+## Related
+- [[nuclear-spin-statistical-weights-from-young-diagrams|Nuclear-Spin Statistical Weights from Young Diagrams]]
+- [[high-order-response-functions-with-duschinsky-coupling-and-f|High-Order Response Functions with Duschinsky Coupling and Finite Temperature: Application to Two-Dimensional Resonance Raman Spectroscopy]]
+- [[streamlining-analysis-and-design-of-two-dimensional-electron|Streamlining Analysis and Design of Two-Dimensional Electronic Spectroscopy using Machine Learning]]
+- [[time-resolved-thz-stark-spectroscopy-of-molecules-in-water|Time-resolved THz Stark spectroscopy of molecules in water]]
+
 **Source:** [arXiv physics.chem-ph](https://arxiv.org/abs/2608.02637) | 2026-08-05

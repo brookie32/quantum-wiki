@@ -14,4 +14,10 @@ stale: false
 
 arXiv:2509.05058v3 Announce Type: replace-cross Abstract: Supersolidity and magnetism are fundamental phenomena characterizing strongly correlated matter. Here we unveil a mechanism that directly connects these two regimes and can be experimentally accessed in ultracold atomic systems. Specifically, we exploit the distinctive properties of magnetic lanthanide atoms trapped in a one-dimensional antimagic wavelength optical lattice. This platform enables a realistic implementation of a triangular Bose-Hubbard ladder featuring two key ingredients: strong long-range interactions and tunable gauge fields. Owing to these properties, our numerical analysis reveals a robust lattice supersolid regime with finite fluxes in each triangular plaquette. Remarkably, we show that the density modulation of the supersolid phase and a finite gauge field induce magnetic ordering of the fluxes, forming ferromagnetic and ferrimagnetic patterns. Our results thus reveal a quantum effect that bridges supersolidity and magnetism.
 
+
+
+## Related
+- [[production-and-stabilization-of-a-spin-mixture-of-ultracold-|Production and stabilization of a spin mixture of ultracold dipolar Bose gases]]
+- [[strongly-dipolar-molecular-bose-einstein-condensates-from-fe|Strongly dipolar molecular Bose-Einstein condensates: From few- to many-body physics]]
+
 **Source:** [arXiv quant-ph](https://arxiv.org/abs/2509.05058) | 2026-07-24

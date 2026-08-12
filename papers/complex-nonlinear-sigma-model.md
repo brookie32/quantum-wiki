@@ -14,4 +14,11 @@ stale: false
 
 arXiv:2601.20166v2 Announce Type: replace-cross Abstract: Motivated by the recent interest in the criticality of open quantum many-body systems, we study nonlinear sigma models with complexified couplings as a general framework for nonunitary field theory. Applying the perturbative renormalization-group analysis to the tenfold symmetric spaces, we demonstrate that fixed points with complex scaling dimensions and critical exponents arise generically, without counterparts in conventional nonlinear sigma models with real couplings. We further clarify the global phase diagrams in the complex-coupling plane and identify both continuous and discontinuous phase transitions. Our work thus identifies nonlinear sigma models as a representative setting for studying complex critical points and elucidates universal aspects of critical phenomena in complexified field theory.
 
+
+
+## Related
+- [[physico-mathematical-model-of-open-quantum-systems-with-vary|Physico-mathematical model of open quantum systems with varying particle number]]
+- [[dissipation--versus-chaos-induced-relaxation-in-non-markovia|Dissipation- versus Chaos-Induced Relaxation in Non-Markovian Quantum Many-Body Systems]]
+- [[survival-of-hermitian-criticality-in-the-non-hermitian-frame|Survival of Hermitian Criticality in the Non-Hermitian Framework]]
+
 **Source:** [arXiv quant-ph](https://arxiv.org/abs/2601.20166) | 2026-07-30
