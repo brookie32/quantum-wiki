@@ -14,4 +14,11 @@ stale: false
 
 arXiv:2608.10890v1 Announce Type: new Abstract: Optomechanical systems offer a promising platform for observing dynamical signatures of quantum gravity through precision measurements of quantum harmonic oscillator dynamics. However, most existing analyses consider only the linear radiation-pressure interaction while neglecting higher-order optomechanical couplings and laser phase noise. These neglected contributions can be comparable in magnitude to the predicted quantum-gravity corrections and may therefore introduce spurious signals or mask the genuine physical effect. Here we reanalyze two experimentally realized platforms, a Fabry-Perot optomechanical system and a membrane-in-the-middle optomechanical system, by incorporating the complete nonlinear dynamics and realistic laser phase noise. Using measured device parameters, we derive revised protocols for generalized uncertainty principle tests and establish practical sensitivity bounds. Our results demonstrate that previous idealized estimates significantly overestimate the achievable resolution, underscoring the necessity of including higher-order interactions and implementing effective laser phase noise suppression in realistic assessments of optomechanical quantum gravity tests.
 
+
+
+## Related
+- [[modelling-quantum-measurement-dynamics-from-decoherence-to-r|Modelling quantum measurement dynamics: from decoherence to redundancy with site-hopping indistinguishable particles]]
+- [[detecting-hidden-nonlinear-high-frequency-modes-beyond-funda|Detecting Hidden Nonlinear High Frequency Modes Beyond Fundamental Minimal Temporal Resolution Using Weak Measurements]]
+- [[suppressed-quantum-effects-of-weakly-coupled-waves|Suppressed Quantum Effects of Weakly Coupled Waves]]
+
 **Source:** [arXiv quant-ph](https://arxiv.org/abs/2608.10890) | 2026-08-12
