@@ -1,0 +1,17 @@
+---
+title: "Quanta Computer and Quantinuum Partner to Industrialize Fault-Tolerant Trapped-Ion Hardware Manufacturing - Quantum Computing Report"
+date: "2026-08-14"
+updated: "2026-08-14"
+source: "agent"
+category: "error-correction"
+tags: [error-correction, google-news--error-correction]
+url: "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNYU5LU3p0MlFRVDV5X3RXMTVsU29nT2tGYjh5NmxzVXNVQ1lSZ3hHZVA4SS1hbkZiOXNXOENqaERuLXhRTzd1X2Zxd3p4S1Foc05wUVJtYTRQZW1ONHBwLTJBZFh6Z0RqRExzTjduV2J6YkRlc2JQRllCQmR5RTRuNmtnRC1yT2RZYnU4Um5hVlA0YjU0WmVJMkVfYTVmOTZtdE1rMk5fNXloNG1fTnVuUVFsLVBwWGF2SWRmVGhLcmNnM1djRHNNcU9sdGJ5TWJWZGoxSDE5QnJteWtjWnfSAd4BQVVfeXFMTWFOS1N6dDJRUVQ1eV90VzE1bFNvZ09rRmI4eTZsc1VzVUNZUmd4R2VQOEktYW5GYjlzVzhDamhEbi14UU83dV9mcXd6eEtRaHNOcFFSbWE0UGVtTjRwcC0yQWRYemdEakRMc043bldiemJEZXNiUEZZQkJkeUU0bjZrZ0Qtck9kWWJ1OFJuYVZQNGI1NFplSTJFX2E1Zjk2bXRNazJOXzV5aDRtX051blFRbC1QcFhhdklkZlRoS3JjZzNXY0RzTXFPbHRieU1iVmRqMUgxOUJybXlrY1p3?oc=5"
+summary: "Quanta Computer has partnered with Quantinuum to develop industrial-scale manufacturing lines for fault‑tolerant trapped‑ion quantum processors. Leveraging Quantinuum’s advanced ion‑trap platform and "
+last_verified: "2026-08-14"
+review_by: "2026-11-12"
+stale: false
+---
+
+Quanta Computer has partnered with Quantinuum to develop industrial-scale manufacturing lines for fault‑tolerant trapped‑ion quantum processors.  Leveraging Quantinuum’s advanced ion‑trap platform and Quanta’s mass‑production capabilities, the collaboration aims to bring error‑corrected qubit chips from laboratory prototypes into a commercially viable supply chain.  The initiative seeks to enable scalable production of high‑performance trapped‑ion hardware for widespread quantum computing applications.
+
+**Source:** [Google News: error correction](https://news.google.com/rss/articles/CBMi3gFBVV95cUxNYU5LU3p0MlFRVDV5X3RXMTVsU29nT2tGYjh5NmxzVXNVQ1lSZ3hHZVA4SS1hbkZiOXNXOENqaERuLXhRTzd1X2Zxd3p4S1Foc05wUVJtYTRQZW1ONHBwLTJBZFh6Z0RqRExzTjduV2J6YkRlc2JQRllCQmR5RTRuNmtnRC1yT2RZYnU4Um5hVlA0YjU0WmVJMkVfYTVmOTZtdE1rMk5fNXloNG1fTnVuUVFsLVBwWGF2SWRmVGhLcmNnM1djRHNNcU9sdGJ5TWJWZGoxSDE5QnJteWtjWnfSAd4BQVVfeXFMTWFOS1N6dDJRUVQ1eV90VzE1bFNvZ09rRmI4eTZsc1VzVUNZUmd4R2VQOEktYW5GYjlzVzhDamhEbi14UU83dV9mcXd6eEtRaHNOcFFSbWE0UGVtTjRwcC0yQWRYemdEakRMc043bldiemJEZXNiUEZZQkJkeUU0bjZrZ0Qtck9kWWJ1OFJuYVZQNGI1NFplSTJFX2E1Zjk2bXRNazJOXzV5aDRtX051blFRbC1QcFhhdklkZlRoS3JjZzNXY0RzTXFPbHRieU1iVmRqMUgxOUJybXlrY1p3?oc=5) | 2026-08-14
