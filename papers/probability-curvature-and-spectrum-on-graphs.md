@@ -14,4 +14,10 @@ stale: false
 
 arXiv:2607.21639v1 Announce Type: cross Abstract: We show that, for a metric graph equipped with the Laplacian operator Delta=-frac{d^2}{dx^2}, the graph trace formula admits a new interpretation in terms of quantum probability and curvature. Our approach is based on a notion of graph curvature inspired by Wilson-lines and holonomy, together with von-Neumann's ergodic theorem.
 
+
+
+## Related
+- [[unification-of-quantum-graph-properties|Unification of Quantum Graph Properties]]
+- [[perfect-state-transfer-in-grover-walks-on-normal-cayley-grap|Perfect state transfer in Grover walks on normal Cayley graphs]]
+
 **Source:** [arXiv quant-ph](https://arxiv.org/abs/2607.21639) | 2026-07-27
