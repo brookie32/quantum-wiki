@@ -1,0 +1,17 @@
+---
+title: "DARPA Awards Contract to Qunnect to Advance Real-Time Polarization Compensation for Quantum Networks - Quantum Computing Report"
+date: "2026-08-13"
+updated: "2026-08-14"
+source: "agent"
+category: "networking"
+tags: [networking, google-news--networking-companies]
+url: "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQMkc2Tjl6RGpUYUtsUG9iRFdaVDY2T1VCQVAtYmNLVmJ0R01RcnMzYnRzRzdvbEdDV2dDbk1GSElGWmNDM3NXcGQwQldaOERobXlKYUh6QTV3a05qMDRTVXhGX1JDeXFsaVdqTWFuajV4eVRJUTNzV2dfUkl6LTU4dHpad1lidXByUC1JdWdfaml5NGg3NU1hX1UtMWZIVGZBTjZFUzlES0FqeGRPdWNWZTBWREdWZ0FzSjZMUC1nUXAwRlJqeGJsMnBfUGdkeTFNMEHSAdcBQVVfeXFMTkdTVVBuTk1yakZnVS1oc29Xb2Y2MWFsZ0RnUk9RT2YxRFpXaVQtWWdQR2hxdlVOcUVXbk8xYVZjcjFFU1h0V1BDcndaWUswZHI1elFMUkN5ckppeVotYnhRWWpmTFB5NmZWeDFfYXhvOXVnOWJ3d0RsWVRuNXJpUTRmb083ajJDdzFLay1qbnN2RzFsanZFSEthempjYUVMdnBHT2RVME5xeEE3aUVmYUozaXlBSG0wVHlqeWt4SkRBVzhFWDRubkV3Zk92V0hDUGc1eGs0N0U?oc=5"
+summary: "DARPA has awarded a contract to Qunnect to develop real‑time polarization‑compensation hardware for quantum networks. The technology will actively correct dynamic polarization changes that degrade ent"
+last_verified: "2026-08-14"
+review_by: "2026-11-12"
+stale: false
+---
+
+DARPA has awarded a contract to Qunnect to develop real‑time polarization‑compensation hardware for quantum networks. The technology will actively correct dynamic polarization changes that degrade entangled‑photon transmission, thereby improving the reliability and throughput of quantum communications over fiber or satellite links. This effort supports DARPA’s goal of establishing robust, low‑latency quantum infrastructure for secure data transmission.
+
+**Source:** [Google News: networking companies](https://news.google.com/rss/articles/CBMi0gFBVV95cUxQMkc2Tjl6RGpUYUtsUG9iRFdaVDY2T1VCQVAtYmNLVmJ0R01RcnMzYnRzRzdvbEdDV2dDbk1GSElGWmNDM3NXcGQwQldaOERobXlKYUh6QTV3a05qMDRTVXhGX1JDeXFsaVdqTWFuajV4eVRJUTNzV2dfUkl6LTU4dHpad1lidXByUC1JdWdfaml5NGg3NU1hX1UtMWZIVGZBTjZFUzlES0FqeGRPdWNWZTBWREdWZ0FzSjZMUC1nUXAwRlJqeGJsMnBfUGdkeTFNMEHSAdcBQVVfeXFMTkdTVVBuTk1yakZnVS1oc29Xb2Y2MWFsZ0RnUk9RT2YxRFpXaVQtWWdQR2hxdlVOcUVXbk8xYVZjcjFFU1h0V1BDcndaWUswZHI1elFMUkN5ckppeVotYnhRWWpmTFB5NmZWeDFfYXhvOXVnOWJ3d0RsWVRuNXJpUTRmb083ajJDdzFLay1qbnN2RzFsanZFSEthempjYUVMdnBHT2RVME5xeEE3aUVmYUozaXlBSG0wVHlqeWt4SkRBVzhFWDRubkV3Zk92V0hDUGc1eGs0N0U?oc=5) | 2026-08-13

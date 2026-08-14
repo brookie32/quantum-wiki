@@ -14,4 +14,11 @@ stale: false
 
 Neutral-atom quantum hardware developer Pasqal has achieved a technical milestone by trapping individual neutral atoms using laser light generated and routed directly through a Photonic Integrated Circuit (PIC). Developed in collaboration with its subsidiary Aeponyx—acquired less than 18 months prior—the demonstration replaces traditional free-space bulk optical tables with solid-state silicon nitride photonic chips, addressing a [...] The post Pasqal Achieves First On-Chip Neutral-Atom Qubit Trapping via Photonic Integrated Circuits appeared first on Quantum Computing Report.
 
+
+
+## Related
+- [[pasqal-and-aeponyx-trap-individual-atoms-using-optical-tweez|Pasqal and Aeponyx trap individual atoms using optical tweezers delivered through a photonic chip, a step on the path to fault-tolerant quan…]]
+- [[sizhen-chip-demonstrates-multi-qubit-photonic-quantum-states|Sizhen Chip Demonstrates Multi-Qubit Photonic Quantum States on Silicon Chip]]
+- [[presented-by-our-partners-at-pasqalquantum-ceo-dr-wasiq-bokh|Presented by our partners at @pasqalquantum: CEO Dr. Wasiq Bokhari joins Boardroom Exclusives to talk about the company's innovative neutral…]]
+
 **Source:** [Quantum Computing Report](https://quantumcomputingreport.com/pasqal-achieves-first-on-chip-neutral-atom-qubit-trapping-via-photonic-integrated-circuits/) | 2026-08-11
