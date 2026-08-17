@@ -14,4 +14,11 @@ stale: false
 
 arXiv:2606.07287v2 Announce Type: replace Abstract: Green's function-based downfolding methods construct effective Hamiltonians of reduced dimension that capture dynamical correlations of an electronic environment through effective potentials acting on the active space only. Using methods based on the constrained random phase approximation (cRPA) and moment RPA (mRPA), we construct static effective Hamiltonians that include screening through the environment. We derive expressions for the energy contribution from the environment and for the effective one- and two-body terms, taking into account double-counting corrections. cRPA requires additional consideration due to its frequency dependence, while mRPA provides a static Hamiltonian by construction. For the ground state energy of benzene and bond dissociation curves, we discuss the differences and similarities between the different flavors of RPA-based screening. We show that downfolding using cRPA describes both dynamical and strong correlation well, while mRPA and cRPA restricted to screening the particle-hole matrix elements can fail to describe bond dissociation due to a dominating dynamical correlation term. In the static limit, these two methods are shown to be almost indistinguishable.
 
+
+
+## Related
+- [[reduced-density-matrix-functional-theory-across-molecules-an|Reduced Density Matrix Functional Theory Across Molecules and Periodic Systems: Screening and Coupled Optimization]]
+- [[self-consistent-vertex-corrected-gw-with-static-and-dynamic-|Self-consistent vertex corrected GW with static and dynamic screening using tensor hypercontraction: assessment of molecular ionization potentials]]
+- [[real-time-approach-to-the-dynamical-bethe-salpeter-equation-|Real-Time Approach to the Dynamical Bethe-Salpeter Equation for Finite Systems]]
+
 **Source:** [arXiv physics.chem-ph](https://arxiv.org/abs/2606.07287) | 2026-08-11
