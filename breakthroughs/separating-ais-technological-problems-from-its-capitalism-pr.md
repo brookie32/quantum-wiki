@@ -14,4 +14,10 @@ stale: false
 
 This essay was written with Nathan E. Sanders, and originally appeared in Tech Policy Press. AI represents the first time we humans can do cognitive work outside of our bodies at scale. The only comparable moment is the early years of the industrial revolution, when new technologies like the steam engine provided a quantum leap in our ability to do mechanical work outside of our bodies at scale. If AI’s cognitive capabilities become integrated into our lives, businesses, and governments—a process that will take years if not decades—society will be as unrecognizable as the modern world would be to a preindustrial farmer. And yet, Americans—by a wide margin—...
 
+
+
+## Related
+- [[if-the-markets-reject-openai-and-anthropic-the-us-should-nat|If the Markets Reject OpenAI and Anthropic, the US Should Nationalize Them]]
+- [[the-openai-hack-shows-the-genie-is-out-of-the-bottle|The OpenAI Hack Shows the Genie Is Out of the Bottle]]
+
 **Source:** [Schneier on Security](https://www.schneier.com/blog/archives/2026/08/separating-ais-technological-problems-from-its-capitalism-problems.html) | 2026-08-13
