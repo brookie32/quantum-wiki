@@ -14,4 +14,10 @@ stale: false
 
 I'll search for information about this recent quantum physics research. Solid neon can be used as a noise-resilient host for electron qubits above 100 mK.   The charge noise density of electron-on-solid-neon qubits is comparable with common semiconductor hosts,  and  electron-on-solid-neon charge qubits operating around 5 GHz frequencies can maintain echo coherence times of over 1 μs at temperatures up to 400 mK.
 
+
+
+## Related
+- [[underdog-spin-qubits-leap-forward-in-race-to-a-useful-quantu|Underdog ‘spin qubits’ leap forward in race to a useful quantum computer]]
+- [[electron-shuttling-as-a-probe-for-charge-defects|Electron shuttling as a probe for charge defects]]
+
 **Source:** [Nature: Quantum Physics](https://www.nature.com/articles/s41928-026-01613-4) | 2026-04-29

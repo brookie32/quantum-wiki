@@ -1,0 +1,17 @@
+---
+title: "QML hits high-grade copper at Mt Chalmers - The Australian"
+date: "2026-08-18"
+updated: "2026-08-18"
+source: "agent"
+category: "machine-learning"
+tags: [machine-learning, google-news--qml]
+url: "https://news.google.com/rss/articles/CBMihgJBVV95cUxPVm4tWDdWR2V1MUpGMFl0NzE3R0UyUE1ockpQZHJMTk83VjVSVHpXMy1kdnhqUi1waHpQNkl1UURUSmRkQ0NiTXFfOWQwa2NudUFSZzl2MWJ2ZmJYRF81dVBGQTFDazF3eUt6VFl6ZExnOHMyWXFrMWNBemZhVjR0cFVxbm1kb3pDNmo5QnNsX2ROQXd6WDBsUzNSV2xuenhybEhDRXN4akFGSVcyV21ObkhaZVNHVDk3RXhGNmI2NTc5dndnQnVDaEVzZkNZb3NycUprX2diY0NXN2VibVZPWTZORGlkUF9od3BubnJ4Vzh0VGxyTFNRRDJpZmdyZDZXbmtkY0pB0gGLAkFVX3lxTFBHcm1qTWg1dDhXTGpFcnRhV3d2UmEzd0s4Z1lJanBFa1lCR1BCUThZdnRqZ3FfNkxHRWhRdFdOcjhNcldFdllwVWd5V0Z2UU1ra0VaY2YyOUdELXFtSHJUcGQxTWxYWUJsOFhCaWpick5PY2NXOG0zVDdXRDZFdDI0MGJsRzl3dFVoa2t5UXJDbFZvM2w4WTZnemQ0OVhJR1pWNjlZclZBODNZT1RjWTZLVHlMT0ZMRnh5bGs3V0J6amZoTnFFaVpoSWxIZU9CZFZvZFVoSV9PSkhNZC1aY1RWbEM5YzhQVjZBTGxmT1N6Rk5XQUFMejdvTUhGQUY5aFI1Z19NalZtcHZRQQ?oc=5"
+summary: "QML has reported a discovery of high‑grade copper at the Mt Chalmers mine, according to an article published by **The Australian**. The news was subsequently aggregated and distributed through Google "
+last_verified: "2026-08-18"
+review_by: "2026-11-16"
+stale: false
+---
+
+QML has reported a discovery of high‑grade copper at the Mt Chalmers mine, according to an article published by **The Australian**. The news was subsequently aggregated and distributed through Google News’ global coverage platform, providing up‑to‑date reporting on the find.
+
+**Source:** [Google News: QML](https://news.google.com/rss/articles/CBMihgJBVV95cUxPVm4tWDdWR2V1MUpGMFl0NzE3R0UyUE1ockpQZHJMTk83VjVSVHpXMy1kdnhqUi1waHpQNkl1UURUSmRkQ0NiTXFfOWQwa2NudUFSZzl2MWJ2ZmJYRF81dVBGQTFDazF3eUt6VFl6ZExnOHMyWXFrMWNBemZhVjR0cFVxbm1kb3pDNmo5QnNsX2ROQXd6WDBsUzNSV2xuenhybEhDRXN4akFGSVcyV21ObkhaZVNHVDk3RXhGNmI2NTc5dndnQnVDaEVzZkNZb3NycUprX2diY0NXN2VibVZPWTZORGlkUF9od3BubnJ4Vzh0VGxyTFNRRDJpZmdyZDZXbmtkY0pB0gGLAkFVX3lxTFBHcm1qTWg1dDhXTGpFcnRhV3d2UmEzd0s4Z1lJanBFa1lCR1BCUThZdnRqZ3FfNkxHRWhRdFdOcjhNcldFdllwVWd5V0Z2UU1ra0VaY2YyOUdELXFtSHJUcGQxTWxYWUJsOFhCaWpick5PY2NXOG0zVDdXRDZFdDI0MGJsRzl3dFVoa2t5UXJDbFZvM2w4WTZnemQ0OVhJR1pWNjlZclZBODNZT1RjWTZLVHlMT0ZMRnh5bGs3V0J6amZoTnFFaVpoSWxIZU9CZFZvZFVoSV9PSkhNZC1aY1RWbEM5YzhQVjZBTGxmT1N6Rk5XQUFMejdvTUhGQUY5aFI1Z19NalZtcHZRQQ?oc=5) | 2026-08-18
