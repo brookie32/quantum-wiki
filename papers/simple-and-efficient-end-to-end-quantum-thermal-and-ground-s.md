@@ -14,4 +14,11 @@ stale: false
 
 The paper introduces quantum algorithms that employ a single reusable ancilla qubit as a bath to generate thermal and ground states of physically relevant Hamiltonians through forward evolution under designed system–bath dynamics. The authors prove that the fixed‑point of this evolution approximates the target state with rigorously bounded mixing times, establishing end‑to‑end efficiency for these models. The approach is tailored to early fault‑tolerant quantum devices and provides theoretical guarantees on its performance.
 
+
+
+## Related
+- [[ground-state-preparation-in-21-dimensional-pure-z2-lattice-g|Ground state preparation in (2+1)-dimensional pure Z_2 lattice gauge theory via deterministic quantum imaginary time evolution]]
+- [[imaginary-time-evolution-and-ground-state-preparation-using-|Imaginary time evolution and ground state preparation using unitary multi-copy protocols]]
+- [[trading-imaginary-time-for-randomness-in-ground-state-prepar|Trading Imaginary Time for Randomness in Ground State Preparation]]
+
 **Source:** [Nature: Quantum Physics](https://www.nature.com/articles/s41567-026-03389-y) | 2026-08-12
