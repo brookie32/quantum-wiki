@@ -14,4 +14,9 @@ stale: false
 
 Insider Brief Press release – Symmatrics, a breakthrough quantum secure data protection platform, is excited to announce the appointment of Jim Garrity as Senior Vice President of Growth, a strategic addition driving the company’s next phase of expansion as organizations seek more secure, resilient and future-ready approaches to authentication. Garrity joins Symmatrics with more than 30 years […]
 
+
+
+## Related
+- [[symmatrics-appoints-joe-reddix-as-vice-president-of-federal-|Symmatrics Appoints Joe Reddix as Vice President of Federal Sector]]
+
 **Source:** [The Quantum Insider](https://thequantuminsider.com/2026/08/18/symmatrics-jim-garrity-expanding-leadership-team-growth/) | 2026-08-18

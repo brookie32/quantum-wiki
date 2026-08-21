@@ -14,4 +14,11 @@ stale: false
 
 arXiv:2608.12562v1 Announce Type: new Abstract: The coupled dynamics of ions and water molecules in their first hydration shell impact a variety of processes including ion diffusion, selective ion transport in water-filled nanopores, and the kinetics of ion-pairing, ion adsorption, and metal-ligand binding reactions. In this work, we study these coupled dynamics for alkali metals (Li, Na, K, Rb, Cs), alkaline Earth metals (Mg, Ca, Sr, Ba), and chloride through the lens of their dependence on ion isotopic mass. Results are validated against previous measurements of the isotopic mass-dependence of ion diffusion coefficients in water and previous ab initio calculations of ion high-frequency dynamics in water. We find that the vibrational power spectra of ions in water consistently exhibit either two or three peaks, i.e., ions have several rattling frequencies within their solvations shells as previously reported for a subset of the species examined here. These frequencies have different sensititivies to isotopic mass that may serve as signatures of ion solvation processes (such as the tendency of ions to orient their first-shell water molecules) and that also may relate to Hofmeister-like effects including the relative affinity of different metals for ribonucleic acid (RNA).
 
+
+
+## Related
+- [[integrated-alchemical-and-conformational-enhanced-sampling-f|Integrated Alchemical and Conformational Enhanced Sampling for Solvation Free Energy Calculations]]
+- [[time-resolved-thz-stark-spectroscopy-of-molecules-in-water|Time-resolved THz Stark spectroscopy of molecules in water]]
+- [[ion-pairing-enhancement-under-osmotic-stress-disentangling-t|Ion-Pairing Enhancement under Osmotic Stress: Disentangling the Effects of Ion and Water Activities]]
+
 **Source:** [arXiv physics.chem-ph](https://arxiv.org/abs/2608.12562) | 2026-08-14

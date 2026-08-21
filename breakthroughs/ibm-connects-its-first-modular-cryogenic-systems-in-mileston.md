@@ -14,4 +14,13 @@ stale: false
 
 IBM has announced the deployment of its first modular cryogenic control systems for quantum processors, marking a step toward fault‑tolerant quantum computing. The new modules are designed to enable scalable, low‑error operation in larger qubit architectures. This development is reported as a milestone in IBM’s broader strategy to build reliable quantum hardware at scale.
 
+
+
+## Related
+- [[ibm-connects-modular-cryogenic-systems-in-step-towards-fault|IBM connects modular cryogenic systems in step towards fault-tolerant quantum computing - Scientific Computing World]]
+- [[ibm-connects-cryogenic-quantum-modules-in-push-towards-2029-|IBM Connects Cryogenic Quantum Modules in Push Towards 2029 Fault-Tolerant System - Yahoo Tech]]
+- [[ibm-moves-a-step-closer-to-fault-tolerant-quantum-computing-|IBM moves a step closer to fault-tolerant quantum computing by linking its first modular cryogenic fridges - SiliconANGLE]]
+- [[ibm-connects-modular-cryogenic-systems-for-fault-tolerant-qu|IBM connects modular cryogenic systems for fault-tolerant quantum computing - TahawulTech.com]]
+- [[ibm-links-two-cryogenic-modules-below-15-millikelvin-on-the-|IBM Links Two Cryogenic Modules Below 15 Millikelvin on the Path to Its 2029 Fault-Tolerant Quantum Computer - StorageReview.com]]
+
 **Source:** [Google News: error correction](https://news.google.com/rss/articles/CBMi7gFBVV95cUxQQ3JIazJJbExBUTA1Ykt2Rk1XYXZEUkpGeXJUT052eTlpajlKU0M5eXNVU3YtaWVleFpMODVJMFEwaEcxMTNIaHZEZWp3Rk5pNjVKM1c3U1lXQTZudHpqZVU3WUZjVzJKYldzX2RiV2JubmxmUVl3REFQMzVNMUQySFBtRkVIMWJtcGxlX0VvWGtxbGZ2RkVhVUVyWWhqb2t6bkhkeDJvbVhpVmItZXQwcHdheDBCR3JqQUtLNk1XaWI0YjJkaThobnFVdEY1RlRSRkNfby01UmUyM1B4S3FjRVBGQmV6VzJGVW9DUWh3?oc=5) | 2026-08-19
