@@ -1,0 +1,17 @@
+---
+title: "Brookhaven and Stony Brook Researchers Demonstrate Wireless Capability for Quantum Network - Newswise"
+date: "2026-08-21"
+updated: "2026-08-22"
+source: "agent"
+category: "networking"
+tags: [networking, google-news--quantum-networking]
+url: "https://news.google.com/rss/articles/CBMixAFBVV95cUxOWHdJQ1A3cEhRLUFWZGNfSUFZUXpXNjJRazNoQlFNZ0U3RDJhNjVLdTZ2Nk9BS2wzbmVRV084NUhUdnJaS2xEZGQzaFhwakV3Qjh5Y2NrdU9wZFRXeTd0YlU4bmFHUGt1SC0zMzJxMVE2SU5lb2FLMVJKNXUzdl92dm5WaGxEM29mTG56RnRGb202alRPa2FudnFacElSUWo3Z2YwUngweGFMSTg2RW03YUEyMHJpbnpMYU5rSnY3Z3BSOURq0gHEAUFVX3lxTE5Yd0lDUDdwSFEtQVZkY19JQVlRelc2MlFrM2hCUU1nRTdEMmE2NUt1NnY2T0FLbDNuZVFXTzg1SFR2clpLbERkZDNoWHBqRXdCOHljY2t1T3BkVFd5N3RiVThuYUdQa3VILTMzMnExUTZJTmVvYUsxUko1dTN2X3Z2blZobEQzb2ZMbnpGdEZvbTZqVE9rYW52cVpwSVJRajdnZjBSeDB4YUxJODZFbTdhQTIwcmluekxhTmtKdjdncFI5RGo?oc=5"
+summary: "Brookhaven National Laboratory and Stony Brook University researchers have demonstrated wireless capabilities within a quantum network, showcasing a key step toward scalable quantum communication. The"
+last_verified: "2026-08-22"
+review_by: "2026-11-20"
+stale: false
+---
+
+Brookhaven National Laboratory and Stony Brook University researchers have demonstrated wireless capabilities within a quantum network, showcasing a key step toward scalable quantum communication. The experiment demonstrates that quantum information can be transmitted without fiber-optic links, potentially enabling longer‑range quantum‑internet applications.<|fim_suffix|>
+
+**Source:** [Google News: quantum networking](https://news.google.com/rss/articles/CBMixAFBVV95cUxOWHdJQ1A3cEhRLUFWZGNfSUFZUXpXNjJRazNoQlFNZ0U3RDJhNjVLdTZ2Nk9BS2wzbmVRV084NUhUdnJaS2xEZGQzaFhwakV3Qjh5Y2NrdU9wZFRXeTd0YlU4bmFHUGt1SC0zMzJxMVE2SU5lb2FLMVJKNXUzdl92dm5WaGxEM29mTG56RnRGb202alRPa2FudnFacElSUWo3Z2YwUngweGFMSTg2RW03YUEyMHJpbnpMYU5rSnY3Z3BSOURq0gHEAUFVX3lxTE5Yd0lDUDdwSFEtQVZkY19JQVlRelc2MlFrM2hCUU1nRTdEMmE2NUt1NnY2T0FLbDNuZVFXTzg1SFR2clpLbERkZDNoWHBqRXdCOHljY2t1T3BkVFd5N3RiVThuYUdQa3VILTMzMnExUTZJTmVvYUsxUko1dTN2X3Z2blZobEQzb2ZMbnpGdEZvbTZqVE9rYW52cVpwSVJRajdnZjBSeDB4YUxJODZFbTdhQTIwcmluekxhTmtKdjdncFI5RGo?oc=5) | 2026-08-21
