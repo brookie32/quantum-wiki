@@ -14,4 +14,10 @@ stale: false
 
 arXiv:2608.19787v1 Announce Type: new Abstract: We show that there exists a total function for which there is a polynomial gap between the randomized and the constant-round quantum communication complexity. Previously, such a separation was known only for quantum protocols using polynomially many rounds.
 
+
+
+## Related
+- [[reconfigurable-optical-platform-for-one-way-quantum-communic|Reconfigurable Optical Platform for One-way Quantum Communication Complexity]]
+- [[perfect-games-in-dimension-bounded-communication|Perfect Games in Dimension-Bounded Communication]]
+
 **Source:** [arXiv quant-ph](https://arxiv.org/abs/2608.19787) | 2026-08-21
