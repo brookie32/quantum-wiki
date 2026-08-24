@@ -14,4 +14,9 @@ stale: false
 
 arXiv:2608.19017v1 Announce Type: cross Abstract: Photonic microcavities offer high energy density and low mode volume and attract special attention due to wide range of applications. Subsequent developments in the area of plasmonic nanocavities have also opened up applications despite their high absorptive properties. In the last two decades, photonic-plasmonic hybrid microcavities have been investigated extensively. In this article, we have conducted a review of the literature on photonic and plasmonic systems individually as well as in hybrid systems. Along with the underlying physics, applications such as cavity quantum electrodynamics, lasing, sensing, nonlinear optics and Raman spectroscopy have been reviewed. The outputs of the systems for each applications have been discussed and compared for photonic and hybrid systems. This review will provide a thorough understanding of the effects of optical cavities and plasmonics and their applications.
 
+
+
+## Related
+- [[mode-selective-and-anharmonicity-controlled-energy-transport|Mode-Selective and Anharmonicity-Controlled Energy Transport in Cavity-Coupled Water]]
+
 **Source:** [arXiv physics.chem-ph](https://arxiv.org/abs/2608.19017) | 2026-08-20
