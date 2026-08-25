@@ -14,4 +14,11 @@ stale: false
 
 arXiv:2608.18644v1 Announce Type: new Abstract: It is sometimes said that a reason to prefer Everettian quantum mechanics is that it allows one to avoid the kind of spooky action at a distance that is a consequence of quantum entanglement according to other approaches. There is a straightforward argument to show EQM has this virtue, however some advocates argue that this requires we see branching as a local causal process. I explain this reasoning and then show why, given the way Everettians standardly conceive of worlds and branching as emergent phenomena, branching need not be viewed as a causal process for EQM to be relativistically local. Forthcoming in Local Quantum Mechanics, OUP 2026.
 
+
+
+## Related
+- [[does-probability-require-a-single-history|Does Probability Require a Single History?]]
+- [[on-tunneling-in-the-quantum-multiverse|On Tunneling in the Quantum Multiverse]]
+- [[another-triumph-of-locality-colliding-histories-skew-handsha|Another Triumph of Locality: Colliding Histories Skew Handshakes]]
+
 **Source:** [arXiv quant-ph](https://arxiv.org/abs/2608.18644) | 2026-08-20

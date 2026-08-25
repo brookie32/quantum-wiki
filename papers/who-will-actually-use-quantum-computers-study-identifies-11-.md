@@ -14,4 +14,12 @@ stale: false
 
 Insider Brief Quantum computing might have a user problem as well as a hardware problem, according to a new study that identifies 11 types of people likely to interact with quantum software. The researchers also found that that these different users can require much different ways of accessing the technology. The study, posted on arXiv […]
 
+
+
+## Related
+- [[know-your-qubits-know-your-users-personas-for-quantum-softwa|Know Your Qubits, Know Your Users: Personas for Quantum Software]]
+- [[ornl-quantum-computing-user-forum-highlights-quantum-hpc-res|ORNL Quantum Computing User Forum Highlights Quantum-HPC Research]]
+- [[cuba-based-team-builds-open-platform-aimed-at-making-quantum|Cuba-Based Team Builds Open Platform Aimed at Making Quantum Computing Easier to Use]]
+- [[quantum-fidelity-per-cost-a-metric-for-evaluation-of-quantum|Quantum Fidelity-per-Cost: A Metric for Evaluation of Quantum Computing Systems]]
+
 **Source:** [The Quantum Insider](https://thequantuminsider.com/2026/08/21/who-will-actually-use-quantum-computers-study-identifies-11-user-types/) | 2026-08-21
