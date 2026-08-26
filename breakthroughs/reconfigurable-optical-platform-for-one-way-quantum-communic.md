@@ -14,4 +14,11 @@ stale: false
 
 arXiv:2607.27181v1 Announce Type: new Abstract: Demonstrating a practical quantum advantage remains a central goal in quantum information science. While quantum computational supremacy is still technologically demanding, communication complexity offers a promising route to showcase quantum advantage with current photonic platforms. Here we introduce a reconfigurable optical platform for one-way quantum communication complexity based on multimode fibers and wavefront shaping. We experimentally validate it by implementing a genuine one-way quantum communication complexity problem for which an exponential quantum--classical communication separation is known. Complementary numerical simulations show that the same reconfigurable decoding architecture can support more general one-way communication tasks with comparable performance, while also offering a route to higher-dimensional implementations without increasing hardware complexity. Together, these results establish multimode-fiber wavefront shaping as a versatile hardware platform for one-way quantum communication complexity and provide a concrete roadmap toward more demanding protocols, where stronger quantum--classical separations could enable practical demonstrations of quantum advantage.
 
+
+
+## Related
+- [[constant-round-quantum-advantage-in-communication-complexity|Constant-round quantum advantage in communication complexity for total functions]]
+- [[perfect-games-in-dimension-bounded-communication|Perfect Games in Dimension-Bounded Communication]]
+- [[threshold-and-parity-bosonsampling-in-the-linear-mode-regime|Threshold and Parity BosonSampling in the Linear-Mode Regime]]
+
 **Source:** [arXiv quant-ph](https://arxiv.org/abs/2607.27181) | 2026-07-30
