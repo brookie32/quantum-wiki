@@ -14,4 +14,10 @@ stale: false
 
 Experimental work shows that placing layered NbSe₂ in a split‑ring cavity resonator increases its superconducting transition temperature (Tc) and raises both the critical current and critical field near Tc. These enhancements are attributed to hybridization between the material’s electronic states and vacuum fluctuations of the cavity mode, which theoretically lowers the energy of the superconducting state. The study demonstrates a noninvasive method for improving superconductivity through coupling to engineered electromagnetic vacuum fields.
 
+
+
+## Related
+- [[single-photon-detection-in-few-layer-nbse2-superconducting-n|Single-photon detection in few-layer NbSe2 superconducting nanowires]]
+- [[no-go-theorem-and-routes-towards-cavity-enhanced-superconduc|No-Go Theorem and Routes towards Cavity-Enhanced Superconductivity]]
+
 **Source:** [Nature: Quantum Physics](https://www.nature.com/articles/s41586-026-11037-x) | 2026-08-19

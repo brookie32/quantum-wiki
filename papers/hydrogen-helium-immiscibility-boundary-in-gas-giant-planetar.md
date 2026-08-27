@@ -14,4 +14,10 @@ stale: false
 
 arXiv:2603.28927v2 Announce Type: replace-cross Abstract: The location of the hydrogen-helium (H/He) immiscibility boundary controls whether and where helium rain occurs in giant planets, yet it remains uncertain because high-pressure experiments are challenging and ab initio simulations are limited in system size and simulation time. We map this boundary by computing composition-dependent chemical potentials from large-scale molecular dynamics driven by machine learning potentials trained on three density functional approximations (PBE, vdW-DF, and the hybrid HSE). Across the pressure range of 100-1000 GPa, the demixing temperatures are typically ~2000 K lower than previous ab initio simulations using small system sizes, and this discrepancy is larger than the estimated error from the chosen density functionals, machine learning potentials, neglect of nuclear quantum effects, and statistical uncertainties. Fitting the H/He mixing free energy to a Redlich-Kister regular solution model rationalizes the thermodynamic driving force for phase separation and provides a predictive representation of the boundary. Comparing with current planetary interior profiles indicates that helium rain is plausible in Saturn but unlikely in the warmer interior of Jupiter. Our results narrow the uncertainty in the H/He immiscibility boundary and provide inputs for planetary models that couple demixing, heat transport, and composition gradients in gas giants.
 
+
+
+## Related
+- [[data-efficient-construction-of-material-specific-machine-lea|Data-Efficient Construction of Material-Specific Machine-Learning Interatomic Potentials from Ab Initio Molecular Dynamics Trajectories]]
+- [[universal-machine-learning-molecular-dynamics-at-the-speed-o|Universal Machine-learning Molecular Dynamics at the Speed of Empirical Potentials]]
+
 **Source:** [arXiv physics.chem-ph](https://arxiv.org/abs/2603.28927) | 2026-08-25

@@ -14,4 +14,11 @@ stale: false
 
 arXiv:2412.20485v2 Announce Type: replace-cross Abstract: Algorithmic idealism represents a transformative approach to understanding reality, emphasizing the informational structure of self-states and their algorithmic transitions over traditional notions of an external, objective universe. Rooted in algorithmic information theory, it redefines reality as a sequence of self-state transitions governed by principles such as Solomonoff induction. This framework offers a unified solution to longstanding challenges in quantum mechanics, cosmology, and metaphysics, addressing issues like the measurement problem, the Boltzmann brain paradox, and the simulation hypothesis. Algorithmic idealism shifts the focus from describing an independent external world to understanding first-person experiences, providing epistemic interpretations of physical theories and dissolving metaphysical divides between "real" and simulated realities. Beyond resolving these conceptual challenges, it raises profound ethical questions regarding the continuity, duplication, and termination of informational entities, reshaping discussions on identity, consciousness, and existence in the digital and quantum age. By offering a mathematically rigorous yet philosophically innovative framework, algorithmic idealism invites a rethinking of reality as an emergent property of informational dynamics rather than a static external construct.
 
+
+
+## Related
+- [[finite-precision-quantum-mechanics-quantum-parcels-informati|Finite-Precision Quantum Mechanics: Quantum Parcels, Information and Geometry]]
+- [[uncovering-non-gaussianity-through-multi-copy-symmetries|Uncovering Non-Gaussianity through Multi-Copy Symmetries]]
+- [[thermalization-in-a-closed-quantum-system-from-randomized-dy|Thermalization in a closed quantum system from randomized dynamics]]
+
 **Source:** [arXiv quant-ph](https://arxiv.org/abs/2412.20485) | 2026-08-25

@@ -14,4 +14,11 @@ stale: false
 
 arXiv:2409.18829v2 Announce Type: replace Abstract: We present a quantum alternating operator ansatz (QAOA^+) that solves a class of linearly constrained optimization problems by evolving a quantum state within a Hilbert subspace of feasible problem solutions. Our main focus is on a class of problems with a linear constraint containing sequential integer coefficients. For problems in this class, we devise QAOA^+ circuits that provably converge to the optimal solution as the number of circuit layers increases, generalizing previous guarantees for solving unconstrained problems or problems with symmetric constraints. Our approach includes asymmetric ``mixing" Hamiltonians that drive transitions between feasible states, as well as a method to incorporate an arbitrary known feasible solution as the initial state, each of which can be applied beyond the specific linear constraints considered here. This analysis extends QAOA^+ performance guarantees to a more general set of linearly-constrained problems and provides tools for future generalizations.
 
+
+
+## Related
+- [[constraint-preserving-qaoa-for-personnel-rostering-coverage-|Constraint-Preserving QAOA for Personnel Rostering: Coverage-Preserving and Guarded-XY Mixer Constructions]]
+- [[separating-geometry-from-interference-in-constrained-quantum|Separating Geometry From Interference in Constrained Quantum Optimization]]
+- [[reductions-of-qaoa-induced-by-classical-symmetries-theoretic|Reductions of QAOA Induced by Classical Symmetries: Theoretical Insights and Practical Implications]]
+
 **Source:** [arXiv quant-ph](https://arxiv.org/abs/2409.18829) | 2026-08-21
