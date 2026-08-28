@@ -14,4 +14,11 @@ stale: false
 
 arXiv:2603.13212v2 Announce Type: replace-cross Abstract: We prove the existence of spontaneous symmetry breaking in suitably low-energy eigenstates of certain gapless and frustrated many-body quantum systems, namely symmetric quantum perturbations to classical models which exhibit spontaneous symmetry breaking of a finite group at some positive temperature. Additionally, the classical model need not be local in space, as long as it satisfies a quantum analogue of the Peierls condition. As an example of our technique, we establish robust ferromagnetism in random-bond Ising models in d= 2 dimensions with sufficiently biased random couplings, with weak transverse field. Our mathematical technique is based on establishing quantum bottlenecks, similar to a "many-body WKB" method for evaluating tunneling rates. Using these same methods, we provide new proofs of metastability and the slow decay of the false vacuum, applicable to gapless metastable states. Our work represents a first step towards a rigorous classification of stable gapless quantum phases.
 
+
+
+## Related
+- [[frustrated-superradiant-phases-in-one--and-two-dimensional-l|Frustrated superradiant phases in one- and two-dimensional lattices]]
+- [[a-local-description-of-strong-symmetries-and-strong-to-weak-|A local description of strong symmetries and strong-to-weak symmetry breaking in quantum many-body systems]]
+- [[contextuality-as-a-diagnostic-of-translation-symmetry-breaki|Contextuality as a Diagnostic of Translation-Symmetry Breaking in Translation-Invariant 1D Hamiltonians]]
+
 **Source:** [arXiv quant-ph](https://arxiv.org/abs/2603.13212) | 2026-08-17

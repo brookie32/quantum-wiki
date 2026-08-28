@@ -14,4 +14,11 @@ stale: false
 
 arXiv:2608.12747v1 Announce Type: new Abstract: Precise measurements of the metastable helium (1s)(2s),^3S_1 ionization energy have revealed a 9sigma discrepancy with QED theory that persists in isotopic measurements, suggesting a leptophilic bosonic interaction as a possible explanation. A subsequent investigation of such interactions has concluded that only a scalar boson interaction is consistent with the He observations. Taking this as a starting point, we derive the response of positronium energy levels to the corresponding finite-range Yukawa potential, using exact hydrogenic matrix elements and a numerical helium calculation. Across the viable mediator-mass range of 0-800 eV, the He anomaly interpreted in this way implies a positronium 1^3S_1 rightarrow 2^3S_1 shift ranging from 0.250-0.850 MHz, and a 2S-ionization shift of 0.14-0.21 MHz. We discuss the feasibility of observing these shifts experimentally.
 
+
+
+## Related
+- [[low-energy-elastic-scattering-of-hydrogen-deuterium-and-trit|Low energy elastic scattering of hydrogen, deuterium and tritium on helium isotopes]]
+- [[reassessment-of-line-profile-asymmetry-in-measurements-of-th|Reassessment of line profile asymmetry in measurements of the 1s-2s energy interval in hydrogen]]
+- [[effective-field-theory-perspective-on-king-non-linearity|Effective Field Theory Perspective On King Non-linearity]]
+
 **Source:** [arXiv physics.atom-ph](https://arxiv.org/abs/2608.12747) | 2026-08-14

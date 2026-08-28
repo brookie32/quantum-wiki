@@ -14,4 +14,9 @@ stale: false
 
 arXiv:2608.24359v1 Announce Type: new Abstract: The achievable precision of photodetachment studies via tunable laser light has been investigated on circulating oxygen anions at the room-temperature electrostatic low-energy storage ring of Frankfurt University (FLSR) in preparation of investigations on molecular species. For this purpose, the FLSR, originally designed for reaction dynamics studies on positive ions, was upgraded by a source for anions, by the installation of a tunable high repetition rate laser system and by implementation of a transversal interaction region between laser and ion beam. Results on the electron affinity and the ground state fine structure of O^{-}, which both serve as a calibration standard, are discussed, exhibiting the performance and accuracy of this new spectroscopic application of the FLSR.
 
+
+
+## Related
+- [[multiple-ionization-and-charge-equilibration-in-slow-multipl|Multiple ionization and charge equilibration in slow, multiply charged Ar^{q+ + Ar} collision studied via L-MM Auger-Meitner electron spectroscopy]]
+
 **Source:** [arXiv physics.atom-ph](https://arxiv.org/abs/2608.24359) | 2026-08-26

@@ -14,4 +14,12 @@ stale: false
 
 arXiv:2608.19346v1 Announce Type: cross Abstract: We study symmetry-resolved Krylov complexity in finite-dimensional chaotic quantum many-body systems. When both the Hamiltonian and the initial operator commute with a conserved charge, the operator dynamics decomposes into independent symmetry sectors, each with its own Krylov chain. We show that, after saturation, the unresolved Krylov complexity is additive over symmetry sectors. In the absence of additional Liouvillian degeneracies, the late-time contribution of a sector with Hilbert-space dimension d_q is controlled by d_q(d_q-1), leading to a dimension-weighted equipartition that approaches the simple large-sector scaling d_q^2/sum_{q'}d_{q'}^2. This late-time rule differs from the early-time weighted-average discussed in the literature and is governed instead by the dimensions of the accessible operator spaces. We support the analytic prediction with numerical studies of the real and complex SYK models, a chaotic bosonic spin model, and the mixed-field Ising chain. Our results show that resolving exact symmetries is essential for interpreting the saturation value of Krylov complexity as a diagnostic of chaotic operator growth.
 
+
+
+## Related
+- [[quantum-chaos-and-spread-of-states-in-krylov-subspace-a-topi|Quantum Chaos and Spread of States in Krylov Subspace: A Topical Review]]
+- [[analytic-spread-complexity-from-level-statistics-from-chaos-|Analytic Spread Complexity from Level Statistics: From Chaos to Integrability]]
+- [[characterization-of-chaotic-evolution-in-quantum-systems-ind|Characterization of Chaotic Evolution in Quantum Systems Induced by Random Hermitian Matrices]]
+- [[long-time-dynamics-of-many-body-open-quantum-systems-using-q|Long-time Dynamics of Many-body Open Quantum Systems using Quantum Generating Functions]]
+
 **Source:** [arXiv quant-ph](https://arxiv.org/abs/2608.19346) | 2026-08-21

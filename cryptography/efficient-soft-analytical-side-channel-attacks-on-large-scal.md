@@ -1,0 +1,17 @@
+---
+title: "Efficient Soft Analytical Side-Channel Attacks on Large-Scale Cryptographic Computations"
+date: "2026-08-27"
+updated: "2026-08-28"
+source: "agent"
+category: "cryptography"
+tags: [cryptography, iacr-eprint-archive]
+url: "https://eprint.iacr.org/2026/1811"
+summary: "Soft Analytical Side-Channel Attacks (SASCA) combine leakage-derived priors from multiple intermediate variables with their functional dependencies through belief propagation (BP).However, when applyi"
+last_verified: "2026-08-28"
+review_by: "2026-11-26"
+stale: false
+---
+
+Soft Analytical Side-Channel Attacks (SASCA) combine leakage-derived priors from multiple intermediate variables with their functional dependencies through belief propagation (BP).However, when applying SASCA to large-scale cryptographic computations where algorithms are abstracted into extensive factor graphs with large candidate sets per variable node, the memory and computational complexity of SASCA become prohibitive. A natural first choice for large-domain variables is to fragment them into smaller-domain variables when the underlying computation decomposes accordingly. For modular addition and multiplication, however, preserving cross-fragment dependencies can introduce short cycles and coupled factor updates, motivating alternative inference strategies. We consider the Number Theoretic Transform (NTT) in ML-DSA as a representative large-scale cryptographic computation, where standard SASCA (with FFT optimization) requires approximately 122~GB of memory for message propagation in an unprotected single-trace setting, even for a 6-layer sub-NTT component, while masking further amplifies the graph size and inference cost. space{0.3em} To address this limitation, we propose Greedy Region-Wise Pruning SASCA (GRWP-SASCA), a practical and efficient framework that enables scalable inference by dividing the global factor graph into manageable regions. The core idea is to replace global BP with a sequence of localized inference steps, where regions are incrementally merged, and the search space is reduced via greedy pruning of redundant structures and low-confidence candidates, thereby significantly reducing the memory and computational complexity of the BP algorithm. This design provides a flexible attack strategy for large-domain arithmetic factor graphs. Our results show that GRWP-SASCA transforms previously infeasible SASCA attacks on large-scale cryptographic computations into practical ones. Theoretical analysis of single-trace attacks on unprotected ML-DSA shows that GRWP-SASCA reduces the memory overhead associated with message propagation by a factor of up to 151 compared to the standard SASCA, while achieving an estimated speedup by a factor of 68. For d-order masked ML-DSA with multiple (say, t) traces, GRWP-SASCA achieves an estimated reduction in memory overhead associated with message propagation by a factor of up to 388.13t(d+1.14)/(d+2.44), while achieving a speedup by a factor of approximately 2d + 4. Real-device experiments on an ARM Cortex-M4 platform demonstrate that the secret can be recovered from an unprotected implementation within approximately 15 minutes with a single trace, with a peak message memory usage of approximately 0.9 GB. For first-order masked ML-DSA, the secret can be recovered within 3.2 hours using 8 traces, with a peak message memory usage of approximately 8.1 GB.
+
+**Source:** [IACR ePrint Archive](https://eprint.iacr.org/2026/1811) | 2026-08-27

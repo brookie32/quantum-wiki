@@ -1,0 +1,17 @@
+---
+title: "Automatic generation of exchange-correlation response kernels"
+date: "2026-08-28"
+updated: "2026-08-28"
+source: "agent"
+category: "chemistry"
+tags: [chemistry, arxiv-physics-chem-ph]
+url: "https://arxiv.org/abs/2608.26440"
+summary: "arXiv:2608.26440v1 Announce Type: cross Abstract: Computing density-functional response properties requires contracting derivatives of the exchange--correlation (xc) energy with perturbed densities on"
+last_verified: "2026-08-28"
+review_by: "2026-11-26"
+stale: false
+---
+
+arXiv:2608.26440v1 Announce Type: cross Abstract: Computing density-functional response properties requires contracting derivatives of the exchange--correlation (xc) energy with perturbed densities on a grid. While the xc functional's derivatives have long been available to high orders from libraries such as Libxc, the surrounding contraction layer - the chain rule that combines them with the grid-based basis-function and density data into the total xc contribution - has instead been hand-derived and hand-coded in every program, for every functional family, spin case, and property. We present libxckernel, a library that automatically generates this layer by symbolic differentiation. The xc functional's ingredients are expressed as sesquilinear forms in the density matrix, so the xc energy can be differentiated to any order while the functional derivatives remain opaque. The basis functions and the orbital coefficients may both be complex. The chain rule then produces any xc matrix element: Fock matrices, orbital Hessians, and response terms of any order. Terms sharing a pattern are collapsed for efficiency. Extensible plugins emit the expressions as NumPy Einstein sums, compiled C kernels with C++/Fortran interfaces, or host-program specific source code. libxckernel is free and open-source software under the BSD-3-Clause license, enabling rapid implementation of functionality missing from many electronic structure programs. We demonstrate it by extending Psi4 with meta-generalized gradient approximation (mGGA) response kernels for orbital stability analysis and time-dependent density-functional theory (TD-DFT), GGA and mGGA analytic nuclear Hessians, and exact quadrature grid response, and by extending GPAW with mGGA and triplet TD-DFT kernels and gradient-corrected kernels for periodic dielectric response.
+
+**Source:** [arXiv physics.chem-ph](https://arxiv.org/abs/2608.26440) | 2026-08-28
