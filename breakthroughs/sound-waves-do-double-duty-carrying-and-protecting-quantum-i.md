@@ -14,4 +14,9 @@ stale: false
 
 Researchers at the Harvard John A. Paulson School of Engineering and Applied Sciences (SEAS) have demonstrated a promising new way to protect fragile quantum information using nothing but mechanical vibrations—essentially extremely small sound waves. The breakthrough, which comes from the lab of Marko Lončar, Tiantsai Lin Professor of Electrical Engineering, paves a path toward compact, sound-based quantum networks on chips, as well as hybrid quantum systems that combine many different types of quantum bits, or qubits.
 
+
+
+## Related
+- [[using-mechanical-vibrations-instead-of-magnetic-memory-for-q|Using mechanical vibrations instead of magnetic memory for quantum computing]]
+
 **Source:** [Phys.org Quantum](https://phys.org/news/2026-08-duty-quantum.html) | 2026-08-26
