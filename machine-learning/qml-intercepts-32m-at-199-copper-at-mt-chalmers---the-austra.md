@@ -1,0 +1,17 @@
+---
+title: "QML intercepts 32m at 1.99% copper at Mt Chalmers - The Australian"
+date: "2026-08-31"
+updated: "2026-08-31"
+source: "agent"
+category: "machine-learning"
+tags: [machine-learning, google-news--qml]
+url: "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNZ2VHaVdIcnlNenNUb1FrS0lwampVNkV0Tk95T0FjTmhVTHhpWUFBYmhNZmN4WHRQVS1VSHlzYjBVVkpqNmhESWx3ZGxrYzc4Y1gwVExUZ0pzSUt3cDlWZmowcGJsTGJyOG0zZ0ZfZHlwZlIwMEJDeDhSVWplVmJvQzZOaE1aNTRYNTdiSVI0dFpCR21fSE9iYlJscC1yRW95dm00NkoyNTNZTUowMC13VUVEQ0FqeUE4ZG5UUlNwU1h5a2JkWlNKOE1sN3dwTjByYUl4SXl4cW1wWndiR2RELVNGT1NhV05FTjNXRkhmUnByMFBsc2fSAfsBQVVfeXFMT2Z1SnhoazFLQk13bE5zaDQ4WktNQjI3NzFqcV9wT3dUVHhZYUtHNVQxRzV1Vl9xcE9HVkZBT3pucDVNZUc4RmZwNS1lQlRPd3RwTEh6ZUpranJXdWdxTWNCaVVuOVE1TmRqZFJ2Mjhxanc5a21ZMDBGcFJISi1lSnlIVU4tcUxXM2ZQZnZkdzROb05QSnhKd1VXSDM0S0J2VVE5Y3lzLVNoLUdnVjV3VTZHTlk1ak12U0RUY0d6TFhsejF3cEZUUEdobzdhYkl4ZVVCcGRZdW9kb2RscC11bTh3Z3VMSjU3bUhtYzU0OXhZeWlET0h4ajBLTWM?oc=5"
+summary: "The report notes that a copper deposit at Mt Chalmers has been estimated to contain approximately 32 million tonnes of ore grading 1.99 % copper. The information was distributed through Australian new"
+last_verified: "2026-08-31"
+review_by: "2026-11-29"
+stale: false
+---
+
+The report notes that a copper deposit at Mt Chalmers has been estimated to contain approximately 32 million tonnes of ore grading 1.99 % copper. The information was distributed through Australian news outlets and aggregated by Google News for global coverage. No additional technical or operational details are provided.
+
+**Source:** [Google News: QML](https://news.google.com/rss/articles/CBMi9gFBVV95cUxNZ2VHaVdIcnlNenNUb1FrS0lwampVNkV0Tk95T0FjTmhVTHhpWUFBYmhNZmN4WHRQVS1VSHlzYjBVVkpqNmhESWx3ZGxrYzc4Y1gwVExUZ0pzSUt3cDlWZmowcGJsTGJyOG0zZ0ZfZHlwZlIwMEJDeDhSVWplVmJvQzZOaE1aNTRYNTdiSVI0dFpCR21fSE9iYlJscC1yRW95dm00NkoyNTNZTUowMC13VUVEQ0FqeUE4ZG5UUlNwU1h5a2JkWlNKOE1sN3dwTjByYUl4SXl4cW1wWndiR2RELVNGT1NhV05FTjNXRkhmUnByMFBsc2fSAfsBQVVfeXFMT2Z1SnhoazFLQk13bE5zaDQ4WktNQjI3NzFqcV9wT3dUVHhZYUtHNVQxRzV1Vl9xcE9HVkZBT3pucDVNZUc4RmZwNS1lQlRPd3RwTEh6ZUpranJXdWdxTWNCaVVuOVE1TmRqZFJ2Mjhxanc5a21ZMDBGcFJISi1lSnlIVU4tcUxXM2ZQZnZkdzROb05QSnhKd1VXSDM0S0J2VVE5Y3lzLVNoLUdnVjV3VTZHTlk1ak12U0RUY0d6TFhsejF3cEZUUEdobzdhYkl4ZVVCcGRZdW9kb2RscC11bTh3Z3VMSjU3bUhtYzU0OXhZeWlET0h4ajBLTWM?oc=5) | 2026-08-31

@@ -14,4 +14,11 @@ stale: false
 
 arXiv:2608.21350v1 Announce Type: new Abstract: Velocity-selective Raman transitions are widely used in atom interferometers to prepare atomic ensembles with narrowly defined momentum distributions. However, differential light shifts between atomic energy levels generate velocity distributions that are correlated with the Raman beam intensity, and therefore with the position of the atoms within the laser beam. We show that these spatially inhomogeneous velocity distributions interact with detuning-dependent systematic effects in a Bragg diffraction-based simultaneous conjugate Ramsey-Borde interferometer. These interactions can induce systematic phase shifts of order 10 milliradians in the interferometer phase. We further identify a "magic" detuning for velocity selection and show that operating at this detuning suppresses the systematic phase shift. Magic velocity selection eliminates systematic errors arising from correlations between atom velocity and position, facilitating high-resolution atom interferometry experiments targeting sub-part-per-billion accuracy.
 
+
+
+## Related
+- [[magic-wavelength-matter-wave-interferometry-with-optical-clo|Magic-wavelength matter-wave interferometry with optical clock states]]
+- [[in-situ-coherence-measurements-of-scattered-light-in-magneti|In Situ Coherence Measurements of Scattered Light in Magnetically Trapped Cold Atomic Clouds: Probe-Driven Atomic Dynamics]]
+- [[a-nuclear-interferometer-for-ultra-light-dark-matter-detecti|A Nuclear Interferometer for Ultra-Light Dark Matter Detection]]
+
 **Source:** [arXiv physics.atom-ph](https://arxiv.org/abs/2608.21350) | 2026-08-24

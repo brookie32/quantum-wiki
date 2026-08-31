@@ -14,4 +14,11 @@ stale: false
 
 arXiv:2608.26635v1 Announce Type: new Abstract: Quantum estimation theory serves as one of fundamental backbones of quantum Shannon information theory and was mathematically systematized by pioneers of quantum information science. Although its applied research saw limited progress for a long period, the 21st century has witnessed active discussions and numerous fruitful proposals regarding its applications. Notably, the contributions of Monras and Paris represent one of the most remarkable achievements addressing the realization problem of estimation bounds. This paper aims to demonstrate a practical direction for extending their original ideas. Next-generation quantum information mechanisms urgently demand guarantees of quantum advantage unattainable by classical theory, alongside strict real-time processing without delays. By leveraging the concept of generalized heterodyne detection proposed nearly half a century ago, we demonstrate that a scheme based on their results can effectively meet the stringent requirements of near-future information technologies.
 
+
+
+## Related
+- [[input-phase-noise-in-gaussian-boson-sampling|Input phase noise in Gaussian Boson sampling]]
+- [[least-variable-quantum-counting-processes|Least Variable Quantum Counting Processes]]
+- [[the-impact-of-qubit-connectivity-on-quantum-advantage-in-noi|The Impact of Qubit Connectivity on Quantum Advantage in Noisy IQP Circuits]]
+
 **Source:** [arXiv quant-ph](https://arxiv.org/abs/2608.26635) | 2026-08-28
