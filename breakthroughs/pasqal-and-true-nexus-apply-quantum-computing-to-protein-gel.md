@@ -14,4 +14,9 @@ stale: false
 
 Insider Brief PRESS RELEASE – Pasqal (Nasdaq: PSQL), a global provider of neutral-atom quantum computers, and True Nexus, a computational intelligence company focused on making protein functionality programmable for real-world food applications, today announced a major milestone in their collaboration: the successful use of Pasqal’s neutral-atom quantum technology to encode selected protein structures relevant to […]
 
+
+
+## Related
+- [[pasqal-and-true-nexus-encode-protein-gelation-structures-on-|Pasqal and True Nexus Encode Protein Gelation Structures on Neutral-Atom QPUs]]
+
 **Source:** [The Quantum Insider](https://thequantuminsider.com/2026/09/02/pasqal-true-nexus-quantum-computing-protein-function/) | 2026-09-02
