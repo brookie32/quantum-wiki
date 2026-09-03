@@ -14,4 +14,12 @@ stale: false
 
 arXiv:2608.14502v1 Announce Type: cross Abstract: Free energies govern solid-state phase stability, yet computational materials discovery still relies largely on ground-state energies because free energy calculations require ensemble averages. We introduce the thermodynamic interatomic potential (TIP), which extends an interatomic potential from its static energy to a thermodynamically consistent Gibbs free energy model, with thermodynamic responses following from temperature and pressure by automatic differentiation. We implement TIP[UMA] using the universal potential UMA, train it on free energies from quasi-harmonic to molecular dynamics fidelity, and calibrate it to higher-resolution calculations or experiment. From a single evaluation, it returns the equation of state of a crystal and locates phase transitions among competing branches, including dynamically stabilized phases. Fine-tuning extends the model to alloy solubility limits and miscibility gaps. TIP makes the free energy as accessible as the potential energy, opening finite-temperature phase stability to high-throughput discovery.
 
+
+
+## Related
+- [[fast-and-accurate-foundation-models-for-equivariant-machine-|Fast and Accurate Foundation Models for Equivariant Machine-Learned Interatomic Potentials]]
+- [[why-multi-layer-message-passing-works-completeness-theory-fo|Why Multi-Layer Message Passing Works: Completeness Theory for Graph Neural Network Interatomic Potentials]]
+- [[benchmarking-universal-machine-learned-interatomic-potential|Benchmarking Universal Machine-Learned Interatomic Potentials for High-Temperature Metal-Organic Framework Chemistry]]
+- [[universal-machine-learning-molecular-dynamics-at-the-speed-o|Universal Machine-learning Molecular Dynamics at the Speed of Empirical Potentials]]
+
 **Source:** [arXiv physics.chem-ph](https://arxiv.org/abs/2608.14502) | 2026-08-17

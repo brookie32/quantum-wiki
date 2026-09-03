@@ -14,4 +14,11 @@ stale: false
 
 arXiv:2608.31089v1 Announce Type: new Abstract: We develop a Heisenberg-picture tensor-network formulation of collision-free Gaussian Boson Sampling, providing a direct Fock-space expression for output probabilities in terms of experimentally accessible quantities. The resulting representation naturally recovers the Hafnian structure while revealing the decomposition of GBS probability into a phase-insensitive contribution and a hierarchy of interference sectors associated with pairs of perfect matchings. As an application, we investigate phase diffusion and show how it progressively suppresses many-body interference, driving the output statistics toward a classical dimer-model regime. Our results establish a transparent framework for connecting experimentally characterized phase fluctuations with the loss of quantum interference in photonic quantum sampling experiments.
 
+
+
+## Related
+- [[exact-moments-of-gaussian-gram-hafnians-reveal-an-n2log-n-th|Exact Moments of Gaussian Gram Hafnians Reveal an n^2/log n Threshold for Weak Anticoncentration]]
+- [[exact-stiffness-and-dynamical-responses-from-fock-space-frag|Exact Stiffness and Dynamical Responses from Fock-Space Fragmentation]]
+- [[phase-space-methods-for-many-body-quantum-optics|Phase-Space Methods for Many-Body Quantum Optics]]
+
 **Source:** [arXiv quant-ph](https://arxiv.org/abs/2608.31089) | 2026-09-01
