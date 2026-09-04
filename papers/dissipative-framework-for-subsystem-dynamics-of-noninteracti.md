@@ -14,4 +14,12 @@ stale: false
 
 arXiv:2608.21336v1 Announce Type: new Abstract: When only local observables of a many-body quantum system are of interest, it is desirable to formulate a reduced description within the Hilbert space of the corresponding subsystem, with the remaining degrees of freedom traced out and acting as an environment. Assuming initially uncorrelated states and Gaussian environments, we develop a framework for reconstructing the local dynamical generator of noninteracting quantum chains, with polynomial computational complexity. As an application, we consider two representative models: a bipartitioned Kitaev chain and a Kitaev chain boundary-coupled to a fully connected free-fermion environment. In both models, strong subsystem-environment coupling leads to non-Markovian dynamics characterized by ballistic spreading of the Lindblad dissipator support within the subsystem. On the other hand, weak coupling to a fully connected environment yields predominantly boundary-localized, Markovian dissipation. Our work highlights the implications of subsystem-environment correlations on the generator of local dynamics, beyond the conventional weak-coupling approximations.
 
+
+
+## Related
+- [[a-single-spin-switches-the-steady-state-phase-of-an-open-qua|A Single Spin Switches the Steady-State Phase of an Open Quantum System]]
+- [[langevin-theory-of-non-markovian-quantum-dynamics-applicatio|Langevin Theory of Non-Markovian Quantum Dynamics: Application to Delayed Coherent Feedback and the Laser Linewidth]]
+- [[information-transport-and-transport-induced-entanglement-in-|Information transport and transport-induced entanglement in open fermion chains]]
+- [[tensor-network-methods-for-non-perturbative-dynamics-of-open|Tensor network methods for non-perturbative dynamics of open quantum systems]]
+
 **Source:** [arXiv quant-ph](https://arxiv.org/abs/2608.21336) | 2026-08-24
