@@ -1,0 +1,17 @@
+---
+title: "PsiQuantum and Brookhaven National Lab Partner to Develop Fault-Tolerant Algorithms on Construct Platform - Quantum Computing Report"
+date: "2026-09-02"
+updated: "2026-09-04"
+source: "agent"
+category: "error-correction"
+tags: [error-correction, google-news--error-correction]
+url: "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNTmo1NmJDMlczMktQSnhWcXRYZGVJRHQ3bXQxWkQtM193ZXlWanlna2V2UWdoOGJnX04wZm52RHplNlVNM2FBdkVWS2podVAzZHE1eTY2TVZ4SVZJbWJVVlZuWDcxcV91bTdqalFVc1VIWmZSM3JRWXk1OV9lSFltYlhwZjdEQUFQTTcxQ3B2VVR1cmIyVktOLVVvbkFGNlFoX2dTeV9FTnVwVW5NR28xanJxVktBclFVZkJES2dMa0N6N0hHXzlqSW9kUjNrV1ZCR2ZsRUpfM0nSAd4BQVVfeXFMUFUyRzlCeXlDTjFPbE9yOWlYZ090T3NnakYyQm1Jc3dKSHhTaXdrUnpjdnJ3aEhiclFBUExMN0VodTJFMUY2UGsxUU92NU50MWVyc0lKc3hNX3pZM3BrMUM4SS1JSGFCX3JoR3cwY1JyMUlTemM3SUxHTG1vaGt0QlFHZnRWX0tVR2lzSFY5TlZ1WXE2Y0gwOGVteVo1ajFCYko3aFo0V1J0TjhyOGI1YWwwV0lxb2VVUk45dWRYSkdhd0w3MWtvS3J1N2ZWdFF1dXV4TjR6MC1ieEJKRi1R?oc=5"
+summary: "The article reports that PsiQuantum has partnered with Brookhaven National Laboratory to develop fault‑tolerant quantum algorithms using the Construct platform. Details on the collaboration’s objectiv"
+last_verified: "2026-09-04"
+review_by: "2026-12-03"
+stale: false
+---
+
+The article reports that PsiQuantum has partnered with Brookhaven National Laboratory to develop fault‑tolerant quantum algorithms using the Construct platform. Details on the collaboration’s objectives, scope, and timelines are not provided in the text. The piece appears to focus on the partnership announcement rather than technical specifics.
+
+**Source:** [Google News: error correction](https://news.google.com/rss/articles/CBMi2AFBVV95cUxNTmo1NmJDMlczMktQSnhWcXRYZGVJRHQ3bXQxWkQtM193ZXlWanlna2V2UWdoOGJnX04wZm52RHplNlVNM2FBdkVWS2podVAzZHE1eTY2TVZ4SVZJbWJVVlZuWDcxcV91bTdqalFVc1VIWmZSM3JRWXk1OV9lSFltYlhwZjdEQUFQTTcxQ3B2VVR1cmIyVktOLVVvbkFGNlFoX2dTeV9FTnVwVW5NR28xanJxVktBclFVZkJES2dMa0N6N0hHXzlqSW9kUjNrV1ZCR2ZsRUpfM0nSAd4BQVVfeXFMUFUyRzlCeXlDTjFPbE9yOWlYZ090T3NnakYyQm1Jc3dKSHhTaXdrUnpjdnJ3aEhiclFBUExMN0VodTJFMUY2UGsxUU92NU50MWVyc0lKc3hNX3pZM3BrMUM4SS1JSGFCX3JoR3cwY1JyMUlTemM3SUxHTG1vaGt0QlFHZnRWX0tVR2lzSFY5TlZ1WXE2Y0gwOGVteVo1ajFCYko3aFo0V1J0TjhyOGI1YWwwV0lxb2VVUk45dWRYSkdhd0w3MWtvS3J1N2ZWdFF1dXV4TjR6MC1ieEJKRi1R?oc=5) | 2026-09-02
