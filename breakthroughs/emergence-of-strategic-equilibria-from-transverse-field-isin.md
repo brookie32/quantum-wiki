@@ -14,4 +14,11 @@ stale: false
 
 arXiv:2608.29926v1 Announce Type: new Abstract: Game theory studies strategic decision-making among rational agents, and many classical games can be mapped onto interaction models such as the Ising model. Quantum game theory extends this framework by allowing players to exploit quantum superposition and entanglement. In this work, we study quantum games using an operator-based formulation derived from the transverse-field quantum Ising model. We show that the Hamiltonian-driven dynamics naturally generate entangling operator which resolve the dilemma in the game settings. This leads to a clear quantum advantage over classical outcomes. Unlike standard quantization schemes based on fixed entangling gates, the present approach enables tunable entanglement, controlled directly by physical Hamiltonian parameters, providing a hardware-relevant perspective on quantum game design.
 
+
+
+## Related
+- [[game-set-quantum-parameterized-quantum-circuit-for-correlate|Game, Set, Quantum: Parameterized Quantum Circuit for Correlated Equilibrium in Bayesian Games]]
+- [[optimal-and-approximately-optimal-quantum-strategies-for-xor|Optimal, and approximately optimal, quantum strategies for XOR^{*} and FFL games]]
+- [[numerical-simulation-of-d-waves-quantum-advantage-experiment|Numerical simulation of D-Wave's quantum advantage experiment with time-dependent variational Monte Carlo]]
+
 **Source:** [arXiv quant-ph](https://arxiv.org/abs/2608.29926) | 2026-09-01
