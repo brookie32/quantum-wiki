@@ -1,0 +1,17 @@
+---
+title: "Nuclear quantum effects in the thermal conductivity of solid hydrogen"
+date: "2026-09-07"
+updated: "2026-09-07"
+source: "agent"
+category: "papers"
+tags: [papers, arxiv-physics-chem-ph]
+url: "https://arxiv.org/abs/2609.04955"
+summary: "arXiv:2609.04955v1 Announce Type: cross Abstract: We use a combination of path integral and lattice dynamics methods to calculate the thermal conductivity of solid parahydrogen. Path integral molecula"
+last_verified: "2026-09-07"
+review_by: "2026-12-06"
+stale: false
+---
+
+arXiv:2609.04955v1 Announce Type: cross Abstract: We use a combination of path integral and lattice dynamics methods to calculate the thermal conductivity of solid parahydrogen. Path integral molecular dynamics is first used to calculate a centroid potential of mean force at each temperature, on which a harmonic phonon basis is constructed using the finite displacement method. We then calculate anharmonic force constants on the centroid potential and solve the linearised phonon Boltzmann transport equation for the thermal conductivity. The resulting renormalised phonon dispersion curves, heat capacity, and thermal conductivity are all in remarkably good agreement with experimental measurements. We find that the heat transport is dominated by collective relaxon modes at low temperatures and cannot be captured by making the phonon relaxation time approximation. Indeed, quantitative agreement with the experimental thermal conductivity is only achieved when the nuclear quantum effects in the centroid potential of mean force, phonon boundary scattering, and hydrodynamic transport are all explicitly considered. This is also likely to be the case for other quantum crystals.
+
+**Source:** [arXiv physics.chem-ph](https://arxiv.org/abs/2609.04955) | 2026-09-07

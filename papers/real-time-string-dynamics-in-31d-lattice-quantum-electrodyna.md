@@ -14,4 +14,12 @@ stale: false
 
 arXiv:2609.04114v1 Announce Type: cross Abstract: Understanding real-time string dynamics in three spatial dimensions is essential for connecting quantum simulations of lattice gauge theories (LGTs) to the physical dimensionality of QED and QCD, where transverse fluctuations and competing local processes proliferate. We present the first real-time simulations of string breaking in 3+1D lattice quantum electrodynamics. Using tree tensor networks, we simulate the quench dynamics of electric flux strings in a 3!+!1D U(1) LGT with dynamical matter. At strong coupling, the string breaks resonantly at a sharp resonance condition of mass and gauge couplings, converting electric energy into matter--antimatter pairs that screen the static charges. Off resonance, we classify all competing channels---pair production, string deformations and extensions, and flux loops---whose multiplicity, extensive for pair production and flux loops, depletes the string sector even far from resonance. A channel-resolved perturbation theory quantitatively reproduces these dynamics and their Fourier spectrum. Our results establish diagnostics and benchmarks for upcoming quantum simulators of higher-dimensional LGTs.
 
+
+
+## Related
+- [[pulling-strings-in-real-time-flux-tube-dynamics-in-21-d-z2-h|Pulling strings in real time: flux tube dynamics in (2+1)-d Z_2-Higgs Gauge Theories]]
+- [[confinement-and-string-breaking-in-the-compact-abelian-higgs|Confinement and String Breaking in the Compact Abelian Higgs Model]]
+- [[efficient-quantum-simulations-of-yang-mills-theory-with-maxi|Efficient Quantum Simulations of Yang-Mills theory with Maximal-tree Gauge]]
+- [[the-halo-engine-o1-step-compilation-and-localized-string-rup|The HALO Engine: O(1)-Step Compilation and Localized String Rupture for Lattice Gauge Theories on Quantum Hardware]]
+
 **Source:** [arXiv quant-ph](https://arxiv.org/abs/2609.04114) | 2026-09-04

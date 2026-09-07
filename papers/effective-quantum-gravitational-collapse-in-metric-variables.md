@@ -14,4 +14,12 @@ stale: false
 
 arXiv:2505.07517v3 Announce Type: replace-cross Abstract: We study, using the metric variables, how an effective theory for the Oppenheimer-Snyder gravitational collapse can be built with the ar{mu} scheme from Loop Quantum Gravity (LQG). The collapse is analyzed for both the flat and spherical models. In both scenarios the effective theory make possible to avoid the formation of the singularity. The source of this is found in the presence of a negative pressure term inside the stress-energy tensor of the gravitational field. This pressure is analyzed and is concluded that the effective polymer model is the reason why the negative pressure appears. A characterization of the solutions for both models is also carried out, showing that the collapse is altered and avoided in favor of a transition from a black hole state to a white hole one, transition that occurs when the collapse has reached a Planckian regime.
 
+
+
+## Related
+- [[super-heisenberg-protocol-for-dark-matter-and-high-frequency|Super-Heisenberg protocol for dark matter and high-frequency gravitational wave search]]
+- [[probing-stringy-horizons-with-pole-skipping-in-non-maximal-c|Probing Stringy Horizons with Pole-Skipping in Non-Maximal Chaotic Systems]]
+- [[on-the-stabilizer-complexity-of-hawking-radiation|On the stabilizer complexity of Hawking radiation]]
+- [[emergence-of-gravity-from-quantum-field-theory-in-triangulat|Emergence of gravity from quantum field theory in triangulated spacetime and the QFT vector model]]
+
 **Source:** [arXiv quant-ph](https://arxiv.org/abs/2505.07517) | 2026-08-28

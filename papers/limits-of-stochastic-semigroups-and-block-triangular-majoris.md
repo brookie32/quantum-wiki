@@ -14,4 +14,11 @@ stale: false
 
 arXiv:2609.04057v1 Announce Type: cross Abstract: We investigate limits of semigroups of stochastic matrices defined by their invariant distribution. Given probability vectors gamma(eta) depending on a parameter eta, we introduce a notion of convergence as etaoinfty for the corresponding semigroups of gamma(eta)-preserving stochastic matrices and investigate the structure of the resulting limit. In general, the limiting semigroup differs from the semigroup preserving the limiting distribution, showing that these two operations do not commute. We develop a general framework for such limiting semigroups and study in detail the case in which the invariant distributions are Gibbs vectors at the inverse temperature eta. We show that the limiting semigroup consists of block-upper-triangular stochastic matrices subject to additional substochasticity constraints. We characterise and enumerate their extremal elements and determine the preorder on probability vectors induced by the action of the semigroup. The resulting notion of Block-Triangular majorisation interpolates between ordinary majorisation and upper triangular (aka unordered) majorisation. We show that it is completely characterised by a finite family of monotones and analyse the corresponding behaviour of Renyi alpha-entropies as etaoinfty.
 
+
+
+## Related
+- [[accelerating-atom-simulations-with-variable-block-sparse-mat|Accelerating Atom Simulations with Variable-Block Sparse Matrix Library]]
+- [[criteria-for-feasible-monte-carlo-stochastic-simulations-of-|Criteria for Feasible Monte Carlo Stochastic Simulations of Bosonic Markovian Open Quantum Dynamics]]
+- [[probability-curvature-and-spectrum-on-graphs|Probability, Curvature and Spectrum on Graphs]]
+
 **Source:** [arXiv quant-ph](https://arxiv.org/abs/2609.04057) | 2026-09-04

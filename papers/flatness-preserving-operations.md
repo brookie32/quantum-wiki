@@ -14,4 +14,11 @@ stale: false
 
 arXiv:2608.30697v1 Announce Type: new Abstract: A quantum state is called flat if it is proportional to a projector. There has been recent interest in studying antiflatness, the property of diverging from flat states, and establishing a resource theory for it. Identifying the free operations (the Flatness-Preserving Operations (FPOs)) remained an open problem. For this purpose, we first discuss Orthogonality-Preserving Operations (OPOs), of which trivial examples are unitary operations in an isolated system. More generally, we give a simple proof that all OPOs are isometric embeddings consisting of combinations of unitaries/isometries and appending a fixed state. We then show that all FPOs are either constant maps to some fixed flat state or a special case of an OPO, where the appended fixed state must be a flat state. We also show that the only possible flat convex combinations of flat states are those of orthogonal flat states with weights given by their purities.
 
+
+
+## Related
+- [[phase-preserving-steady-state-operations-beyond-lindblad|Phase-preserving steady-state operations beyond Lindblad]]
+- [[tracking-real-space-quantum-state-breathing-through-floquet-|Tracking real-space quantum state breathing through Floquet-projector geometry]]
+- [[quantum-state-projectors-on-grassmannian-geometry-holonomy-a|Quantum-State Projectors on Grassmannian: Geometry, Holonomy, and Topology]]
+
 **Source:** [arXiv quant-ph](https://arxiv.org/abs/2608.30697) | 2026-09-01

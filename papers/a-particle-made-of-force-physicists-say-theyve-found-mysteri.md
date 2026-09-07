@@ -15,4 +15,9 @@ stale: false
 Physicists at the BESIII collaboration in China report strong evidence that the X(2370) particle, first observed in 2011, is predominantly a glueball—a bound state of gluons.  
 This finding would confirm that gluons can self‑interact, as predicted by quantum chromodynamics, and provide new insight into how mass arises from the strong force.
 
+
+
+## Related
+- [[antimatter-tag-used-to-detect-elusive-particle-decay|Antimatter ‘tag’ used to detect elusive particle decay]]
+
 **Source:** [Nature: Quantum Physics](https://www.nature.com/articles/d41586-026-02498-1) | 2026-08-12
