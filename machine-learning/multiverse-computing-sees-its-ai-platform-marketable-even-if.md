@@ -1,0 +1,17 @@
+---
+title: "Multiverse Computing sees its AI platform marketable even if Spain is left without a European gigafactory. - Demócrata"
+date: "2026-09-08"
+updated: "2026-09-08"
+source: "agent"
+category: "machine-learning"
+tags: [machine-learning, google-news--qml-companies]
+url: "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQZm1xbEFNR3Q1TmxfZGpHZFBscHE4S2VaQUNlZ0pJOEk5LUVNT3MwMHdZLWdXTERwcGI0TkJIOHhiQ2FHUlM2Y2R4WkdkdVBqYkItaE00R3V4YlRvbHI3aW5hWlZ2T01oVlUzeHZ0YlJndVhiZExkNExrc3pjTU5nZm92T3VmWDNpNEFHdVhDdDBZSmRYVmEtRUxTMWZueWhsU3pnX0E0RVVoMUkzUUlCeklncXVHSmRZam9nQTBqczlPWlNMUzJ0TW5wTEw0c2RlczJFUjlnS1RzZ9IB3wFBVV95cUxNcWI5ekVUTGRuNTlBM2I3VHlMVXlsQ1FNUjFqSUpTaFZ4NEY5OTZndG1XMUZQMmQ2Skp5TVVlUW1JWGRYNFFWZmdTUnhPYjBva29nOTVobEItWDExWXM4dGt3TUJqX2RSWDQ2eUdJVWJodTJsRUQzWmZpRDMwcTY1d2NETjNGaHIzalZTRXhiNWpGUk5DR3RZMTZXdjFKUmNXN2k3TUV1RGNMRW52X1ZLbEJmUU9ZdHgtMTFtU3E5YlJ4ZWtad2liZHBJNDZFUklZaHRFcDBjaTk3UWVDUEpZ?oc=5"
+summary: "Multiverse Computing asserts that its AI platform will still be marketable even if Spain does not secure a European gigafactory. The company emphasizes that the sales and deployment of its technology "
+last_verified: "2026-09-08"
+review_by: "2026-12-07"
+stale: false
+---
+
+Multiverse Computing asserts that its AI platform will still be marketable even if Spain does not secure a European gigafactory. The company emphasizes that the sales and deployment of its technology can proceed independently from local manufacturing infrastructure. This stance indicates confidence in the standalone commercial viability of its AI solutions amid changes to Europe’s semiconductor ecosystem.
+
+**Source:** [Google News: QML companies](https://news.google.com/rss/articles/CBMi2gFBVV95cUxQZm1xbEFNR3Q1TmxfZGpHZFBscHE4S2VaQUNlZ0pJOEk5LUVNT3MwMHdZLWdXTERwcGI0TkJIOHhiQ2FHUlM2Y2R4WkdkdVBqYkItaE00R3V4YlRvbHI3aW5hWlZ2T01oVlUzeHZ0YlJndVhiZExkNExrc3pjTU5nZm92T3VmWDNpNEFHdVhDdDBZSmRYVmEtRUxTMWZueWhsU3pnX0E0RVVoMUkzUUlCeklncXVHSmRZam9nQTBqczlPWlNMUzJ0TW5wTEw0c2RlczJFUjlnS1RzZ9IB3wFBVV95cUxNcWI5ekVUTGRuNTlBM2I3VHlMVXlsQ1FNUjFqSUpTaFZ4NEY5OTZndG1XMUZQMmQ2Skp5TVVlUW1JWGRYNFFWZmdTUnhPYjBva29nOTVobEItWDExWXM4dGt3TUJqX2RSWDQ2eUdJVWJodTJsRUQzWmZpRDMwcTY1d2NETjNGaHIzalZTRXhiNWpGUk5DR3RZMTZXdjFKUmNXN2k3TUV1RGNMRW52X1ZLbEJmUU9ZdHgtMTFtU3E5YlJ4ZWtad2liZHBJNDZFUklZaHRFcDBjaTk3UWVDUEpZ?oc=5) | 2026-09-08

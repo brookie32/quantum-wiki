@@ -14,4 +14,12 @@ stale: false
 
 arXiv:2609.05379v1 Announce Type: new Abstract: Three-photon states generated via cascaded spontaneous parametric downconversion provide a direct route to multipartite entanglement. However, current implementations require careful spectral matching between successive nonlinear stages, which constrains the choice of downconversion sources. In this work, we show that coincidence-based spectral filtering relaxes this requirement by conditionally tailoring the spectrum of the pump photon entering the second stage. By filtering the herald photon, we conditionally tailor the spectrum of its partner to match the acceptance bandwidth of the secondary nonlinear process, enabling efficient coupling between broadband and narrowband stages without altering the sources themselves. Using an electro-optically gated spectrometer, we directly measure the conditional spectra that govern the cascaded process, allowing us to quantitatively predict the enhancement in second-stage conversion probability per detected herald. We then verify this prediction through photon-triplet measurements, demonstrating improved performance at fixed heralding rates. Our results establish coincidence-based spectral engineering as a practical tool for optimizing cascaded downconversion, particularly in regimes limited by detector saturation or spectral incompatibility.
 
+
+
+## Related
+- [[full-field-mapping-of-spatially-varying-polarization-entangl|Full-field mapping of spatially varying polarization entanglement generated from spontaneous parametric down-conversion]]
+- [[real-space-analysis-of-two-photon-polarization-states-in-typ|Real-Space Analysis of Two-Photon Polarization States in Type-II SPDC for High-Purity Polarization Entanglement]]
+- [[heralded-one--two--and-three-photon-states-from-waveguided-p|Heralded one-, two- and three-photon states from waveguided parametric down-conversion]]
+- [[stability-and-squeezing-of-the-three-photon-degenerate-param|Stability and squeezing of the three-photon degenerate parametric down-conversion]]
+
 **Source:** [arXiv quant-ph](https://arxiv.org/abs/2609.05379) | 2026-09-07
