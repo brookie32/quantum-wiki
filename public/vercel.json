@@ -3,7 +3,6 @@
   "version": 2,
   "cleanUrls": true,
   "trailingSlash": false,
-  "git": { "deploymentEnabled": { "main": false } },
   "headers": [
     {
       "source": "/index.html",
