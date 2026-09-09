@@ -1,61 +1,55 @@
 ---
 title: "Synthesis: Error-Correction"
-date: "2026-08-02"
-updated: "2026-08-02"
+date: "2026-09-09"
+updated: "2026-09-09"
 source: "agent"
 category: "syntheses"
 tags: [synthesis, error-correction, auto-generated]
 url: ""
-summary: "Auto-generated synthesis of 104 entries about error-correction"
-last_verified: "2026-08-02"
-review_by: "2026-08-02"
+summary: "Auto-generated synthesis of 361 entries about error-correction"
+last_verified: "2026-09-09"
+review_by: "2026-09-09"
 stale: false
 ---
 
 # Error-Correction: Knowledge Wiki Overview
 
 ## Current State
-Quantum error correction (QEC) is rapidly maturing from theoretical framework to practical implementation, with major hardware and software breakthroughs enabling fault-tolerant quantum computing at increasing scale. Leading technology companies and research institutions are achieving significant milestones in reducing error rates and developing more efficient decoding algorithms. The field sits at an inflection point where AI-assisted methods and novel code architectures are converging to make fault-tolerant quantum systems increasingly viable.
-
----
+Quantum error correction (QEC) is rapidly transitioning from theoretical framework to practical engineering challenge, with major advances in code design, decoding speed, and hardware integration. The field is converging on scalable architectures that must balance error suppression with real-time computational overhead. Fault-tolerant quantum computing now appears achievable, but resource costs and decoder latency remain critical bottlenecks.
 
 ## Key Developments
-- **IBM** reported a 10x reduction in quantum error rates, enabling a commercially relevant task completed in 15 minutes
-- **Google** applied AI reinforcement learning techniques to quantum error correction, representing a new paradigm for autonomous error management
-- Researchers achieved quantum data decoding with an error probability of **one in ten million** at 8.5% noise levels
-- New **pair-partition constructions** for quantum LDPC codes offer improved code efficiency and structure
-- **Neural belief-matching decoding** is advancing topological QEC code performance
-- Tensor network methods are being developed to characterize and mitigate **readout errors** in near-term devices
-- Theoretical connections between QEC and **emergent gravity/holography** continue to deepen
-
----
+- **Hierarchical QEC schemes** concatenating hypergraph product codes with rotated surface codes are improving logical error suppression at scale
+- **Real-time megahertz-scale decoding** demonstrated, a critical threshold for practical fault-tolerant operation
+- **AI/reinforcement learning integration** (notably Google's approach) is being applied to optimize decoding strategies dynamically
+- **Quantum LDPC codes**, including CPM-based and pair-partition constructions, are reducing physical qubit overhead compared to surface codes
+- **Error rates of one-in-ten-million** achieved at 8.5% noise levels, demonstrating robust decoder performance
+- **IBM** reported a 10× reduction in error rates on commercial hardware, completing hard computational tasks in ~15 minutes
+- **SAT solver-based code design** emerging as a physics-informed, hardware-aware approach to code construction
+- **Graph state generation** in linear optics advancing as a resource for QEC-compatible quantum information processing
 
 ## Key Players
-- **IBM, Google** (hardware + error rate reduction)
-- **Infleqtion** (neutral-atom fault-tolerant deployment)
-- **Alpha Labs / Quantum Source** (hybrid photon-atom architectures)
-- **Rice University, Hanyang University** (academic QEC research)
-- **U.S. Department of Energy Quantum Science Center** (institutional funding & coordination)
-
----
+- **Google** (AI-driven decoding, surface code research)
+- **IBM** (hardware error rate reduction, fault-tolerant architecture)
+- **D-Wave** (efficiency improvements in QEC implementation)
+- **Microsoft, academic groups** (LDPC code theory, resource estimation)
 
 ## Outlook
-QEC is moving toward physical hardware deployment, with neutral-atom and photonic platforms competing alongside superconducting qubits. AI-driven decoders and improved code constructions will accelerate the threshold toward practical fault tolerance, likely yielding demonstration-scale fault-tolerant systems within the next few years.
+The near-term focus will shift toward **utility-scale architectures** where decoder latency directly limits clock speed. Expect tighter co-design between error-correcting codes, classical decoding hardware, and AI optimization — moving QEC from laboratory milestones toward production-grade fault-tolerant systems within the next few years.
 
 ## Source Entries
 
+- [[hierarchical-quantum-error-correction-with-hypergraph-produc|Hierarchical Quantum Error Correction with Hypergraph Product Code and Rotated Surface Code]]
+- [[our-teammin-ye-andrii-maksymov-and-nicolas-delfosse-nicdelfo|Our team—Min Ye, Andrii Maksymov, and Nicolas Delfosse @nic_delfosse—has built the first large scale decoder, which shows real-time decoding…]]
+- [[efficient-graph-state-generation-in-linear-optics|Efficient Graph State Generation in Linear Optics]]
 - [[pair-partition-constructions-for-cpm-based-quantum-ldpc-code|Pair-Partition Constructions for CPM-Based Quantum LDPC Codes]]
 - [[google-uses-ai-reinforcement-learning-for-quantum-error-corr|Google Uses AI Reinforcement Learning For Quantum Error Correction - The Next Platform]]
 - [[researchers-decode-quantum-data-with-error-rate-of-one-in-te|Researchers Decode Quantum Data With Error Rate Of One In Ten Million At 8.5% Noise - Quantum Zeitgeist]]
+- [[researchers-limit-decoder-costs-for-faster-fault-tolerant-co|Researchers Limit Decoder Costs For Faster Fault-Tolerant Computation - Quantum Zeitgeist]]
+- [[d-wave-making-quantum-error-correction-more-efficient---yout|D-Wave: Making Quantum Error Correction More Efficient - YouTube]]
+- [[resource-estimation-for-fault-tolerant-quantum-programs|Resource Estimation for Fault-Tolerant Quantum Programs]]
 - [[quantum-information-decoupling-beyond-finite-dimensions|Quantum Information Decoupling Beyond Finite Dimensions]]
+- [[alphaclifford-efficient-clifford-synthesis-and-transpilation|AlphaClifford: Efficient Clifford Synthesis and Transpilation with Model-based RL]]
 - [[from-quantum-error-correction-to-emergent-gravity-probing-ho|From quantum error correction to emergent gravity: Probing holographic universes at QLab]]
+- [[satisfying-quantum-codes-physics-informed-and-hardware-aware|Satisfying Quantum Codes: Physics-Informed and Hardware-Aware Code Design with SAT Solvers]]
 - [[ibm-cuts-quantum-error-rates-10x-as-computer-completes-hard-|IBM cuts quantum error rates 10x as computer completes hard task in 15 minutes - Interesting Engineering]]
-- [[improved-methods-for-determining-quantum-error-correcting-co|Improved Methods for Determining Quantum Error Correcting Code Performance and Fault Tolerance]]
-- [[tensor-network-characterization-and-mitigation-of-readout-er|Tensor network characterization and mitigation of readout errors]]
-- [[finding-diagonal-logical-gates-in-css-codes-and-circuits|Finding diagonal logical gates in CSS codes and circuits]]
-- [[neural-belief-matching-decoding-for-topological-quantum-erro|Neural Belief-Matching Decoding for Topological Quantum Error Correction Codes]]
-- [[rice-joins-department-of-energys-quantum-science-center-to-a|Rice joins Department of Energy’s Quantum Science Center to Advance QEC Research - The Quantum Insider]]
-- [[infleqtion-to-deploy-fault-tolerant-neutral-atom-quantum-com|Infleqtion to Deploy Fault-Tolerant Neutral-Atom Quantum Computer in Illinois - Yahoo Finance]]
-- [[quantum-source-alpha-labs-proposes-hybrid-photon-atom-bluepr|Quantum Source Alpha Labs Proposes Hybrid Photon-Atom Blueprint for Fault-Tolerant Computing - Quantum Computing Report]]
-- [[simulating-the-noisy-quantum-future-new-algorithm-may-unlock|Simulating the noisy quantum future: New algorithm may unlock fault‑tolerant quantum computing - Digital Journal]]
-- [[hanyang-university-team-designs-lattice-patch-architecture-f|Hanyang University Team Designs Lattice-Patch Architecture For Surface-Code Mapping - Quantum Zeitgeist]]
+- [[impacts-of-decoder-latency-on-a-utility-scale-quantum-comput|Impacts of Decoder Latency on a Utility-Scale Quantum Computer Architecture]]
