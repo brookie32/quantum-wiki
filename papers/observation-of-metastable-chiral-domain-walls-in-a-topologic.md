@@ -14,4 +14,12 @@ stale: false
 
 arXiv:2608.06569v1 Announce Type: cross Abstract: The interplay between topology and correlation can give rise to exotic collective excitations. The integer and fractional quantum anomalous Hall (QAH) magnets recently discovered in two-dimensional (2D) flatband systems are predicted to host spin excitations distinct from those in conventional magnets. Experimentally, nevertheless, these new excitations remain largely unexplored. Here we investigate spin-valley excitations in a twisted MoTe2 moire superlattice using resonant ultrafast pump-probe spectroscopy. We observe a metastable spin-valley excitation in the QAH magnet below T ~ 3.7 K that survives reverse magnetic field several times larger than the saturation field. The behavior of this excitation is sharply distinct from ordinary domain walls and magnons, indicating a new type of spin-valley textures unique to topological magnets. We propose that these textures are chiral domain walls with an in-plane winding of the pseudospin order parameter along the domain wall. Their metastability arises from the interplay between the topological winding in real space and the quantum geometry of the parent bands in momentum space through a universal mechanism. These chiral domain walls govern the nonequilibrium dynamics of QAH magnets and may play a central role in their stability. Our study highlights intrinsic quantum geometry effects on spin excitations in topological magnets; and provides key insights into the fundamental mechanism limiting stability of topological protection.
 
+
+
+## Related
+- [[anomalous-topological-phases-in-a-chern-insulator-connected-|Anomalous topological phases in a Chern insulator connected to leads in a cylindrical geometry]]
+- [[interferometric-signatures-of-zero-modes-in-fractional-quant|Interferometric Signatures of Zero Modes in Fractional Quantum Hall-Superconductor Heterostructures]]
+- [[anyon-impurity-bound-states-in-quantum-engineered-fractional|Anyon-Impurity Bound States in Quantum-Engineered Fractional Chern Insulators]]
+- [[controlling-liouvillian-topological-phases-via-hamiltonian-b|Controlling Liouvillian topological phases via Hamiltonian band topology under chiral symmetry]]
+
 **Source:** [arXiv quant-ph](https://arxiv.org/abs/2608.06569) | 2026-08-10

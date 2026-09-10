@@ -14,4 +14,11 @@ stale: false
 
 arXiv:2506.15858v2 Announce Type: replace Abstract: This work demonstrates the tendency of two model PANH isomers to dimerize under pure ambient evaporative conditions and then undergo complex intracluster ion-molecule reactions to produce rich chemistry. Despite the population of such dimers at room temperature is found to be relatively low, they are found to produce observable effects in typical stellar radiation conditions. It is also demonstrated that various types of energetic radiation (UV radiation at 266 nm, synchrotron VUV radiation and high-energy protons) can induce intracluster ion-molecule reactions in the dimers. The existence of such dimers is confirmed via the analysis of the mass-selected photoelectron spectra of various species observed in the mass spectra. The signal from such processes is enhanced by UV multiphoton ionization/dissociation and is analysed using energy-correlated time-of-flight mass spectrometry. These measurements, together with the dependence on laser intensity, disclose the reaction energetics as well as the hierarchy of the decay of the reaction products. The findings of this work on dimer-driven ion-molecular reactions in quinoline and isoquinoline provide an alternative to the path for molecular growth in the astrochemical environment through cluster dynamics, which is otherwise attributed to dust and ice-driven processes.
 
+
+
+## Related
+- [[infrared-spectroscopy-of-cyanonaphthalenes-under-interstella|Infrared Spectroscopy of Cyanonaphthalenes under Interstellar Relevant Conditions and Their Potential Connection with Astronomical Aromatic Infrared Bands]]
+- [[solvent-induced-memory-effects-in-a-model-electrolyte|Solvent-induced memory effects in a model electrolyte]]
+- [[role-of-native-and-zwitterionic-glycine-in-electron-attachme|Role of Native and Zwitterionic Glycine in Electron Attachment to DNA: From Dipole-Bound to Solvent-Bound Doorway States]]
+
 **Source:** [arXiv physics.chem-ph](https://arxiv.org/abs/2506.15858) | 2026-08-26

@@ -14,4 +14,9 @@ stale: false
 
 arXiv:2608.02861v1 Announce Type: cross Abstract: We introduce a non-commutative Laplace transform between functionals on path space and formal series in a tensor algebra, under which a natural convolution of path functionals becomes an algebraic product of series. Applying it to a random unitary matrix-valued path development - the quantum path signature - we show that the governing planar loop equations take a non-commutative spectral form. We then extend the loop equations to a 1/N genus expansion, organised by topological recursion, and obtain a hierarchy of integral equations on path space for the corrections.
 
+
+
+## Related
+- [[path-integral-monte-carlo-on-a-sphere|Path Integral Monte Carlo on a Sphere]]
+
 **Source:** [arXiv quant-ph](https://arxiv.org/abs/2608.02861) | 2026-08-05

@@ -14,4 +14,10 @@ stale: false
 
 Introducing SkyWater Quantum Solutions offerings led by Dr. Mihir Bhaskar, now in the role of Senior Vice President & General Manager, Quantum Technologies, SkyWater. SkyWater Technology Quantum Solutions offers: 🔸 SC250 superconducting platform 🔸 SP90 photonics platform 🔸 A superconducting quantum-development program in partnership with Nobel laureate Dr. John Martinis's Qolab. Watch Mihir Bhaskar share the full view in our livestream today, September 8, at 12:30 PM ET → https://investors.ionq.com/events-and-presentations/default.aspx Read the full announcement → https://www.skywatertechnology.com/skywater-launches-quantum-solutions-offering-to-advance-quantum-technologies-from-breakthrough-to-industrial-scale/ #IonQ #QuantumIsNow #QuantumComputing #256Qubit Media
 
+
+
+## Related
+- [[ionq-and-skywater-technology-are-proud-for-the-first-time-to|IonQ and SkyWater Technology are proud, for the first time, to share our combined full-year financial guidance. Watch @NiccoloDeMasi and Ind…]]
+- [[watch-on-tuesday-where-well-also-hear-from-jordan-shapiro-pr|Watch on Tuesday, where we'll also hear from: 🔸 Jordan Shapiro, President and General Manager, Quantum Platform, IonQ 🔸 Mihir Bhaskar, SVP…]]
+
 **Source:** [IonQ (X)](https://x.com/IonQ_Inc/status/2097308498535334285) | 2026-09-08
