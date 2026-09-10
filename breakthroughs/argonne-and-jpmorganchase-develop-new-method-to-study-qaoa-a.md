@@ -14,4 +14,11 @@ stale: false
 
 Insider Brief PRESS RELEASE — Quantum computers have arisen as a possible solution for highly complex mathematical problems, offering ​“quantum advantage” over classical computers in certain cases. The Quantum Approximate Optimization Algorithm (QAOA) is a leading candidate for realizing this advantage, and some success has been achieved for small problems. But demonstrations on large problems have remained […]
 
+
+
+## Related
+- [[bluequbit-supports-qedma-ibm-and-riken-study-on-error-mitiga|BlueQubit Supports Qedma, IBM and RIKEN Study on Error-Mitigated Quantum Simulation]]
+- [[ibm-and-qedma-demonstrate-error-mitigated-quantum-simulation|IBM and Qedma Demonstrate Error-Mitigated Quantum Simulation Beyond Classical Benchmarks]]
+- [[scientists-propose-more-realistic-benchmarks-for-quantum-alg|Scientists Propose More Realistic Benchmarks For Quantum Algorithms]]
+
 **Source:** [The Quantum Insider](https://thequantuminsider.com/2026/09/03/argonne-jpmorganchase-method-study-qaoa-at-scale/) | 2026-09-03
