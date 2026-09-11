@@ -14,4 +14,11 @@ stale: false
 
 arXiv:2608.16228v1 Announce Type: new Abstract: Light-induced conical intersections (LICIs) create externally tunable pathways for nonadiabatic transitions, enabling active control of molecular photophysical and photochemical processes. However, both the dynamics near multiple LICIs under bichromatic driving and the applicability of our recently developed two-mode Floquet fewest switches surface hopping (two-mode F-FSSH) method to this regime remain insufficiently understood. Here, we construct a minimal three-channel Floquet Hamiltonian supporting two LICIs for Na2 interacting with a bichromatic field. We characterize its static Floquet properties and investigate the associated nonadiabatic dynamics using numerically exact quantum wave-packet dynamics and two-mode F-FSSH. We find that the second photon energy controls the relative positions of the LICIs, whereas the second-field intensity primarily redistributes and broadens the derivative-coupling landscape around the second LICI. Consequently, electronic population transfer and molecular alignment exhibit distinct and often nonmonotonic responses to these two control parameters. Two-mode F-FSSH reliably captures the principal features of the early-time dynamics and provides a semiquantitative description of the post-transient time-averaged observables. These findings advance our understanding of LICI-mediated dynamics at both the physical and methodological levels.
 
+
+
+## Related
+- [[variational-gaussian-wave-packet-dynamics-from-constrained-c|Variational Gaussian Wave-Packet Dynamics from Constrained Classical Trajectory Bundles]]
+- [[analytic-gradients-and-nonadiabatic-couplings-for-device-res|Analytic Gradients and Nonadiabatic Couplings for Device-Resident DMRG-QD-NEVPT2 Through Conical Intersections on a Consumer GPU]]
+- [[nonadiabatic-forward-flux-sampling-of-rare-molecular-gas-pha|Nonadiabatic Forward-Flux Sampling of Rare Molecular Gas-Phase Ammonia Photodissociation]]
+
 **Source:** [arXiv physics.chem-ph](https://arxiv.org/abs/2608.16228) | 2026-08-18

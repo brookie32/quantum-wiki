@@ -14,4 +14,12 @@ stale: false
 
 arXiv:2608.20155v1 Announce Type: new Abstract: What is the relation between subsystem quantum complexity and the emergence of computationally useful structure? We address this by studying a family of minimally tunable postvariational quantum circuits, and show how spectral nonflatness and metrological response directly control the ensemble-typical information processing power. This unveils an intermediate "learning phase" that precedes the onset of quantum chaos, characterized by pronounced nonflatness and sensitivity of readout states. The optimal information processing capacity improves with system size, while deep scrambling suppresses observable response. The results reveal how such features of random quantum dynamics can be viewed as computational resources for scalable nonlinear computation.
 
+
+
+## Related
+- [[on-the-average-case-complexity-of-learning-states-from-the-c|On the average-case complexity of learning states from the circular and Gaussian ensembles]]
+- [[state-diagnostics-of-complexity-in-open-quantum-systems|State Diagnostics of Complexity in Open Quantum Systems]]
+- [[superextensive-learning-in-quantum-reservoirs-at-the-onset-o|Superextensive learning in quantum reservoirs at the onset of information scrambling]]
+- [[analytic-spread-complexity-from-level-statistics-from-chaos-|Analytic Spread Complexity from Level Statistics: From Chaos to Integrability]]
+
 **Source:** [arXiv quant-ph](https://arxiv.org/abs/2608.20155) | 2026-08-21

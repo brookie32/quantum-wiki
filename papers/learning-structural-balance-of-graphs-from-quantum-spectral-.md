@@ -1,0 +1,17 @@
+---
+title: "Learning structural balance of graphs from quantum spectral features"
+date: "2026-09-11"
+updated: "2026-09-11"
+source: "agent"
+category: "papers"
+tags: [papers, arxiv-quant-ph]
+url: "https://arxiv.org/abs/2609.11736"
+summary: "arXiv:2609.11736v1 Announce Type: new Abstract: We develop a quantum approach to spectral feature extraction from the density of states (DOS) of a problem-dependent Hamiltonian, and apply it to machin"
+last_verified: "2026-09-11"
+review_by: "2026-12-10"
+stale: false
+---
+
+arXiv:2609.11736v1 Announce Type: new Abstract: We develop a quantum approach to spectral feature extraction from the density of states (DOS) of a problem-dependent Hamiltonian, and apply it to machine learning on signed graphs. We propose to embed a signed graph as an Ising model instance with positive and negative interactions, and use the standardized moments of the Ising DOS as features for learning. We show that these moments count signed closed walks, are switching-invariant, and are size-free by construction. As a benchmark, we target learning the frustration index, an NP-hard measure of structural balance that can be labeled exactly at moderate size. At zero field, the models can be sampled classically, allowing the quantum extraction procedure to be certified against exact ground truth. We propose DOS-QPE, a phase estimation on a purified maximally mixed probe, which samples the spectral density with orders of magnitude fewer shots than Hadamard test-based trace sampling and feeds the resulting features directly into classically trained models. On 1.4imes10^5 labeled graphs the exact DOS determines the frustration index, and five moments recover it with a mean error of 0.4, well below one sign flip. Beyond zero field, the underlying trace-estimation problem is DQC1-complete, providing access to spectral features for which no efficient classical sampling method is known. Our work opens routes towards quantum applications in social network balance analysis, spin-glass studies, correlation clustering, and protein-interaction networks.
+
+**Source:** [arXiv quant-ph](https://arxiv.org/abs/2609.11736) | 2026-09-11
