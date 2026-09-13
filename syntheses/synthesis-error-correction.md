@@ -1,40 +1,39 @@
 ---
 title: "Synthesis: Error-Correction"
-date: "2026-09-09"
-updated: "2026-09-09"
+date: "2026-09-13"
+updated: "2026-09-13"
 source: "agent"
 category: "syntheses"
 tags: [synthesis, error-correction, auto-generated]
 url: ""
-summary: "Auto-generated synthesis of 361 entries about error-correction"
-last_verified: "2026-09-09"
-review_by: "2026-09-09"
+summary: "Auto-generated synthesis of 401 entries about error-correction"
+last_verified: "2026-09-13"
+review_by: "2026-09-13"
 stale: false
 ---
 
-# Error-Correction: Knowledge Wiki Overview
+# Error-Correction: Knowledge Wiki Synthesis
 
-## Current State
-Quantum error correction (QEC) is rapidly transitioning from theoretical framework to practical engineering challenge, with major advances in code design, decoding speed, and hardware integration. The field is converging on scalable architectures that must balance error suppression with real-time computational overhead. Fault-tolerant quantum computing now appears achievable, but resource costs and decoder latency remain critical bottlenecks.
+## Overview
+Quantum error correction (QEC) is rapidly maturing from theoretical framework to engineering discipline, with researchers achieving landmark milestones such as decoding quantum data at error rates of one in ten million under 8.5% noise conditions. Real-time, large-scale decoders operating at megahertz speeds are now demonstrable, and fault-tolerant computation is transitioning from proof-of-concept to utility-scale architecture design. The field is increasingly shaped by AI-assisted methods, novel code constructions, and hardware-aware tooling.
 
 ## Key Developments
-- **Hierarchical QEC schemes** concatenating hypergraph product codes with rotated surface codes are improving logical error suppression at scale
-- **Real-time megahertz-scale decoding** demonstrated, a critical threshold for practical fault-tolerant operation
-- **AI/reinforcement learning integration** (notably Google's approach) is being applied to optimize decoding strategies dynamically
-- **Quantum LDPC codes**, including CPM-based and pair-partition constructions, are reducing physical qubit overhead compared to surface codes
-- **Error rates of one-in-ten-million** achieved at 8.5% noise levels, demonstrating robust decoder performance
-- **IBM** reported a 10× reduction in error rates on commercial hardware, completing hard computational tasks in ~15 minutes
-- **SAT solver-based code design** emerging as a physics-informed, hardware-aware approach to code construction
-- **Graph state generation** in linear optics advancing as a resource for QEC-compatible quantum information processing
+- **Hierarchical QEC schemes** concatenating hypergraph product codes with rotated surface codes offer improved logical error suppression
+- **Large-scale real-time decoders** achieving megahertz-speed decoding have been demonstrated for the first time
+- **AI/reinforcement learning** (e.g., Google's AlphaClifford, RL-based approaches) is being applied to optimize Clifford synthesis, transpilation, and decoder performance
+- **Quantum LDPC codes** (including CPM-based and pair-partition constructions) are advancing as resource-efficient alternatives to surface codes
+- **Decoder latency** is now recognized as a primary bottleneck in utility-scale fault-tolerant architectures
+- **IBM** reported a 10× reduction in quantum error rates, enabling a hard computational task to be solved in 15 minutes
+- **SAT solvers** and physics-informed methods are enabling hardware-aware QEC code design
+- **Holographic/emergent gravity** connections to QEC are being actively probed experimentally
 
 ## Key Players
-- **Google** (AI-driven decoding, surface code research)
-- **IBM** (hardware error rate reduction, fault-tolerant architecture)
-- **D-Wave** (efficiency improvements in QEC implementation)
-- **Microsoft, academic groups** (LDPC code theory, resource estimation)
+- **IBM, Google, D-Wave, Microsoft**
+- Academic/research teams including **Min Ye, Andrii Maksymov, Nicolas Delfosse**
+- University and national laboratory research groups (QLab and others)
 
 ## Outlook
-The near-term focus will shift toward **utility-scale architectures** where decoder latency directly limits clock speed. Expect tighter co-design between error-correcting codes, classical decoding hardware, and AI optimization — moving QEC from laboratory milestones toward production-grade fault-tolerant systems within the next few years.
+The field is converging on practical fault-tolerant quantum computers, with decoder speed, code efficiency, and resource overhead as the defining engineering challenges. AI-assisted design and LDPC-based codes are expected to dominate next-generation QEC architectures within 3–5 years.
 
 ## Source Entries
 

@@ -14,10 +14,10 @@ stale: false
 
 # All Tools
 
-Auto-generated index of tools extracted from wiki entries. 26 tools with 2+ mentions.
+Auto-generated index of tools extracted from wiki entries. 27 tools with 2+ mentions.
 
 ## PennyLane
-*Mentioned in 18 entries*
+*Mentioned in 20 entries*
 
 - [[catch-the-session-from-100---230-pm-to-learn-how-pennylane-p]]
 - [[check-out-our-latest-blog-about-our-new-perspective-on-qml-h]]
@@ -27,19 +27,20 @@ Auto-generated index of tools extracted from wiki entries. 26 tools with 2+ ment
 - [[her-hands-on-session-train-classical-deploy-quantum-with-pen]]
 - [[ieee-quantum-week-ieeequantumweek-2026-is-right-around-the-c]]
 - [[lockheedmartin-will-explore-quantum-concepts-with-xanaduais-]]
+- [[next-week-the-global-quantum-community-lands-in-toronto-for-]]
 - [[participants-will-learn-how-to-how-to-develop-their-own-quan]]
 - [[pennylane-pennylaneai-powers-research-globally-and-were-exci]]
 - [[ready-to-convert-your-quantum-computing-ideas-into-software-]]
 - [[registration-for-the-qhack-quantum-coding-championship-is-of]]
 - [[researchers-can-now-use-pennylanes-high-performance-lightnin]]
 - [[spots-are-filling-up-for-qre-2026-dont-miss-jay-sonis-talk-a]]
-- [[students-will-get-a-look-at-real-photonic-hardware-and-code-]]
 
 ## Qiskit
-*Mentioned in 14 entries*
+*Mentioned in 15 entries*
 
 - [[chatgpt-solves-all-tested-qiskit-homework-assignments]]
 - [[exploring-observability-options-for-quantum-sdk-workflows-ru]]
+- [[has-anyone-received-their-qiskit-global-summer-school-2026-c]]
 - [[ibm-qiskit-global-summer-school----certs]]
 - [[ibm-qiskit-summer-school-2026-schedule]]
 - [[ibms-benchpress-compiles-qiskit-without-seedtranspiler-i-mea]]
@@ -54,13 +55,15 @@ Auto-generated index of tools extracted from wiki entries. 26 tools with 2+ ment
 - [[why-is-my-qiskit-variational-quantum-regressor-vqr-training-]]
 
 ## QAOA
-*Mentioned in 6 entries*
+*Mentioned in 8 entries*
 
 - [[a-swap-free-framework-for-qaoa]]
 - [[argonne-and-jpmorganchase-develop-new-method-to-study-qaoa-a]]
+- [[certifying-bipartite-entanglement-on-a-superconducting-proce]]
 - [[emergent-problem-graph-alignment-in-rl-discovered-entangleme]]
 - [[imaginarity-as-a-necessary-resource-for-trainability-in-qaoa]]
 - [[m-qam-mimo-maximum-likelihood-detection-with-qaoa-ml-rate-of]]
+- [[saqc-a-sat-aware-compilation-framework-for-qaoa-based-quantu]]
 - [[we-dont-work-on-applications-that-use-qaoa-at-xanaduai-why-o]]
 
 ## Python
@@ -131,6 +134,13 @@ Auto-generated index of tools extracted from wiki entries. 26 tools with 2+ ment
 - [[riverlane-funds-quantum-features-for-open-source-deltakit-to]]
 - [[riverlane-unitary-foundation-launch-deltakit-for-open-source]]
 
+## Monte Carlo
+*Mentioned in 3 entries*
+
+- [[a-reaction-volume-bias-monte-carlo-trial-for-sampling-chemis]]
+- [[modeling-electrolytes-in-nanopores-by-monte-carlo-simulation]]
+- [[simulating-the-open-system-dynamics-of-multiple-exchange-onl]]
+
 ## Luna 8
 *Mentioned in 3 entries*
 
@@ -180,12 +190,6 @@ Auto-generated index of tools extracted from wiki entries. 26 tools with 2+ ment
 - [[qarakal-quantum-unveils-pangaea-architecture-for-modular-qua]]
 - [[qarakal-quantum-unveils-pangaea-modular-architecture-to-cut-]]
 
-## Monte Carlo
-*Mentioned in 2 entries*
-
-- [[a-reaction-volume-bias-monte-carlo-trial-for-sampling-chemis]]
-- [[simulating-the-open-system-dynamics-of-multiple-exchange-onl]]
-
 ## CP2K
 *Mentioned in 2 entries*
 
@@ -215,3 +219,9 @@ Auto-generated index of tools extracted from wiki entries. 26 tools with 2+ ment
 
 - [[sealsq-and-wolfssl-add-wolftpm-support-for-qvault-post-quant]]
 - [[sealsq-integrates-wolftpm-support-into-post-quantum-silicon-]]
+
+## Backline
+*Mentioned in 2 entries*
+
+- [[quantum-is-rarely-ever-just-quantum-so-we-built-backline-int]]
+- [[xanadu-and-amd-launch-open-source-backline-extension-for-pen]]
