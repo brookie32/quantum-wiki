@@ -14,4 +14,11 @@ stale: false
 
 arXiv:2609.01726v1 Announce Type: new Abstract: The interaction of a traveling pulse of quantum light with a localized quantum system shows non-Markovian features when scattering takes place in a structured environment. Here, we devise a non-Markovian input-output theory by coherently coupling the scatterer to a pseudomode, which decays into a Markovian reservoir. This incorporates memory effects of a structured environment without altering the cascaded nature of the Lindblad master equation, whose solution provides the quantum state of the output field of any desired mode. We apply our theory to the stimulated emission by a two-level atom, and to transmission of a Gaussian pulse through a cavity. We observe that the non-Markovian revival of coherence in the scatterer distorts the single-mode nature of the incoming pulse, thus resulting in a multimode output field.
 
+
+
+## Related
+- [[langevin-theory-of-non-markovian-quantum-dynamics-applicatio|Langevin Theory of Non-Markovian Quantum Dynamics: Application to Delayed Coherent Feedback and the Laser Linewidth]]
+- [[matrix-product-state-theory-of-few-photon-squeezed-pulses-in|Matrix Product State Theory of Few-Photon Squeezed Pulses Interacting with a Two-Level Emitter in a Waveguide]]
+- [[tensor-network-methods-for-non-perturbative-dynamics-of-open|Tensor network methods for non-perturbative dynamics of open quantum systems]]
+
 **Source:** [arXiv quant-ph](https://arxiv.org/abs/2609.01726) | 2026-09-03
