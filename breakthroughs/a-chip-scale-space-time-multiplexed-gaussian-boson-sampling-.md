@@ -14,4 +14,12 @@ stale: false
 
 arXiv:2609.11922v1 Announce Type: new Abstract: Gaussian boson sampling (GBS) has emerged as a leading photonic paradigmfor demonstrating quantum computational advantage. Nevertheless, state-ofthe-art GBS setups face practical barriers including stringent optical alignment, phase instability, and limited programmability, which impede scalable engineering deployment. The chip-scale space-time multiplexed architecturepromises to resolve these constraints, yet it strongly demands wafer-scale chipcapabilities to simultaneously satisfy stringent requirements on low loss, highprecision and high-speed modulation. Here we report the first chip-scale spacetime multiplexed GBS system, monolithically integrating high-speed electrooptic modulators, on-chip delay lines, and a time-space multiplexed interferometric network on a thin-film lithium niobate chip, operating at a 4-GHz clockrate with detection events of up to 11,059 photons within 1 millisecond. Beyond benchmarking quantum advantage, we further reconfigure the photonichardware into a GBS-powered world model for modelling physical dynamics,which achieves lower prediction error with fewer trainable readout parameters compared with a classical echo state network (ESN) baseline. Our resultsvalidate the feasibility of our endeavor towards scalable photonic quantumhardware, and pave the way for the versatile programmable applications offuture GBS quantum systems.
 
+
+
+## Related
+- [[proof-of-the-hiding-conjecture-for-gaussian-boson-sampling-w|Proof of the hiding conjecture for Gaussian boson sampling with an arbitrary number of squeezed input modes]]
+- [[input-phase-noise-in-gaussian-boson-sampling|Input phase noise in Gaussian Boson sampling]]
+- [[matrix-product-state-approach-to-lossy-boson-sampling-and-no|Matrix product state approach to lossy boson sampling and noisy IQP sampling]]
+- [[threshold-and-parity-bosonsampling-in-the-linear-mode-regime|Threshold and Parity BosonSampling in the Linear-Mode Regime]]
+
 **Source:** [arXiv quant-ph](https://arxiv.org/abs/2609.11922) | 2026-09-11

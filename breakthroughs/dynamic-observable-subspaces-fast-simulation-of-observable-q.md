@@ -14,4 +14,10 @@ stale: false
 
 arXiv:2609.09806v1 Announce Type: new Abstract: By decomposing quantum dynamics across the Lie orbits of a list of observables, we find polynomial bounded classical simulations for the dynamics of the quantum system given a polynomial sized dynamic Lie algebra (DLA) for the generators of the quantum system. To do so, we describe how to construct the Dynamic Observable Subspace (DOS) that captures all the relevant dynamics for calculating expectation values for a specific observable for Pauli strings, diffusor mixers, and general local generators. Efficient sparse matrix representation, decoupling nonlinearity from such representation and basis construction with permissible pruning allows us to simulate the closed dynamics of such systems with hundreds of qubits. Moreover, we find that while restricted DOS circuits may not express the space of an associated Hamiltonian, they can dramatically outperform a fully expressive circuit due to the absence of the Barren Plateau. While classically simulatable, such circuits can still exhibit a form of quantum advantage through inference, act as warm starting for more expressive circuits, and find high quality trial states for Quantum Amplitude Amplification or Quantum Phase Estimation. In the simulation of quantum dynamics, we find that our restricted circuit can be simulated in polynomial time while producing high quality guiding state for downstream tasks like Quantum Phase Estimation with significantly lower energy than circuits with full expressivity.
 
+
+
+## Related
+- [[bounded-error-quantum-simulation-via-hamiltonian-and-lindbla|Bounded-Error Quantum Simulation via Hamiltonian and Lindbladian Learning]]
+- [[numerical-simulation-of-d-waves-quantum-advantage-experiment|Numerical simulation of D-Wave's quantum advantage experiment with time-dependent variational Monte Carlo]]
+
 **Source:** [arXiv quant-ph](https://arxiv.org/abs/2609.09806) | 2026-09-10
