@@ -14,4 +14,12 @@ stale: false
 
 arXiv:2608.29795v1 Announce Type: cross Abstract: Contrary to the semiclassical expectation for fully chaotic systems, localization of resonances is found to be a common feature in open microcavities. In spiral-shaped dielectric microcavities, a substantial fraction of resonances localize on polygonal patterns in real space, are chiral, and their momentum distributions accumulate near the critical line for total internal reflection. Despite the extensive investigation, the physical mechanism responsible for their remarkable abundance has remained a long-standing question. Addressing this, we reveal a physical correspondence between an inhomogeneous-loss Hatano-Nelson model and the dielectric phase space of a spiral microcavity. We show that the combination of geometry-induced momentum drift and refractive escape yields a generalized non-Hermitian skin effect in the phase space momentum. We identify this mechanism as the origin of the critical-line localization of resonances in open chaotic spiral microcavities, extending the skin-effect concept beyond nonreciprocal lattices to phase space and to open chaotic wave systems.
 
+
+
+## Related
+- [[mechanism-for-scale-free-skin-effect-in-one-dimensional-syst|Mechanism for scale-free skin effect in one-dimensional systems]]
+- [[critical-non-hermitian-skin-effect-and-scale-free-localizati|Critical Non-Hermitian Skin Effect and Scale-Free Localization Morphing in Bilocally Coupled Hatano-Nelson Chains]]
+- [[observation-of-erratic-non-hermitian-skin-effect-in-phononic|Observation of Erratic Non-Hermitian Skin Effect in Phononic Crystals]]
+- [[bulk-spectra-and-the-non-hermitian-skin-effect-in-systems-wi|Bulk spectra and the non-Hermitian skin effect in systems with long-range couplings]]
+
 **Source:** [arXiv quant-ph](https://arxiv.org/abs/2608.29795) | 2026-09-01

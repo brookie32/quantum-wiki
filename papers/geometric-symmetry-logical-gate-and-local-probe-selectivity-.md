@@ -14,4 +14,12 @@ stale: false
 
 arXiv:2608.03861v1 Announce Type: new Abstract: Symmetry-protected topological (SPT) phases provide a platform for encoding quantum information in protected boundary degrees of freedom. Here we study the three-leg Affleck-Kennedy-Lieb-Tasaki (AKLT) ladder as an exactly solvable SPT system with on-site symmetry SO(3)imes Z_2. Using an exact matrix product state construction, we characterize the symmetry action on the edge encoding space and the accessibility of this space by local operators. We find that the continuous SO(3) symmetry induces boundary rotations, while the leg-exchange symmetry generates a geometry-dependent logical permutation of edge qubits. Furthermore, by introducing a distinguishability measure motivated by the Knill--Laflamme condition, we derive a symmetry-resolved decay law for local accessibility. The decay is controlled by a selection rule raised from the Wigner--Eckart theorem, whereby a rank-ell local operator couples only to the mathcal L=ell transfer-matrix sector, with a decay length determined by the corresponding correlation length. We further identify a finite-size channel that is independent of the probe operator position. These results establish a quantitative connection between SPT symmetry, lattice geometry, and the protection of boundary-encoded quantum information.
 
+
+
+## Related
+- [[symmetry-engineered-multiple-bulk-boundary-correspondences-a|Symmetry-Engineered Multiple Bulk-Boundary Correspondences and Anomalous Modes in a Non-Hermitian Creutz Ladder]]
+- [[protected-logical-qudits-in-kitaev-quantum-double-models-via|Protected Logical Qudits in Kitaev Quantum Double Models via Stable Representations]]
+- [[quantum-cellular-automata-and-invertible-phases-of-matter|Quantum cellular automata and invertible phases of matter]]
+- [[remarks-on-invertible-phases-with-non-onsite-symmetry|Remarks on invertible phases with non-onsite symmetry]]
+
 **Source:** [arXiv quant-ph](https://arxiv.org/abs/2608.03861) | 2026-08-05

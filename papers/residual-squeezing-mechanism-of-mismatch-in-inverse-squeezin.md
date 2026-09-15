@@ -14,4 +14,12 @@ stale: false
 
 arXiv:2601.19093v5 Announce Type: replace Abstract: The discrimination of quantum states is fundamental to quantum information processing. Inverse-squeezing Kennedy (IS-Kennedy) receivers can outperform the coherent-state BPSK Helstrom benchmark at the same energy by converting transmitter-side squeezing into an effective coherent-state separation gain, without violating the Helstrom bound for the squeezed-state alphabet. This work investigates how squeezing mismatch degrades this mechanism. We show that imperfect inverse squeezing transforms the ideally nulled output into a residually squeezed state, thereby altering the photon-number statistics before detection. This residual-squeezing picture reveals a strong physical asymmetry between squeezing-magnitude and squeezing-phase mismatches. Magnitude mismatch produces an energy-independent error floor in the high-signal-energy regime, whereas phase mismatch generates a residual squeezing term that grows with signal energy. In the small-residual-squeezing regime, this leads to a polynomial growth of the leading error contribution and a rapid collapse of the SQL advantage. We also identify a parity-step effect in photon-number-resolving detection: because the nulled residual squeezed vacuum contains only even photon numbers, increasing detector resolution improves the high-energy robustness only when the effective saturation threshold crosses the next even photon number. These results identify phase locking as the dominant bottleneck for IS-Kennedy-type non-Gaussian receivers under unitary squeezing mismatch and provide design guidelines for robust squeezed-state quantum receivers.
 
+
+
+## Related
+- [[dynamical-generation-of-stable-optical-microwave-squeezing-i|Dynamical generation of stable optical-microwave squeezing in structured reservoirs]]
+- [[inclusion-minimal-local-indistinguishability-a-weak-form-of-|Inclusion-Minimal local indistinguishability: a weak form of nonlocality]]
+- [[quantum-nonlocality-without-entanglement-and-state-discrimin|Quantum nonlocality without entanglement and state discrimination measures]]
+- [[adaptive-reconstruction-of-bosonic-quantum-states|Adaptive Reconstruction of Bosonic Quantum States]]
+
 **Source:** [arXiv quant-ph](https://arxiv.org/abs/2601.19093) | 2026-08-14

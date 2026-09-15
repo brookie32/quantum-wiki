@@ -1,0 +1,17 @@
+---
+title: "Exchange-Correlation Potentials and Energies from Inverse Generalized Kohn-Sham Calculations"
+date: "2026-09-15"
+updated: "2026-09-15"
+source: "agent"
+category: "papers"
+tags: [papers, arxiv-physics-chem-ph]
+url: "https://arxiv.org/abs/2609.15845"
+summary: "arXiv:2609.15845v1 Announce Type: new Abstract: The Kohn-Sham (KS) formulation of density functional theory (DFT) is a map from the many-electron problem to an effective single-electron problem that i"
+last_verified: "2026-09-15"
+review_by: "2026-12-14"
+stale: false
+---
+
+arXiv:2609.15845v1 Announce Type: new Abstract: The Kohn-Sham (KS) formulation of density functional theory (DFT) is a map from the many-electron problem to an effective single-electron problem that is governed by a local multiplicative potential. The generalized-Kohn-Sham (GKS) formalism extends it to permit any single-electron operator---nonlocal, local non-multiplicative, local multiplicative, or any combination of them. Doing so expands the scope and ease of modeling the exchange-correlation (XC) functional in DFT, which encodes the complicated many-electron interactions into a mean-field of the electron density. However, unlike KS theory, development of XC functionals in GKS theory has been hindered by the absence of corresponding exact XC potentials and energies. We present the exact XC potentials and energies for atoms and molecules by solving the inverse GKS problem, using highly accurate correlated extit{ab initio} densities. Our approach is validated across weakly and strongly correlated systems. We further examine a common, yet untested, assumption that KS and GKS correlation potentials and energies are similar, finding instead that they differ substantially in strongly correlated systems. Overall, this work offers a powerful tool to model next-generation of XC functionals within the GKS formalism of DFT.
+
+**Source:** [arXiv physics.chem-ph](https://arxiv.org/abs/2609.15845) | 2026-09-15
