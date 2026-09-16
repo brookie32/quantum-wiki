@@ -14,4 +14,11 @@ stale: false
 
 arXiv:2609.13496v1 Announce Type: new Abstract: The minimum loss required to reproduce non-Hermitian dynamics depends on how many physical modes each reservoir can address coherently. Established positive-matrix criteria bound this cost. We construct a phase-controlled cubic-root Su-Schrieffer-Heeger chain in which three-mode reservoirs attain the unrestricted passivity threshold throughout its phase diagram and halve the minimum pair-supported loss at a tuned point. The bound constrains exact conditional trajectories, including time-dependent Markov controls, rather than preparation of one final state. A connected-chain protocol tests effective reservoir support through calibrated finite-time emission. Full system-auxiliary propagation then bounds conditional fidelity and target yield for every one-particle input. A coherent controller that accurately prepares the selected endpoint fails this propagator test. A singular-value bound excludes every unitary realization of the same conditional map. These results connect local reservoir access to a measurable loss cost for prescribed dynamics.
 
+
+
+## Related
+- [[disorder-induced-entanglement-phase-transitions-in-non-hermi|Disorder-Induced Entanglement Phase Transitions in Non-Hermitian Systems with Skin Effects]]
+- [[dual-unitary-circuits-as-a-platform-for-quantum-reservoir-co|Dual-unitary Circuits as a Platform for Quantum Reservoir Computing]]
+- [[high-order-splitting-of-non-unitary-operators-on-quantum-com|High-order splitting of non-unitary operators on quantum computers]]
+
 **Source:** [arXiv quant-ph](https://arxiv.org/abs/2609.13496) | 2026-09-15

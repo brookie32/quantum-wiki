@@ -14,4 +14,13 @@ stale: false
 
 arXiv:2606.24705v2 Announce Type: replace Abstract: Exceptional points are degeneracies characteristic of non-Hermitian operators, where eigenvalues and eigenvectors coalesce, rendering the Hamiltonian defective. We investigate the exceptional-point structure and topological properties of a generalized non-Hermitian Rice-Mele model with balanced gain and loss, as well as next-nearest-neighbor hopping. The system hosts only second-order exceptional points under both periodic and open boundary conditions. Under periodic boundary conditions, the exceptional points in parameter space lie on lines and ellipses that are independent of the next-nearest-neighbor hopping, since the latter enters the bulk Hamiltonian only as an identity contribution. Under open boundary conditions, this independence is broken: the next-nearest-neighbor hopping not only shifts the energy of existing exceptional points but also generates new ones, with a specific condition signaling a topological gap closing observed only in the open-boundary spectrum. At special parameter points, multiple simultaneous second-order exceptional points yield degenerate configurations whose degeneracy grows with system size. Exceptional point locations are identified numerically via the condition number of the eigenvector matrix and confirmed by Jordan decomposition. The topological phase diagram, computed via a winding number framework for non-Hermitian systems without symmetry protection, reveals sectors with zero, one, and two edge states; the bulk-boundary correspondence is confirmed, and the non-Hermitian skin effect is absent.
 
+
+
+## Related
+- [[converting-pt-symmetric-topological-classes-by-floquet-engin|Converting PT-Symmetric Topological Classes by Floquet Engineering]]
+- [[topology-and-criticality-in-non-hermitian-multimodal-optical|Topology and criticality in non-Hermitian multimodal optical resonators through engineered losses]]
+- [[exceptional-topology-survives-strong-hermitian-fields-in-rad|Exceptional Topology Survives Strong Hermitian Fields in Radiative Atomic Arrays]]
+- [[exceptional-topological-signatures-of-non-hermitian-photonic|Exceptional Topological Signatures of Non-Hermitian Photonic Hopf-Link Braids]]
+- [[flat-band-and-bulk-boundary-correspondence-in-a-non-hermitia|Flat band and Bulk-Boundary correspondence in a non-Hermitian trimerized lattice model with generic boundary conditions]]
+
 **Source:** [arXiv quant-ph](https://arxiv.org/abs/2606.24705) | 2026-08-11

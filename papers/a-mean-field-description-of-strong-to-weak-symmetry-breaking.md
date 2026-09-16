@@ -14,4 +14,11 @@ stale: false
 
 arXiv:2606.02713v2 Announce Type: replace-cross Abstract: Strong-to-weak spontaneous symmetry breaking has emerged as a novel form of ordering in monitored and open quantum systems, yet its characterization has so far primarily relied on nonlocal diagnostics. Here, we develop a Gutzwiller mean-field framework for monitored bosonic lattice systems, enabling the direct simulation of stochastic measurement dynamics in three spatial dimensions. Applying this approach to the monitored Bose-Hubbard model with local density measurements and Lindbladian dissipation, we identify strong-to-weak symmetry breaking through a trajectory-averaged local order parameter. We find that this local order parameter becomes critical near the critical measurement strength as the charge-sharpening transition. Both transitions exhibit a dynamical exponent z=2 in the dilute limit with a correlation length nusimeq 0.6, comparable to that of the charge-sharpening transition, suggesting that the two phenomena may originate from a common underlying critical point. Our work shows a local characterization of strong-to-weak symmetry breaking, reveals its connection to charge sharpening, and provides concrete predictions for future experiments on the monitored Bose-Hubbard model.
 
+
+
+## Related
+- [[a-local-description-of-strong-symmetries-and-strong-to-weak-|A local description of strong symmetries and strong-to-weak symmetry breaking in quantum many-body systems]]
+- [[engineering-of-non-hermitian-trajectories-and-phase-structur|Engineering of Non-Hermitian Trajectories and Phase Structure in an Open Bose-Hubbard Model via Rate Operator Transformations]]
+- [[universal-speed-limit-in-a-far-from-equilibrium-bose-gas-sym|Universal Speed Limit in a Far-from-Equilibrium Bose Gas: Symmetry and Dynamical Decoherence]]
+
 **Source:** [arXiv quant-ph](https://arxiv.org/abs/2606.02713) | 2026-09-15
