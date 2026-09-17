@@ -14,4 +14,9 @@ stale: false
 
 arXiv:2604.13358v3 Announce Type: replace-cross Abstract: If an operator H anticommutes with a chirality operator Gamma_* such that Gamma_*^2=1, the null space of H can be decomposed in a direct sum of two spaces having positive and negative chiralities, respectively. When both spaces are finite dimensional, one can define an index, Ind(Gamma_*,H), as the difference of dimensions of these two spaces. The key issue is whether Ind(Gamma_*,H) is topologically protected, i.e., whether it remains constant under smooth variations of the parameters and background fields entering H. For Hermitian Dirac operators, topological protection of the index is guaranteed by the Atiyah--Singer theorem. In this paper, by using the heat kernel methods, we show that Ind(Gamma_*,H) is topologically protected also for non-hermitian operators H as long as they are diagonalizable and satisfy some ellipticity conditions. The index is given by a heat kernel coefficient which is an integral of a local expression depending on background fields.
 
+
+
+## Related
+- [[a-nonrecursive-method-for-computing-the-off-diagonal-small-t|A nonrecursive method for computing the off-diagonal small-time heat kernel expansion]]
+
 **Source:** [arXiv quant-ph](https://arxiv.org/abs/2604.13358) | 2026-09-01

@@ -14,4 +14,10 @@ stale: false
 
 arXiv:2608.20520v1 Announce Type: cross Abstract: We theoretically investigate a one-dimensional trimerized Su--Schrieffer--Heeger chain with three sublattices per unit cell subjected to a nonreciprocal Rashba spin-orbit coupling. Invoking a spin-flip symmetry, the non-Hermitian Hamiltonian decomposes into two independent spin sectors, enabling a spin-resolved analysis of non-Hermitian skin effects and system symmetries. We identify a rich phase diagram consisting of four bulk phases and two edge-state phases. The bulk phases include fully PT-unbroken (real-spectrum) and fully anti-PT-unbroken (imaginary-spectrum) regimes, as well as two mixed phases where one band remains on the real or imaginary axis while the other two form complex-conjugate pairs. The two edge-state phases correspond to topological edge modes with either PT-unbroken (real) or anti-PT-unbroken (imaginary) energies. Using non-Bloch band theory and Cardano's method, we derive closed-form expressions for phase boundaries and establish the bulk-edge correspondence for each spin sector. Calculations of Berry phase and directional inverse participation ratios confirm our analytical predictions. Our results provide a minimal platform for realizing spin-resolved non-Hermitian topology and edge-selective symmetry preservation, in which the bulk and edge states belong to distinct symmetry classes.
 
+
+
+## Related
+- [[exact-solutions-of-nonreciprocal-su-schrieffer-heeger-model-|Exact solutions of nonreciprocal Su-Schrieffer-Heeger model with domain walls]]
+- [[flat-band-and-bulk-boundary-correspondence-in-a-non-hermitia|Flat band and Bulk-Boundary correspondence in a non-Hermitian trimerized lattice model with generic boundary conditions]]
+
 **Source:** [arXiv quant-ph](https://arxiv.org/abs/2608.20520) | 2026-08-24
