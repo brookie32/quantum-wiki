@@ -14,4 +14,10 @@ stale: false
 
 arXiv:2608.22664v1 Announce Type: new Abstract: Cooperative emission from three-level ensembles is conventionally diagnosed through the radiated intensity alone, which cannot say which channels carry the photons at each instant. We promote every transition of the cooperative-decay graph into a time-dependent edge flux and show that node-wise conservation of this flux is an exact restatement of the Pauli master equation. Suppose the graph carries a depth function that decreases by one along every edge. Then the total cooperative rate is the descent speed of the mean graph depth, and its energy-weighted form gives the radiated intensity as I(t)=-dlangle Erangle/d t for arbitrary level spacings. The same ordering triangularizes the generator. This delivers the relaxation spectrum from the state exit rates, together with a generalized Bateman closed form for every population on an arbitrary finite directed acyclic graph, in which all exit-rate degeneracies are absorbed into a polynomial-times-exponential recursion.
 
+
+
+## Related
+- [[pulsed-single-photon-magnetometry-with-a-lambda-type-three-l|Pulsed single-photon magnetometry with a Lambda-type three-level system: near-optimal frequency-resolved photon counting]]
+- [[kinetically-constrained-superradiance|Kinetically constrained superradiance]]
+
 **Source:** [arXiv quant-ph](https://arxiv.org/abs/2608.22664) | 2026-08-25
