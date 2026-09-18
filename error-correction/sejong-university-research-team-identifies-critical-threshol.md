@@ -1,0 +1,17 @@
+---
+title: "Sejong University research team identifies critical threshold for quantum error correction - The Korea Times"
+date: "2026-09-18"
+updated: "2026-09-18"
+source: "agent"
+category: "error-correction"
+tags: [error-correction, google-news--error-correction]
+url: "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPRU5DaHRQMVFrQ3A5cDcwdmNpQ0RBd2hEVEVOS2xzZ1FxS2ZXNE9aUE96OVN5RklTYlZueF9WVWdncktHUUZTS1dydmdUbFg3cC1IMi1TQ2d3cTdON0Z6Y1hidDBsYTlwTTFWRzhNN1Yxd3F6aENBcEtqWlowN1JRWFA1NExXRlhoRm1vNzJKWVBobGR2Nkl6Wm9EQnNmNm5CNjY3RTBMZjYwaE9ibHIxMVNlYjdKVFJ3ZnQzUTZ3aHI4c1M1aVgycWdBd216b2dMTEhnRDNMckJZSE1PUVZRNlNNNNIB6AFBVV95cUxQOUhCc0FoUHR5NVlYNHNHeDVtMkZWMThKUWZxTHYyV250N05jUG9ST2xzMlgydDY3QlJrdGh1ZTk1ZkFWczh1ZEUta2FYMjM0MzNwQ1R6OTFVOVBuazZOREFieDNyR0NqSTZ5YjgwNURKRGtjUGZyVndPLWZfTldzZ0lpZEkzQlpicHJnNTk2dnV3R2xVcDRUZFZROFVaZDlyaDFDejRRdnFtbDZuTlRmUXR3dWtKS2sxUU1abWdJeUxURFlLeEpQdlZ5T0VWU2RtYXJsMVM3YVFoSDc5Wk9wSTg3VTB5dDda?oc=5"
+summary: "A research group at Sejong University has pinpointed the precise “threshold” error rate below which a quantum computer can maintain reliable operation using quantum error‑correcting codes. This findin"
+last_verified: "2026-09-18"
+review_by: "2026-12-17"
+stale: false
+---
+
+A research group at Sejong University has pinpointed the precise “threshold” error rate below which a quantum computer can maintain reliable operation using quantum error‑correcting codes. This finding establishes a critical benchmark for designing fault‑tolerant quantum systems and determines how much noise current technologies must suppress to achieve scalable quantum computing. The result represents an important theoretical milestone toward practical, large‑scale quantum devices.
+
+**Source:** [Google News: error correction](https://news.google.com/rss/articles/CBMi4wFBVV95cUxPRU5DaHRQMVFrQ3A5cDcwdmNpQ0RBd2hEVEVOS2xzZ1FxS2ZXNE9aUE96OVN5RklTYlZueF9WVWdncktHUUZTS1dydmdUbFg3cC1IMi1TQ2d3cTdON0Z6Y1hidDBsYTlwTTFWRzhNN1Yxd3F6aENBcEtqWlowN1JRWFA1NExXRlhoRm1vNzJKWVBobGR2Nkl6Wm9EQnNmNm5CNjY3RTBMZjYwaE9ibHIxMVNlYjdKVFJ3ZnQzUTZ3aHI4c1M1aVgycWdBd216b2dMTEhnRDNMckJZSE1PUVZRNlNNNNIB6AFBVV95cUxQOUhCc0FoUHR5NVlYNHNHeDVtMkZWMThKUWZxTHYyV250N05jUG9ST2xzMlgydDY3QlJrdGh1ZTk1ZkFWczh1ZEUta2FYMjM0MzNwQ1R6OTFVOVBuazZOREFieDNyR0NqSTZ5YjgwNURKRGtjUGZyVndPLWZfTldzZ0lpZEkzQlpicHJnNTk2dnV3R2xVcDRUZFZROFVaZDlyaDFDejRRdnFtbDZuTlRmUXR3dWtKS2sxUU1abWdJeUxURFlLeEpQdlZ5T0VWU2RtYXJsMVM3YVFoSDc5Wk9wSTg3VTB5dDda?oc=5) | 2026-09-18

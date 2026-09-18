@@ -14,4 +14,10 @@ stale: false
 
 Researchers have achieved, for the first time, real‑time observation of quantum jumps in sound—discrete transitions between phonon number states within an engineered acoustic cavity. By monitoring the cavity’s output with ultra‑high‑resolution detectors, they captured single‑phonon emission and absorption events, confirming that acoustic modes can be controlled at the quantum level. This milestone opens pathways for hybrid quantum technologies integrating sound waves with other qubit systems for sensing, information processing, and quantum transduction.
 
+
+
+## Related
+- [[sound-waves-do-double-duty-carrying-and-protecting-quantum-i|Sound waves do double duty, carrying and protecting quantum information]]
+- [[researchers-observe-first-real-time-quantum-jump-in-sound|Researchers Observe First Real-Time Quantum Jump in Sound]]
+
 **Source:** [Phys.org Quantum](https://phys.org/news/2026-09-real-quantum.html) | 2026-09-17
