@@ -14,4 +14,9 @@ stale: false
 
 This sort of research is both exciting and terrifying: The two models in question were told to generate complete genomes for a viable bacteriophage—a type of virus able to infect and replicate itself inside bacteria, destroying them from the inside. Using an existing bacteriophage as an example—ΦX174 (pronounced “fie-ex-1-7-4”), known for its ability to infect and destroy E. coli bacteria—the models generated about 700,000 potential designs, of which the researchers picked 285 that looked most promising. The researchers then synthesised new DNA molecules using those designs and inserted them into E. coli bacteria, before waiting to see if viable bacteriophages would emerge...
 
+
+
+## Related
+- [[separating-quantum-circuits-from-classical-llms|Separating quantum circuits from classical LLMs]]
+
 **Source:** [Schneier on Security](https://www.schneier.com/blog/archives/2026/08/ai-is-learning-to-write-genetic-code.html) | 2026-08-21
