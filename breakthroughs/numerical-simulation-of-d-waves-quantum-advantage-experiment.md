@@ -14,4 +14,11 @@ stale: false
 
 arXiv:2609.01719v1 Announce Type: new Abstract: Programmable quantum annealers can realize real-time dynamics of frustrated transverse-field Ising models on large, nontrivial graphs. Recent work by King et al. argued that the classical simulation of such experiments would require exponential computational resources for classical methods such as tensor networks and neural quantum states. Here, we numerically simulate the D-Wave spin-glass annealing protocol with time-dependent variational Monte Carlo (t-VMC) using a correlator state tailored to spin-glass dynamics. For the two-dimensional cylinder, three-dimensional dimer, diamond, and biclique instances considered, at annealing times of 7 and 20 ns, we show that systematically increasing the variational ansatz size enables t-VMC to approximate the final two-spin correlation errors of the quantum processing unit (QPU). We also perform an accurate large-scale simulation of a challenging biclique instance for which no other variational method is known to work, and we find close agreement with the quantum annealer. Through ablation studies, we identify poor Markov-chain mixing, high-variance local-energy estimators, and stochastic Runge-Kutta error estimates as the principal numerical failure modes. We address these numerical issues by using parallel tempering, blurred sampling and an importance-weighted differential equation solver, thereby clarifying the numerical requirements for stable, large-scale t-VMC simulations. Our results extend the frontier of classical simulation while providing a realistic assessment of the computational costs of simulating quantum dynamics at this scale.
 
+
+
+## Related
+- [[emergence-of-strategic-equilibria-from-transverse-field-isin|Emergence of Strategic Equilibria from Transverse Field Ising Hamiltonian Dynamics]]
+- [[quantum-quasi-monte-carlo-a-window-for-pre-asymptotic-quantu|Quantum Quasi-Monte Carlo: a window for pre-asymptotic quantum advantage]]
+- [[locally-optimized-variational-evolution-for-quantum-many-bod|Locally optimized variational evolution for quantum many-body systems]]
+
 **Source:** [arXiv quant-ph](https://arxiv.org/abs/2609.01719) | 2026-09-03
