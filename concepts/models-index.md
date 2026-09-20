@@ -14,15 +14,17 @@ stale: false
 
 # All Models
 
-Auto-generated index of models extracted from wiki entries. 8 models with 2+ mentions.
+Auto-generated index of models extracted from wiki entries. 9 models with 2+ mentions.
 
 ## Claude
-*Mentioned in 4 entries*
+*Mentioned in 6 entries*
 
+- [[are-ais-still-struggling-with-captchas]]
 - [[claude-mythos-has-found-271-zero-days-in-firefox]]
 - [[i-feel-guilty-when-i-ask-claude-to-do-something-i-could-have]]
 - [[some-claude-chats-are-searchable-on-google]]
 - [[today-quera-is-announcing-results-from-our-research-preview-]]
+- [[using-ai-for-weapons-development]]
 
 ## Quasar 438B
 *Mentioned in 4 entries*
@@ -71,3 +73,9 @@ Auto-generated index of models extracted from wiki entries. 8 models with 2+ men
 
 - [[multiverse-computing-reports-all-compactifai-models-now-run-]]
 - [[multiverse-computing-unveils-breakthrough-all-compactifai-mo]]
+
+## Kolmogorov-Arnold Networks
+*Mentioned in 2 entries*
+
+- [[efficient-representation-of-multicategorical-local-hilbert-s]]
+- [[hybrid-quantum-inspired-kolmogorov-arnold-networks-for-priva]]

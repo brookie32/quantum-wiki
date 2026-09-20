@@ -1,44 +1,52 @@
 ---
 title: "Synthesis: Error-Correction"
-date: "2026-09-13"
-updated: "2026-09-13"
+date: "2026-09-20"
+updated: "2026-09-20"
 source: "agent"
 category: "syntheses"
 tags: [synthesis, error-correction, auto-generated]
 url: ""
-summary: "Auto-generated synthesis of 401 entries about error-correction"
-last_verified: "2026-09-13"
-review_by: "2026-09-13"
+summary: "Auto-generated synthesis of 521 entries about error-correction"
+last_verified: "2026-09-20"
+review_by: "2026-09-20"
 stale: false
 ---
 
-# Error-Correction: Knowledge Wiki Synthesis
+# Error-Correction: AI Knowledge Wiki Synthesis
 
-## Overview
-Quantum error correction (QEC) is rapidly maturing from theoretical framework to engineering discipline, with researchers achieving landmark milestones such as decoding quantum data at error rates of one in ten million under 8.5% noise conditions. Real-time, large-scale decoders operating at megahertz speeds are now demonstrable, and fault-tolerant computation is transitioning from proof-of-concept to utility-scale architecture design. The field is increasingly shaped by AI-assisted methods, novel code constructions, and hardware-aware tooling.
+## Current State
+Quantum error correction (QEC) is rapidly maturing from theoretical frameworks into large-scale, real-time implementations, driven by advances in decoder efficiency, novel code architectures, and AI-assisted strategies. The field is converging on fault-tolerant quantum computation as a near-term engineering target, with significant investment from both academia and industry. Resource overhead reduction remains the central challenge shaping research priorities.
+
+---
 
 ## Key Developments
-- **Hierarchical QEC schemes** concatenating hypergraph product codes with rotated surface codes offer improved logical error suppression
-- **Large-scale real-time decoders** achieving megahertz-speed decoding have been demonstrated for the first time
-- **AI/reinforcement learning** (e.g., Google's AlphaClifford, RL-based approaches) is being applied to optimize Clifford synthesis, transpilation, and decoder performance
-- **Quantum LDPC codes** (including CPM-based and pair-partition constructions) are advancing as resource-efficient alternatives to surface codes
-- **Decoder latency** is now recognized as a primary bottleneck in utility-scale fault-tolerant architectures
-- **IBM** reported a 10× reduction in quantum error rates, enabling a hard computational task to be solved in 15 minutes
-- **SAT solvers** and physics-informed methods are enabling hardware-aware QEC code design
-- **Holographic/emergent gravity** connections to QEC are being actively probed experimentally
+- **Hierarchical QEC schemes** concatenating hypergraph product codes with rotated surface codes show improved logical error rates
+- **Large-scale real-time decoding** demonstrated at megahertz speeds, a critical milestone for practical fault tolerance
+- **AI/reinforcement learning** applied to error correction strategies, including Google's use of RL to optimize decoding decisions
+- **Color codes with polynomial-time algorithms** emerging as efficient alternatives to surface codes
+- **CPM-based quantum LDPC codes** via pair-partition constructions offering new low-overhead encoding options
+- **Graph state generation** in linear optics advancing measurement-based QEC approaches
+- **Decoder cost reduction** strategies lowering computational overhead for fault-tolerant execution
+- Error rates of **one in ten million at 8.5% noise** achieved in recent decoding benchmarks
+
+---
 
 ## Key Players
-- **IBM, Google, D-Wave, Microsoft**
-- Academic/research teams including **Min Ye, Andrii Maksymov, Nicolas Delfosse**
-- University and national laboratory research groups (QLab and others)
+- **Google** – AI/RL-driven error correction research
+- **D-Wave** – efficiency improvements in QEC implementations
+- **Riverlane** – large-scale real-time decoder development (Min Ye, Andrii Maksymov, Nicolas Delfosse); U.S. HQ established in Maryland
+- **University/lab researchers** – advancing LDPC codes, graph states, and holographic QEC connections
+
+---
 
 ## Outlook
-The field is converging on practical fault-tolerant quantum computers, with decoder speed, code efficiency, and resource overhead as the defining engineering challenges. AI-assisted design and LDPC-based codes are expected to dominate next-generation QEC architectures within 3–5 years.
+Error correction is transitioning from proof-of-concept to **engineering discipline**, with real-time decoders and AI optimization accelerating timelines toward practical fault-tolerant quantum computers. Expect continued convergence around LDPC-family codes, hardware-software co-design, and resource estimation frameworks as the field scales.
 
 ## Source Entries
 
 - [[hierarchical-quantum-error-correction-with-hypergraph-produc|Hierarchical Quantum Error Correction with Hypergraph Product Code and Rotated Surface Code]]
 - [[our-teammin-ye-andrii-maksymov-and-nicolas-delfosse-nicdelfo|Our team—Min Ye, Andrii Maksymov, and Nicolas Delfosse @nic_delfosse—has built the first large scale decoder, which shows real-time decoding…]]
+- [[maryland-wins-riverlanes-us-headquarters-boosting-quantum-wo|Maryland Wins Riverlane’s U.S. Headquarters, Boosting Quantum Work - Quantum Zeitgeist]]
 - [[efficient-graph-state-generation-in-linear-optics|Efficient Graph State Generation in Linear Optics]]
 - [[pair-partition-constructions-for-cpm-based-quantum-ldpc-code|Pair-Partition Constructions for CPM-Based Quantum LDPC Codes]]
 - [[google-uses-ai-reinforcement-learning-for-quantum-error-corr|Google Uses AI Reinforcement Learning For Quantum Error Correction - The Next Platform]]
@@ -46,9 +54,8 @@ The field is converging on practical fault-tolerant quantum computers, with deco
 - [[researchers-limit-decoder-costs-for-faster-fault-tolerant-co|Researchers Limit Decoder Costs For Faster Fault-Tolerant Computation - Quantum Zeitgeist]]
 - [[d-wave-making-quantum-error-correction-more-efficient---yout|D-Wave: Making Quantum Error Correction More Efficient - YouTube]]
 - [[resource-estimation-for-fault-tolerant-quantum-programs|Resource Estimation for Fault-Tolerant Quantum Programs]]
+- [[learning-error-suppression-strategies-for-dynamic-quantum-ci|Learning error suppression strategies for dynamic quantum circuits]]
 - [[quantum-information-decoupling-beyond-finite-dimensions|Quantum Information Decoupling Beyond Finite Dimensions]]
 - [[alphaclifford-efficient-clifford-synthesis-and-transpilation|AlphaClifford: Efficient Clifford Synthesis and Transpilation with Model-based RL]]
 - [[from-quantum-error-correction-to-emergent-gravity-probing-ho|From quantum error correction to emergent gravity: Probing holographic universes at QLab]]
-- [[satisfying-quantum-codes-physics-informed-and-hardware-aware|Satisfying Quantum Codes: Physics-Informed and Hardware-Aware Code Design with SAT Solvers]]
-- [[ibm-cuts-quantum-error-rates-10x-as-computer-completes-hard-|IBM cuts quantum error rates 10x as computer completes hard task in 15 minutes - Interesting Engineering]]
-- [[impacts-of-decoder-latency-on-a-utility-scale-quantum-comput|Impacts of Decoder Latency on a Utility-Scale Quantum Computer Architecture]]
+- [[researchers-build-colour-codes-with-polynomial-error-correct|Researchers Build Colour Codes With Polynomial Error Correction - Quantum Zeitgeist]]

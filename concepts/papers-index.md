@@ -14,7 +14,7 @@ stale: false
 
 # All Papers
 
-Auto-generated index of papers extracted from wiki entries. 3 papers with 2+ mentions.
+Auto-generated index of papers extracted from wiki entries. 4 papers with 2+ mentions.
 
 ## Gottesman-Kitaev-Preskill
 *Mentioned in 5 entries*
@@ -36,3 +36,9 @@ Auto-generated index of papers extracted from wiki entries. 3 papers with 2+ men
 
 - [[comment-on-scalable-quantum-machine-learning-trainability-ex]]
 - [[scalable-quantum-machine-learning-trainability-expressivity-]]
+
+## Quantum Koopman Algorithms
+*Mentioned in 2 entries*
+
+- [[quantum-koopman-algorithms]]
+- [[what-if-quantum-computers-could-simulate-complex-systems-wit]]

@@ -1,60 +1,60 @@
 ---
 title: "Synthesis: Cryptography"
-date: "2026-09-13"
-updated: "2026-09-13"
+date: "2026-09-20"
+updated: "2026-09-20"
 source: "agent"
 category: "syntheses"
 tags: [synthesis, cryptography, auto-generated]
 url: ""
-summary: "Auto-generated synthesis of 475 entries about cryptography"
-last_verified: "2026-09-13"
-review_by: "2026-09-13"
+summary: "Auto-generated synthesis of 610 entries about cryptography"
+last_verified: "2026-09-20"
+review_by: "2026-09-20"
 stale: false
 ---
 
 # Cryptography: Knowledge Wiki Synthesis
 
-## Current State
-Cryptography is undergoing a critical transition period driven by the dual pressures of quantum computing threats and AI-assisted vulnerabilities. The field spans foundational concerns — from securing public Wi-Fi infrastructure to formalizing cryptographic proofs — while enterprise adoption of post-quantum cryptography is accelerating rapidly. Both theoretical research and practical deployment are advancing simultaneously across government, commercial, and academic sectors.
+## Overview
+Cryptography remains a foundational discipline in digital security, spanning classical encryption, modern protocol design, and the emerging frontier of post-quantum cryptography. The field is under significant pressure from advancing computational capabilities—particularly quantum computing—driving urgent migration efforts across enterprise and government sectors. Research activity spans formal verification, side-channel attacks, lightweight ciphers, and quantum-safe primitives.
 
 ---
 
 ## Key Developments
-- **Post-quantum migration** is surging, with enterprise demand growing 35% YoY as organizations race to replace vulnerable classical cryptographic systems
-- **Quantum cryptography research** is expanding into novel areas including Oblivious Quantum RAM (OQRAM) and quantum CCA-secure public-key encryption
-- **Lightweight/ultra-lightweight ciphers** (e.g., DIZY stream cipher analysis) are under active development for resource-constrained IoT devices
-- **Formal verification** of cryptographic constructions (e.g., KZG polynomial commitments in Isabelle/HOL) is gaining traction for provable security guarantees
-- **End-to-end encryption** is being extended to previously unprotected surfaces, including Git repository hosting (SafeHub)
-- **Real-world attacks** persist, including DNS hijacking on public Wi-Fi to steal credentials
-- **AI coding agents** introduce new supply-chain risks by installing unvetted code on corporate networks
+- **Post-quantum migration** is accelerating, with enterprise demand surging as organizations prepare for quantum-capable adversaries
+- **Side-channel attacks** on standard primitives like SHA-256 and HMAC demonstrate ongoing vulnerabilities beyond algorithmic weaknesses
+- **Quantum cryptography** research is advancing, including Oblivious Quantum RAM (OQRAM) for securing delegated quantum queries
+- **Lightweight ciphers** (e.g., DIZY stream cipher analysis) are being scrutinized as IoT and resource-constrained devices proliferate
+- **Formal verification** of cryptographic constructions—including polynomial commitment schemes—is gaining traction as a rigorous security methodology
+- **DNS-based credential theft** via compromised public Wi-Fi highlights persistent infrastructure-level attack vectors
+- **AI and cryptography** intersect through both offensive use cases and the security of AI-adjacent systems
 
 ---
 
 ## Key Players & Organizations
-- **Keyfactor** — enterprise PKI and post-quantum migration platform
-- **Sitehop** — post-quantum cybersecurity for legacy Five Eyes defense networks
-- **OpenAI / Anthropic** — indirectly relevant via AI-introduced security risks
-- Academic/research community via arXiv preprints driving theoretical advances
+- **NSA** – historical and ongoing role in cryptanalysis and standards
+- **IBM** – historical cryptanalysis hardware; ongoing security research
+- **Keyfactor** – enterprise PKI and post-quantum certificate management ($200M+ ARR)
+- **Academic/research community** – driving formal verification, quantum cryptography, and cipher analysis
 
 ---
 
 ## Outlook
-Post-quantum cryptography standardization will drive widespread enterprise infrastructure overhauls through 2027. Quantum-native primitives (QRAM, quantum-secure protocols) will mature from theory toward prototype deployment. AI's role as both a security threat vector and a cryptanalysis tool will intensify scrutiny across the entire cryptographic stack.
+Post-quantum cryptography standardization will dominate near-term enterprise roadmaps, with compliance and migration timelines tightening. Formal verification methods will become standard practice for high-assurance cryptographic libraries. The intersection of AI and cryptography—both as attack surface and defensive tool—will grow increasingly significant through 2026 and beyond.
 
 ## Source Entries
 
+- [[how-candidates-could-use-ai-for-good|How Candidates Could Use AI for Good]]
 - [[hacking-public-wi-fi-dns-to-steal-credentials|Hacking Public Wi-Fi DNS to Steal Credentials]]
 - [[oqram-oblivious-quantum-random-access-memory-for-securing-de|OQRAM: Oblivious Quantum Random Access Memory for Securing Delegated Quantum Queries]]
+- [[on-the-nsas-supercomputer-from-the-1960s|On the NSA’s Supercomputer from the 1960s]]
 - [[friday-squid-blogging-neon-flying-squid|Friday Squid Blogging: Neon Flying Squid]]
 - [[keyfactor-surpasses-200-million-arr-amid-enterprise-post-qua|Keyfactor Surpasses $200 Million ARR Amid Enterprise Post-Quantum Migration Surge]]
 - [[cryptanalysis-of-the-dizy-stream-cipher-with-provable-securi|Cryptanalysis of the DIZY Stream Cipher with Provable Security]]
+- [[soft-analytical-side-channel-attacks-on-sha-2-and-hmac|Soft Analytical Side-Channel Attacks on SHA-2 and HMAC]]
 - [[efficient-additive-randomized-encodings-for-string-oblivious|Efficient Additive Randomized Encodings for String Oblivious Transfer: A Core Primitive for General Functions]]
 - [[on-the-formal-verification-of-polynomial-commitments-two-kzg|On the Formal Verification of Polynomial Commitments: two KZG constructions and the Algebraic Group Model]]
 - [[chasing-quoccas-in-a-quantum-world-type-2-oracles-for-cca-se|Chasing QuOCCAs in a Quantum World: Type-2 Oracles for CCA-Secure PKE]]
+- [[verification-meets-calibration-bounds-and-secret-independent|Verification Meets Calibration: Bounds and Secret-Independent State Preparation with an NV-Center as a Case Study]]
+- [[one-more-a-sharper-tails-without-scaling|One More A: Sharper Tails Without Scaling]]
 - [[ai-coding-agents-are-installing-unknownuntrusted-code-on-cor|AI Coding Agents Are Installing Unknown/Untrusted Code on Corporate Networks]]
 - [[security-analysis-on-a-secure-medical-data-sharing-system-in|Security Analysis on a Secure Medical Data Sharing System in Digital Twin Environments]]
-- [[copy-protection-with-correlated-challenges-point-functions-a|Copy-Protection with Correlated Challenges: Point Functions and More via Decisional Coset Monogamy]]
-- [[sitehop-launches-dedicated-national-security-unit-to-secure-|Sitehop Launches Dedicated National Security Unit to Secure Legacy Five Eyes Defense Networks]]
-- [[safehub-end-to-end-encrypted-git-hosting-system|SafeHub: End-to-end encrypted Git hosting system]]
-- [[symmetric-locality-as-a-tetrahedron-a-symmetry-reduced-geome|Symmetric Locality as a Tetrahedron: A Symmetry-Reduced Geometric Representation of the (3,3,2,2) Bell Scenario]]
-- [[if-the-markets-reject-openai-and-anthropic-the-us-should-nat|If the Markets Reject OpenAI and Anthropic, the US Should Nationalize Them]]
