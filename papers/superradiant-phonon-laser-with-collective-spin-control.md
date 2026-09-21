@@ -14,4 +14,10 @@ stale: false
 
 The authors present a theoretical study of a hybrid phonon‑resonator coupled to a solid‑state spin ensemble, showing that collective interaction produces phonon superradiance with an exceptionally narrow linewidth that can be tuned by microwave pumping. This regime enhances strong correlations in the system and enables quantum‑sensing protocols capable of picotesla magnetic‑field detection. The mechanism suggests pathways for constructing ultra‑coherent phonon lasers and highly sensitive phononic sensors.
 
+
+
+## Related
+- [[a-room-temperature-cavitymagnonic-source-of-correlated-micro|A room-temperature cavity–magnonic source of correlated microwave magnon polariton pairs]]
+- [[sound-protection-for-electron-spins|Sound protection for electron spins]]
+
 **Source:** [Nature: Quantum Physics](https://www.nature.com/articles/s42005-026-02874-3) | 2026-09-18
