@@ -14,4 +14,12 @@ stale: false
 
 arXiv:2608.30363v1 Announce Type: new Abstract: We introduce a quantum-circuit algorithm for performing imaginary-time evolution on infinite one-dimensional lattice systems. The method uses a parameterized quantum circuit to represent a uniform matrix product state ansatz. We derive the ITE algorithm using the time-dependent variational principle and employ the quantum Lanczos algorithm to improve the ground-state energy estimate. As a benchmark, we simulate the transverse-field Ising model using both classical simulators and IBM Quantum devices. Our analysis includes a statistical study of the distributions of the cost function and energy density obtained from quantum measurements, illustrating the effects of finite-sampling noise on convergence.
 
+
+
+## Related
+- [[imaginary-time-evolution-of-a-quantum-system-through-analyti|Imaginary time evolution of a quantum system through analytic continuation from real-time quantum simulation]]
+- [[scattering-phase-shift-in-quantum-mechanics-on-quantum-compu|Scattering phase shift in quantum mechanics on quantum computers: non-Hermitian systems and imaginary-time simulations]]
+- [[interference-engineering-for-quantum-imaginary-time-evolutio|Interference Engineering for Quantum Imaginary-Time Evolution through Multiple Energy Shifts]]
+- [[iterative-warm-start-optimization-with-quantum-imaginary-tim|Iterative warm-start optimization with quantum imaginary time evolution]]
+
 **Source:** [arXiv quant-ph](https://arxiv.org/abs/2608.30363) | 2026-09-01

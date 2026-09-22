@@ -1,0 +1,17 @@
+---
+title: "SPIBER: Reconstructing Free Energy Landscapes from Short, Unconverged Trajectories with Generative Flow Networks"
+date: "2026-09-22"
+updated: "2026-09-22"
+source: "agent"
+category: "papers"
+tags: [papers, arxiv-physics-chem-ph]
+url: "https://arxiv.org/abs/2609.22663"
+summary: "arXiv:2609.22663v1 Announce Type: new Abstract: Molecular systems have many degrees of freedom, but their metastable behavior can often be described by a few collective variables. Identifying these va"
+last_verified: "2026-09-22"
+review_by: "2026-12-21"
+stale: false
+---
+
+arXiv:2609.22663v1 Announce Type: new Abstract: Molecular systems have many degrees of freedom, but their metastable behavior can often be described by a few collective variables. Identifying these variables and estimating free energies along them from limited simulation data remains a challenging, important problem. Separate short trajectories may sample different metastable states without capturing transitions or establishing their relative equilibrium populations. For unbiased trajectories generated with the same Hamiltonian at a single temperature, alternate methods based on histogram reweighting cannot correct this imbalance. Here we present SPIBER, which combines the State Predictive Information Bottleneck (SPIB) with Generative Flow Networks (GFlowNets). SPIB uses deep learning to approximate slow degrees of freedom through a past-future information bottleneck, retaining information needed to predict future metastable states. We show that this compression limits conditional entropy variations in populated regions, allowing conditional mean potential energies, which are much easier to calculate, to be used to approximate free energy differences. Given sufficient local sampling to estimate these energies, they define the target distribution for GFlowNets, energy-based generative samplers that sample according to estimated thermodynamic stability rather than observed populations. For a particle in a radial double-well potential, for alanine dipeptide, and for the nine-residue peptide AIB9, SPIBER recovers free energy differences between sampled metastable states to within one thermal energy unit of reference values. The method combines collective-variable learning and free energy estimation in up to four latent dimensions, without requiring converged state populations or additional molecular dynamics simulations.
+
+**Source:** [arXiv physics.chem-ph](https://arxiv.org/abs/2609.22663) | 2026-09-22
