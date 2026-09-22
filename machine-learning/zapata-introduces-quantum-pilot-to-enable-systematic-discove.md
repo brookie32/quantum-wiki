@@ -1,0 +1,17 @@
+---
+title: "Zapata Introduces Quantum Pilot™ to Enable Systematic Discovery and Development of High-Value Quantum Applications - The Manila Times"
+date: "2026-09-22"
+updated: "2026-09-22"
+source: "agent"
+category: "machine-learning"
+tags: [machine-learning, google-news--qml-companies]
+url: "https://news.google.com/rss/articles/CBMilgJBVV95cUxQWkJaMkY4WlRBTG1YSDV6am1KeUZlTm1fSkVrUlVXSG9JOXBBOGRlRkFvZVNZTmNvMWdZR1Z6Y1ZhQUd5OERiQ25RT0M2ODc1cmFPZHJ4MXpjM05xSERkMVdXcEZsVGlBWFdKQ0JCQ1BVZlhHOFUwOGxvMkV5SDBfM0gwWXN1djlTYkpSQXJaQ2dIY2ZLYlhtNUlFWWEwTFVZbkpVME92RWJFbnVmajB6VlZneVk4SXBBODhyMWd4NmdoVzJucHJYdnlieHhaTGRqM3NUUkJad1FYNVNOSXZFTV9VYkY4T3dnZkQ1MGhRN21qWmtyQXBKNklMY1laaGxHRWYxV2NxMHFhTlg3bExmXzNaNHZVUdIBmwJBVV95cUxOeWMyb3pkeTlzOF9QUVpsQWpQazEtd1BIcURoakRiSzdLSWVLNEI3Y2RYdlVycFpuMGlXOTEwM2dYRVNLUk5lR2xobF9hOFJxdW1mMW1HRjgxSXN4ZllHR0M4S3N3VmNrWlVUdmN0OTQ4eWVCRnd1RlV0cnpuZTJVeVVLRmhObWYtNWZ2eVZWN2N5Ny1uYUFPbVMyaThQNEVSSkxpai1VdVhOOWtfMTNXb0lxRklYSmFWdFdoOUEtUFFsUFRmYnZVTjItT1R3SG8zbVhiWnRnM09Zc1U0MlIwWVg5emVHd2VCeEZXcXNXWXE1QlBhQWR0cUR5MTdxMF9FYWNBbk84ZDdnZUtOcFl2anUyM1AwSW5YVEtj?oc=5"
+summary: "Zapata announced the launch of its new product, **Quantum Pilot™**, designed to streamline the discovery and development of high‑value quantum applications. The platform provides tools for systematic "
+last_verified: "2026-09-22"
+review_by: "2026-12-21"
+stale: false
+---
+
+Zapata announced the launch of its new product, **Quantum Pilot™**, designed to streamline the discovery and development of high‑value quantum applications. The platform provides tools for systematic exploration of quantum problem spaces, enabling teams to identify and prototype solutions more efficiently. This announcement was reported by *The Manila Times* and highlights Zapata’s commitment to advancing practical quantum technology.
+
+**Source:** [Google News: QML companies](https://news.google.com/rss/articles/CBMilgJBVV95cUxQWkJaMkY4WlRBTG1YSDV6am1KeUZlTm1fSkVrUlVXSG9JOXBBOGRlRkFvZVNZTmNvMWdZR1Z6Y1ZhQUd5OERiQ25RT0M2ODc1cmFPZHJ4MXpjM05xSERkMVdXcEZsVGlBWFdKQ0JCQ1BVZlhHOFUwOGxvMkV5SDBfM0gwWXN1djlTYkpSQXJaQ2dIY2ZLYlhtNUlFWWEwTFVZbkpVME92RWJFbnVmajB6VlZneVk4SXBBODhyMWd4NmdoVzJucHJYdnlieHhaTGRqM3NUUkJad1FYNVNOSXZFTV9VYkY4T3dnZkQ1MGhRN21qWmtyQXBKNklMY1laaGxHRWYxV2NxMHFhTlg3bExmXzNaNHZVUdIBmwJBVV95cUxOeWMyb3pkeTlzOF9QUVpsQWpQazEtd1BIcURoakRiSzdLSWVLNEI3Y2RYdlVycFpuMGlXOTEwM2dYRVNLUk5lR2xobF9hOFJxdW1mMW1HRjgxSXN4ZllHR0M4S3N3VmNrWlVUdmN0OTQ4eWVCRnd1RlV0cnpuZTJVeVVLRmhObWYtNWZ2eVZWN2N5Ny1uYUFPbVMyaThQNEVSSkxpai1VdVhOOWtfMTNXb0lxRklYSmFWdFdoOUEtUFFsUFRmYnZVTjItT1R3SG8zbVhiWnRnM09Zc1U0MlIwWVg5emVHd2VCeEZXcXNXWXE1QlBhQWR0cUR5MTdxMF9FYWNBbk84ZDdnZUtOcFl2anUyM1AwSW5YVEtj?oc=5) | 2026-09-22
