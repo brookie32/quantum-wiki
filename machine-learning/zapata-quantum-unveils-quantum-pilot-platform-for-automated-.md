@@ -1,0 +1,17 @@
+---
+title: "Zapata Quantum Unveils Quantum Pilot Platform for Automated Application Discovery and Resource Estimation - Quantum Computing Report"
+date: "2026-09-23"
+updated: "2026-09-23"
+source: "agent"
+category: "machine-learning"
+tags: [machine-learning, google-news--qml-companies]
+url: "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOci1VYl9vdlZZMWI5eWNDME1EWXhUQmZsSVc2NHI5aEZOUjhYR3RnWFJXcXFSb2pzMlUwdENycURsLXBoWVZHakN2Y0ZTWXhBVWJMMFhjai0xRXF3cFE5alNaaFdfYnpTbkdiMEVQcFRJTTNEVXZvSEFRUXhubEstOEo0Q3dPZms3YWVJT2l0QndHRGNKSlVIOXBVcXdaSTBHWTJIYUk1SURhcmROb2FLMWlfSWtDUHhWQXVsdTVCTGlLTmsxb29MSmJLekF6ZHlmendHNElPbm7SAd4BQVVfeXFMTkE5MEU1N1FKWWRTSFZiSmJzSkR3QW9wTTEyZG5pNGp0LURxQmo3dHVyZEh4cFlEWlFiLUlDZW9Mby04WnV1Q041VGdCZWpENDBKa0hBa0V6NmZnQldTSGdjY2ZzUzRiYlJnN1I0enhDUUFteDNEakNRejVLZzkzTldJRUZNQ1hCdWpEaVZKU28tYW1BZ2oxUDNzNlJaWFg4Tk5obmp3Tm9tTFo0TXBJR0lmbUk0dmRnV0hwOGkyODhwUmM5cXZwN1pVTjRLTDdOeTBfXzRETHFTbGIzLUtn?oc=5"
+summary: "Zapata Quantum announced its new Quantum Pilot platform, a tool that automatically identifies workloads suitable for quantum advantage and estimates the resources needed for their execution. The initi"
+last_verified: "2026-09-23"
+review_by: "2026-12-22"
+stale: false
+---
+
+Zapata Quantum announced its new Quantum Pilot platform, a tool that automatically identifies workloads suitable for quantum advantage and estimates the resources needed for their execution. The initiative is intended to streamline application discovery and accelerate enterprise adoption of quantum solutions. The announcement has been covered in recent global news releases aggregated by Google News.
+
+**Source:** [Google News: QML companies](https://news.google.com/rss/articles/CBMi2AFBVV95cUxOci1VYl9vdlZZMWI5eWNDME1EWXhUQmZsSVc2NHI5aEZOUjhYR3RnWFJXcXFSb2pzMlUwdENycURsLXBoWVZHakN2Y0ZTWXhBVWJMMFhjai0xRXF3cFE5alNaaFdfYnpTbkdiMEVQcFRJTTNEVXZvSEFRUXhubEstOEo0Q3dPZms3YWVJT2l0QndHRGNKSlVIOXBVcXdaSTBHWTJIYUk1SURhcmROb2FLMWlfSWtDUHhWQXVsdTVCTGlLTmsxb29MSmJLekF6ZHlmendHNElPbm7SAd4BQVVfeXFMTkE5MEU1N1FKWWRTSFZiSmJzSkR3QW9wTTEyZG5pNGp0LURxQmo3dHVyZEh4cFlEWlFiLUlDZW9Mby04WnV1Q041VGdCZWpENDBKa0hBa0V6NmZnQldTSGdjY2ZzUzRiYlJnN1I0enhDUUFteDNEakNRejVLZzkzTldJRUZNQ1hCdWpEaVZKU28tYW1BZ2oxUDNzNlJaWFg4Tk5obmp3Tm9tTFo0TXBJR0lmbUk0dmRnV0hwOGkyODhwUmM5cXZwN1pVTjRLTDdOeTBfXzRETHFTbGIzLUtn?oc=5) | 2026-09-23
