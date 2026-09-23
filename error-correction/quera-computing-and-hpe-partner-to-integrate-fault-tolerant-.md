@@ -1,0 +1,19 @@
+---
+title: "QuEra Computing and HPE Partner to Integrate Fault-Tolerant Neutral-Atom QPUs with On-Premises HPE Cray Supercomputers - Quantum Computing Report"
+date: "2026-09-23"
+updated: "2026-09-23"
+source: "agent"
+category: "error-correction"
+tags: [error-correction, google-news--error-correction]
+url: "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQMjlEN09fTnlFUTZiVEdPZnBZeENILXZ0N1p1bjdxRGF5R3BDNlNRajROb0JwcUNxc2lOTkJHa2w3ODZPcUlNbjVVSGEzX2RrYXN0aGZ3VXBHNEpQUFhYekRhQnA2YlRqTmFsX1pqNHZ0TTlCS19nOFBGc2NCUEVsb1psMVNyVC1qeEVSaEFqU2hoODBvdDdnUGVQZ096R194NzRNY3g0UWduRXdVb21zR3JlaVl5dGZ2OS1VRUV6b01uM2lyNERnMWVnZlpwZEd5OVlGTnR0Z2dnZHlFQW5SbUJfbWxZTmVuVlHSAe8BQVVfeXFMUGk5Z1ZVRlRhWFFxTE1qVVBEdjJRT1lRMHRjY3lScjc1a1Y3V2wtcjdlOXFTRTRpYy1GbVNmdkpEbUpZSVZhV1N5Tm9YTm9Mem1BMmJWTXN6cF9LZFRKQkRFTGNzVzBYREJORF9sZklGN2p0bzg2Wk1QczNSdFVQMFNHZXJ0UExqbndwcWJCRWJoNkR6LUhQcVlsbi1JNDlFeWJqU2NTV0FybUlMR3pVVzU2amhVM0o2Ykp4T1FuNjYtLVlIT1hEbFVTT1NUSHQxcXR6NzdtYnVzWGZQUEVpekpkUi12ME14OGM2dW00VkU?oc=5"
+summary: "QuEra Computing has partnered with Hewlett Packard Enterprise (HPE) to embed fault‑tolerant neutral‑atom quantum processing units (QPUs) into HPE’s on‑premises Cray supercomputers. The collaboration e"
+last_verified: "2026-09-23"
+review_by: "2026-12-22"
+stale: false
+---
+
+QuEra Computing has partnered with Hewlett Packard Enterprise (HPE) to embed fault‑tolerant neutral‑atom quantum processing units (QPUs) into HPE’s on‑premises Cray supercomputers. The collaboration enables direct integration of QPUs within high‑performance computing environments, allowing the execution of hybrid classical‑quantum workloads on a unified platform.
+
+This partnership leverages HPE's HPC infrastructure to accelerate quantum algorithm development and deployment at scale.
+
+**Source:** [Google News: error correction](https://news.google.com/rss/articles/CBMi6gFBVV95cUxQMjlEN09fTnlFUTZiVEdPZnBZeENILXZ0N1p1bjdxRGF5R3BDNlNRajROb0JwcUNxc2lOTkJHa2w3ODZPcUlNbjVVSGEzX2RrYXN0aGZ3VXBHNEpQUFhYekRhQnA2YlRqTmFsX1pqNHZ0TTlCS19nOFBGc2NCUEVsb1psMVNyVC1qeEVSaEFqU2hoODBvdDdnUGVQZ096R194NzRNY3g0UWduRXdVb21zR3JlaVl5dGZ2OS1VRUV6b01uM2lyNERnMWVnZlpwZEd5OVlGTnR0Z2dnZHlFQW5SbUJfbWxZTmVuVlHSAe8BQVVfeXFMUGk5Z1ZVRlRhWFFxTE1qVVBEdjJRT1lRMHRjY3lScjc1a1Y3V2wtcjdlOXFTRTRpYy1GbVNmdkpEbUpZSVZhV1N5Tm9YTm9Mem1BMmJWTXN6cF9LZFRKQkRFTGNzVzBYREJORF9sZklGN2p0bzg2Wk1QczNSdFVQMFNHZXJ0UExqbndwcWJCRWJoNkR6LUhQcVlsbi1JNDlFeWJqU2NTV0FybUlMR3pVVzU2amhVM0o2Ykp4T1FuNjYtLVlIT1hEbFVTT1NUSHQxcXR6NzdtYnVzWGZQUEVpekpkUi12ME14OGM2dW00VkU?oc=5) | 2026-09-23
