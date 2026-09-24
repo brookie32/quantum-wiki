@@ -1,0 +1,17 @@
+---
+title: "Investigation of Widefield NV-Center Magnetic Imaging for Non-Destructive Materials Testing"
+date: "2026-09-24"
+updated: "2026-09-24"
+source: "agent"
+category: "sensing"
+tags: [sensing, arxiv-quant-ph]
+url: "https://arxiv.org/abs/2609.27097"
+summary: "arXiv:2609.27097v1 Announce Type: cross Abstract: Due to progressing miniaturization, material fatigue is expected to gain importance on microscopic scales. Nevertheless, most non-destructive testing "
+last_verified: "2026-09-24"
+review_by: "2026-12-23"
+stale: false
+---
+
+arXiv:2609.27097v1 Announce Type: cross Abstract: Due to progressing miniaturization, material fatigue is expected to gain importance on microscopic scales. Nevertheless, most non-destructive testing techniques are optimized for macroscopic scales. Therefore, new approaches applicable to miniaturized samples need to be explored. High spatial resolution imaging of a material's magnetic stray field enables sensitive detection of microstructural changes due to the local interplay of magnetic properties, strain, and defects. Up to now, this approach has rarely been used for materials testing since high-resolution magnetic sensing is traditionally challenging. Novel quantum sensing techniques offer the potential to close this gap. One of the most prominent quantum sensors, the nitrogen vacancy center in diamond, is investigated for non-destructive testing applications within the scope of this work. An experimental system based on a widefield sensing approach was developed to image magnetic stray field distributions within seconds to minutes over areas up to 1 x 1 mm^2. Magnetic sensitivities below 10 muT/sqrt{ext{Hz}} and a spatial resolution of 1-2 mum were achieved. The technique offers high mechanical stability, which is crucial for non-destructive testing applications. Comparison with magneto-optical Kerr effect measurements showed that the magnetic field maps are strongly correlated with the material's surface domains while containing additional information from deeper inside the sample. Characteristic changes in the magnetic stray field distribution were detected in an electrical steel sample after cyclic loading. A potential marker for early fatigue damage was deduced from the splitting gradient distribution, while 2D Fourier transform analysis provided additional insight.
+
+**Source:** [arXiv quant-ph](https://arxiv.org/abs/2609.27097) | 2026-09-24
