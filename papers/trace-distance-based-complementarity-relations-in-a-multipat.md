@@ -14,4 +14,11 @@ stale: false
 
 arXiv:2609.24074v1 Announce Type: new Abstract: The complementarity relations in an interferometer reflect an important phenomenon in quantum mechanics: wave-particle duality. Here, we develop a method to quantify both wave and particle behaviors in a multi-path interferometer. In particular, we find that the trace distance is a good candidate for wave and particle measures. As a result, some duality relations and triality ralations are established respectively. This work not only extends the application of the trace distance to the interferometer, but also opens up new perspectives on the quantification of waveness and particleness.
 
+
+
+## Related
+- [[a-categorical-framework-for-wave-particle-complementarity-co|A Categorical Framework for Wave-Particle Complementarity: Continuous Observable Structures and Fourier-Pontryagin Duality]]
+- [[quantum-average-correlations-and-complementarity-relations-v|Quantum average correlations and complementarity relations via metric-adjusted skew information]]
+- [[quantum-wave-particle-duality-in-free-electron--free-electro|Quantum Wave-Particle Duality in Free-Electron--Free-Electron Entanglement]]
+
 **Source:** [arXiv quant-ph](https://arxiv.org/abs/2609.24074) | 2026-09-22

@@ -14,4 +14,11 @@ stale: false
 
 This week marks a major milestone: Xanadu is celebrating 10 years! 🎂 We want to extend a massive thank you to everyone who made this milestone possible. A decade of innovation, hard work, and big ideas is no small feat—and it’s all thanks to the incredible team, partners, and supporters who have been by our side since day one. Here’s to the next decade ahead! Media
 
+
+
+## Related
+- [[what-an-incredible-summer-it-was-a-massive-thank-you-to-our-|What an incredible summer it was! A massive thank you to our 2026 Xanadu Residency cohort for their exceptional work, curiosity, and contrib…]]
+- [[10-years-in-the-making-we-recently-celebrated-a-decade-of-qu|10 years in the making. We recently celebrated a decade of quantum innovation with the Xanadu team at our brand new Inception facility. From…]]
+- [[learn-more-about-this-milestone-httpswwwprnewswirecomnews-re|Learn more about this milestone: https://www.prnewswire.com/news-releases/xanadu-launches-first-public-cloud-deployed-computer-with-quantum-…]]
+
 **Source:** [Xanadu (X)](https://x.com/XanaduAI/status/2102828918549954833) | 2026-09-23

@@ -1,0 +1,17 @@
+---
+title: "Qambria Secures $2.4M Pre-Seed Funding to Commercialize Sub-Microsecond Classical Control Infrastructure for Fault-Tolerant Quantum Systems - Quantum Computing Report"
+date: "2026-09-25"
+updated: "2026-09-25"
+source: "agent"
+category: "industry"
+tags: [industry, google-news--error-correction]
+url: "https://news.google.com/rss/articles/CBMihAJBVV95cUxQa0w5RDZEUUItZnZMTm1rQktQMzlQc2tCX2ppR0J1VnJFT1lmZmVtREJrWnlsNzFOSlR3a2dCZVNET1ZnYjBNeF9nQmhfX2U5bS11RlNYaEM1LVBvaW9sdHlHUjhaLTVtQXFmaVhLX3dKVEZmR2EzVW5CTVZyaDhVUFg1N1hkbW8weWxjYlFFZXF4Yld4Wmc3Y0RhMVRpOWxxOGJPOHFGUC1rZzlONXBBZmd1UWd3UU9MUm5xaDdlSjZpa3l2cXNjaWdtZ21uN2xFOW96bDFNZUdJMlFEcU1DTWNqU2VQWkRHRWYzYTBvOW5fdWZLeVU3RllXZGpfVGJTLTU2VdIBigJBVV95cUxPbnNpUG1GN1luUExIdWt3X3Y3QXVvQkVXcGFrWTB1aDRueTZOY2x6RDc3cFhuQTFlbFAyUDA4WTBjbkZ3MzZVc2s2d05GZ01ZMmFLNUZCQTF0c29ZcTdXTzRfU182Vndvb1lvRG1WQlFVcXlWd2hzaXpGRVRhdGU2aUFSR0RLMjVJNXM0b3gxSUxxd0pvLXFXQXU5X1EyaWZUeno2VmxUc1NwTEx5bTBuNVpKS0RpWnEybWZZQlQ0dVZuRmkxUEtrdEJYckppZlhGNVJPVzFQR0VpLWFwbWNISFFSbWluX05NSTNnSWJkZG5ZNHBOTXdtQ0xKeXRTZE1fUVZOdzZXeUExUQ?oc=5"
+summary: "Qambria has raised a $2.4 million pre‑seed round to develop sub‑microsecond classical control infrastructure for fault‑tolerant quantum computing systems. The funding supports the company’s goal of co"
+last_verified: "2026-09-25"
+review_by: "2026-12-24"
+stale: false
+---
+
+Qambria has raised a $2.4 million pre‑seed round to develop sub‑microsecond classical control infrastructure for fault‑tolerant quantum computing systems. The funding supports the company’s goal of commercializing this high‑speed control technology, which is critical for scalable quantum processors. This announcement was reported by Quantum Computing Report and aggregated globally through Google News.
+
+**Source:** [Google News: error correction](https://news.google.com/rss/articles/CBMihAJBVV95cUxQa0w5RDZEUUItZnZMTm1rQktQMzlQc2tCX2ppR0J1VnJFT1lmZmVtREJrWnlsNzFOSlR3a2dCZVNET1ZnYjBNeF9nQmhfX2U5bS11RlNYaEM1LVBvaW9sdHlHUjhaLTVtQXFmaVhLX3dKVEZmR2EzVW5CTVZyaDhVUFg1N1hkbW8weWxjYlFFZXF4Yld4Wmc3Y0RhMVRpOWxxOGJPOHFGUC1rZzlONXBBZmd1UWd3UU9MUm5xaDdlSjZpa3l2cXNjaWdtZ21uN2xFOW96bDFNZUdJMlFEcU1DTWNqU2VQWkRHRWYzYTBvOW5fdWZLeVU3RllXZGpfVGJTLTU2VdIBigJBVV95cUxPbnNpUG1GN1luUExIdWt3X3Y3QXVvQkVXcGFrWTB1aDRueTZOY2x6RDc3cFhuQTFlbFAyUDA4WTBjbkZ3MzZVc2s2d05GZ01ZMmFLNUZCQTF0c29ZcTdXTzRfU182Vndvb1lvRG1WQlFVcXlWd2hzaXpGRVRhdGU2aUFSR0RLMjVJNXM0b3gxSUxxd0pvLXFXQXU5X1EyaWZUeno2VmxUc1NwTEx5bTBuNVpKS0RpWnEybWZZQlQ0dVZuRmkxUEtrdEJYckppZlhGNVJPVzFQR0VpLWFwbWNISFFSbWluX05NSTNnSWJkZG5ZNHBOTXdtQ0xKeXRTZE1fUVZOdzZXeUExUQ?oc=5) | 2026-09-25
