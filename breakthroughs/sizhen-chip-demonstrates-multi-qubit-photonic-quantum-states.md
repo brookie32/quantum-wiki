@@ -14,4 +14,9 @@ stale: false
 
 Insider Brief Hefei Sizhen Chip Technology Co., Ltd. and the research group of Professor Ren Xifeng at the Key Laboratory of Quantum Information, University of Science and Technology of China have reported a breakthrough in photonic quantum computing chip technology, Jiwei reported. Working with a self-developed programmable silicon photonic integrated chip, the team says it […]
 
+
+
+## Related
+- [[qant-launches-open-source-sdk-for-photonic-computing|Q.ANT Launches Open-Source SDK for Photonic Computing]]
+
 **Source:** [The Quantum Insider](https://thequantuminsider.com/2026/08/10/sizhen-chip-multi-qubit-photonic-quantum-states-silicon-chip/) | 2026-08-10
