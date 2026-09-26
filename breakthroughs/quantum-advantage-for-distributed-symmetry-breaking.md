@@ -14,4 +14,9 @@ stale: false
 
 arXiv:2609.26788v1 Announce Type: new Abstract: We present a distributed quantum algorithm that 3-colors cycles in O(1) rounds, with high probability. It follows that all locally checkable labeling problems (LCLs) that have round complexity O(log^* n) in the classical LOCAL model can be solved in O(1) rounds in the quantum-LOCAL model, with high probability; this includes problems such as maximal independent set and maximal matching in bounded-degree graphs. This presents the first natural examples of graph problems with an asymptotic distributed quantum advantage for the LOCAL model; all prior examples that separate LOCAL and quantum-LOCAL are artificial problems constructed merely for the sake of demonstrating quantum advantage.
 
+
+
+## Related
+- [[distributed-quantum-advantage-in-locally-checkable-labeling-|Distributed Quantum Advantage in Locally Checkable Labeling Problems]]
+
 **Source:** [arXiv quant-ph](https://arxiv.org/abs/2609.26788) | 2026-09-23
