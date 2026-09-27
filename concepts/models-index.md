@@ -14,17 +14,26 @@ stale: false
 
 # All Models
 
-Auto-generated index of models extracted from wiki entries. 9 models with 2+ mentions.
+Auto-generated index of models extracted from wiki entries. 12 models with 2+ mentions.
 
 ## Claude
-*Mentioned in 6 entries*
+*Mentioned in 7 entries*
 
 - [[are-ais-still-struggling-with-captchas]]
 - [[claude-mythos-has-found-271-zero-days-in-firefox]]
 - [[i-feel-guilty-when-i-ask-claude-to-do-something-i-could-have]]
+- [[on-anthropics-ai-misuse-report]]
 - [[some-claude-chats-are-searchable-on-google]]
 - [[today-quera-is-announcing-results-from-our-research-preview-]]
 - [[using-ai-for-weapons-development]]
+
+## Gemini
+*Mentioned in 4 entries*
+
+- [[amie-our-research-medical-ai-system-demonstrates-real-time-c]]
+- [[gemini-for-science-ai-experiments-and-tools-for-a-new-era-of]]
+- [[queras-bloqade-is-now-a-full-neutral-atom-sdk-one-line-to-st]]
+- [[the-latest-ai-news-we-announced-in-june-2026]]
 
 ## Quasar 438B
 *Mentioned in 4 entries*
@@ -48,19 +57,18 @@ Auto-generated index of models extracted from wiki entries. 9 models with 2+ men
 - [[chatgpt-solves-all-tested-qiskit-homework-assignments]]
 - [[llm-based-social-engineering-scams]]
 
-## Gemini
-*Mentioned in 3 entries*
-
-- [[amie-our-research-medical-ai-system-demonstrates-real-time-c]]
-- [[gemini-for-science-ai-experiments-and-tools-for-a-new-era-of]]
-- [[the-latest-ai-news-we-announced-in-june-2026]]
-
 ## Transformer
 *Mentioned in 3 entries*
 
 - [[a-quantum-roadmap-for-softmax-attention-exact-born-rule-anal]]
 - [[learning-to-prepare-molecular-ground-states-with-transformer]]
 - [[predicting-multipartite-entanglement-in-quantum-circuits-usi]]
+
+## Aquila
+*Mentioned in 2 entries*
+
+- [[quench-a-180-qubit-spin-system-on-aquila-it-doesnt-thermaliz]]
+- [[queras-bloqade-is-now-a-full-neutral-atom-sdk-one-line-to-st]]
 
 ## Willow
 *Mentioned in 2 entries*
@@ -74,8 +82,20 @@ Auto-generated index of models extracted from wiki entries. 9 models with 2+ men
 - [[multiverse-computing-reports-all-compactifai-models-now-run-]]
 - [[multiverse-computing-unveils-breakthrough-all-compactifai-mo]]
 
+## QAOA
+*Mentioned in 2 entries*
+
+- [[feasibility-and-optimum-recovery-in-warm-start-quantum-optim]]
+- [[safe-ma-qaoa-surrogate-assisted-and-fine-tuning-enhanced-mul]]
+
 ## Kolmogorov-Arnold Networks
 *Mentioned in 2 entries*
 
 - [[efficient-representation-of-multicategorical-local-hilbert-s]]
 - [[hybrid-quantum-inspired-kolmogorov-arnold-networks-for-priva]]
+
+## Variational Autoencoder
+*Mentioned in 2 entries*
+
+- [[a-generative-deep-learning-workflow-for-inverse-molecular-de]]
+- [[implementation-of-quantum-implicit-neural-representation-in-]]
