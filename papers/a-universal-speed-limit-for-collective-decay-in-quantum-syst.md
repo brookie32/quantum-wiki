@@ -14,4 +14,11 @@ stale: false
 
 A recent study in *Nature Physics* reports a universal upper bound on the rate at which many‑particle quantum systems can decay collectively. The new speed limit shows that collective (superradiant or subradiant) emission rates can exceed the sum of individual decay rates, but cannot surpass this theoretical maximum. These bounds impact applications relying on collective light‑matter interactions and place a fundamental constraint on the scalability of many‑body quantum technologies.
 
+
+
+## Related
+- [[universal-scaling-laws-for-correlated-decay-of-many-body-qua|Universal scaling laws for correlated decay of many-body quantum systems]]
+- [[time-series-learning-in-a-many-body-rydberg-system-with-emer|Time series learning in a many-body Rydberg system with emergent collective amplification]]
+- [[superradiant-phonon-laser-with-collective-spin-control|Superradiant phonon laser with collective spin control]]
+
 **Source:** [Nature: Quantum Physics](https://www.nature.com/articles/s41567-026-03445-7) | 2026-09-25

@@ -14,4 +14,11 @@ stale: false
 
 arXiv:2609.26591v1 Announce Type: new Abstract: We use a new technique for manipulating controlled quantum circuits to convert between two distinct types of quantum adders, one based on the Quantum Fourier Transform and the other based on the Ripple-Carry technique from classical reversible logic. This conversion takes the form of an explicit gate-level transpilation. We also present a new quantum adder with a natural interpretation as a kind of Carry-Lookahead adder that uses no ancillas.
 
+
+
+## Related
+- [[demonstration-of-a-quantum-c-not-gate-in-a-time-multiplexed-|Demonstration of a quantum C-NOT Gate in a Time-Multiplexed fully reconfigurable photonic processor]]
+- [[correlations-and-quantum-circuits-with-dynamical-causal-orde|Correlations and quantum circuits with dynamical causal order]]
+- [[variational-quantum-operator-simulation|Variational Quantum Operator Simulation]]
+
 **Source:** [arXiv quant-ph](https://arxiv.org/abs/2609.26591) | 2026-09-23

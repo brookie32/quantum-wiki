@@ -14,4 +14,10 @@ stale: false
 
 arXiv:2609.03778v1 Announce Type: new Abstract: In this paper, we introduce a notion of abstract quantum data type within the framework of universal algebra. This notion provides an algebraic foundation for describing data abstraction in quantum programming. We formally define a quantisation of classical data types and show that their equational specifications can be soundly lifted to the quantum setting. Two standard quantisation methods for classical functions, namely the bit oracle and the phase oracle, arise as special cases of this general construction. We illustrate the framework with applications to quantum arrays and quantum error-correcting codes, showing how they can be understood through the lens of data-type quantisation. We further establish conditions under which quantisation preserves structural relationships and constructions of classical data types, including embeddings, isomorphisms, and products.
 
+
+
+## Related
+- [[on-the-relation-between-perspective-neutral-algebraic-and-ef|On the relation between perspective-neutral, algebraic, and effective quantum reference frames]]
+- [[spin-models-with-critical-ground-space-degeneracy-from-lie-a|Spin models with critical ground space degeneracy from Lie algebra relations]]
+
 **Source:** [arXiv quant-ph](https://arxiv.org/abs/2609.03778) | 2026-09-04

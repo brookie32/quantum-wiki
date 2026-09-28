@@ -14,4 +14,10 @@ stale: false
 
 Insider Brief PRESS RELEASE — EPB today launched the IonQ Forte Enterprise quantum computer at EPB Quantum CenterSM, bringing commercial quantum computing and networking together in one facility for the first time. The milestone further positions Chattanooga as the most comprehensive resource in the U.S. for commercializing real-world quantum solutions. Companies can develop, test and […]
 
+
+
+## Related
+- [[ionq-bringing-qpu-to-the-nvidia-accelerated-quantum-research|IonQ Bringing QPU to The NVIDIA Accelerated Quantum Research Center]]
+- [[ionq-launches-superion-256-quantum-computing-platform|IonQ Launches Superion 256 Quantum Computing Platform]]
+
 **Source:** [The Quantum Insider](https://thequantuminsider.com/2026/09/18/epb-launches-ionq-forte-enterprise-quantum-computer-chattanooga/) | 2026-09-18
