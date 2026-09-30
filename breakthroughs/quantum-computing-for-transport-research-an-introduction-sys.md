@@ -14,4 +14,11 @@ stale: false
 
 arXiv:2603.11572v2 Announce Type: replace Abstract: Transport research has significant potential to benefit from quantum computing. The rise of intelligent transport systems, autonomous vehicles, and the Internet of Things has created an unprecedented demand for efficient information processing and computational optimisation. Accordingly, transport engineers and scientists have explored the ever-improving capabilities of quantum computers in an effort to meet this demand. Motivated by this growing interest, this paper sets out three aims: (1) to introduce the fundamental aspects of quantum computing relevant to the transport domain; (2) to develop a pipeline for identifying transport-related problems which are suitable for quantum advantage, solving them, and assessing their performance fairly; (3) to provide a systematic review of the existing literature and a perspective. For the latter, a systematic search of the Scopus and IEEE Xplore databases, supplemented by additional citation sources, identified 91 studies for inclusion following PRISMA 2020 guidelines. While a diverse set of use cases have been proposed, we conclude that future research should prioritise problems where quantum computation offers a clearer practical benefit. To this end, we suggest promising directions to guide further work in this burgeoning subfield.
 
+
+
+## Related
+- [[evaluating-system-level-fidelity-with-peaked-random-circuits|Evaluating System-Level Fidelity with Peaked Random Circuits]]
+- [[an-end-to-end-quantum-algorithm-for-nonlinear-fluid-dynamics|An end-to-end quantum algorithm for nonlinear fluid dynamics with bounded quantum advantage]]
+- [[the-impact-of-qubit-connectivity-on-quantum-advantage-in-noi|The Impact of Qubit Connectivity on Quantum Advantage in Noisy IQP Circuits]]
+
 **Source:** [arXiv quant-ph](https://arxiv.org/abs/2603.11572) | 2026-09-25
