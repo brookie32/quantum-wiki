@@ -14,4 +14,11 @@ stale: false
 
 arXiv:2609.17677v1 Announce Type: cross Abstract: Micron-sized colloid particles diffusing through a fluid experience hydrodynamic inertial and memory effects, the latter causing velocity autocorrelation to decay as a power law. At the same time, many theoretical descriptions treat colloidal diffusion in a fluid using overdamped Langevin dynamics for its convenience, eliminating velocity, omitting inertia, but also ignoring the power-law memory. In this Letter, we show that hydrodynamic memory survives in the overdamped (colloid-inertialess) limit. By identifying the dimensionless parameter controlling the crossover between early- and late-time dynamics, we derive in closed form the overdamped Langevin equation in the presence of hydrodynamic memory. This provides a theoretical framework for realistically describing colloidal dynamics in a fluid, and establishes a rigorous basis for the positional memory observed in high-resolution experiments. Our theory predicts that hydrodynamic memory becomes increasingly pronounced for smaller particles and under stronger external forcing, and offers experimental probes for the crossover from conventional exponential relaxation to memory-dominated power-law dynamics.
 
+
+
+## Related
+- [[brownian-motion-with-geometry-dependent-hydrodynamic-memory|Brownian motion with geometry-dependent hydrodynamic memory]]
+- [[solvent-induced-memory-effects-in-a-model-electrolyte|Solvent-induced memory effects in a model electrolyte]]
+- [[reaction-dynamics-in-non-markovian-systems-with-non-monotoni|Reaction dynamics in non-Markovian systems with non-monotonically decaying memory]]
+
 **Source:** [arXiv physics.chem-ph](https://arxiv.org/abs/2609.17677) | 2026-09-17

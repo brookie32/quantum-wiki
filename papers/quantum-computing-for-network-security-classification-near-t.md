@@ -1,0 +1,17 @@
+---
+title: "Quantum Computing for Network Security Classification: Near-Term Classification and Long-Term Memory Efficiency"
+date: "2026-09-30"
+updated: "2026-09-30"
+source: "agent"
+category: "papers"
+tags: [papers, arxiv-quant-ph]
+url: "https://arxiv.org/abs/2609.36479"
+summary: "arXiv:2609.36479v1 Announce Type: new Abstract: Quantum computing has already been explored in several network-security applications. However, how quantum computing may contribute to network-security "
+last_verified: "2026-09-30"
+review_by: "2026-12-29"
+stale: false
+---
+
+arXiv:2609.36479v1 Announce Type: new Abstract: Quantum computing has already been explored in several network-security applications. However, how quantum computing may contribute to network-security classification in both the near term and the longer term has not been systematically discussed. This paper studies this question through two complementary experiments. First, we evaluate near-term quantum-kernel support vector machines (SVMs) on practical network-security classification tasks and compare them with classical SVM baselines on KDD Cup 1999, CICIDS2017, and BoT-IoT. Across these runs, quantum kernels are competitive. They can match or improve classical baselines in some settings, while classical RBF kernels remain stronger in others. This suggests that near-term quantum-kernel methods should be evaluated as practical, dataset-dependent alternatives to classical kernels rather than as uniformly superior replacements. Second, we use quantum oracle sketching (QOS) to study a longer-term memory advantage for classification with streaming classical samples. In QOS, samples are processed online and used to incrementally construct an approximate quantum oracle, which provides coherent query access for downstream quantum algorithms without retaining the entire dataset. Under the QOS-inspired machine-size estimate, comparable accuracy corresponds to a substantially smaller effective memory-size proxy than explicit sparse/QRAM-style storage. Compared with a simple streaming proxy, the result is more nuanced because aggressive feature filtering can make the streaming dimension small. This suggests that the long-term value of quantum computing for network-security classification may lie in memory-efficient data access rather than immediate runtime speedup. Together, these experiments show how quantum computing may contribute to network-security classification from near-term classification performance and longer-term memory efficiency.
+
+**Source:** [arXiv quant-ph](https://arxiv.org/abs/2609.36479) | 2026-09-30
