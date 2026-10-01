@@ -14,4 +14,11 @@ stale: false
 
 arXiv:2609.37639v1 Announce Type: new Abstract: The stimulated Raman shortcut-to-adiabatic passage (STIRSAP) technique has been demonstrated to accelerate adiabatic population transfer processes. Traditionally applied to three-level atomic systems, this method enables rapid and efficient population transfer in a short interaction time. In this work, we extend this approach to a four-level N -type system driven by three laser fields. Under the three-photon phase matching condition, the first-order Doppler effect can be completely eliminated, making this configuration more suitable for applications in frequency metrology and quantum information processing. By adiabatically eliminating the intermediate state, the four-level system is effectively reduced to a two-level model, enabling the application of counterdiabatic driving without requiring additional couplings. This approach allows for fast and efficient population transfer between metastable states. We analyze the influence of laser intensity peaks and detuning, and we show that the transfer time is significantly shorter than that achieved with the STIRAP technique. Moreover, we also show 1 that an optimal coupling strength between the ground and metastable states further minimizes the operation time.
 
+
+
+## Related
+- [[pontryagins-principle-for-leakage-immune-adiabatic-quantum-s|Pontryagin's Principle for Leakage-Immune Adiabatic Quantum State Transfer]]
+- [[collective-chirped-stirap-in-a-pair-of-three-level-atoms-dre|Collective Chirped STIRAP in a Pair of Three-Level Atoms: Dressed-Manifold Dynamics and Compensation of the Rydberg-Rydberg Interaction-Induced Detuning]]
+- [[magic-velocity-selection-in-atom-interferometry|Magic Velocity Selection in Atom Interferometry]]
+
 **Source:** [arXiv physics.atom-ph](https://arxiv.org/abs/2609.37639) | 2026-09-30

@@ -14,4 +14,9 @@ stale: false
 
 Insider Brief PRESS RELEASE — Q*Bird announced today its transition into Falqon® Systems, introducing a new corporate identity that reflects the company’s strategic evolution from pioneering scalable quantum communication technologies to building the infrastructure required for operational Quantum Secure Networks (QSN). The transition marks an important milestone in the company’s growth and aligns its […]
 
+
+
+## Related
+- [[symmatrics-appoints-jim-garrity-as-senior-vice-president-of-|Symmatrics Appoints Jim Garrity as Senior Vice President of Growth]]
+
 **Source:** [The Quantum Insider](https://thequantuminsider.com/2026/09/15/qbird-becomes-falqon-systems-quantum-secure-networks/) | 2026-09-15

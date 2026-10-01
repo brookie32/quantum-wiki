@@ -14,4 +14,12 @@ stale: false
 
 arXiv:2412.17027v5 Announce Type: replace Abstract: Bipartite mixed-state quantum entanglement (QE) and its measures play a crucial role in both theoretical research and practical quantum applications. Its internal structure is far more complex and less well understood compared with bipartite pure-state QE. Some existing measures involve inherently intractable global optimizations, while others are only applicable to highly limited-dimensional quantum systems. Here based on the inherent feature that bipartite QE systems nonseparable necessarily implies that local reduced density matrix differs from its extquotedblleft nativeextquotedblright density matrix, we propose a more physical and intuitive measure termed Reduction-induced Minimal Partial Entropy Difference to quantify arbitrary bipartite mixed-state QE. Partial Von Neumann Entropy is only a pure-state special case of this method. This measure offers intrinsic structural %perspective insights into bipartite QE characterization, thereby establishing itself as a valuable complementary measure. Its intuitive and clear physical picture, combined with relatively low computational complexity and wide applicability, facilitates exploring its potential quantum information applications, hence its conceptual framework and line of thought deserve to be further developed to describe and quantify multipartite QE in the future.
 
+
+
+## Related
+- [[quantifying-mixed-state-entanglement-via-partial-transpose-a|Quantifying mixed-state entanglement via partial transpose and realignment moments]]
+- [[finite-relative-entropy-for-locally-squeezed-states|Finite relative entropy for locally squeezed states]]
+- [[relative-entropy-of-entanglement-of-haar-random-states|Relative entropy of entanglement of Haar random states]]
+- [[twisted-renyi-negativity-as-a-reliable-proxy-for-mixed-state|Twisted Renyi Negativity as a Reliable Proxy for Mixed-State Entanglement in Fermionic Systems]]
+
 **Source:** [arXiv quant-ph](https://arxiv.org/abs/2412.17027) | 2026-09-22
