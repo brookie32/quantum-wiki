@@ -1,44 +1,44 @@
 ---
 title: "Synthesis: Cryptography"
-date: "2026-09-27"
-updated: "2026-09-27"
+date: "2026-10-04"
+updated: "2026-10-04"
 source: "agent"
 category: "syntheses"
 tags: [synthesis, cryptography, auto-generated]
 url: ""
-summary: "Auto-generated synthesis of 771 entries about cryptography"
-last_verified: "2026-09-27"
-review_by: "2026-09-27"
+summary: "Auto-generated synthesis of 867 entries about cryptography"
+last_verified: "2026-10-04"
+review_by: "2026-10-04"
 stale: false
 ---
 
 # Cryptography: Knowledge Wiki Overview
 
 ## Current State
-Cryptography is undergoing a fundamental transition driven by the dual pressures of quantum computing threats and AI-enabled attacks. The field is rapidly migrating from classical public-key infrastructure toward post-quantum cryptographic standards, while simultaneously grappling with new attack surfaces in hardware, software supply chains, and public infrastructure. Enterprise adoption of quantum-safe systems is accelerating, with measurable commercial momentum.
+Cryptography is undergoing its most significant transformation in decades, driven by the dual pressures of quantum computing threats and AI-enabled attacks. The field is rapidly transitioning from classical encryption standards toward post-quantum cryptographic (PQC) primitives, while simultaneously expanding into novel domains such as quantum memory, secure computation, and formal verification. Enterprise adoption of PQC solutions is accelerating measurably, reflecting urgent real-world migration demands.
 
 ---
 
 ## Key Developments
-- **Post-quantum migration** is moving from research to production, with hybrid key establishment mechanisms (combining classical and PQC algorithms) being deployed on embedded devices
-- **Side-channel attacks** on established primitives (SHA-256, HMAC) remain active threats, with bit-level analytical techniques exposing vulnerabilities in hardware implementations
-- **Oblivious quantum computation** (OQRAM) is emerging as a framework for securing delegated quantum queries against untrusted servers
-- **DNS/credential attacks** on public Wi-Fi infrastructure highlight persistent weaknesses in applied cryptographic deployments
-- **Formal verification** of cryptographic primitives (polynomial commitments, KZG schemes) is gaining traction using proof assistants like Isabelle/HOL
-- **Lightweight cipher vulnerabilities** (e.g., DIZY stream cipher) remain a concern for resource-constrained IoT devices
+- **Post-quantum migration surge**: Enterprise PQC adoption is scaling rapidly, with firms like Keyfactor surpassing $200M ARR driven by quantum-readiness demand
+- **Hybrid key establishment**: New transcript-bound combiners running PQC alongside classical KEMs are being designed for embedded and resource-constrained devices
+- **Quantum cryptography advances**: Research into Oblivious Quantum RAM (OQRAM) and quantum-delegation verification protocols is expanding secure computing boundaries
+- **Lightweight cipher vulnerabilities**: Ultra-lightweight ciphers (e.g., DIZY) face new cryptanalytic scrutiny as IoT deployments proliferate
+- **Side-channel attacks**: Soft analytical side-channel attacks now threaten SHA-2 and HMAC implementations at the bit level
+- **Classical-quantum equivalence breakdown**: Foundational assumptions about one-way functions and cryptographic primitives are being re-examined under quantum-computation models
+- **Infrastructure threats**: DNS hijacking on public Wi-Fi networks remains a practical, active credential-theft vector
 
 ---
 
 ## Key Players & Organizations
-- **NSA** – historical and ongoing role in cryptanalysis and standards influence
-- **Keyfactor** – enterprise PKI and post-quantum migration platform ($200M+ ARR)
-- **IBM** – foundational cryptanalysis hardware; ongoing quantum research
-- **Academic/arXiv community** – primary driver of PQC algorithm research and formal verification
+- **Keyfactor** – enterprise PKI and PQC migration
+- **IBM / NSA** – historical and ongoing cryptanalysis infrastructure
+- **Academic research groups** – LWE algorithms, formal verification (Isabelle/HOL), polynomial commitments
 
 ---
 
 ## Outlook
-Post-quantum cryptography will become the dominant enterprise standard within 3–5 years, driven by regulatory pressure and quantum computing milestones. Side-channel and AI-assisted cryptanalysis will intensify, making formal verification and hardware-level security increasingly critical. Quantum-delegated computation security is an emerging frontier requiring new cryptographic primitives.
+Cryptography is converging on a post-quantum standard landscape while managing a long tail of classical vulnerabilities. Formal verification of cryptographic primitives will become standard practice, and the next three to five years will be defined by hybrid transition protocols, quantum-safe infrastructure deployment, and the growing intersection of AI with both attack and defense capabilities.
 
 ## Source Entries
 
@@ -50,10 +50,10 @@ Post-quantum cryptography will become the dominant enterprise standard within 3�
 - [[keyfactor-surpasses-200-million-arr-amid-enterprise-post-qua|Keyfactor Surpasses $200 Million ARR Amid Enterprise Post-Quantum Migration Surge]]
 - [[cryptanalysis-of-the-dizy-stream-cipher-with-provable-securi|Cryptanalysis of the DIZY Stream Cipher with Provable Security]]
 - [[soft-analytical-side-channel-attacks-on-sha-2-and-hmac|Soft Analytical Side-Channel Attacks on SHA-2 and HMAC]]
+- [[the-breakdown-of-classical-minicrypt-equivalences-in-the-qua|The Breakdown of Classical Minicrypt Equivalences in the Quantum-Computation Classical-Communication Model]]
 - [[transcript-bound-combiners-for-downgrade-resilient-hybrid-po|Transcript-Bound Combiners for Downgrade-Resilient Hybrid Post-Quantum Key Establishment: Definition, Proof, and Embedded-Device Cost]]
+- [[a-provable-subexponential-time-algorithm-for-lwe-from-non-sa|A Provable Subexponential-Time Algorithm for LWE from (n+o(n)) Samples via Wagner-Style Gaussian Sampling]]
 - [[efficient-additive-randomized-encodings-for-string-oblivious|Efficient Additive Randomized Encodings for String Oblivious Transfer: A Core Primitive for General Functions]]
 - [[on-the-formal-verification-of-polynomial-commitments-two-kzg|On the Formal Verification of Polynomial Commitments: two KZG constructions and the Algebraic Group Model]]
 - [[chasing-quoccas-in-a-quantum-world-type-2-oracles-for-cca-se|Chasing QuOCCAs in a Quantum World: Type-2 Oracles for CCA-Secure PKE]]
 - [[verification-meets-calibration-bounds-and-secret-independent|Verification Meets Calibration: Bounds and Secret-Independent State Preparation with an NV-Center as a Case Study]]
-- [[one-more-a-sharper-tails-without-scaling|One More A: Sharper Tails Without Scaling]]
-- [[ai-coding-agents-are-installing-unknownuntrusted-code-on-cor|AI Coding Agents Are Installing Unknown/Untrusted Code on Corporate Networks]]

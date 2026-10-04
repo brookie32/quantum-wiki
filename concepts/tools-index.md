@@ -14,10 +14,10 @@ stale: false
 
 # All Tools
 
-Auto-generated index of tools extracted from wiki entries. 51 tools with 2+ mentions.
+Auto-generated index of tools extracted from wiki entries. 56 tools with 2+ mentions.
 
 ## CUDA-Q
-*Mentioned in 29 entries*
+*Mentioned in 30 entries*
 
 - [[cuda-q-logical-retargetable-compilation-for-fault-tolerant-q]]
 - [[explore-nvidia-cuda-q-applications-hub-and-academic-library-]]
@@ -29,17 +29,19 @@ Auto-generated index of tools extracted from wiki entries. 51 tools with 2+ ment
 - [[nvidia-broadens-cuda-q-for-the-next-phase-of-quantum-computi]]
 - [[nvidia-expands-cuda-q-for-fault-tolerant-quantum-computing--]]
 - [[nvidia-expands-cuda-q-platform-to-support-fault-tolerant-qua]]
+- [[nvidia-expands-cuda-q-platform-to-target-fault-tolerant-quan]]
 - [[nvidia-expands-open-source-cuda-q-for-fault-tolerant-quantum]]
 - [[nvidia-expands-open-source-cuda-q-platform]]
 - [[nvidia-expands-open-source-cuda-q-platform---the-quantum-ins]]
 - [[nvidia-expands-open-source-cuda-q-platform-for-fault-toleran]]
-- [[nvidia-extends-cuda-q-for-fault-tolerant-quantum-systems---e]]
 
 ## PennyLane
-*Mentioned in 22 entries*
+*Mentioned in 25 entries*
 
 - [[catch-the-session-from-100---230-pm-to-learn-how-pennylane-p]]
 - [[check-out-our-latest-blog-about-our-new-perspective-on-qml-h]]
+- [[empowering-researchers-worldwide-is-at-the-core-of-what-we-d]]
+- [[exciting-quantum-milestone-from-rbc-rbc-great-to-see-them-ad]]
 - [[from-the-basics-of-pennylaneai-to-the-complexities-of-quantu]]
 - [[great-to-see-the-next-generation-of-quantum-talent-in-action]]
 - [[hear-how-our-continued-collaboration-fuels-high-impact-resea]]
@@ -51,8 +53,6 @@ Auto-generated index of tools extracted from wiki entries. 51 tools with 2+ ment
 - [[pennylane-pennylaneai-powers-research-globally-and-were-exci]]
 - [[qevolve-bench-a-seed-benchmark-for-quantum-sdk-evolution-and]]
 - [[ready-to-convert-your-quantum-computing-ideas-into-software-]]
-- [[real-time-quantum-processing-demands-ultra-low-latency-inter]]
-- [[registration-for-the-qhack-quantum-coding-championship-is-of]]
 
 ## Qiskit
 *Mentioned in 19 entries*
@@ -74,18 +74,22 @@ Auto-generated index of tools extracted from wiki entries. 51 tools with 2+ ment
 - [[the-evolution-of-ibms-quantum-information-software-kit-qiski]]
 
 ## QAOA
-*Mentioned in 11 entries*
+*Mentioned in 15 entries*
 
 - [[a-swap-free-framework-for-qaoa]]
 - [[adaptive-differential-evolution-and-multistart-search-for-no]]
 - [[argonne-and-jpmorganchase-develop-new-method-to-study-qaoa-a]]
 - [[certifying-bipartite-entanglement-on-a-superconducting-proce]]
+- [[counterdiabatic-quantum-optimization-for-efficient-state-pre]]
 - [[emergent-problem-graph-alignment-in-rl-discovered-entangleme]]
+- [[fault-tolerant-cost-of-shallow-qaoa-on-near-symmetric-optimi]]
 - [[imaginarity-as-a-necessary-resource-for-trainability-in-qaoa]]
+- [[landscape-compression-in-constrained-qaoa-tracks-feasibility]]
 - [[landscape-similarity-guided-optimization-in-divide-and-conqu]]
 - [[m-qam-mimo-maximum-likelihood-detection-with-qaoa-ml-rate-of]]
 - [[saqc-a-sat-aware-compilation-framework-for-qaoa-based-quantu]]
 - [[setting-angles-in-quantum-approximate-optimization-at-utilit]]
+- [[solving-graph-coloring-problems-using-feedback-based-algorit]]
 - [[we-dont-work-on-applications-that-use-qaoa-at-xanaduai-why-o]]
 
 ## Variational Quantum Eigensolver
@@ -116,6 +120,15 @@ Auto-generated index of tools extracted from wiki entries. 51 tools with 2+ ment
 - [[nvidia-releases-cuda-q-logical-a-shared-design-framework-for]]
 - [[nvidia-unveils-cuda-q-logical-to-accelerate-fault-tolerant-s]]
 
+## NVQLink
+*Mentioned in 5 entries*
+
+- [[anyon-computing-unveils-nvqlink-based-quantum-control-system]]
+- [[anyon-computing-unveils-open-source-real-time-control-plane-]]
+- [[ionq-selected-as-first-on-premise-qpu-deployment-at-nvidias-]]
+- [[iqm-and-zurich-instruments-launch-real-time-quantum-error-co]]
+- [[quandela-and-nvidia-outline-photonic-qpu-integration-archite]]
+
 ## VQE
 *Mentioned in 4 entries*
 
@@ -132,13 +145,13 @@ Auto-generated index of tools extracted from wiki entries. 51 tools with 2+ ment
 - [[qc-ware-demonstration-of-hybrid-quantum-classical-workflow-u]]
 - [[qc-wares-promethium-executes-first-quantum-chemistry-run-on-]]
 
-## NVQLink
+## Backline
 *Mentioned in 4 entries*
 
-- [[anyon-computing-unveils-nvqlink-based-quantum-control-system]]
-- [[anyon-computing-unveils-open-source-real-time-control-plane-]]
-- [[ionq-selected-as-first-on-premise-qpu-deployment-at-nvidias-]]
-- [[quandela-and-nvidia-outline-photonic-qpu-integration-archite]]
+- [[light-moves-at-light-speed-so-photonic-processors-run-at-ext]]
+- [[quantum-is-rarely-ever-just-quantum-so-we-built-backline-int]]
+- [[the-september-xanadu-insider-is-here-inside-this-months-issu]]
+- [[xanadu-and-amd-launch-open-source-backline-extension-for-pen]]
 
 ## Quantum Pilot
 *Mentioned in 4 entries*
@@ -225,13 +238,6 @@ Auto-generated index of tools extracted from wiki entries. 51 tools with 2+ ment
 - [[thales-just-dropped-their-post-quantum-hsm-why-is-enterprise]]
 - [[thales-launches-luna-8-hardware-security-module-for-post-qua]]
 
-## Backline
-*Mentioned in 3 entries*
-
-- [[light-moves-at-light-speed-so-photonic-processors-run-at-ext]]
-- [[quantum-is-rarely-ever-just-quantum-so-we-built-backline-int]]
-- [[xanadu-and-amd-launch-open-source-backline-extension-for-pen]]
-
 ## Superion 256
 *Mentioned in 3 entries*
 
@@ -252,6 +258,13 @@ Auto-generated index of tools extracted from wiki entries. 51 tools with 2+ ment
 - [[qtonic-quantum-corp-launches-qshield-for-immediate-software-]]
 - [[qtonic-quantum-launches-qshield-for-post-quantum-network-enc]]
 - [[qtonic-quantum-launches-qshield-for-post-quantum-network-pro]]
+
+## Fault Tolerance Engine
+*Mentioned in 3 entries*
+
+- [[classiq-has-unveiled-a-fault-tolerance-engine---quantumzeitg]]
+- [[classiq-introduces-fault-tolerance-engine-to-bridge-quantum-]]
+- [[classiq-launches-fault-tolerance-engine-for-hardware-aware-q]]
 
 ## Rust
 *Mentioned in 2 entries*
@@ -307,6 +320,12 @@ Auto-generated index of tools extracted from wiki entries. 51 tools with 2+ ment
 - [[qarakal-quantum-unveils-pangaea-architecture-for-modular-qua]]
 - [[qarakal-quantum-unveils-pangaea-modular-architecture-to-cut-]]
 
+## FPGA
+*Mentioned in 2 entries*
+
+- [[the-quantum-industry-has-assumed-enterprise-grade-gpus-are-m]]
+- [[tide-an-fpga-quantum-control-processor-for-deterministic-ada]]
+
 ## ZX calculus
 *Mentioned in 2 entries*
 
@@ -343,6 +362,12 @@ Auto-generated index of tools extracted from wiki entries. 51 tools with 2+ ment
 - [[qusecure-achieves-trl-7-at-us-army-project-convergence-capst]]
 - [[qusecures-quprotect-r3-pqc-platform-added-to-carahsofts-gsa-]]
 
+## Tensor networks
+*Mentioned in 2 entries*
+
+- [[dmrg-using-belief-propagation]]
+- [[strong-simulation-of-1d-quantum-circuits-via-reduced-transit]]
+
 ## wolfTPM
 *Mentioned in 2 entries*
 
@@ -354,6 +379,12 @@ Auto-generated index of tools extracted from wiki entries. 51 tools with 2+ ment
 
 - [[classical-active-space-hybrid-quantum-subspace-expansion-cas]]
 - [[on-the-convergence-of-the-variational-quantum-eigensolver-an]]
+
+## ADAPT-VQE
+*Mentioned in 2 entries*
+
+- [[a-case-study-on-noise-resilient-operator-selection-in-adapti]]
+- [[from-projected-subspaces-to-full-space-implementations-repre]]
 
 ## Plaquette
 *Mentioned in 2 entries*
@@ -402,3 +433,9 @@ Auto-generated index of tools extracted from wiki entries. 51 tools with 2+ ment
 
 - [[digicert-announces-general-availability-of-quantum-central-p]]
 - [[digicert-launches-quantum-central-for-post-quantum-cryptogra]]
+
+## Qt
+*Mentioned in 2 entries*
+
+- [[qt-612-lts-released-with-qml-hot-reload-gpu-accelerated-canv]]
+- [[qt-612-lts-released-with-qml-hot-reloading-stylekit-in-exper]]

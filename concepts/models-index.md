@@ -14,7 +14,7 @@ stale: false
 
 # All Models
 
-Auto-generated index of models extracted from wiki entries. 12 models with 2+ mentions.
+Auto-generated index of models extracted from wiki entries. 13 models with 2+ mentions.
 
 ## Claude
 *Mentioned in 7 entries*
@@ -99,3 +99,9 @@ Auto-generated index of models extracted from wiki entries. 12 models with 2+ me
 
 - [[a-generative-deep-learning-workflow-for-inverse-molecular-de]]
 - [[implementation-of-quantum-implicit-neural-representation-in-]]
+
+## DeepONet
+*Mentioned in 2 entries*
+
+- [[qpi-deeponet-mac-a-scalable-and-stable-hybrid-classical-quan]]
+- [[quantum-sedonet-spectrally-embedded-quantum-deep-operator-ne]]

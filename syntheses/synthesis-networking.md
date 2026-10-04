@@ -1,44 +1,44 @@
 ---
 title: "Synthesis: Networking"
-date: "2026-09-27"
-updated: "2026-09-27"
+date: "2026-10-04"
+updated: "2026-10-04"
 source: "agent"
 category: "syntheses"
 tags: [synthesis, networking, auto-generated]
 url: ""
-summary: "Auto-generated synthesis of 382 entries about networking"
-last_verified: "2026-09-27"
-review_by: "2026-09-27"
+summary: "Auto-generated synthesis of 424 entries about networking"
+last_verified: "2026-10-04"
+review_by: "2026-10-04"
 stale: false
 ---
 
-# Networking (Quantum) — Knowledge Wiki Overview
+# Networking (Quantum)
 
-## Current State
-Quantum networking is rapidly transitioning from theoretical foundations toward experimental and early commercial infrastructure, focused on distributing entanglement reliably over long distances. Research and industry are converging on key enabling technologies — quantum repeaters, memory systems, and error correction — while regional network deployments are beginning to take shape globally.
+## Overview
+Quantum networking is rapidly transitioning from theoretical research to early-stage infrastructure deployment, focusing on entanglement distribution, quantum repeaters, and quantum key distribution (QKD) as foundational primitives. Both academic institutions and commercial ventures are actively developing hardware, protocols, and architectural frameworks to enable a functional quantum internet. Investment activity and industry partnerships signal growing confidence in near-term practical applications.
 
 ---
 
 ## Key Developments
-- **Quantum repeater advances**: Encoded hybrid repeater chains now demonstrate scalable entanglement distribution, addressing qubit decoherence over long distances
-- **Teleportation primitives**: Real-time heralded non-Gaussian resource-state generators are improving practical quantum teleportation fidelity
-- **Indefinite causal order**: Experimental QKD using superposed operation ordering (arXiv:2608.13561) opens novel security paradigms
-- **Network optimization**: Utility-based path selection via layered shortest paths is improving routing efficiency in multi-node quantum networks
-- **Regional infrastructure**: New Mexico's ABQ-Net is aggregating quantum firms into coherent regional ecosystems; South Korea is establishing quantum memory assembly hubs
-- **Quantum memory integration**: Atom-light hybrid interferometers and SiV-based memory systems are maturing as network-compatible storage solutions
+- **Quantum repeater advances**: Scalable encoded hybrid repeater chains are being designed to compensate for qubit decoherence over long distances
+- **QKD innovation**: Experimental implementations of QKD using indefinite causal order are pushing security boundaries beyond classical cryptographic assumptions
+- **Quantum teleportation**: Real-time heralded non-Gaussian resource-state generators are improving teleportation fidelity as a core communications primitive
+- **Photonic integration**: Thin-film lithium tantalate platforms are enabling scalable quantum network nodes with atomic frequency comb memories
+- **Network optimization**: Utility-based path selection algorithms and layered shortest-path protocols are being developed for practical multi-user quantum networks
+- **Telecloning protocols**: Symmetric N-to-M telecloning advances distributed quantum state sharing across network nodes
 
 ---
 
 ## Key Players & Companies
-- **IonQ** — Superion 256 deployment and SiV memory hub (partnership with SDT, South Korea)
-- **Infleqtion (INFQ)** — Distributed quantum network development with **Cisco**
-- **Arq Quantum Technologies** — Quantum internet startup ($1.4M pre-seed, backed by Big Sur Ventures)
-- **ABQ-Net consortium** — Four New Mexico-based quantum firms building regional infrastructure
+- **IonQ** – Deploying Superion 256 systems and SiV quantum memory hubs (South Korea partnership with SDT)
+- **Infleqtion (INFQ)** – Collaborating with **Cisco** on distributed quantum network architecture
+- **Arq Quantum Technologies** – Early-stage quantum internet startup ($1.4M pre-seed funding)
+- **ABQ-Net (New Mexico)** – Regional quantum technology network adding four member companies
 
 ---
 
 ## Outlook
-Quantum networking is moving toward standardized repeater-chain architectures and early metropolitan-scale deployments within the next 3–5 years. Commercial partnerships between hardware firms and networking giants (e.g., Cisco–Infleqtion) signal growing industry conviction, while funding for internet-layer startups like Arq suggests an emerging full-stack ecosystem is forming.
+Quantum networking is converging toward hybrid classical-quantum architectures, with near-term focus on metropolitan-scale entanglement distribution and repeater deployment. Standardization of protocols, memory coherence times, and photonic integration will be decisive technical milestones. Commercial activity and regional government-backed ecosystems suggest meaningful infrastructure deployment within the next five to ten years.
 
 ## Source Entries
 
@@ -53,7 +53,7 @@ Quantum networking is moving toward standardized repeater-chain architectures an
 - [[tools-for-reducing-service-time-in-near-term-quantum-network|Tools for Reducing Service Time in Near-Term Quantum Networks]]
 - [[symmetric-n-o-m-telecloning-and-remote-quantum-state-inferen|Symmetric N o M telecloning and remote quantum state inference]]
 - [[arq-raises-14-million-pre-seed-round-to-lay-the-foundations-|Arq Raises $1.4 Million Pre-Seed Round to Lay The Foundations For The Quantum Internet - The Quantum Insider]]
+- [[scalable-hybrid-device-architecture-on-thin-film-lithium-tan|Scalable Hybrid Device Architecture on Thin-Film Lithium Tantalate for Long Distance Quantum Network Nodes with Atomic Frequency Comb Quantum Memories]]
 - [[tracing-the-loop-non-causal-computation-partial-traces-posts|Tracing the Loop: Non-Causal Computation, Partial Traces, & Postselected Entanglement]]
 - [[big-sur-ventures-invests-in-arq-quantum-technologies-14-mill|Big Sur Ventures invests in Arq Quantum Technologies' $1.4 million pre-seed funding round to accelerate the development of the quantum internet - Capital-Riesgo.es - Capital Riesgo]]
 - [[utility-based-path-selection-and-configuration-in-quantum-ne|Utility-Based Path Selection and Configuration in Quantum Networks via Layered Shortest Paths]]
-- [[multi-cavity-strong-coupling-to-an-electron-spin-ensemble-sp|Multi-cavity strong coupling to an electron spin ensemble: spectral and dark-state signatures]]

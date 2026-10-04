@@ -1,48 +1,45 @@
 ---
 title: "Synthesis: Iacr-Eprint-Archive"
-date: "2026-09-27"
-updated: "2026-09-27"
+date: "2026-10-04"
+updated: "2026-10-04"
 source: "agent"
 category: "syntheses"
 tags: [synthesis, iacr-eprint-archive, auto-generated]
 url: ""
-summary: "Auto-generated synthesis of 469 entries about iacr-eprint-archive"
-last_verified: "2026-09-27"
-review_by: "2026-09-27"
+summary: "Auto-generated synthesis of 517 entries about iacr-eprint-archive"
+last_verified: "2026-10-04"
+review_by: "2026-10-04"
 stale: false
 ---
 
 # IACR ePrint Archive: Knowledge Wiki Overview
 
 ## Current State
-The IACR ePrint Archive serves as the primary preprint repository for cryptographic research, hosting cutting-edge work spanning theoretical foundations, applied cryptography, and emerging paradigms. The archive reflects an increasingly diverse research landscape, with significant activity across zero-knowledge proofs, multiparty computation, blockchain security, and post-quantum cryptography.
+The IACR ePrint Archive serves as the primary preprint repository for cryptographic research, hosting thousands of papers spanning foundational theory to applied systems. It reflects a field in rapid flux, driven by zero-knowledge proofs, post-quantum cryptography, and blockchain security. Research quality ranges from incremental refinements to landmark breakthroughs published prior to formal peer review.
 
 ---
 
 ## Key Developments
 
-- **ZK-Friendly Primitives**: Active research into hash functions and arithmetic circuits optimized for zero-knowledge proof systems (e.g., attacks on Reinforced Concrete)
-- **MPC Advances**: Progress toward practical actively secure multiparty computation with sublinear verification overhead on integer rings
-- **Blockchain Security**: Formal analysis of selfish mining incentives and proof-of-work limitations, including critique of proof-of-useful-work consensus models
-- **Post-Quantum Lattices**: New results on CVP hardness for cyclotomic ideals, Ring-LWE encryption schemes, and multilinear secret sharing bounds
-- **Differential Privacy**: Expanding literature on abort-resilient DP protocols in distributed/multiparty settings
-- **AI & Cryptography Intersection**: Cryptanalytic extraction attacks on convolutional neural networks gaining formal treatment
-- **Error-Correcting Codes**: Linear list-size bounds for Reed-Solomon codes beyond the Johnson bound via automated research tools
+- **ZK-friendly cryptography**: New hash function designs (e.g., Reinforced Concrete) are being stress-tested, with collision attacks exposing weaknesses in ZKP-optimized primitives
+- **Post-quantum lattice work**: Active research on Ring-LWE encryption, CVP hardness on cyclotomic ideals, and sub-cubic homomorphic matrix multiplication via novel algebraic structures
+- **MPC advances**: Sublinear verification techniques are narrowing the gap between passive and active security in multiparty computation over integer rings
+- **Blockchain & consensus**: Selfish mining economics, proof-of-useful-work limitations, and differential privacy in distributed protocols are active open problems
+- **Cryptanalysis**: Practical fault attacks on legacy standards (GEA-1/GEA-2), CNN model extraction attacks, and quantum algorithm analysis (Dihedral Coset Problem) signal broad attack surface growth
+- **Error-correcting codes**: Reed-Solomon list-decoding bounds beyond the Johnson bound represent a theoretical breakthrough with cryptographic implications
 
 ---
 
-## Key Players & Organizations
+## Key Players/Organizations
 
-- **IACR** (International Association for Cryptologic Research) — archive operator
-- Academic institutions globally (primary contributors)
-- Industry research labs (Meta, Google, Ethereum Foundation, etc.) with applied cryptography teams
-- Automated/AI-assisted research projects (e.g., *better.codes*)
+- **Academic institutions**: MIT, ETH Zurich, CWI, Stanford, and affiliated IACR member universities
+- **Industry labs**: Google Security, Meta Research, Ethereum Foundation, NTT Research
+- **Open-source projects**: better.codes autoresearch initiative, ZKP protocol teams
 
 ---
 
 ## Outlook
-
-The archive is trending toward **more interdisciplinary submissions**, blending machine learning, formal verification, and cryptography. Quantum-resilient constructions and ZK-proof optimization will likely dominate near-term output. Automated theorem discovery tools are beginning to appear as credited contributors, suggesting a shift in how cryptographic research is produced and validated.
+The archive will increasingly reflect convergence between **ZK systems, post-quantum standards, and AI-adjacent cryptography**. Expect accelerating output around NIST PQC finalization, zkVM security proofs, and MPC-in-the-head constructions as production deployments demand rigorous vetting.
 
 ## Source Entries
 
