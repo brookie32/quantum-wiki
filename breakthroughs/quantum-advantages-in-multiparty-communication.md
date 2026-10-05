@@ -14,4 +14,11 @@ stale: false
 
 arXiv:2512.05538v2 Announce Type: replace Abstract: We investigate two senders and one receiver multiparty communication scenario. Following Phys.Rev.A83, 062112 and arXiv : 2506.07699, we study multiparty communication bounded by dimension and distinguishability. We provide an explicit characterization of the classical correlations achievable under these constraints. We then demonstrate that quantum communication systematically exceeds these classical limits, even in the absence of preshared entanglement and without any input choice for the receiver. Furthermore, we implement semidefinite hierarchy tools tailored to the two-sender, one-receiver setting for both types of constraints considered. Our results reveal a clear quantum advantage in multiparty communication under those restrictions.
 
+
+
+## Related
+- [[quantum-advantage-of-permutation-invariant-functions-in-comm|Quantum Advantage of Permutation-Invariant Functions in Communication Complexity]]
+- [[quantum-telepathy-a-quantum-technology-with-near-term-applic|Quantum Telepathy: A Quantum Technology with Near-Term Applications]]
+- [[optimal-and-approximately-optimal-quantum-strategies-for-xor|Optimal, and approximately optimal, quantum strategies for XOR^{*} and FFL games]]
+
 **Source:** [arXiv quant-ph](https://arxiv.org/abs/2512.05538) | 2026-10-05
