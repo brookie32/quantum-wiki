@@ -14,4 +14,11 @@ stale: false
 
 arXiv:2609.28136v1 Announce Type: new Abstract: In this paper, I address the problem regarding the physicality of Hilbert space in quantum mechanics, a topic brought into focus by Carcassi et al.'s paper "The unphysicality of Hilbert spaces" recently. I argue for the physicality of the Hilbert space in quantum mechanics, and demonstrate that there are inevitable ambiguity and arbitrariness if we want to identify the set of physical states with a proper subset of it. Moreover, I distinguish the ontological and modal reading of physicality from the pragmatic and operational reading of physicality, and then develop what I call the hierarchical view of physicality. According to this view, physicality is not a monolithic concept, but a layered one that admits degrees. I show the connection between the concept of physicality and modal metaphysics, and finally explain how it can be used to address the interpretational problem of quantum field theory brought by the existence of inequivalent representations.
 
+
+
+## Related
+- [[from-reversible-quantum-dynamics-to-statistical-probability-|From Reversible Quantum Dynamics to Statistical Probability: A dynamical solution to the origin of probability and Hilbert's sixth problem]]
+- [[quantum-oblique-eigenprojection|Quantum oblique eigenprojection]]
+- [[quantum-maximum-likelihood-prediction-via-hilbert-space-embe|Quantum Maximum Likelihood Prediction via Hilbert Space Embeddings]]
+
 **Source:** [arXiv quant-ph](https://arxiv.org/abs/2609.28136) | 2026-09-24

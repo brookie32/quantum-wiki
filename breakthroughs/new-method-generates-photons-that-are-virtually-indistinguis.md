@@ -14,4 +14,9 @@ stale: false
 
 Insider Brief PRESS RELEASE — Working in close collaboration, researchers from Paderborn University, the University of Basel and Ruhr University Bochum have made a significant breakthrough in the field of quantum communication. In their recently published paper in the prestigious journal Physical Review Letters, they demonstrate how special semiconductor nanostructures can be used to generate individual […]
 
+
+
+## Related
+- [[new-method-generates-nearly-indistinguishable-photons-for-qu|New method generates nearly indistinguishable photons for quantum communication]]
+
 **Source:** [The Quantum Insider](https://thequantuminsider.com/2026/10/02/new-method-generates-photons-that-are-virtually-indistinguishable/) | 2026-10-02

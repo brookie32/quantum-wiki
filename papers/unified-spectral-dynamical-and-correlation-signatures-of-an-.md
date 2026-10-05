@@ -14,4 +14,11 @@ stale: false
 
 arXiv:2609.23382v1 Announce Type: new Abstract: We investigate how the exceptional-point structure of a dissipative cavity optomechanical system is inherited by experimentally accessible dynamical, spectral, and quantum-statistical observables. At optical-mechanical resonance, the effective non-Hermitian first-moment dynamics exhibits a second-order exceptional point, where two eigenvalues and their eigenvectors coalesce and the eigenvalue splitting follows the characteristic square-root dependence on perturbations. We show that the same square-root feature also governs transient photon and phonon populations, first-order coherence, spectral poles, and second-order intensity correlations. Below the exceptional point, the dynamics is non-oscillatory, whereas above it damped oscillations emerge together with frequency splitting of the spectral poles. At the exceptional point, the Jordan-block structure produces polynomial-exponential relaxation and a second-order spectral pole. Using the quantum regression theorem and Gaussian moment factorization, we further show that the stationary fluctuations satisfy the Siegert relation linking first- and second-order correlations. Although the zero-delay autocorrelations retain their thermal value, the finite-delay intensity correlations exhibit clear exceptional point signatures. This finding connects non-Hermitian mode coalescence with measurable dynamical and correlation observables in cavity optomechanics.
 
+
+
+## Related
+- [[emergence-of-chaos-with-exceptional-points-in-reset-driven-f|Emergence of chaos with exceptional points in reset-driven Floquet dynamics]]
+- [[exceptional-points-and-jordan-chain-signatures-in-quantum-fi|Exceptional points and Jordan-chain signatures in quantum first-passage statistics]]
+- [[synchronizing-spectral-and-interference-criticalities-at-an-|Synchronizing Spectral and Interference Criticalities at an Exceptional Point]]
+
 **Source:** [arXiv quant-ph](https://arxiv.org/abs/2609.23382) | 2026-09-22

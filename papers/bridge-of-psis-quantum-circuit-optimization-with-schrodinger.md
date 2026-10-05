@@ -14,4 +14,11 @@ stale: false
 
 arXiv:2609.25947v1 Announce Type: new Abstract: Quantum circuit optimization replaces a circuit with an equivalent one of fewer gates and lower depth, reducing execution cost and error rate. We ask whether a generative model can learn this transformation directly from examples, rather than selecting from a fixed rewrite library or rigid algebraic routines. We present Bridge of Psi's (BOPS), a generative model based on Schrodinger bridges, using a custom denoiser architecture, that learns a transformation from a source circuit into an equivalent optimized circuit. We train it on data constructed to be hard for existing optimizers, by applying rewrite rules backwards so that each input has a known lower-cost target. On held-out 8 qubits imes 64 depth Clifford+T circuits, BOPS reduces gate count by 2.46imes and depth by 2.45imes in geometric mean, outperforming all nine baseline optimizers. This constitutes the first generative model bridging quantum circuits and frontier machine learning methods, opening up the quantum compilation stack to learned optimization along multiple axes.
 
+
+
+## Related
+- [[factorization-of-exclusive-sum-of-products-expressions-with-|Factorization of Exclusive-Sum-Of-Products Expressions with Rectangle Covering to Reduce Quantum Circuit Cost]]
+- [[efficient-synthesis-of-multi-controlled-toffoli-gates-with-t|Efficient Synthesis of Multi-Controlled Toffoli Gates with Ternary Clifford+P_9 Gates]]
+- [[quantum-enhanced-sampling-of-schrodinger-bridges|Quantum-Enhanced Sampling of Schrodinger Bridges]]
+
 **Source:** [arXiv quant-ph](https://arxiv.org/abs/2609.25947) | 2026-09-23

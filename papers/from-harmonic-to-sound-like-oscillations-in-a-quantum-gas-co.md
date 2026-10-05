@@ -14,4 +14,11 @@ stale: false
 
 arXiv:2609.24738v1 Announce Type: new Abstract: We study the center of mass oscillations of a quantum gas in a shell shaped trap in the presence of a vertical force opposed to gravity. The measured harmonic frequency at the bottom of the shell is compared with an analytical formula for the trap potential including corrections beyond the rotating wave approximation. When gravity is partially compensated, a quartic correction to the harmonic motion has to be included due to the shell curvature. As gravity is nearly canceled, the quantum gas occupies a large fraction of the lower hemisphere. Driving the center of mass induces internal excitations in the quantum gas, whose time evolution is governed by the presence of sound waves. Relaxation processes induce a strong damping of the center of mass oscillation in this limit.
 
+
+
+## Related
+- [[repulsive-fermions-and-shell-effects-on-the-surface-of-a-sph|Repulsive fermions and shell effects on the surface of a sphere]]
+- [[vortex-dipoles-in-expanding-shell-shaped-bose-einstein-conde|Vortex dipoles in expanding shell-shaped Bose-Einstein condensates]]
+- [[sound-propagation-in-one-dimensional-quantum-droplets|Sound propagation in one-dimensional quantum droplets]]
+
 **Source:** [arXiv cond-mat.quant-gas](https://arxiv.org/abs/2609.24738) | 2026-09-22
