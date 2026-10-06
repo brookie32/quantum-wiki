@@ -1,0 +1,17 @@
+---
+title: "Zapata Quantum Joins IBM Quantum Network to Accelerate Mission-Driven Quantum Application Development - The Manila Times"
+date: "2026-10-06"
+updated: "2026-10-06"
+source: "agent"
+category: "networking"
+tags: [networking, google-news--quantum-networking]
+url: "https://news.google.com/rss/articles/CBMihgJBVV95cUxNdG9ldXEyNFhEWWRMVWoyV1dkTmFWQTc5UWRud1BabXl6UVExbEhKWU9GUWV2eVVaVGs4cmNybzhLZTZ1TGpDbkRWNUtEY3Qtdkc3dXpHd01yYVRYN1FoQkpaZ3VKQlpqdUNuOW1vV2tMX21WelgycDg3TndFckNQdHE2SnIxVFVSdmdPMjlaQTNpMGp0SzBfR1JaSzNwS2VDanE3dUd6d0RKZ2dSNFp2LXBmYW1WY1RvU3VkYy1Db05reGR2cFdDYlVWczhkTF9VRk5fZUhyRnJlS2g2SVRTREpNWnhBVXRXMDdUWXdmcDloTndSNWJ1ZFlPOFJ4OHBBQ2pNMExB0gGLAkFVX3lxTFBrLVV0Yk9COU9FaW1CUnpia1pGSktsUFNKRi1UbzRtNEl4b1N0SkdEZ1dEdldKbGJ2eEtXaHlhVXZGYmtPWHI2VVFJRTBKd1pzMTNtRTltSEFaMngtMGFjaS1yOWNtcU1VR0I4SHNiQ0tkNnV2c0FQV2twUklsbXNxX0R0ay1weklFVU9ZZWxNcWp1R3B2b3ZiTXBGZUN4enZURXFIZ0IzbzRFZDItMHlmY2FSdmRQeHo2aG84RjRRaVJ1LUFWdzl1UlpnbnF0X3h2ajlmU1RFY0lWMEFDNkhLOEhtSjdsTzA0Z2tkN0NSSUFGSDBzRENzREtsNkJ0bnNidUxZczY3LUhjZw?oc=5"
+summary: "Zapata Quantum has officially joined IBM’s Quantum Network, a partnership aimed at expediting the development of mission‑driven quantum applications. The collaboration provides Zapata with access to I"
+last_verified: "2026-10-06"
+review_by: "2027-01-04"
+stale: false
+---
+
+Zapata Quantum has officially joined IBM’s Quantum Network, a partnership aimed at expediting the development of mission‑driven quantum applications. The collaboration provides Zapata with access to IBM’s quantum hardware and software resources, while IBM benefits from Zapata’s expertise in applying deep learning to quantum chemistry and other domain problems. The move is expected to accelerate the transition of quantum research into practical, real‑world solutions.
+
+**Source:** [Google News: quantum networking](https://news.google.com/rss/articles/CBMihgJBVV95cUxNdG9ldXEyNFhEWWRMVWoyV1dkTmFWQTc5UWRud1BabXl6UVExbEhKWU9GUWV2eVVaVGs4cmNybzhLZTZ1TGpDbkRWNUtEY3Qtdkc3dXpHd01yYVRYN1FoQkpaZ3VKQlpqdUNuOW1vV2tMX21WelgycDg3TndFckNQdHE2SnIxVFVSdmdPMjlaQTNpMGp0SzBfR1JaSzNwS2VDanE3dUd6d0RKZ2dSNFp2LXBmYW1WY1RvU3VkYy1Db05reGR2cFdDYlVWczhkTF9VRk5fZUhyRnJlS2g2SVRTREpNWnhBVXRXMDdUWXdmcDloTndSNWJ1ZFlPOFJ4OHBBQ2pNMExB0gGLAkFVX3lxTFBrLVV0Yk9COU9FaW1CUnpia1pGSktsUFNKRi1UbzRtNEl4b1N0SkdEZ1dEdldKbGJ2eEtXaHlhVXZGYmtPWHI2VVFJRTBKd1pzMTNtRTltSEFaMngtMGFjaS1yOWNtcU1VR0I4SHNiQ0tkNnV2c0FQV2twUklsbXNxX0R0ay1weklFVU9ZZWxNcWp1R3B2b3ZiTXBGZUN4enZURXFIZ0IzbzRFZDItMHlmY2FSdmRQeHo2aG84RjRRaVJ1LUFWdzl1UlpnbnF0X3h2ajlmU1RFY0lWMEFDNkhLOEhtSjdsTzA0Z2tkN0NSSUFGSDBzRENzREtsNkJ0bnNidUxZczY3LUhjZw?oc=5) | 2026-10-06
