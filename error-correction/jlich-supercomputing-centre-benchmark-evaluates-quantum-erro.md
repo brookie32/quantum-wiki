@@ -1,0 +1,17 @@
+---
+title: "Jülich Supercomputing Centre Benchmark Evaluates Quantum Error Correction Primitives Across Quantinuum, IBM, and IQM Hardware - Quantum Computing Report"
+date: "2026-10-07"
+updated: "2026-10-07"
+source: "agent"
+category: "error-correction"
+tags: [error-correction, google-news--error-correction]
+url: "https://news.google.com/rss/articles/CBMi9gFBVV95cUxORXpRdHFfeFJDM0NQX1lPcTNoNWlHYzM2VHNMWGxiTV9meS1JVnhIQ0NycVAySnY4STVLYjRaWUR4V2VLRDdwWjgzYnIyVW55S1RBRVJ3Z0gyRGVxRFoydTZJSG5sZXNYTGFtN2hSN19VaUFTTXR1SEhDa2V1NE5NZkZaWnJsRWgzQVM1RV9ZUi1iOUgzeC1Jekd1d0ozeElUVGZ5U3F6eDBzMlB5dVpSbklpMzUzUlFpOE5hT0pFMmZPSW81bUVMdTNTVmpRU2VrS19CWHE4UUgyaFhTVXNWMFp4UTEyUEJIemhBWFJnTExuQXNQcWfSAfYBQVVfeXFMTkV6UXRxX3hSQzNDUF9ZT3EzaDVpR2MzNlRzTFhsYk1fZnktSVZ4SENDcnFQMkp2OEk1S2I0WllEeFdlS0Q3cFo4M2JyMlVueUtUQUVSd2dIMkRlcURaMnU2SUhubGVzWExhbTdoUjdfVWlBU010dUhIQ2tldTROTWZGWlpybEVoM0FTNUVfWVItYjlIM3gtSXpHdXdKM3hJVFRmeVNxengwczJQeXVaUm5JaTM1M1JRaThOYU9KRTJmT0lvNW1FTHUzU1ZqUVNla0tfQlhxOFFIMmhYU1VzVjBaeFExMlBCSHpoQVhSZ0xMbkFzUHFn?oc=5"
+summary: "The Jülich Supercomputing Centre has benchmarked basic quantum‑error‑correction (QEC) primitives on three leading quantum processors: Quantinuum, IBM, and IQM. The study measured performance metrics s"
+last_verified: "2026-10-07"
+review_by: "2027-01-05"
+stale: false
+---
+
+The Jülich Supercomputing Centre has benchmarked basic quantum‑error‑correction (QEC) primitives on three leading quantum processors: Quantinuum, IBM, and IQM. The study measured performance metrics such as gate fidelity, error rates and throughput to compare how each platform implements QEC in the near‑term era. Results provide insights into which hardware shows the strongest capability for reliable fault‑tolerant operation.
+
+**Source:** [Google News: error correction](https://news.google.com/rss/articles/CBMi9gFBVV95cUxORXpRdHFfeFJDM0NQX1lPcTNoNWlHYzM2VHNMWGxiTV9meS1JVnhIQ0NycVAySnY4STVLYjRaWUR4V2VLRDdwWjgzYnIyVW55S1RBRVJ3Z0gyRGVxRFoydTZJSG5sZXNYTGFtN2hSN19VaUFTTXR1SEhDa2V1NE5NZkZaWnJsRWgzQVM1RV9ZUi1iOUgzeC1Jekd1d0ozeElUVGZ5U3F6eDBzMlB5dVpSbklpMzUzUlFpOE5hT0pFMmZPSW81bUVMdTNTVmpRU2VrS19CWHE4UUgyaFhTVXNWMFp4UTEyUEJIemhBWFJnTExuQXNQcWfSAfYBQVVfeXFMTkV6UXRxX3hSQzNDUF9ZT3EzaDVpR2MzNlRzTFhsYk1fZnktSVZ4SENDcnFQMkp2OEk1S2I0WllEeFdlS0Q3cFo4M2JyMlVueUtUQUVSd2dIMkRlcURaMnU2SUhubGVzWExhbTdoUjdfVWlBU010dUhIQ2tldTROTWZGWlpybEVoM0FTNUVfWVItYjlIM3gtSXpHdXdKM3hJVFRmeVNxengwczJQeXVaUm5JaTM1M1JRaThOYU9KRTJmT0lvNW1FTHUzU1ZqUVNla0tfQlhxOFFIMmhYU1VzVjBaeFExMlBCSHpoQVhSZ0xMbkFzUHFn?oc=5) | 2026-10-07
