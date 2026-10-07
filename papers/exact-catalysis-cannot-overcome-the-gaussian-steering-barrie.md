@@ -1,0 +1,17 @@
+---
+title: "Exact Catalysis Cannot Overcome the Gaussian-Steering Barrier for Remote Wigner Negativity"
+date: "2026-10-07"
+updated: "2026-10-07"
+source: "agent"
+category: "papers"
+tags: [papers, arxiv-quant-ph]
+url: "https://arxiv.org/abs/2610.08509"
+summary: "arXiv:2610.08509v1 Announce Type: new Abstract: Gaussian steering sets a sharp threshold for creating Wigner negativity at a distance. A measurement by Bob can make Alice's part of a shared Gaussian s"
+last_verified: "2026-10-07"
+review_by: "2027-01-05"
+stale: false
+---
+
+arXiv:2610.08509v1 Announce Type: new Abstract: Gaussian steering sets a sharp threshold for creating Wigner negativity at a distance. A measurement by Bob can make Alice's part of a shared Gaussian state Wigner negative only if Alice can steer him with Gaussian measurements. We ask whether multiple copies, ancillas, or catalysts can lift this requirement when Alice is restricted to Gaussian operations. We introduce the steered negativity, a multiplicative monotone whose logarithm equals the Gaussian steerability for Gaussian states. It bounds the negativity that Bob can herald and rules out activation by copies, by ancillas of Bob, and by catalysts without remote negativity of their own. For a strictly unsteerable Gaussian state and a single round of feed-forward to a Gaussian unitary of Alice, we further prove that even a Wigner-negative or steerable catalyst cannot help if it is returned exactly. Gaussian steering thus remains a barrier to remote Wigner negativity beyond the single-copy setting.
+
+**Source:** [arXiv quant-ph](https://arxiv.org/abs/2610.08509) | 2026-10-07

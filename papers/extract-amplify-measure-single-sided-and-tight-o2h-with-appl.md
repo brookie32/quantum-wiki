@@ -1,0 +1,17 @@
+---
+title: "Extract-Amplify-Measure: Single-Sided and Tight O2H with Applications to CCA Security in the Quantum Random Oracle Model"
+date: "2026-10-06"
+updated: "2026-10-07"
+source: "agent"
+category: "papers"
+tags: [papers, iacr-eprint-archive]
+url: "https://eprint.iacr.org/2026/2370"
+summary: "The One-Way-to-Hiding (O2H) theorem is a useful tool for analyzing reprogramming in the quantum random oracle model (QROM). It bounds the distinguishing advantage by the probability epsilon that a one"
+last_verified: "2026-10-07"
+review_by: "2027-01-05"
+stale: false
+---
+
+The One-Way-to-Hiding (O2H) theorem is a useful tool for analyzing reprogramming in the quantum random oracle model (QROM). It bounds the distinguishing advantage by the probability epsilon that a one-wayness attacker finds the reprogrammed point. A sequence of works has improved the tightness of this theorem. Currently, the Measure-Rewind-Extract O2H (MRE-O2H) theorem proved by Ge et al. (ASIACRYPT 2024) achieves the tightest known upper bound of O(sqrt{q}dotepsilon), where q is the number of quantum queries. This theorem follows the Double-Sided idea introduced by Bindel et al. (TCC 2019), which requires the one-wayness attacker to access both the original and reprogrammed random oracles, thereby imposing stronger requirements on the reduction. Moreover, it incurs a q-dependent loss of O(sqrt{q}). In this paper, we address these limitations by proving two Extract-Amplify-Measure (EAM) O2H theorems. First, we prove a Single-Sided EAM-O2H (SSEAM-O2H) theorem, which achieves the same O(sqrt{q}dotepsilon) upper bound as the MRE-O2H theorem, while the resulting attacker only needs access to either the original or the reprogrammed random oracle, reducing the requirements on the underlying reduction. Second, we prove a Double-Sided EAM-O2H (DSEAM-O2H) theorem, which retains the Double-Sided idea used in the MRE-O2H theorem but removes the q-dependent loss, yielding a tight O(epsilon) upper bound. As applications, we revisit the security of several Fujisaki--Okamoto variants proposed by Hofheinz et al. (TCC 2017) in the QROM, namely extsf{U}^{slashed{ot}}, mathsf{FO}^{slashed{ot}}, mathsf{FO}^{slashed{ot}}_{m}, mathsf{FO}^{ot}, and mathsf{FO}^{ot}_{m}, and obtain the following results: The extsf{IND-CCA} security of extsf{U}^{slashed{ot}} can be reduced to the extsf{OW-CPA} security of the underlying PKE scheme. Compared with the previous proofs by Bindel et al. (TCC 2019) and Kuchta et al. (EUROCRYPT 2020), we avoid both the square-root loss and the q-dependent loss in the underlying adversary's extsf{OW-CPA} advantage. The extsf{IND-CCA} security of mathsf{FO}^{slashed{ot}}, mathsf{FO}^{slashed{ot}}_{m}, mathsf{FO}^{ot}, and mathsf{FO}^{ot}_{m} can be reduced to the extsf{IND-CPA} security of the underlying PKE scheme. Compared with the previous proofs by Ge et al. (ASIACRYPT 2024), we reduce the q-dependent loss from O(q^{1.5}) to O(q^{0.5}). Assuming unique randomness recoverability, the extsf{IND-CCA} security of mathsf{FO}^{slashed{ot}}, mathsf{FO}^{slashed{ot}}_{m}, mathsf{FO}^{ot}, and mathsf{FO}^{ot}_{m} can be reduced to the extsf{OW-CPA} security of the underlying PKE scheme. Compared with the previous proofs by Ge et al. (ASIACRYPT 2024), we avoid the q-dependent loss in the underlying adversary's extsf{OW-CPA} advantage.
+
+**Source:** [IACR ePrint Archive](https://eprint.iacr.org/2026/2370) | 2026-10-06

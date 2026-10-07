@@ -1,0 +1,17 @@
+---
+title: "Neural Petri flows for chemical reactions"
+date: "2026-10-07"
+updated: "2026-10-07"
+source: "agent"
+category: "papers"
+tags: [papers, arxiv-physics-chem-ph]
+url: "https://arxiv.org/abs/2610.08750"
+summary: "arXiv:2610.08750v1 Announce Type: cross Abstract: Petri nets have been used to describe chemical processes such as reactions.They map well to chemistry: Places are the bonds between atoms and the free"
+last_verified: "2026-10-07"
+review_by: "2027-01-05"
+stale: false
+---
+
+arXiv:2610.08750v1 Announce Type: cross Abstract: Petri nets have been used to describe chemical processes such as reactions.They map well to chemistry: Places are the bonds between atoms and the free valence of each atom, a token is a unit of bond order, a transition forms or breaks a bond, the conserved quantities are the valence budgets of the atoms, and the enabling rule is the valence rule. These semantics are not guaranteed by learned models of reactions or neural networks that are built on Petri nets that use the net as a scaffold for message passing. Here, we ask what architecture remains a Petri net for every value of its weights. We find the answer in the theory, where all semantics of a net share the firing form m^prime=m+Csigma, locality, as enabling reads only the inputs of a transition, and the enabling rule, and we prove that conservation forces the firing form and that non-negativity forces the enabling rule on local rate laws. This leaves free the rate law, which is the propensity of each transition to fire. We introduce Neural Petri Flow, which learns this rate law, or a readout for classification, and hard-wires the rest as parameter-free layers. On what we denote a valence net, atom mapping, reaction classification, and forward prediction become three tasks on one firing vector. Without training, the minimum firing vector maps 88.8% of the curated Golden set against 85.6% for RXNMapper, and 88.7 against 77.9% of the enzymatic reactions of EnzymeMap. On USPTO-480K, NPF trained on these firing vectors predicts 87.7% of the products and 67.4% when trained on a 1% subset of the training reactions. EC numbers of ECREACT are predicted at the third level for 90.2% of reactions, 5.6 points ahead of the best published method. With electrons as tokens, the same token game predicts 90.5% of the elementary steps of FlowER first, ahead of the published baseline, and every top-1 prediction is a valid molecule without a filter.
+
+**Source:** [arXiv physics.chem-ph](https://arxiv.org/abs/2610.08750) | 2026-10-07
