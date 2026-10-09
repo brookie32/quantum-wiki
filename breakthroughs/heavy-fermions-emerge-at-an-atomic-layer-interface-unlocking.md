@@ -14,4 +14,10 @@ stale: false
 
 A research team led by the University of Osaka has directly observed, for the first time, an unusual heavy-fermion state forming at the boundary between a one-atom-thick material and a metal. Such states are closely linked to exotic quantum phenomena, including unconventional superconductivity, and the finding opens new possibilities for designing quantum materials through their interfaces.
 
+
+
+## Related
+- [[chemical-physicists-quantitatively-model-electron-interactio|Chemical physicists quantitatively model electron interactions in real quantum materials]]
+- [[layer-based-design-offers-new-route-to-topological-magnets|Layer-based design offers new route to topological magnets]]
+
 **Source:** [Phys.org Quantum](https://phys.org/news/2026-10-heavy-fermions-emerge-atomic-layer.html) | 2026-10-06

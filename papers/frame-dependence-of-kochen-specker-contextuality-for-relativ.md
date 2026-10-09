@@ -14,4 +14,11 @@ stale: false
 
 arXiv:2610.00274v1 Announce Type: new Abstract: We ask whether Kochen-Specker contextuality is Lorentz invariant. On the full Hilbert space, it is, since boosts act unitarily. Restricted to spin, it is not: momentum acts as an environment applying momentum-dependent Wigner rotations, leaving spin observables unsharp and breaking the operator identities behind state-independent contextuality. For spin 1/2 one scalar governs the loss, the packet average Delta of sin^2(heta_W/2) (where heta_W is the Wigner angle); for any spin, a ray degrades at a rate set by its spin variance transverse to the boost. In the spin-only account, the Free Will Theorem's SPIN axiom fails for every Delta>0; the Yu-Oh set loses contextuality between Deltaapprox0.008 and 0.016, with state independence going first; the Peres-Mermin square loses contextuality at Deltaapprox0.059 or 0.074 by orientation; singlet CHSH loses nonlocality for Deltageq0.159; and a GHZ-state OR gate loses Raussendorf's contextuality certificate at Deltaapprox0.206. A q-plate implements the channel exactly on photon polarisation, with a retardation in place of the rapidity, so the nonlocality, GHZ and aimed-source results are testable without motion.
 
+
+
+## Related
+- [[construction-of-kochen-specker-sets-from-mutually-unbiased-b|Construction of Kochen-Specker Sets from Mutually Unbiased Bases]]
+- [[warring-contextualities---provably-classical-vs-provably-non|Warring Contextualities - Provably Classical vs Provably Nonclassical]]
+- [[contextuality-from-the-projector-overlap-matrix|Contextuality from the Projector Overlap Matrix]]
+
 **Source:** [arXiv quant-ph](https://arxiv.org/abs/2610.00274) | 2026-10-02

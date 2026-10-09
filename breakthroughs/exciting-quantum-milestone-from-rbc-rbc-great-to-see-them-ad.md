@@ -14,4 +14,11 @@ stale: false
 
 Exciting quantum milestone from RBC (@RBC)! Great to see them advancing their quantum strategy by launching a hands-on workforce training program using PennyLane (@PennyLaneAI)'s open-source software to build real-world application capabilities—supported by new academic partnerships with the University of Waterloo (@UWaterloo) and the University of Toronto (@UofT). A massive step forward that strengthens quantum talent and accelerates the entire ecosystem. Read more: https://www.newswire.ca/news-releases/rbc-advances-quantum-technologies-strategy-with-new-appointment-and-two-academic-partnerships-883975745.html
 
+
+
+## Related
+- [[students-will-get-a-look-at-real-photonic-hardware-and-code-|Students will get a look at real photonic hardware and code their very first quantum algorithms using @PennyLaneAI. Learn more about the Sha…]]
+- [[great-to-see-the-next-generation-of-quantum-talent-in-action|Great to see the next generation of quantum talent in action! Earlier today, Daniel Felipe Nino hosted a hands-on PennyLane (@PennyLaneAI) w…]]
+- [[empowering-researchers-worldwide-is-at-the-core-of-what-we-d|Empowering researchers worldwide is at the core of what we do at Xanadu. Do you build with PennyLane (@PennyLaneAI)? Spend 10-15 minutes sup…]]
+
 **Source:** [Xanadu (X)](https://x.com/XanaduAI/status/2106050947256304078) | 2026-10-02
