@@ -14,4 +14,11 @@ stale: false
 
 arXiv:2610.09485v1 Announce Type: new Abstract: We provide a geometric description of Lee-Yang tensors, building upon several recent results of Bravyi, Gosset, Liu, and Wong. By applying tools from complex Perron-Frobenius theory, we generalize one of their key lemmas to bound the spectral ratio of non-normal operators with Lee-Yang radius greater than one. As a direct consequence, we provide a local-to-global principle for bounding spectral gaps of Suzuki-Fisher Hamiltonians, a family of 2-local Hamiltonians, using only the Lee-Yang radius of each local operator to bound the gap from below. On the other hand, we develop a simple perturbative technique to show that the Gibbs states of k-local Hamiltonians, k geq 3, cannot have Lee-Yang radius at least one for all inverse temperatures eta geq 0. We apply this same method to conclude that Suzuki-Fisher Hamiltonians are precisely those Hamiltonians whose Gibbs states are Lee-Yang at all inverse temperatures eta geq 0.
 
+
+
+## Related
+- [[information-geometry-of-four-parameter-single-qutrit-states-|Information Geometry of Four-Parameter Single-Qutrit States: From Quantum to Semiclassical Geometric Tensors]]
+- [[weighted-berry-curvature-and-global-geometry-of-mixed-quantu|Weighted Berry curvature and global geometry of mixed quantum states]]
+- [[how-quantum-is-quantum-geometry|How quantum is quantum geometry?]]
+
 **Source:** [arXiv quant-ph](https://arxiv.org/abs/2610.09485) | 2026-10-08
