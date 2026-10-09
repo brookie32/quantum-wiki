@@ -14,4 +14,10 @@ stale: false
 
 First implementations of nuclear clocks have been reported, using energy‑level transitions within atomic nuclei rather than electronic transitions as in traditional atomic clocks. These ultraprecise devices promise next‑generation timekeeping accuracy and provide a new platform for testing fundamental physics, including the detection of dark‑matter signatures. The studies also highlight potential applications beyond metrology, such as probing variations in physical constants._ENDNOTE
 
+
+
+## Related
+- [[nuclear-spin-isomers-and-the-pauli-principle-in-polaritonic-|Nuclear Spin Isomers and the Pauli Principle in Polaritonic Chemistry]]
+- [[neutron-nucleus-scattering-in-an-l2-integrable-basis|Neutron-nucleus scattering in an L^2-integrable basis]]
+
 **Source:** [Nature: Quantum Physics](https://www.nature.com/articles/d41586-026-03060-9) | 2026-10-07
