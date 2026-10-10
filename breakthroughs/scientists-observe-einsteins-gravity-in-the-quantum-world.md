@@ -14,4 +14,10 @@ stale: false
 
 Insider Brief PRESS RELEASE — An international team including Nobel Prize-winning physicist Professor Sir Roger Penrose has observed a long-predicted effect of gravity on a falling quantum object for the first time. The result shows that a fundamental principle at the heart of Einstein’s theory of gravity remains consistent with the behaviour of matter in […]
 
+
+
+## Related
+- [[bluequbit-supports-qedma-ibm-and-riken-study-on-error-mitiga|BlueQubit Supports Qedma, IBM and RIKEN Study on Error-Mitigated Quantum Simulation]]
+- [[ibm-and-qedma-demonstrate-error-mitigated-quantum-simulation|IBM and Qedma Demonstrate Error-Mitigated Quantum Simulation Beyond Classical Benchmarks]]
+
 **Source:** [The Quantum Insider](https://thequantuminsider.com/2026/09/02/scientists-observe-einsteins-gravity-in-the-quantum-world/) | 2026-09-02
