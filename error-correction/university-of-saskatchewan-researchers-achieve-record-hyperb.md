@@ -1,0 +1,17 @@
+---
+title: "University of Saskatchewan Researchers Achieve Record Hyperbolic Surface Code Efficiency for Modular Fault-Tolerant Architectures - Quantum Computing Report"
+date: "2026-10-10"
+updated: "2026-10-10"
+source: "agent"
+category: "error-correction"
+tags: [error-correction, google-news--error-correction]
+url: "https://news.google.com/rss/articles/CBMi-AFBVV95cUxORlhWeERIQXVRMjJ4UnNtaC05RkdjSU1XaHJNQThoc2U3Y01KZ3Q1U083X1BBQnB0b0hOZlZfZWZtZTdRNHJwb2lDWlM4UUl3Z1JNWTkwQTZHazB3UmFJV0lIaEpGa2JjYVZiYUpndF9TMlF0V3gyMXl0bGVPN240eV83eEM0RkpJMzdReWM2ZE1rSHdZWEZvNWIyd1AtTS1FMngtTGJlWEg0ai1CZjN4SUo4VE85bmlKVG5qYmxQTklpc2RzZ0dEVGV6UkRCTkU4SFdYTDgwbUJ3MXlFT21KTnBrWVFWV0k2LTl2OUpMb21nZlZyQVh4U9IB_gFBVV95cUxNclRqbERPOHBacTRwN0VGSTBwTG5SWEhYZl8tMW5MZzM4TVJiaUFoNDJsMWFjaGZ2a0VfV2gxSVVPNDRFcUczSUJ1a0EtLWRrNFFZcXE4WDJLXzN6bjB3V1pSQkZCdHJidUZpTDFENXBRbWdUWnp5Y2YzM0hDSXEyVWxfd0kxY25qcVYtTWJuLVJKNWxELS1zWGRVUXQ1VktZdk9RWG93eDc5MFFIT3hvUEVwUDZsU1kyc1FwbGlmdUpPMFVtcXJfN0VVSkdmc1ZzM2NFM3p0VXE1R2lIMmhDd0pZdks5TlMtM2ZWcWFzZUhPX0tXdmhzMVVqdFo0dw?oc=5"
+summary: "Researchers at the University of Saskatchewan have reported a record‑breaking efficiency for hyperbolic surface codes designed to support modular fault‑tolerant quantum architectures. This advancement"
+last_verified: "2026-10-10"
+review_by: "2027-01-08"
+stale: false
+---
+
+Researchers at the University of Saskatchewan have reported a record‑breaking efficiency for hyperbolic surface codes designed to support modular fault‑tolerant quantum architectures.  This advancement represents a significant step toward scalable, resilient quantum computing systems.  The results are being highlighted in comprehensive, up‑to‑date global coverage aggregated by Google News.
+
+**Source:** [Google News: error correction](https://news.google.com/rss/articles/CBMi-AFBVV95cUxORlhWeERIQXVRMjJ4UnNtaC05RkdjSU1XaHJNQThoc2U3Y01KZ3Q1U083X1BBQnB0b0hOZlZfZWZtZTdRNHJwb2lDWlM4UUl3Z1JNWTkwQTZHazB3UmFJV0lIaEpGa2JjYVZiYUpndF9TMlF0V3gyMXl0bGVPN240eV83eEM0RkpJMzdReWM2ZE1rSHdZWEZvNWIyd1AtTS1FMngtTGJlWEg0ai1CZjN4SUo4VE85bmlKVG5qYmxQTklpc2RzZ0dEVGV6UkRCTkU4SFdYTDgwbUJ3MXlFT21KTnBrWVFWV0k2LTl2OUpMb21nZlZyQVh4U9IB_gFBVV95cUxNclRqbERPOHBacTRwN0VGSTBwTG5SWEhYZl8tMW5MZzM4TVJiaUFoNDJsMWFjaGZ2a0VfV2gxSVVPNDRFcUczSUJ1a0EtLWRrNFFZcXE4WDJLXzN6bjB3V1pSQkZCdHJidUZpTDFENXBRbWdUWnp5Y2YzM0hDSXEyVWxfd0kxY25qcVYtTWJuLVJKNWxELS1zWGRVUXQ1VktZdk9RWG93eDc5MFFIT3hvUEVwUDZsU1kyc1FwbGlmdUpPMFVtcXJfN0VVSkdmc1ZzM2NFM3p0VXE1R2lIMmhDd0pZdks5TlMtM2ZWcWFzZUhPX0tXdmhzMVVqdFo0dw?oc=5) | 2026-10-10

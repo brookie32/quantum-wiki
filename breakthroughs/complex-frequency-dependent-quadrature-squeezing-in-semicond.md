@@ -14,4 +14,10 @@ stale: false
 
 arXiv:2606.26266v2 Announce Type: replace Abstract: We present a comprehensive study of quadrature squeezing in a quantum well laser based on a fully quantum Langevin approach. We compute the frequency-resolved squeezing map of the laser field and identify optimal squeezing curves, revealing, for the first time to our knowledge, both frequency-dependent squeezing and complex or hidden squeezing in a semiconductor laser. We further analyse the role of the linewidth enhancement factor (alpha-factor) in the emergence of these features. Our results establish semiconductor lasers as a platform for the generation of non-classical light and open new perspectives for their application in quantum communication and sensing.
 
+
+
+## Related
+- [[tunable-spectral-correlations-of-highly-multimode-visible-li|Tunable spectral correlations of highly multimode visible light via broadband quantum frequency conversion]]
+- [[trapped-ion-qubit-gates-and-entanglement-driven-by-an-integr|Trapped Ion Qubit Gates and Entanglement Driven by an Integrated Photonic Laser]]
+
 **Source:** [arXiv quant-ph](https://arxiv.org/abs/2606.26266) | 2026-10-09
