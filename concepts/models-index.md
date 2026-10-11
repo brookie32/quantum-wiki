@@ -14,7 +14,7 @@ stale: false
 
 # All Models
 
-Auto-generated index of models extracted from wiki entries. 13 models with 2+ mentions.
+Auto-generated index of models extracted from wiki entries. 14 models with 2+ mentions.
 
 ## Claude
 *Mentioned in 7 entries*
@@ -105,3 +105,9 @@ Auto-generated index of models extracted from wiki entries. 13 models with 2+ me
 
 - [[qpi-deeponet-mac-a-scalable-and-stable-hybrid-classical-quan]]
 - [[quantum-sedonet-spectrally-embedded-quantum-deep-operator-ne]]
+
+## IonQ Superion 256
+*Mentioned in 2 entries*
+
+- [[at-our-investor-day-ceo-niccolodemasi-shared-a-major-milesto]]
+- [[today-we-debut-ionq-superion-256-our-256-physical-qubit-syst]]

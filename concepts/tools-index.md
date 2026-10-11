@@ -14,7 +14,7 @@ stale: false
 
 # All Tools
 
-Auto-generated index of tools extracted from wiki entries. 56 tools with 2+ mentions.
+Auto-generated index of tools extracted from wiki entries. 61 tools with 2+ mentions.
 
 ## CUDA-Q
 *Mentioned in 30 entries*
@@ -36,10 +36,12 @@ Auto-generated index of tools extracted from wiki entries. 56 tools with 2+ ment
 - [[nvidia-expands-open-source-cuda-q-platform-for-fault-toleran]]
 
 ## PennyLane
-*Mentioned in 25 entries*
+*Mentioned in 28 entries*
 
+- [[as-we-gear-up-for-qhack-2026the-premier-quantum-coding-compe]]
 - [[catch-the-session-from-100---230-pm-to-learn-how-pennylane-p]]
 - [[check-out-our-latest-blog-about-our-new-perspective-on-qml-h]]
+- [[daniel-felipe-nino-visited-the-mcmaster-computer-science-soc]]
 - [[empowering-researchers-worldwide-is-at-the-core-of-what-we-d]]
 - [[exciting-quantum-milestone-from-rbc-rbc-great-to-see-them-ad]]
 - [[from-the-basics-of-pennylaneai-to-the-complexities-of-quantu]]
@@ -51,11 +53,9 @@ Auto-generated index of tools extracted from wiki entries. 56 tools with 2+ ment
 - [[next-week-the-global-quantum-community-lands-in-toronto-for-]]
 - [[participants-will-learn-how-to-how-to-develop-their-own-quan]]
 - [[pennylane-pennylaneai-powers-research-globally-and-were-exci]]
-- [[qevolve-bench-a-seed-benchmark-for-quantum-sdk-evolution-and]]
-- [[ready-to-convert-your-quantum-computing-ideas-into-software-]]
 
 ## Qiskit
-*Mentioned in 19 entries*
+*Mentioned in 20 entries*
 
 - [[chatgpt-solves-all-tested-qiskit-homework-assignments]]
 - [[exploring-observability-options-for-quantum-sdk-workflows-ru]]
@@ -65,13 +65,13 @@ Auto-generated index of tools extracted from wiki entries. 56 tools with 2+ ment
 - [[ibms-benchpress-compiles-qiskit-without-seedtranspiler-i-mea]]
 - [[observing-the-quantum-compiler-through-automatic-experiment-]]
 - [[oxford-quantum-circuits-releases-erado-an-open-source-qiskit]]
+- [[q-hack-india-2026---the-quantum-build-challenge]]
 - [[qevolve-bench-a-seed-benchmark-for-quantum-sdk-evolution-and]]
 - [[qgss-2026-certificates-query]]
 - [[qiskit-qudits-a-qiskit-extension-for-simulating-qudit-circui]]
 - [[qismc-a-model-checker-for-qiskit-program-debugging]]
 - [[quantum-elements-launches-orbit-as-qiskit-function-for-autom]]
 - [[quantum-elements-launches-orbit-error-suppression-tool-throu]]
-- [[the-evolution-of-ibms-quantum-information-software-kit-qiski]]
 
 ## QAOA
 *Mentioned in 15 entries*
@@ -93,11 +93,13 @@ Auto-generated index of tools extracted from wiki entries. 56 tools with 2+ ment
 - [[we-dont-work-on-applications-that-use-qaoa-at-xanaduai-why-o]]
 
 ## Variational Quantum Eigensolver
-*Mentioned in 6 entries*
+*Mentioned in 8 entries*
 
+- [[a-practical-introduction-to-vqe-methods-challenges-and-appli]]
 - [[can-chemically-inspired-parameter-initialization-mitigate-ba]]
 - [[distributed-variational-quantum-eigensolver-embarrassingly-p]]
 - [[iterative-projection-based-embedding-scheme-combined-with-va]]
+- [[parallelizing-the-variational-quantum-eigensolver-from-jit-c]]
 - [[pauli-string-grouping-for-vqe-measurement-reduction-on-a-spa]]
 - [[probing-the-ground-state-of-the-antiferromagnetic-heisenberg]]
 - [[sok-adversarial-robustness-of-the-variational-quantum-eigens]]
@@ -129,6 +131,31 @@ Auto-generated index of tools extracted from wiki entries. 56 tools with 2+ ment
 - [[iqm-and-zurich-instruments-launch-real-time-quantum-error-co]]
 - [[quandela-and-nvidia-outline-photonic-qpu-integration-archite]]
 
+## Quantum Pilot
+*Mentioned in 5 entries*
+
+- [[zapata-quantum-inc-introduces-quantum-pilot-to-enable-system]]
+- [[zapata-quantum-joins-ibm-quantum-network-to-accelerate-enter]]
+- [[zapata-quantum-launches-early-access-quantum-pilot-to-map-en]]
+- [[zapata-quantum-unveils-quantum-pilot-platform-for-automated-]]
+- [[zapata-quantum-zpta-opens-early-access-to-its-quantum-pilot-]]
+
+## Amazon Braket
+*Mentioned in 4 entries*
+
+- [[amazon-braket-launches-rigetti-cepheus-1-108q-superconductin]]
+- [[demonstrating-genuine-multipartite-non-locality-on-quantum-p]]
+- [[explore-nvidia-cuda-q-applications-hub-and-academic-library-]]
+- [[quera-ceo-andy-ory-at-quantum-world-congress-classical-compu]]
+
+## Construct
+*Mentioned in 4 entries*
+
+- [[construct-our-software-suite-of-quantum-algorithm-tools-is-n]]
+- [[preparing-together-for-the-quantum-future-psiquantum-and-bro]]
+- [[psiquantum-and-brookhaven-national-lab-partner-to-develop-fa]]
+- [[updates-from-the-team-behind-constructpsiquantums-open-acces]]
+
 ## VQE
 *Mentioned in 4 entries*
 
@@ -153,13 +180,13 @@ Auto-generated index of tools extracted from wiki entries. 56 tools with 2+ ment
 - [[the-september-xanadu-insider-is-here-inside-this-months-issu]]
 - [[xanadu-and-amd-launch-open-source-backline-extension-for-pen]]
 
-## Quantum Pilot
+## variational quantum eigensolver
 *Mentioned in 4 entries*
 
-- [[zapata-quantum-inc-introduces-quantum-pilot-to-enable-system]]
-- [[zapata-quantum-launches-early-access-quantum-pilot-to-map-en]]
-- [[zapata-quantum-unveils-quantum-pilot-platform-for-automated-]]
-- [[zapata-quantum-zpta-opens-early-access-to-its-quantum-pilot-]]
+- [[classical-active-space-hybrid-quantum-subspace-expansion-cas]]
+- [[connectivity-controls-variational-accessibility-in-symmetry-]]
+- [[demonstration-of-subspace-search-variational-quantum-eigenso]]
+- [[on-the-convergence-of-the-variational-quantum-eigensolver-an]]
 
 ## Willow
 *Mentioned in 3 entries*
@@ -189,26 +216,12 @@ Auto-generated index of tools extracted from wiki entries. 56 tools with 2+ ment
 - [[qevolve-bench-a-seed-benchmark-for-quantum-sdk-evolution-and]]
 - [[what-output-equivalence-oracles-miss-an-empirical-study-of-e]]
 
-## Amazon Braket
-*Mentioned in 3 entries*
-
-- [[amazon-braket-launches-rigetti-cepheus-1-108q-superconductin]]
-- [[demonstrating-genuine-multipartite-non-locality-on-quantum-p]]
-- [[explore-nvidia-cuda-q-applications-hub-and-academic-library-]]
-
 ## QESEM
 *Mentioned in 3 entries*
 
 - [[qedma-brings-quantum-error-mitigation-to-nvidia-cuda-q]]
 - [[qedma-integrates-qesem-error-mitigation-software-with-quanti]]
 - [[qedma-integrates-qesem-quantum-error-mitigation-software-int]]
-
-## Construct
-*Mentioned in 3 entries*
-
-- [[construct-our-software-suite-of-quantum-algorithm-tools-is-n]]
-- [[preparing-together-for-the-quantum-future-psiquantum-and-bro]]
-- [[psiquantum-and-brookhaven-national-lab-partner-to-develop-fa]]
 
 ## Deltakit
 *Mentioned in 3 entries*
@@ -266,6 +279,13 @@ Auto-generated index of tools extracted from wiki entries. 56 tools with 2+ ment
 - [[classiq-introduces-fault-tolerance-engine-to-bridge-quantum-]]
 - [[classiq-launches-fault-tolerance-engine-for-hardware-aware-q]]
 
+## Strongpoint
+*Mentioned in 3 entries*
+
+- [[project-eleven-and-quantus-plan-integration-for-institutiona]]
+- [[project-eleven-launches-strongpoint-for-post-quantum-digital]]
+- [[project-eleven-launches-strongpoint-post-quantum-custody-pla]]
+
 ## Rust
 *Mentioned in 2 entries*
 
@@ -313,6 +333,12 @@ Auto-generated index of tools extracted from wiki entries. 56 tools with 2+ ment
 
 - [[an-exactness-barrier-for-zx-calculus-optimization-of-synthes]]
 - [[fractal-quantum-many-body-scars-and-hamiltonian-inverse-desi]]
+
+## QICK
+*Mentioned in 2 entries*
+
+- [[has-anyone-tried-using-qick-systems-hardware-with-zcu208-boa]]
+- [[the-qick-box-a-modular-rf-front-end-system-for-quantum-contr]]
 
 ## Pangaea
 *Mentioned in 2 entries*
@@ -374,12 +400,6 @@ Auto-generated index of tools extracted from wiki entries. 56 tools with 2+ ment
 - [[sealsq-and-wolfssl-add-wolftpm-support-for-qvault-post-quant]]
 - [[sealsq-integrates-wolftpm-support-into-post-quantum-silicon-]]
 
-## variational quantum eigensolver
-*Mentioned in 2 entries*
-
-- [[classical-active-space-hybrid-quantum-subspace-expansion-cas]]
-- [[on-the-convergence-of-the-variational-quantum-eigensolver-an]]
-
 ## ADAPT-VQE
 *Mentioned in 2 entries*
 
@@ -439,3 +459,21 @@ Auto-generated index of tools extracted from wiki entries. 56 tools with 2+ ment
 
 - [[qt-612-lts-released-with-qml-hot-reload-gpu-accelerated-canv]]
 - [[qt-612-lts-released-with-qml-hot-reloading-stylekit-in-exper]]
+
+## AgenticOS
+*Mentioned in 2 entries*
+
+- [[haiqu-releases-agenticos-to-plan-and-check-quantum-research]]
+- [[haiqu-unveils-agenticos-platform-for-automated-scientificall]]
+
+## Neutral-Atom Agentic Toolkit
+*Mentioned in 2 entries*
+
+- [[learn-more-about-the-toolkit-and-the-technical-story-httpsww]]
+- [[what-if-your-next-quantum-experiment-started-in-your-coding-]]
+
+## TFHE
+*Mentioned in 2 entries*
+
+- [[bolt-fhe-an-efficient-unified-framework-for-gpu-based-tfhe-b]]
+- [[low-noise-multi-value-bootstrapping-via-log-unit-lattice-sea]]

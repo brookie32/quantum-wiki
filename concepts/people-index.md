@@ -14,15 +14,35 @@ stale: false
 
 # All People
 
-Auto-generated index of people extracted from wiki entries. 196 people with 2+ mentions.
+Auto-generated index of people extracted from wiki entries. 209 people with 2+ mentions.
+
+## Kitaev
+*Mentioned in 32 entries*
+
+- [[a-physical-and-universal-model-of-bosonic-computations-with-]]
+- [[achieving-perfect-completeness-for-one--and-two-message-quan]]
+- [[breaking-the-cubic-barrier-for-the-inverse-free-solovay-kita]]
+- [[characterizing-fermionic-non-gaussianity-in-the-sachdev-ye-k]]
+- [[composable-logical-gate-error-in-approximate-quantum-error-c]]
+- [[decohering-kitaevs-sixteenfold-way-a-holographic-approach]]
+- [[deterministic-universal-logical-gates-for-finite-energy-gkp-]]
+- [[dissipation-enhanced-scrambling-in-the-syk-model-coupled-to-]]
+- [[dissipation-induced-sachdev-ye-kitaev-physics-in-many-body-c]]
+- [[exact-spectrum-and-anomalous-relaxation-in-the-open-disorder]]
+- [[fault-tolerant-non-clifford-gkp-gates-using-polynomial-phase]]
+- [[fine-grained-complexity-for-quantum-problems-from-size-prese]]
+- [[finite-energy-gottesman-kitaev-preskill-state-enhanced-optic]]
+- [[generation-of-large-amplitude-squeezed-cat-states-with-near-]]
+- [[gottesman-kitaev-preskill-error-correction-with-decohered-re]]
 
 ## Christian Weedbrook
-*Mentioned in 29 entries*
+*Mentioned in 30 entries*
 
 - [[canada-is-waking-up-now-at-this-weeks-canada-investment-summ]]
 - [[christian-weedbrook-cweedbrook-founder-and-ceo-of-xanadu-joi]]
 - [[christian-weedbrook-cweedbrook-founder-and-ceo-of-xanadu-rec]]
 - [[christian-weedbrook-cweedbrook-founder-and-ceo-of-xanadu-was]]
+- [[from-dropping-out-of-film-school-to-taking-a-canadian-quantu]]
 - [[from-foundational-research-to-public-market-listing-join-chr]]
 - [[from-navigating-us-darpa-milestones-to-entering-final-negoti]]
 - [[from-toronto-startup-to-the-nasdaq-main-stage-christian-weed]]
@@ -33,30 +53,11 @@ Auto-generated index of people extracted from wiki entries. 196 people with 2+ m
 - [[it-was-a-great-week-at-the-toronto-machine-learning-summit-c]]
 - [[join-xanadu-at-ieee-quantum-week-this-september-christian-we]]
 - [[kicking-off-toronto-tech-week-totechweek-on-monday-christian]]
-- [[last-week-at-discoveryx-christian-weedbrook-cweedbrook-found]]
-
-## Kitaev
-*Mentioned in 28 entries*
-
-- [[a-physical-and-universal-model-of-bosonic-computations-with-]]
-- [[achieving-perfect-completeness-for-one--and-two-message-quan]]
-- [[deterministic-universal-logical-gates-for-finite-energy-gkp-]]
-- [[dissipation-enhanced-scrambling-in-the-syk-model-coupled-to-]]
-- [[dissipation-induced-sachdev-ye-kitaev-physics-in-many-body-c]]
-- [[exact-spectrum-and-anomalous-relaxation-in-the-open-disorder]]
-- [[fault-tolerant-non-clifford-gkp-gates-using-polynomial-phase]]
-- [[fine-grained-complexity-for-quantum-problems-from-size-prese]]
-- [[finite-energy-gottesman-kitaev-preskill-state-enhanced-optic]]
-- [[generation-of-large-amplitude-squeezed-cat-states-with-near-]]
-- [[gottesman-kitaev-preskill-error-correction-with-decohered-re]]
-- [[gravitational-wave-inspired-scrambling-delay-in-sachdev-ye-k]]
-- [[learning-syk-hamiltonians]]
-- [[measurement-based-loss-tolerance-in-graph-gkp-codes-through-]]
-- [[modeling-logical-gates-and-read-out-of-superconducting-gotte]]
 
 ## Preskill
-*Mentioned in 18 entries*
+*Mentioned in 19 entries*
 
+- [[composable-logical-gate-error-in-approximate-quantum-error-c]]
 - [[deterministic-universal-logical-gates-for-finite-energy-gkp-]]
 - [[fault-tolerant-non-clifford-gkp-gates-using-polynomial-phase]]
 - [[finite-energy-gottesman-kitaev-preskill-state-enhanced-optic]]
@@ -71,12 +72,13 @@ Auto-generated index of people extracted from wiki entries. 196 people with 2+ m
 - [[quantum-decision-theory-for-displacement-detection-with-fini]]
 - [[quantum-low-density-lattice-codes]]
 - [[real-classical-shadows-with-noise]]
-- [[seeing-the-quantum-interference-pattern-of-a-cat-state-plott]]
 
 ## Gottesman
-*Mentioned in 17 entries*
+*Mentioned in 19 entries*
 
 - [[causal-inequalities-witness-non-stabilizerness]]
+- [[composable-logical-gate-error-in-approximate-quantum-error-c]]
+- [[continuous-variable-designs-and-design-based-shadow-tomograp]]
 - [[deterministic-universal-logical-gates-for-finite-energy-gkp-]]
 - [[fault-tolerant-non-clifford-gkp-gates-using-polynomial-phase]]
 - [[finite-energy-gottesman-kitaev-preskill-state-enhanced-optic]]
@@ -89,13 +91,12 @@ Auto-generated index of people extracted from wiki entries. 196 people with 2+ m
 - [[probabilistic-error-cancellation-for-single-mode-gottesman-k]]
 - [[quantum-decision-theory-for-displacement-detection-with-fini]]
 - [[quantum-low-density-lattice-codes]]
-- [[seeing-the-quantum-interference-pattern-of-a-cat-state-plott]]
-- [[stabilizers-may-be-poor-bounds-for-fidelities]]
 
 ## Yuval Boger
-*Mentioned in 16 entries*
+*Mentioned in 17 entries*
 
 - [[brian-gaucher-erva-why-engineering-not-physics-now-limits-qu]]
+- [[corey-omeara-eon-finding-real-quantum-advantage-in-grid-opti]]
 - [[dorit-dor-qbeat-ventures-what-cybersecuritys-rise-teaches-qu]]
 - [[gil-kalai-hebrew-university-reichman-university-why-noise-ma]]
 - [[helmut-katzgraber-55north-why-materials-simulation-beats-opt]]
@@ -109,7 +110,25 @@ Auto-generated index of people extracted from wiki entries. 196 people with 2+ m
 - [[podcast-with-steve-gibson-president-of-americas-at-jij]]
 - [[podcast-with-steve-orrin-chief-technology-officer-for-intel-]]
 - [[sebastian-hassinger-the-new-quantum-era-why-neutral-atoms-le]]
-- [[tom-darras-welinq-scaling-quantum-computers-by-networking-sh]]
+
+## John Preskill
+*Mentioned in 15 entries*
+
+- [[chemistry-giant-and-caltech-institution-rudy-marcus-fondly-r]]
+- [[for-fans-of-strunk-and-white-im-one-heres-a-version-customiz]]
+- [[from-dream-to-reality-the-bridge-connecting-quantum-informat]]
+- [[i-feel-guilty-when-i-ask-claude-to-do-something-i-could-have]]
+- [[i-learned-about-markwisesays-from-john-preskills-eulogy-for-]]
+- [[im-at-the-quantumworldcongress-in-college-park-md-where-ill-]]
+- [[in-malibu-yesterday-with-the-great-michel-devoret]]
+- [[interesting-chat-jacobtsimerman-talks-to-toewithcurt-about-h]]
+- [[mark-wise-liked-to-say-that-caltech-is-heaven-for-professors]]
+- [[my-friend-mark-wise-httpsquantumfrontierscom20260718my-frien]]
+- [[my-talk-last-week-at-the-quantumworldcongress-a-20-minute-ov]]
+- [[thank-you-chrismichel-in-the-third-photo-chris-made-a-futile]]
+- [[thank-you-nirmalya-it-was-a-fun-conversation]]
+- [[the-head-that-invented-the-surface-code-wears-a-hat-that-dis]]
+- [[very-articulate-mathematicians-pondering-the-future-of-math-]]
 
 ## Shor
 *Mentioned in 15 entries*
@@ -130,26 +149,10 @@ Auto-generated index of people extracted from wiki entries. 196 people with 2+ m
 - [[topological-quantum-color-code-model-on-infinite-lattice]]
 - [[unconditional-correctness-of-recent-quantum-algorithms-for-f]]
 
-## John Preskill
+## Niccolò De Masi
 *Mentioned in 13 entries*
 
-- [[chemistry-giant-and-caltech-institution-rudy-marcus-fondly-r]]
-- [[for-fans-of-strunk-and-white-im-one-heres-a-version-customiz]]
-- [[from-dream-to-reality-the-bridge-connecting-quantum-informat]]
-- [[i-feel-guilty-when-i-ask-claude-to-do-something-i-could-have]]
-- [[i-learned-about-markwisesays-from-john-preskills-eulogy-for-]]
-- [[im-at-the-quantumworldcongress-in-college-park-md-where-ill-]]
-- [[interesting-chat-jacobtsimerman-talks-to-toewithcurt-about-h]]
-- [[mark-wise-liked-to-say-that-caltech-is-heaven-for-professors]]
-- [[my-friend-mark-wise-httpsquantumfrontierscom20260718my-frien]]
-- [[my-talk-last-week-at-the-quantumworldcongress-a-20-minute-ov]]
-- [[thank-you-chrismichel-in-the-third-photo-chris-made-a-futile]]
-- [[the-head-that-invented-the-surface-code-wears-a-hat-that-dis]]
-- [[very-articulate-mathematicians-pondering-the-future-of-math-]]
-
-## Niccolò De Masi
-*Mentioned in 12 entries*
-
+- [[at-our-investor-day-ceo-niccolodemasi-shared-a-major-milesto]]
 - [[at-reaganinstitutes-rnef-our-ceo-niccolodemasi-speaks-on-the]]
 - [[ionq-and-skywater-technology-are-proud-for-the-first-time-to]]
 - [[join-us-this-thursday-for-our-ceo-niccolodemasi-keynote-at-q]]
@@ -164,8 +167,9 @@ Auto-generated index of people extracted from wiki entries. 196 people with 2+ m
 - [[were-excited-by-the-validation-and-recognition-that-quantum-]]
 
 ## Daniel Felipe Nino
-*Mentioned in 11 entries*
+*Mentioned in 12 entries*
 
+- [[daniel-felipe-nino-visited-the-mcmaster-computer-science-soc]]
 - [[explore-the-full-program-details-and-schedule-here-httpssite]]
 - [[from-mathematical-concepts-to-hands-on-quantum-programming-d]]
 - [[great-to-see-the-next-generation-of-quantum-talent-in-action]]
@@ -179,8 +183,9 @@ Auto-generated index of people extracted from wiki entries. 196 people with 2+ m
 - [[xanadu-is-happy-to-help-inspire-the-next-generation-of-stem-]]
 
 ## Sachdev
-*Mentioned in 10 entries*
+*Mentioned in 11 entries*
 
+- [[characterizing-fermionic-non-gaussianity-in-the-sachdev-ye-k]]
 - [[dissipation-enhanced-scrambling-in-the-syk-model-coupled-to-]]
 - [[dissipation-induced-sachdev-ye-kitaev-physics-in-many-body-c]]
 - [[exact-spectrum-and-anomalous-relaxation-in-the-open-disorder]]
@@ -192,9 +197,24 @@ Auto-generated index of people extracted from wiki entries. 196 people with 2+ m
 - [[single-instance-observables-in-the-sachdev-ye-kitaev-model]]
 - [[size-operator-and-spectral-clustering-in-the-two-coupled-syk]]
 
-## Ye
-*Mentioned in 9 entries*
+## Horne
+*Mentioned in 10 entries*
 
+- [[a-measure-for-genuine-tripartite-entanglement]]
+- [[a-multi-affine-geometric-framework-for-quantum-nonlocality-u]]
+- [[a-resource--and-computationally-efficient-protocol-for-multi]]
+- [[entanglement-drives-common-noise-into-the-strong-coupling-re]]
+- [[fast-ghz-encoding-with-1-o1-fidelity]]
+- [[from-bell-products-to-greenberger-horne-zeilinger-states-qua]]
+- [[ghz-preserving-gates-and-optimized-distillation-circuits]]
+- [[optimal-ghz-extraction-from-mabk-violations]]
+- [[symmetric-multipartite-bell-inequalities-via-frank-wolfe-alg]]
+- [[unconditional-quantum-advantage-from-a-two-round-chsh-proble]]
+
+## Ye
+*Mentioned in 10 entries*
+
+- [[characterizing-fermionic-non-gaussianity-in-the-sachdev-ye-k]]
 - [[dissipation-enhanced-scrambling-in-the-syk-model-coupled-to-]]
 - [[dissipation-induced-sachdev-ye-kitaev-physics-in-many-body-c]]
 - [[exact-spectrum-and-anomalous-relaxation-in-the-open-disorder]]
@@ -205,17 +225,17 @@ Auto-generated index of people extracted from wiki entries. 196 people with 2+ m
 - [[single-instance-observables-in-the-sachdev-ye-kitaev-model]]
 - [[size-operator-and-spectral-clustering-in-the-two-coupled-syk]]
 
-## Horne
+## Greenberger
 *Mentioned in 8 entries*
 
 - [[a-measure-for-genuine-tripartite-entanglement]]
-- [[a-multi-affine-geometric-framework-for-quantum-nonlocality-u]]
 - [[a-resource--and-computationally-efficient-protocol-for-multi]]
 - [[entanglement-drives-common-noise-into-the-strong-coupling-re]]
 - [[fast-ghz-encoding-with-1-o1-fidelity]]
 - [[from-bell-products-to-greenberger-horne-zeilinger-states-qua]]
 - [[ghz-preserving-gates-and-optimized-distillation-circuits]]
-- [[unconditional-quantum-advantage-from-a-two-round-chsh-proble]]
+- [[optimal-ghz-extraction-from-mabk-violations]]
+- [[symmetric-multipartite-bell-inequalities-via-frank-wolfe-alg]]
 
 ## Calderbank
 *Mentioned in 8 entries*
@@ -241,6 +261,17 @@ Auto-generated index of people extracted from wiki entries. 196 people with 2+ m
 - [[realizing-logical-diagonal-gates-via-transversal-physical-z-]]
 - [[topological-quantum-color-code-model-on-infinite-lattice]]
 
+## Zeilinger
+*Mentioned in 7 entries*
+
+- [[a-resource--and-computationally-efficient-protocol-for-multi]]
+- [[entanglement-drives-common-noise-into-the-strong-coupling-re]]
+- [[fast-ghz-encoding-with-1-o1-fidelity]]
+- [[from-bell-products-to-greenberger-horne-zeilinger-states-qua]]
+- [[ghz-preserving-gates-and-optimized-distillation-circuits]]
+- [[optimal-ghz-extraction-from-mabk-violations]]
+- [[symmetric-multipartite-bell-inequalities-via-frank-wolfe-alg]]
+
 ## Catalina Albornoz
 *Mentioned in 7 entries*
 
@@ -263,16 +294,6 @@ Auto-generated index of people extracted from wiki entries. 196 people with 2+ m
 - [[to-kick-off-quantumworldcongress-we-hosted-a-robust-panel-op]]
 - [[were-a-fully-fledged-quantum-internet-company-says-ionq-ceo-]]
 
-## Greenberger
-*Mentioned in 6 entries*
-
-- [[a-measure-for-genuine-tripartite-entanglement]]
-- [[a-resource--and-computationally-efficient-protocol-for-multi]]
-- [[entanglement-drives-common-noise-into-the-strong-coupling-re]]
-- [[fast-ghz-encoding-with-1-o1-fidelity]]
-- [[from-bell-products-to-greenberger-horne-zeilinger-states-qua]]
-- [[ghz-preserving-gates-and-optimized-distillation-circuits]]
-
 ## Inder Singh
 *Mentioned in 6 entries*
 
@@ -292,6 +313,16 @@ Auto-generated index of people extracted from wiki entries. 196 people with 2+ m
 - [[now-available-mihir-bhaskar-our-svp-global-rd-presents-our-c]]
 - [[watch-on-tuesday-where-well-also-hear-from-jordan-shapiro-pr]]
 - [[were-building-the-connective-tissue-of-a-full-stack-quantum-]]
+
+## Sinan Utku
+*Mentioned in 6 entries*
+
+- [[guest-post-patentability-of-quantum-computing-inventions]]
+- [[patenting-quantum-computing-innovations-lessons-from-four-co]]
+- [[patenting-quantum-computing-innovations-part-2-implementing-]]
+- [[patenting-quantum-computing-innovations-part-3-implementing-]]
+- [[patenting-quantum-computing-innovations-part-4-entanglement-]]
+- [[patenting-quantum-computing-innovations-part-5-shors-algorit]]
 
 ## Ben Lau
 *Mentioned in 6 entries*
@@ -313,6 +344,16 @@ Auto-generated index of people extracted from wiki entries. 196 people with 2+ m
 - [[regevs-reduction-as-a-candidate-quantum-algorithm-for-the-di]]
 - [[unconditional-correctness-of-recent-quantum-algorithms-for-f]]
 
+## Liu
+*Mentioned in 6 entries*
+
+- [[adaptive-input-secure-updatable-private-set-union]]
+- [[automated-search-for-periodic-functions-in-quantum-attacks-d]]
+- [[comment-on-quantum-public-key-encryption-scheme-with-four-st]]
+- [[quantum-query-advantage-requires-space]]
+- [[statistical-inference-from-noisy-randomness-leakage-for-ml-d]]
+- [[the-geometry-of-lee-yang-tensors]]
+
 ## Xiuzhe Luo
 *Mentioned in 6 entries*
 
@@ -332,15 +373,6 @@ Auto-generated index of people extracted from wiki entries. 196 people with 2+ m
 - [[circuit-depth-optimization-of-quantum-partial-search-algorit]]
 - [[efficient-quantum-modular-reduction-crandall-reduction-and-i]]
 
-## Zeilinger
-*Mentioned in 5 entries*
-
-- [[a-resource--and-computationally-efficient-protocol-for-multi]]
-- [[entanglement-drives-common-noise-into-the-strong-coupling-re]]
-- [[fast-ghz-encoding-with-1-o1-fidelity]]
-- [[from-bell-products-to-greenberger-horne-zeilinger-states-qua]]
-- [[ghz-preserving-gates-and-optimized-distillation-circuits]]
-
 ## Rafal Janik
 *Mentioned in 5 entries*
 
@@ -350,14 +382,14 @@ Auto-generated index of people extracted from wiki entries. 196 people with 2+ m
 - [[photons-are-a-compelling-platform-for-scalable-quantum-compu]]
 - [[security-is-paramount-for-the-future-of-quantum-computing-xa]]
 
-## Sinan Utku
+## Bravyi
 *Mentioned in 5 entries*
 
-- [[guest-post-patentability-of-quantum-computing-inventions]]
-- [[patenting-quantum-computing-innovations-lessons-from-four-co]]
-- [[patenting-quantum-computing-innovations-part-2-implementing-]]
-- [[patenting-quantum-computing-innovations-part-3-implementing-]]
-- [[patenting-quantum-computing-innovations-part-4-entanglement-]]
+- [[clifford-hierarchy-stabilizer-formalism-with-applications-to]]
+- [[ldpc-stabilizer-codes-as-gapped-quantum-phases-stability-und]]
+- [[sharp-quantum-entropy-mixing-rates-and-the-operator-layer-ca]]
+- [[the-geometry-of-lee-yang-tensors]]
+- [[unconditional-quantum-advantage-for-sampling-with-shallow-ci]]
 
 ## Nathan E. Sanders
 *Mentioned in 5 entries*
@@ -385,6 +417,15 @@ Auto-generated index of people extracted from wiki entries. 196 people with 2+ m
 - [[cryptanalysis-of-a-candidate-witness-encryption-scheme-for-a]]
 - [[extending-distinguishing-to-key-recovery-for-subfield-subcod]]
 - [[improving-gijs-key-recovery-for-classic-mceliece]]
+
+## Lee
+*Mentioned in 5 entries*
+
+- [[lee-huang-yang-dynamics-emergent-from-a-direct-wigner-repres]]
+- [[matrix-hoeffding-and-bernstein-bounds-with-sharp-constants-f]]
+- [[one-dimensional-polar-spinor-droplets]]
+- [[pairswitch-efficient-galois-paired-key-switching-for-gentryl]]
+- [[trace-factored-bigswitch-for-matrix-friendly-fhe]]
 
 ## Dylan Mahler
 *Mentioned in 4 entries*
@@ -450,6 +491,14 @@ Auto-generated index of people extracted from wiki entries. 196 people with 2+ m
 - [[mark-wise-liked-to-say-that-caltech-is-heaven-for-professors]]
 - [[my-friend-mark-wise-httpsquantumfrontierscom20260718my-frien]]
 
+## Danial Motlagh
+*Mentioned in 4 entries*
+
+- [[calling-all-uwaterloo-students-and-researchers-danial-motlag]]
+- [[huge-thank-you-to-the-authors-of-these-works-ali-asadi-quthr]]
+- [[in-may-xanadu-halved-the-best-known-cost-of-qrom-the-first-m]]
+- [[loading-classical-data-into-a-quantum-computer-just-got-50-c]]
+
 ## Victor Peng
 *Mentioned in 4 entries*
 
@@ -466,14 +515,6 @@ Auto-generated index of people extracted from wiki entries. 196 people with 2+ m
 - [[thank-you-to-our-customers-colleagues-partners-in-academia-a]]
 - [[the-quantum-age-is-not-next-it-is-already-here-our-ceo-nicco]]
 
-## Bravyi
-*Mentioned in 4 entries*
-
-- [[clifford-hierarchy-stabilizer-formalism-with-applications-to]]
-- [[ldpc-stabilizer-codes-as-gapped-quantum-phases-stability-und]]
-- [[sharp-quantum-entropy-mixing-rates-and-the-operator-layer-ca]]
-- [[unconditional-quantum-advantage-for-sampling-with-shallow-ci]]
-
 ## Jain
 *Mentioned in 4 entries*
 
@@ -482,21 +523,13 @@ Auto-generated index of people extracted from wiki entries. 196 people with 2+ m
 - [[extending-distinguishing-to-key-recovery-for-subfield-subcod]]
 - [[improving-gijs-key-recovery-for-classic-mceliece]]
 
-## Lee
+## Zhandry
 *Mentioned in 4 entries*
 
-- [[lee-huang-yang-dynamics-emergent-from-a-direct-wigner-repres]]
-- [[matrix-hoeffding-and-bernstein-bounds-with-sharp-constants-f]]
-- [[one-dimensional-polar-spinor-droplets]]
-- [[trace-factored-bigswitch-for-matrix-friendly-fhe]]
-
-## Liu
-*Mentioned in 4 entries*
-
-- [[adaptive-input-secure-updatable-private-set-union]]
-- [[comment-on-quantum-public-key-encryption-scheme-with-four-st]]
-- [[quantum-query-advantage-requires-space]]
-- [[statistical-inference-from-noisy-randomness-leakage-for-ml-d]]
+- [[certified-randomness-without-structure-against-shallow-query]]
+- [[exponential-quantum-space-advantage-in-random-data-streams]]
+- [[simple-extremely-lossy-functions-from-small-exponent-hashing]]
+- [[the-power-of-permutable-prps-towards-trapdoor-permutations-w]]
 
 ## Jonathan Wurtz
 *Mentioned in 4 entries*
@@ -589,13 +622,6 @@ Auto-generated index of people extracted from wiki entries. 196 people with 2+ m
 - [[infleqtion-ceo-matt-kinsella-provides-testimony-for-house-co]]
 - [[infleqtion-leaders-to-speak-at-quantum-world-congress-2026]]
 - [[matt-kinsella-infleqtion-why-neutral-atoms-power-sensors-clo]]
-
-## Danial Motlagh
-*Mentioned in 3 entries*
-
-- [[calling-all-uwaterloo-students-and-researchers-danial-motlag]]
-- [[huge-thank-you-to-the-authors-of-these-works-ali-asadi-quthr]]
-- [[loading-classical-data-into-a-quantum-computer-just-got-50-c]]
 
 ## Doug Finke
 *Mentioned in 3 entries*
@@ -723,12 +749,33 @@ Auto-generated index of people extracted from wiki entries. 196 people with 2+ m
 - [[extending-distinguishing-to-key-recovery-for-subfield-subcod]]
 - [[improving-gijs-key-recovery-for-classic-mceliece]]
 
+## Watrous
+*Mentioned in 3 entries*
+
+- [[a-quantum-oracle-separation-between-qma2-and-qma]]
+- [[achieving-perfect-completeness-for-one--and-two-message-quan]]
+- [[no-size-preserving-amplification-with-quantum-advice]]
+
+## Mermin
+*Mentioned in 3 entries*
+
+- [[analytic-maximal-violation-of-extended-mabk-inequalities-for]]
+- [[mermin-peres-magic-rectangles-modulo-odd-primes]]
+- [[optimal-ghz-extraction-from-mabk-violations]]
+
 ## Brakerski
 *Mentioned in 3 entries*
 
 - [[a-locality-sensitive-hashing-framework-for-reducing-bounded-]]
 - [[cyclotomic-cosets-hidden-subgroup-and-quantum-sieving-algori]]
 - [[efi-pairs-without-one-way-puzzles-oracle-separations-from-co]]
+
+## Josh Izaac
+*Mentioned in 3 entries*
+
+- [[hardware-is-scaling-is-your-quantum-software-keeping-up-xana]]
+- [[heading-to-the-munich-quantum-software-forum-october-1415-do]]
+- [[the-countdown-is-on-to-register-for-the-munich-quantum-softw]]
 
 ## Sumit Kapur
 *Mentioned in 3 entries*
@@ -757,6 +804,20 @@ Auto-generated index of people extracted from wiki entries. 196 people with 2+ m
 - [[good-quantum-locally-testable-codes-from-lossless-cubical-co]]
 - [[polynomial-time-algorithms-for-the-kadison-singer-problem]]
 - [[sipser-spielman-meets-dijkgraaf-witten-non-abelian-qldpc-cod]]
+
+## Christ
+*Mentioned in 3 entries*
+
+- [[a-survey-of-pseudorandom-codes]]
+- [[pseudorandom-codes-from-lwe]]
+- [[quantum-pseudorandom-error-correcting-codes]]
+
+## Gunn
+*Mentioned in 3 entries*
+
+- [[a-survey-of-pseudorandom-codes]]
+- [[pseudorandom-codes-from-lwe]]
+- [[quantum-pseudorandom-error-correcting-codes]]
 
 ## Barnett
 *Mentioned in 2 entries*
@@ -919,6 +980,12 @@ Auto-generated index of people extracted from wiki entries. 196 people with 2+ m
 
 - [[guest-post-inside-africas-coordinated-race-to-secure-a-post-]]
 - [[guest-post-qml4africa-highlights-growth-of-africas-quantum-r]]
+
+## Gosset
+*Mentioned in 2 entries*
+
+- [[the-geometry-of-lee-yang-tensors]]
+- [[unconditional-quantum-advantage-for-sampling-with-shallow-ci]]
 
 ## Koenig
 *Mentioned in 2 entries*
@@ -1094,6 +1161,12 @@ Auto-generated index of people extracted from wiki entries. 196 people with 2+ m
 - [[ldpc-stabilizer-codes-as-gapped-quantum-phases-stability-und]]
 - [[superadditivity-of-classical-communication-over-quantum-chan]]
 
+## Yamakawa
+*Mentioned in 2 entries*
+
+- [[certified-randomness-without-structure-against-shallow-query]]
+- [[exponential-quantum-space-advantage-in-random-data-streams]]
+
 ## Anderson
 *Mentioned in 2 entries*
 
@@ -1208,23 +1281,11 @@ Auto-generated index of people extracted from wiki entries. 196 people with 2+ m
 - [[deterministic-minimum-output-entropy-nonadditivity-via-haage]]
 - [[the-i3322-quantum-value-is-attained-spatially-but-not-in-fin]]
 
-## Watrous
-*Mentioned in 2 entries*
-
-- [[a-quantum-oracle-separation-between-qma2-and-qma]]
-- [[achieving-perfect-completeness-for-one--and-two-message-quan]]
-
 ## Schmidt
 *Mentioned in 2 entries*
 
 - [[a-non-robust-quantum-correlation-self-test]]
 - [[quantum-annealing-for-lattice-models-with-competing-long-ran]]
-
-## Mermin
-*Mentioned in 2 entries*
-
-- [[analytic-maximal-violation-of-extended-mabk-inequalities-for]]
-- [[mermin-peres-magic-rectangles-modulo-odd-primes]]
 
 ## Kevin Messerle
 *Mentioned in 2 entries*
@@ -1238,6 +1299,18 @@ Auto-generated index of people extracted from wiki entries. 196 people with 2+ m
 - [[attacking-uov-based-signatures-over-divided-power-algebras]]
 - [[the-extended-wedge-attack]]
 
+## Kochen
+*Mentioned in 2 entries*
+
+- [[contextuality-analysis-of-disturbing-data-cannot-preserve-co]]
+- [[warring-contextualities---provably-classical-vs-provably-non]]
+
+## Specker
+*Mentioned in 2 entries*
+
+- [[contextuality-analysis-of-disturbing-data-cannot-preserve-co]]
+- [[warring-contextualities---provably-classical-vs-provably-non]]
+
 ## Spekkens
 *Mentioned in 2 entries*
 
@@ -1249,12 +1322,6 @@ Auto-generated index of people extracted from wiki entries. 196 people with 2+ m
 
 - [[klea-dhmitri-hamamatsu-photonics-as-the-hidden-backbone-of-q]]
 - [[podcast-with-sumit-kapur-ceo-of-zapata-quantum]]
-
-## Josh Izaac
-*Mentioned in 2 entries*
-
-- [[hardware-is-scaling-is-your-quantum-software-keeping-up-xana]]
-- [[the-countdown-is-on-to-register-for-the-munich-quantum-softw]]
 
 ## Peter Barrett
 *Mentioned in 2 entries*
@@ -1303,6 +1370,12 @@ Auto-generated index of people extracted from wiki entries. 196 people with 2+ m
 
 - [[martons-conjecture-in-polynomial-time]]
 - [[on-the-pseudorandomness-of-simple-quantum-processes]]
+
+## Peres
+*Mentioned in 2 entries*
+
+- [[mermin-peres-magic-rectangles-modulo-odd-primes]]
+- [[scalable-tests-of-quantum-contextuality-from-stabilizer-test]]
 
 ## MacKay
 *Mentioned in 2 entries*
@@ -1370,6 +1443,12 @@ Auto-generated index of people extracted from wiki entries. 196 people with 2+ m
 - [[a-cusp-criterion-for-a-local-phase-space-bottleneck-in-a-min]]
 - [[polynomial-time-algorithms-for-the-kadison-singer-problem]]
 
+## Gentry
+*Mentioned in 2 entries*
+
+- [[pairswitch-efficient-galois-paired-key-switching-for-gentryl]]
+- [[trace-factored-bigswitch-for-matrix-friendly-fhe]]
+
 ## Lu
 *Mentioned in 2 entries*
 
@@ -1388,6 +1467,18 @@ Auto-generated index of people extracted from wiki entries. 196 people with 2+ m
 - [[a-tale-of-two-walks-kipnis-marchioro-and-presutti-meet-kac-i]]
 - [[the-uncertainty-principle-uncertainty-relations-and-underlyi]]
 
+## Penrose
+*Mentioned in 2 entries*
+
+- [[beyond-penrose-tensor-diagrams-with-the-zx-calculus-applicat]]
+- [[could-consciousness-be-quantum]]
+
+## DiVincenzo
+*Mentioned in 2 entries*
+
+- [[scalable-tests-of-quantum-contextuality-from-stabilizer-test]]
+- [[the-entanglement-of-purification-is-not-additive]]
+
 ## Scott Millard
 *Mentioned in 2 entries*
 
@@ -1400,6 +1491,12 @@ Auto-generated index of people extracted from wiki entries. 196 people with 2+ m
 - [[d-wave-appoints-former-bnp-paribas-cio-bernard-gavgani-to-bo]]
 - [[whos-news-strategic-appointments-at-d-wave-quantum-oxford-qu]]
 
+## Andy Ory
+*Mentioned in 2 entries*
+
+- [[quera-ceo-andy-ory-at-quantum-world-congress-classical-compu]]
+- [[were-at-quantumworldcongress-this-week-andy-ory-yuval-boger-]]
+
 ## Simon Phillips
 *Mentioned in 2 entries*
 
@@ -1411,18 +1508,6 @@ Auto-generated index of people extracted from wiki entries. 196 people with 2+ m
 
 - [[cryptanalysis-of-ldvr-polynomial-time-adaptive-attacks-again]]
 - [[quantum-gates-from-the-middle-convolution-of-twisted-burau-r]]
-
-## Christ
-*Mentioned in 2 entries*
-
-- [[a-survey-of-pseudorandom-codes]]
-- [[quantum-pseudorandom-error-correcting-codes]]
-
-## Gunn
-*Mentioned in 2 entries*
-
-- [[a-survey-of-pseudorandom-codes]]
-- [[quantum-pseudorandom-error-correcting-codes]]
 
 ## Broadbent
 *Mentioned in 2 entries*
@@ -1442,6 +1527,12 @@ Auto-generated index of people extracted from wiki entries. 196 people with 2+ m
 - [[good-quantum-locally-testable-codes-from-lossless-cubical-co]]
 - [[sipser-spielman-meets-dijkgraaf-witten-non-abelian-qldpc-cod]]
 
+## Solovay
+*Mentioned in 2 entries*
+
+- [[a-physical-and-universal-model-of-bosonic-computations-with-]]
+- [[breaking-the-cubic-barrier-for-the-inverse-free-solovay-kita]]
+
 ## Haah
 *Mentioned in 2 entries*
 
@@ -1453,3 +1544,15 @@ Auto-generated index of people extracted from wiki entries. 196 people with 2+ m
 
 - [[pasqal-appoints-florence-lao-as-chief-legal-officer]]
 - [[whos-news-strategic-appointments-at-quantum-emotion-pasqal-r]]
+
+## Hair
+*Mentioned in 2 entries*
+
+- [[a-note-on-extractable-witness-encryption-in-generic-groups]]
+- [[public-coin-differing-input-obfuscation-from-koala-and-io]]
+
+## Sahai
+*Mentioned in 2 entries*
+
+- [[a-note-on-extractable-witness-encryption-in-generic-groups]]
+- [[public-coin-differing-input-obfuscation-from-koala-and-io]]
