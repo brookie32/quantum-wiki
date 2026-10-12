@@ -14,4 +14,12 @@ stale: false
 
 Deploying Secure Multiparty Computation (MPC) to operate on data from real world sources requires many connective elements that have not received much attention in the literature. One prominent example is that MPC protocols typically assume conveniently structured data, whereas data in the real world comes in formats that are meant to be handled by string parsing engines. In this work, we give a new constant round protocol for securely parsing secret shared strings into an MPC-friendly format, built upon secure shuffle as a key primitive. Secure shuffle applies a permutation to a list while keeping both the permutation and the underlying data secret-shared at all times. While highly efficient protocols exist in the semi-honest setting, achieving malicious security has incurred significant overhead in both rounds and communication. We present Truffle, a new three-party shuffle protocol that is secure against one active corruption to bridge this gap. Truffle achieves an amortised round complexity that for the first time matches the state-of-the-art semi-honest protocol, while incurring only sublinear communication overhead. The core technique that underlies Truffle is a novel distributed verifier zero-knowledge proof that checks the correctness of a putative shuffle. We implement Truffle and show via benchmarks that it is performant enough to handle real application data. Beyond parsing secret shared data, secure shuffle finds applications in graph analytics, anonymous communication, Distributed Oblivious RAM, aggregate statistics, and secure sorting, each of which stand to benefit from the improvement that Truffle provides.
 
+
+
+## Related
+- [[one-proof-to-rule-them-all-practical-sublinear-verification-|One Proof to Rule Them All: Practical, Sublinear Verification for Actively Secure MPC on Z_{2^k} with Dishonest Majority and a Dealer (Full Version)]]
+- [[on-aborts-in-differential-privacy|On Aborts in Differential Privacy]]
+- [[period-aligned-secure-cosine-evaluation-based-on-two-party-c|Period-Aligned Secure Cosine Evaluation Based on Two-Party Computation]]
+- [[its-not-just-a-phase-understanding-function-dependence-in-mp|It's Not Just a Phase: Understanding Function Dependence in MPC Preprocessing]]
+
 **Source:** [IACR ePrint Archive](https://eprint.iacr.org/2026/2376) | 2026-10-06
