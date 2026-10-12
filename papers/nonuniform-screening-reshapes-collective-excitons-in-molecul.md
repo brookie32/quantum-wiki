@@ -14,4 +14,12 @@ stale: false
 
 arXiv:2610.09924v1 Announce Type: new Abstract: We build and apply an extit{ab initio} stochastic Bethe-Salpeter Equation (sBSE) approach to planar cyanine dye aggregate clusters containing up to 2,856 valence electrons. Using a transferable, parameterized screened exchange kernel, we resolve dielectric response, exciton delocalization, and optical spectra within a unified many-body framework. Remarkably, the sBSE transition densities validate the Frenkel exciton picture in real space and provide a practical first-principles route to its screened couplings. The calculations reproduce extit{H}-, extit{I}-, and extit{J}-like spectral evolution and reveal that spatially dependent screening does not merely shift excitonic bands, but reshapes their dispersion, leading to changes in the relative energies of bright and dark exciton states. These results establish sBSE as a predictive framework for large molecular aggregates.
 
+
+
+## Related
+- [[all-electron-dynamical-bethe-salpeter-equation-for-extended-|All-electron Dynamical Bethe-Salpeter Equation for Extended Systems with Atom-centered Orbital Basis]]
+- [[real-time-approach-to-the-dynamical-bethe-salpeter-equation-|Real-Time Approach to the Dynamical Bethe-Salpeter Equation for Finite Systems]]
+- [[accurate-starting-points-for-one-shot-g0w0-and-bethe-salpete|Accurate starting points for one-shot G_0W_0 and Bethe-Salpeter Equation calculations via effective tuning of range-separated hybrid functionals]]
+- [[optical-absorption-spectra-from-the-gw-bethe-salpeter-framew|Optical absorption spectra from the GW-Bethe-Salpeter framework for thousands of atoms]]
+
 **Source:** [arXiv physics.chem-ph](https://arxiv.org/abs/2610.09924) | 2026-10-08

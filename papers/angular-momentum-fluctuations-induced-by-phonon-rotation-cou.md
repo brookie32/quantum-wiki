@@ -14,4 +14,11 @@ stale: false
 
 arXiv:2610.09106v1 Announce Type: new Abstract: Nuclear spin relaxation has been widely used to probe molecular reorientation in solids, yet its interpretation has always required assuming both the relaxation mechanism and the form of the underlying correlation function. In rotator-phase solids more unknowns enter the picture: in ammonium iodide, the proton T_1 passes through a maximum and decreases with temperature, a behavior attributed to spin-rotation coupling. Here we model both the dipolar and the spin-rotation contributions to ^1H relaxation in solid NH_4I from first principles, by combining molecular dynamics with machine-learned force fields trained on density functionals and ab initio spin-rotation coupling tensors. The computed rates reproduce the measured values above the order-disorder transition, together with their temperature dependence and frequency independence, and show that fluctuations of the NH_4^+ angular momentum dominate relaxation throughout the rotator phase. The orientational and angular-velocity correlation functions obtained directly from the simulations further share an oscillatory component at lattice-phonon frequencies, revealing a coupling between lattice vibrations and cation reorientation that contributes measurably to relaxation. Separating this component yields a reorientational barrier in agreement with neutron scattering. The approach makes nuclear spin relaxation a quantitative benchmark for simulated dynamics in molecular solids and provides direct access to angular-momentum correlations in the solid state.
 
+
+
+## Related
+- [[accelerating-ab-initio-spin-phonon-relaxation-simulation-of-|Accelerating ab initio spin-phonon relaxation simulation of single-ion magnets by quantum embedding and spatial truncation]]
+- [[phonon-chirality-as-an-additive-control-of-ciss-a-symmetry-p|Phonon chirality as an additive control of CISS: a symmetry-protected law]]
+- [[nuclear-spin-statistical-weights-from-young-diagrams|Nuclear-Spin Statistical Weights from Young Diagrams]]
+
 **Source:** [arXiv physics.chem-ph](https://arxiv.org/abs/2610.09106) | 2026-10-08
