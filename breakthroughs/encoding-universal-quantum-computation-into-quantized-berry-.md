@@ -14,4 +14,11 @@ stale: false
 
 arXiv:2609.37199v1 Announce Type: new Abstract: The Berry phase is a fundamental geometric quantity for characterizing the geometry and topology of quantum many-body systems. Previous work established a super-polynomial quantum advantage in Berry phase estimation at inverse-polynomial precision, given an ansatz state approximating the initial ground state. However, whether this hardness persists for Berry phases quantized by symmetry, which can be distinguished at constant precision, remained open. In this work, we characterize the computational complexity of quantized Berry phase estimation. First, we prove that deciding whether the Berry phase is exactly 0 or pi is mathsf{BQP}-complete when the spectral gap is inverse-polynomially small. This result implies that distinguishing the quantized Berry phase still has a super-polynomial quantum advantage, assuming mathsf{BPP}neq mathsf{BQP}. To prove this result, we introduce an encoding that maps the output of any quantum computation to a Berry phase that is exactly 0 or pi. Second, we extend this hardness to physically motivated Hamiltonians on a 2D square lattice, including Heisenberg and XY interactions. Third, we provide a classical polynomial-time algorithm for geometrically local Hamiltonians on fixed-dimensional lattices with constant spectral gaps. Therefore we identify that the spectral gap is a key resource for the classical tractability, rather than precision. These results establish a super-polynomial quantum advantage for computing a quantized topological invariant that is unchanged under symmetry- and gap-preserving deformations, and provide new steps towards practical quantum advantage in quantum physics.
 
+
+
+## Related
+- [[physics-informed-variational-quantum-classifier-for-phase-de|Physics-Informed Variational Quantum Classifier for Phase Detection in Strongly Correlated Matter]]
+- [[classical-algorithms-for-function-computation-in-gaussian-bo|Classical Algorithms for Function Computation in Gaussian Boson Sampling]]
+- [[entanglement-geometry-separates-circuit-cutting-classical-ha|Entanglement geometry separates circuit cutting, classical hardness, and trainability]]
+
 **Source:** [arXiv quant-ph](https://arxiv.org/abs/2609.37199) | 2026-09-30
