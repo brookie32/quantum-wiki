@@ -14,4 +14,10 @@ stale: false
 
 arXiv:2609.30362v1 Announce Type: cross Abstract: Renormalization group (RG) is a core concept in physics from statistical mechanics to quantum field theory, yet its schemes differ widely between field theory and many-body physics. We formulate the Wilsonian RG as a quantum channel, whose Kraus representation yields pure conditional trajectories for pure inputs and recovers mixed-state flows upon averaging. We then develop an algebraic extension applicable beyond the usual momentum-space, factorized setting: the low-energy algebra is constructed from the one-particle spectrum, and coarse graining is a conditional expectation onto it. We further construct a resource theory of RG whose free states are fixed points. Under stated assumptions, the resulting relative-entropy monotone is proportional to c-c_{rm IR} to quadratic order along a single stable RG direction near a two-dimensional IR fixed point. We also introduce a complementary measure of the UV information discarded by coarse graining, establish its monotonicity for successive coarse-graining maps, and discuss its holographic realization.
 
+
+
+## Related
+- [[renormalization-group-ontology-in-quantum-foundations-a-non-|Renormalization group ontology in quantum foundations: a non-interacting spin-0 toy model]]
+- [[tight-and-self-testing-multipartite-quantum-bell-inequalitie|Tight and self-testing multipartite quantum Bell inequalities from the renormalization group]]
+
 **Source:** [arXiv quant-ph](https://arxiv.org/abs/2609.30362) | 2026-09-28

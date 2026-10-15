@@ -14,4 +14,12 @@ stale: false
 
 arXiv:2609.37059v1 Announce Type: cross Abstract: We demonstrate proximity-induced localization and re-entrant delocalization in a detuned quasiperiodic ladder. In the weak-quasiperiodic regime, where uncoupled Aubry-Andre chains are extended, a staggered detuning applied to only one leg induces localization in the neighboring leg through inter-leg hybridization. With further increasing detuning, the pure chain re-enters a delocalized regime, producing a delocalized-localized-delocalized sequence without directly modifying its quasiperiodic potential. We identify these regimes using static localization diagnostics and demonstrate experimentally accessible dynamical signatures on IBM Quantum hardware: strongly suppressed wavefunction spreading in the proximity-localized regime and its re-entrant recovery at larger detuning. These results establish leg-selective detuning as a programmable control knob for inducing and reversing localization in coupled quasiperiodic systems.
 
+
+
+## Related
+- [[subsystem-localization-in-a-two-leg-ladder-system|Subsystem localization in a two-leg ladder system]]
+- [[localization-with-hopping-disorder-in-a-quasiperiodic-synthe|Localization with Hopping Disorder in a Quasiperiodic Synthetic Momentum Lattice]]
+- [[engineering-exact-mobility-edges-in-quasiperiodic-aharonov-b|Engineering exact mobility edges in quasiperiodic Aharonov-Bohm chains]]
+- [[composite-state-localization-beyond-the-external-landscape-i|Composite-State Localization Beyond the External Landscape in Non-Hermitian Quasicrystals]]
+
 **Source:** [arXiv quant-ph](https://arxiv.org/abs/2609.37059) | 2026-09-30

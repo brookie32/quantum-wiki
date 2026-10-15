@@ -14,4 +14,13 @@ stale: false
 
 arXiv:2609.31372v1 Announce Type: new Abstract: We present quantum algorithms to approximate the exponential of banded Toeplitz matrices. These matrices have central importance in many PDE related problems, but their quantum implementation is hindered by their possibly large norms. Constructing directly the exponential we can circumvent this limitation. By relating the lower/upper shift operators to circulant and skewcirculant generators, which are diagonalised by the QFT, we construct (i) an LCU-based block encoding of banded Toeplitz matrices, (ii) an efficient, controllably truncated Pauli-string decomposition of the circulant eigenphases with a closed-form error bound, and (iii) a specialized QFT-Trotter product formula. As an application we build a block encoding of the propagator of the discretised heat equation with periodic, Dirichlet and Neumann boundary conditions, using a frequency cutoff.
 
+
+
+## Related
+- [[a-qsvt-based-quantum-jacobi-algorithm-for-linear-systems-wit|A QSVT-Based Quantum Jacobi Algorithm for Linear Systems with Application to the Poisson Equation]]
+- [[quantum-hamiltonian-simulation-of-linearised-euler-equations|Quantum Hamiltonian simulation of linearised Euler equations in complex geometries]]
+- [[toward-efficient-end-to-end-quantum-elliptic-pde-solvers-a-m|Toward Efficient End-to-End Quantum Elliptic PDE Solvers: a Multilevel Correction Algorithm for Direct Observable Estimation]]
+- [[unconditionally-successful-quantum-time-marching-algorithm-v|Unconditionally successful quantum Time-Marching algorithm via LCU for nonlinear Burgers equation]]
+- [[solving-wave-propagation-problems-via-geometric-quantum-stat|Solving wave propagation problems via geometric quantum state preparation on dispersion manifolds]]
+
 **Source:** [arXiv quant-ph](https://arxiv.org/abs/2609.31372) | 2026-09-28

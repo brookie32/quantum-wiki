@@ -14,4 +14,13 @@ stale: false
 
 arXiv:2609.25699v1 Announce Type: new Abstract: Quantum batteries are quantum systems that store useful energy, which can subsequently be extracted to perform work. In this work, we investigate the charging dynamics under continuous measurements and post-selection-based non-Hermitian quantum battery realized by a three-level system. By post-selecting the trajectories with no quantum jump |1rangle rightarrow |0rangle, the dynamics is effectively confined to a two-level manifold. We analyze the resulting charging dynamics under both sigma_x- and sigma_y-driving protocols and investigate the roles of detuning, coherent driving, non-linearity, and measurement backaction. The generation and dynamics of quantum coherence, which plays a pivotal role in quantum battery, are also analyzed under post-selection. The advantage and comparison of our results over those of a generic two-level system and with Lindblad dynamics are also highlighted. Our work explores the interplay between the measurement axis and the driving protocols that govern the charging rate, ergotropy, and quantum coherence of the non-Hermitian, highly tunable, and controllable quantum battery.
 
+
+
+## Related
+- [[interplay-of-nonstabilizerness-and-ergotropy-in-quantum-batt|Interplay of Nonstabilizerness and Ergotropy in Quantum Batteries]]
+- [[boosting-work-extraction-in-quantum-batteries-via-continuous|Boosting Work Extraction in Quantum Batteries via Continuous Environment Monitoring]]
+- [[robust-many-body-quantum-batteries|Robust many-body quantum batteries]]
+- [[catalytic-stabilization-of-ergotropy-and-backflow-suppressio|Catalytic Stabilization of Ergotropy and Backflow Suppression in Open Many-Body Quantum Batteries]]
+- [[collective-dynamics-versus-entanglement-in-quantum-battery-p|Collective dynamics versus entanglement in quantum battery performance]]
+
 **Source:** [arXiv quant-ph](https://arxiv.org/abs/2609.25699) | 2026-09-23

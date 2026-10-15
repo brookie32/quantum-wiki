@@ -1,0 +1,17 @@
+---
+title: "Density and excess molar enthalpy of 2-butanol + glyme liquid mixtures. Application of the DISQUAC, UNIFAC (Dortmund) and ERAS models to 2-alkanol + linear ether systems"
+date: "2026-10-15"
+updated: "2026-10-15"
+source: "agent"
+category: "papers"
+tags: [papers, arxiv-physics-chem-ph]
+url: "https://arxiv.org/abs/2610.19805"
+summary: "arXiv:2610.19805v1 Announce Type: new Abstract: Densities and excess molar volumes (V_{ext{m}}^{ext{E}}) at (293.15 to 303.15) K and excess molar enthalpies (H_{ext{m}}^{ext{E}}) at 298.15 K are repor"
+last_verified: "2026-10-15"
+review_by: "2027-01-13"
+stale: false
+---
+
+arXiv:2610.19805v1 Announce Type: new Abstract: Densities and excess molar volumes (V_{ext{m}}^{ext{E}}) at (293.15 to 303.15) K and excess molar enthalpies (H_{ext{m}}^{ext{E}}) at 298.15 K are reported for the 2-butanol + 2,5-dioxahexane, or + 2,5,8-trioxanonane, or + 2,5,8,11-tetraoxadodecane, or + 2,5,8,11,14-pentaoxapentadecane systems at 95 kPa. Densities were measured using a densitometer Anton Paar DSA 5000, and excess enthalpies by means of a micro-calorimeter Tian-Calvet. H_{ext{m}}^{ext{E}} and V_{ext{m}}^{ext{E}} data are positive, indicating that interactions between like molecules are dominant and that the main contribution to V_{ext{m}}^{ext{E}} is the interactional one. Our enthalpic data together with data from the literature have been used to evaluate the enthalpy of alcohol-glyme interactions, which are ranged between (-31 and -22) kJ mol^{-1}. From the comparison with H_{ext{m}}^{ext{E}} results for glyme + heptane systems, and from the position of the investigated mixtures in the diagram G_{ext{m}}^{ext{E}} (excess molar Gibbs energy) vs. H_{ext{m}}^{ext{E}}, it is shown that interactions are of dispersive type. 2-Alkanol + dipropyl ether (DPE), or + glyme systems have also been studied using the DISQUAC, UNIFAC (Dortmund) and ERAS models. According to ERAS results, physical interactions in glyme systems are dominant, while association effects are predominant in mixtures with DPE. The DISQUAC interaction parameters suggest that interactions related to the OH/O contacts are essentially dispersive. UNIFAC fails when representing thermodynamic properties of the studied solutions.
+
+**Source:** [arXiv physics.chem-ph](https://arxiv.org/abs/2610.19805) | 2026-10-15

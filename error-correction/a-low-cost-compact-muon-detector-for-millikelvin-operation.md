@@ -1,0 +1,17 @@
+---
+title: "A low-cost compact muon detector for millikelvin operation"
+date: "2026-10-15"
+updated: "2026-10-15"
+source: "agent"
+category: "error-correction"
+tags: [error-correction, arxiv-quant-ph]
+url: "https://arxiv.org/abs/2610.20132"
+summary: "arXiv:2610.20132v1 Announce Type: cross Abstract: Ionizing radiation produces correlated errors in superconducting qubits, posing some challenges to quantum error correction. In addition, it causes ba"
+last_verified: "2026-10-15"
+review_by: "2027-01-13"
+stale: false
+---
+
+arXiv:2610.20132v1 Announce Type: cross Abstract: Ionizing radiation produces correlated errors in superconducting qubits, posing some challenges to quantum error correction. In addition, it causes background events in other superconducting cryogenic devices, such as kinetic inductance detectors and superconducting nanowire single-photon detectors. Cosmic muons are a component of this background that can only be partly shielded against at ground level, but can be tagged by an independent detector inside the cryostat, so that the affected data can be vetoed, or the muon tags incorporated into error correction. We present a low-cost, compact muon detector consisting of two plastic scintillator modules, each read out by a silicon photomultiplier (SiPM), operated in coincidence. We characterize the SiPMs from room temperature down to 10 mK, including the breakdown and upper-limit voltages that define the operating bias range. Operated as a muon counter, the detector measures a coincidence rate that, as expected, is independent of temperature within uncertainties and agrees with analytical and Monte Carlo predictions. Below approximately 8 K, each muon event produces two pulses, one narrow and one broad, an effect that, to our knowledge, has not been reported before. Coincidences with an independent muon detector outside the cryostat confirm that muons are still counted reliably in this regime. By studying the appearance of double pulses as a function of temperature and magnetic field up to 4.5 T, we find a behavior consistent with the phase diagram of a type-II superconductor. This links the double pulses to a superconducting material in the SiPM, likely an adhesion layer or diffusion barrier introduced during manufacturing. The mechanism by which the superconducting state produces the second pulse is not yet understood.
+
+**Source:** [arXiv quant-ph](https://arxiv.org/abs/2610.20132) | 2026-10-15
