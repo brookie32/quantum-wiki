@@ -14,4 +14,11 @@ stale: false
 
 arXiv:2610.13246v1 Announce Type: cross Abstract: Excitons are bound electron-hole pairs in semiconductors whose interactions influence optical properties and determine their collective behavior and emergent correlated phases. Despite the theoretical and experimental significance of these phenomena, a microscopic theory of exciton-exciton interactions that takes into account the full composite nature of these quasiparticles is lacking. Here, we present a general theory of exciton-exciton interactions that builds upon our previous publication [Physical Review B 113, 155440 (2026)], which applied only to conventional semiconductors with weak band hybridization. By contrast, the theory presented here is valid in virtually any crystalline semiconducting system and can be applied to the study of biexciton formation and correlated excitonic phases in systems where band topology, quantum geometry, and moire effects play a significant role. In addition to the analytical theory, we also present results in simple systems with flat bands with a nontrivial quantum metric and show that the biexcitonic spectrum differs strongly from that in the case without quantum geometry. Our theory paves the way for accurate quantitative calculations of biexciton spectra and excitonic many-body phases in modern condensed-matter systems.
 
+
+
+## Related
+- [[cooperative-quantum-optical-effects-of-moire-exciton-superla|Cooperative Quantum Optical Effects of Moire Exciton Superlattices]]
+- [[electron-beam-driven-collective-self-hybridized-exciton-pola|Electron beam driven collective self hybridized exciton polaritons]]
+- [[generalized-s-d-model-for-wannier-mott-excitons-in-layered-m|Generalized s-d model for Wannier-Mott excitons in layered magnetic semiconductors]]
+
 **Source:** [arXiv quant-ph](https://arxiv.org/abs/2610.13246) | 2026-10-12
