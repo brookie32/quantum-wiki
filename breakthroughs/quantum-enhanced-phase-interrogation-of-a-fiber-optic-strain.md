@@ -14,4 +14,11 @@ stale: false
 
 arXiv:2610.19752v1 Announce Type: new Abstract: Fiber-optic sensors enable high-sensitivity measurements of various physical parameters. Here, we demonstrate a quantum-enhanced interrogation of an all-fiber-optic Fabry-Perot resonator, employing entangled two-photon interference to probe directly strain-induced optical phase shifts. The resonator is interrogated by a narrow-linewidth laser that is frequency-locked to its resonance mode, thereby exploiting the cavity's inherent sensitivity to variations in the fiber length. To access the phase fluctuations transferred to the interrogation field due to external perturbations on the sensor, we implement an in-fiber Mach-Zehnder interferometer readout. This configuration allows the sensor to operate both with classical coherent light and with entangled photon pairs generated via spontaneous parametric down-conversion. Harnessing two-photon entangled states corresponding to an N = 2 NOON state, we experimentally demonstrate a reduction of the measurement noise below the standard quantum limit. These results provide clear evidence of the quantum advantage in enhancing fiber-optic sensors under practical constraints on optical power.
 
+
+
+## Related
+- [[quantum-fisher-information-of-driven-dissipative-systems-fro|Quantum Fisher information of driven-dissipative systems from Keldysh path integrals]]
+- [[limits-of-independent-and-identical-measurements-for-quantum|Limits of independent and identical measurements for quantum illumination with an unknown return phase]]
+- [[exponential-entanglement-advantage-in-sensing-correlated-noi|Exponential entanglement advantage in sensing correlated noise]]
+
 **Source:** [arXiv quant-ph](https://arxiv.org/abs/2610.19752) | 2026-10-15
