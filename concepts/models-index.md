@@ -14,18 +14,29 @@ stale: false
 
 # All Models
 
-Auto-generated index of models extracted from wiki entries. 14 models with 2+ mentions.
+Auto-generated index of models extracted from wiki entries. 17 models with 2+ mentions.
 
 ## Claude
-*Mentioned in 7 entries*
+*Mentioned in 10 entries*
 
+- [[an-ai-agent-now-tunes-our-lasers-claude-working-with-anthrop]]
+- [[anthropics-claude-designs-leaner-quantum-circuits-reducing-r]]
 - [[are-ais-still-struggling-with-captchas]]
 - [[claude-mythos-has-found-271-zero-days-in-firefox]]
+- [[designing-more-efficient-quantum-circuits-with-claude]]
 - [[i-feel-guilty-when-i-ask-claude-to-do-something-i-could-have]]
 - [[on-anthropics-ai-misuse-report]]
 - [[some-claude-chats-are-searchable-on-google]]
 - [[today-quera-is-announcing-results-from-our-research-preview-]]
 - [[using-ai-for-weapons-development]]
+
+## Willow
+*Mentioned in 4 entries*
+
+- [[alphaevolves-quantum-result-was-trotter-formula-optimization]]
+- [[bringing-the-magic-google-breaks-open-a-bottleneck-in-quantu]]
+- [[published-in-science-today-magic-state-cultivation-works-in-]]
+- [[studying-particle-diffusion-in-quantum-systems-is-a-major-cl]]
 
 ## Gemini
 *Mentioned in 4 entries*
@@ -70,12 +81,6 @@ Auto-generated index of models extracted from wiki entries. 14 models with 2+ me
 - [[quench-a-180-qubit-spin-system-on-aquila-it-doesnt-thermaliz]]
 - [[queras-bloqade-is-now-a-full-neutral-atom-sdk-one-line-to-st]]
 
-## Willow
-*Mentioned in 2 entries*
-
-- [[alphaevolves-quantum-result-was-trotter-formula-optimization]]
-- [[studying-particle-diffusion-in-quantum-systems-is-a-major-cl]]
-
 ## CompactifAI
 *Mentioned in 2 entries*
 
@@ -111,3 +116,21 @@ Auto-generated index of models extracted from wiki entries. 14 models with 2+ me
 
 - [[at-our-investor-day-ceo-niccolodemasi-shared-a-major-milesto]]
 - [[today-we-debut-ionq-superion-256-our-256-physical-qubit-syst]]
+
+## Advantage2
+*Mentioned in 2 entries*
+
+- [[d-wave-delivers-italys-first-annealing-quantum-computer-to-l]]
+- [[d-wave-demonstrates-3d-analog-digital-quantum-simulation-of-]]
+
+## Comet 60B
+*Mentioned in 2 entries*
+
+- [[multiverse-computing-launches-comet-60b---ai-insider]]
+- [[multiverse-computing-launches-comet-60b-in-collaboration-wit]]
+
+## FirstQFM
+*Mentioned in 2 entries*
+
+- [[firstqfm-foundation-model-cuts-quantum-gate-times-by-33-on-q]]
+- [[firstqfm-model-cuts-single-qubit-gate-times-by-33-on-quantwa]]
