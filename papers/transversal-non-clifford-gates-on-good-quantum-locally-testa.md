@@ -14,4 +14,12 @@ stale: false
 
 arXiv:2609.26691v1 Announce Type: new Abstract: We achieve nontrivial transversal logical multi-controlled-Z gates with asymptotically optimal parameters simultaneously on quantum low-density parity check codes and quantum locally testable codes, by applying the gate framework of [arXiv:2604.01874] to the recent good qLTC construction of [arXiv:2609.20780]. To this end, we use the covering space method to construct a nonzero cup product pairing on a finite arithmetic cubical complex. This differs from the previous construction of almost-good codes, whose base space is a hypergraph product. We express the pairing as a coefficient in a product of Moore determinants and prove polynomial nonvanishing by a bipartite multigraph specialization. We then construct covering spaces to obtain an asymptotic family of good qLTCs on which the pulled-back pairing induces the desired nontrivial transversal logical action.
 
+
+
+## Related
+- [[good-quantum-locally-testable-codes-from-product-expansion|Good Quantum Locally Testable Codes from Product Expansion]]
+- [[cyclic-triorthogonal-codes-in-prime-dimension|Cyclic triorthogonal codes in prime dimension]]
+- [[building-codes-with-transversal-ccz-using-projective-geometr|Building codes with transversal CCZ using projective geometry and SAT solvers]]
+- [[cubical-sheaf-complexes-with-constant-expansion-with-applica|Cubical Sheaf Complexes with Constant Expansion with Applications to Asymptotically Good qLTCs]]
+
 **Source:** [arXiv quant-ph](https://arxiv.org/abs/2609.26691) | 2026-09-23

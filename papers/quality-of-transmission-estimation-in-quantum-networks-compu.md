@@ -1,0 +1,17 @@
+---
+title: "Quality-of-Transmission Estimation in Quantum Networks: Compute, Simulate, or Learn?"
+date: "2026-10-19"
+updated: "2026-10-19"
+source: "agent"
+category: "papers"
+tags: [papers, arxiv-quant-ph]
+url: "https://arxiv.org/abs/2610.23827"
+summary: "arXiv:2610.23827v1 Announce Type: new Abstract: Future quantum networks will rely on control-plane decisions such as routing, scheduling, entanglement provisioning, purification, and memory allocation"
+last_verified: "2026-10-19"
+review_by: "2027-01-17"
+stale: false
+---
+
+arXiv:2610.23827v1 Announce Type: new Abstract: Future quantum networks will rely on control-plane decisions such as routing, scheduling, entanglement provisioning, purification, and memory allocation. Each decision depends on a timely and reliable estimate of the quality of the entanglement that a candidate path can deliver, with end-to-end fidelity as a central metric. Inspired by the optical-networking experience with quality-of-transmission (QoT) estimation, this article asks when a quantum controller should compute fidelity analytically, simulate it, or learn a surrogate model. The optical analogy is useful but incomplete: optical QoT estimation often predicts a scalar transmission margin, whereas quantum QoT estimation must account for probabilistic entanglement generation, random memory waiting times, decoherence, state consumption, and measurement constraints that can make fidelity a stochastic target. We propose a compute/simulate/learn framework for quantum QoT estimation and illustrate it with a simulation-based proof of concept. Our study shows that analytical composition can be sufficient in simple regimes, that simulation becomes necessary when stochastic memory effects shape the delivered fidelity distribution, and that lightweight learned surrogates can approximate simulator labels at much lower runtime cost for online control. We close with open challenges for deployment, including stochastic targets, sim-to-real transfer, data-generation cost, physics-informed learning, and generalization beyond individual paths to full network topologies.
+
+**Source:** [arXiv quant-ph](https://arxiv.org/abs/2610.23827) | 2026-10-19

@@ -1,0 +1,17 @@
+---
+title: "In Situ Three-Dimensional Mapping of Lithiation Heterogeneity in NMC Electrodes using XANES Nanotomography"
+date: "2026-10-19"
+updated: "2026-10-19"
+source: "agent"
+category: "papers"
+tags: [papers, arxiv-physics-chem-ph]
+url: "https://arxiv.org/abs/2307.08871"
+summary: "arXiv:2307.08871v3 Announce Type: replace Abstract: Spatial heterogeneity in lithiation complicates the interpretation of electrode-averaged electrochemical measurements and the assessment of local ac"
+last_verified: "2026-10-19"
+review_by: "2027-01-17"
+stale: false
+---
+
+arXiv:2307.08871v3 Announce Type: replace Abstract: Spatial heterogeneity in lithiation complicates the interpretation of electrode-averaged electrochemical measurements and the assessment of local active-material utilization. Here, we use three-energy X-ray absorption near-edge structure (XANES) nanotomography to investigate lithiation distributions in NMC532 composite electrodes with active-material loadings of 3 and 15 mg cm-2. Tomographic acquisitions at 8.30, 8.35, and 8.43 keV combine three-dimensional particle morphology with Ni K-edge chemical sensitivity at a processed voxel size of 210 nm. The normalized absorption contrast serves as a relative lithiation indicator, without assigning absolute lithium concentrations. Measurements were performed in situ after 1 h of open-circuit relaxation at selected electrochemical states. In the lower-loading electrode, four successive states during interrupted discharge at 2 mA cm-2 reveal an increasing lithium-rich volume fraction alongside core-shell-like distributions, nonuniform peripheral enrichment, and particle-to-particle variability. In the higher-loading electrode, two regions examined at 50% depth of discharge exhibit different lithiation-sensitive contrast distributions despite sharing the same nominal electrochemical state. These observations document heterogeneity within particles, between particles, and between electrode regions, showing how overall lithiation progression can coexist with spatially nonuniform local states. Three-energy XANES nanotomography thus provides a means of examining lithiation heterogeneity in dense composite electrodes with limited spectral sampling. Correlative phase-contrast imaging could further relate these distributions to the arrangement of the carbon-binder domain and pore network.
+
+**Source:** [arXiv physics.chem-ph](https://arxiv.org/abs/2307.08871) | 2026-10-19
