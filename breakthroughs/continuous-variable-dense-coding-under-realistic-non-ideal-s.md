@@ -14,4 +14,12 @@ stale: false
 
 arXiv:2407.07609v2 Announce Type: replace Abstract: We analyze the continuous variable (CV) dense coding protocol between a single sender and a single receiver when affected by noise in the shared and encoded states, as well as when the decoding is imperfect. We present a formalism to derive the dense coding capacity (DCC) of generic two-mode Gaussian states when affected by Gaussian noise models. When the constituent modes are affected by quantum-limited amplifiers, pure-loss channels, and environmental interactions, together with an inefficient decoding mechanism comprising imperfect double-homodyne detection, we specifically investigate the performance of the two-mode squeezed vacuum state (TMSV) by varying the strength of the noise. Through numerical simulations, we further show that the negative conditional entropy may be used to assess the quantum advantage of CV dense coding in Gaussian setups. While comparing the TMSV with other Gaussian states, we identify a class of pure Gaussian states capable of furnishing a capacity equal to that of the TMSV, under equal energy constraints in the ideal regime. Further, we demonstrate that, while the TMSV state is more susceptible to noise, it still provides the maximum quantum advantage in the DC protocol under practical conditions.
 
+
+
+## Related
+- [[input-phase-noise-in-gaussian-boson-sampling|Input phase noise in Gaussian Boson sampling]]
+- [[exponential-entanglement-advantage-in-sensing-correlated-noi|Exponential entanglement advantage in sensing correlated noise]]
+- [[quantum-advantages-in-multiparty-communication|Quantum advantages in multiparty communication]]
+- [[benchmarking-gaussian-and-non-gaussian-input-states-with-a-h|Benchmarking Gaussian and non-Gaussian input states with a hybrid sampling platform]]
+
 **Source:** [arXiv quant-ph](https://arxiv.org/abs/2407.07609) | 2026-10-19
