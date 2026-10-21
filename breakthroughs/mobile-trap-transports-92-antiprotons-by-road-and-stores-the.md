@@ -14,4 +14,9 @@ stale: false
 
 In March 2026, scientists succeeded in transporting antiprotons by road for the first time in a purpose-built trap loaded on a truck. The BASE collaboration, which realized this experiment at the European Organization for Nuclear Research (CERN) in Geneva under the lead of Professor Dr Stefan Ulmer and Dr Christian Smorra from Heinrich Heine University Düsseldorf (HHU), now presents its findings and experiences from this pioneering experiment in the journal Nature. Among other things, they report that it was possible to store antiprotons in a mobile transport vessel for more than a month for the first time ever.
 
+
+
+## Related
+- [[physicists-trap-and-tame-single-particle-of-antimatter-for-m|Physicists trap and tame single particle of antimatter for months]]
+
 **Source:** [Phys.org Quantum](https://phys.org/news/2026-09-mobile-antiprotons-road-month-world.html) | 2026-09-17
