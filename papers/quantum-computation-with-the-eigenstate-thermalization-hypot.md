@@ -14,4 +14,11 @@ stale: false
 
 arXiv:2504.19185v3 Announce Type: replace Abstract: It is proposed that the ability for a quantum circuit to thermalize under time evolution is a valid way to compute linear algebra problems. The algorithm makes use of the eigenstate thermalization hypothesis and full ergodicity in quantum systems to produce an equal superposition of eigenstates. The quantum phase estimation subroutine then allows for the computations of functions of the input operator, leading to a variety of methods in linear algebra. The algorithm circumvents the need for elaborate wavefunction preparation on the quantum computer to find the solution of the linear algebra problem in poly-logarithmic time.
 
+
+
+## Related
+- [[eigenstate-thermalization-hypothesis-a-primer|Eigenstate Thermalization Hypothesis: A Primer]]
+- [[predicting-dynamics-from-flows-of-the-eigenstate-thermalizat|Predicting Dynamics from Flows of the Eigenstate Thermalization Hypothesis]]
+- [[full-eigenstate-thermalization-in-integrable-spin-systems|Full Eigenstate Thermalization in Integrable Spin Systems]]
+
 **Source:** [arXiv quant-ph](https://arxiv.org/abs/2504.19185) | 2026-10-08

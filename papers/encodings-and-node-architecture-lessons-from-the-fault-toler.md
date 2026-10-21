@@ -14,4 +14,11 @@ stale: false
 
 arXiv:2610.22966v1 Announce Type: new Abstract: An encoding choice specifies the quantum error-correcting code used to encode logical qubits at a given node. Different encoding choices may differ in the number of physical qubits, the number of encoded logical qubits, the code distance, and the available fault-tolerant operations. We study different encodings for a distributed transversal fanout operation and look at its implications on node architecture. Our experiments suggest that an encoding with higher distance, even if requiring more ebits, can yield a lower logical error rate for distributed operations, and that ``upgrading'' an encoding prior to distributed operations and having a cache, as part of node architecture, for qubits can be useful for distributed operations.
 
+
+
+## Related
+- [[encoding-and-node-choices-in-transversal-fault-tolerant-dist|Encoding and Node Choices in Transversal Fault-Tolerant Distributed Quantum Computations: An Initial Study]]
+- [[constant-rate-quantum-codes-with-low-weight-stabilizers-and-|Constant-rate quantum codes with low-weight stabilizers and full logical Clifford actions via transversal and fold-transversal gates]]
+- [[construction-of-the-full-logical-clifford-group-for-high-rat|Construction of the full logical Clifford group for high-rate quantum Reed-Muller codes using only transversal and fold-transversal gates]]
+
 **Source:** [arXiv quant-ph](https://arxiv.org/abs/2610.22966) | 2026-10-19
