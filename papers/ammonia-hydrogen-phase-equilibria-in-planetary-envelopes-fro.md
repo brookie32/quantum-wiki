@@ -14,4 +14,11 @@ stale: false
 
 arXiv:2610.27136v1 Announce Type: cross Abstract: Ammonia and hydrogen are major constituents of planets within and beyond the solar system, yet how they interact in planetary envelopes is poorly known. We perform large-scale two-phase coexistence simulations of the ammonia-hydrogen system from 500 to 4000 K and 0.1 to 100 GPa, driven by machine-learning interatomic potentials trained on density functional theory calculations. From these we map the compositions of coexisting hydrogen-rich and ammonia-rich phases, and the critical curve that separates conditions of complete miscibility from those of phase separation. The critical temperature increases with pressure, from 500 K at 0.1 GPa to 2000 K near 30 GPa, and we find no phase separation at 3000 and 4000 K up to 100 GPa. The slope of the critical curve decreases substantially between 0.3 and 30 GPa, and the curve nearly flattens above about 30 GPa and 2000 K, where molecules begin to give way to atomic species. The coexistence curves are asymmetric with an ammonia-rich critical composition. For the expected envelope compositions, the phase boundary lies close to, and intersects, published thermal profiles of Uranus and Neptune, implying ammonia may be raining out in these planets today. In contrast, in warm sub-Neptunes such as TOI-270 d, ammonia and hydrogen are likely miscible in all proportions. Together with previous studies, our results suggest that silicates, water and ammonia separate from hydrogen in sequence as planets cool, with implications for their compositional, thermal and structural evolution.
 
+
+
+## Related
+- [[hydrogen-helium-immiscibility-boundary-in-gas-giant-planetar|Hydrogen-helium immiscibility boundary in gas-giant planetary interiors from machine-learning molecular dynamics]]
+- [[data-efficient-construction-of-material-specific-machine-lea|Data-Efficient Construction of Material-Specific Machine-Learning Interatomic Potentials from Ab Initio Molecular Dynamics Trajectories]]
+- [[hydrogen-reorganization-in-hot-dense-ammonia|Hydrogen Reorganization in Hot Dense Ammonia]]
+
 **Source:** [arXiv physics.chem-ph](https://arxiv.org/abs/2610.27136) | 2026-10-21

@@ -14,4 +14,11 @@ stale: false
 
 arXiv:2609.27909v1 Announce Type: new Abstract: Shannon--Renyi entropies probe the full measurement distribution of a quantum many-body state, but their microscopic evaluation remains difficult even in free-fermion systems. We show that the Born distribution of the critical transverse-field Ising chain is exactly the parity boundary of a weak inverse-square classical Ising model, a structure revealed by the Cauchy form of its probability kernel. The construction is exact at finite size for every real n>0 and isolates the long-distance sectors controlling the n>1 thermodynamics. Cutting a finite interval generates the universal c,n/[8(n-1)] logarithm directly from the missing 1/r^2 interactions, with c=1/2 the Ising central charge. On the ring, the explicit finite-size factor has no constant term, while any additional noninteger singularity is confined to a residual cycle-only free energy. All explicit long-distance contributions become marginal only at n=1.
 
+
+
+## Related
+- [[equivalence-of-stabilizer-and-shannon-renyi-entropies-exact-|Equivalence of Stabilizer and Shannon Renyi Entropies: Exact Results for Quantum Critical Chains]]
+- [[analytical-results-for-the-shannon-entropy-of-the-critical-t|Analytical results for the Shannon entropy of the critical transverse-field Ising chain]]
+- [[quantum-snapshots-reveal-a-compact-conformal-boundary-mode|Quantum Snapshots Reveal a Compact Conformal Boundary Mode]]
+
 **Source:** [arXiv quant-ph](https://arxiv.org/abs/2609.27909) | 2026-09-24
