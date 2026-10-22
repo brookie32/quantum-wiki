@@ -1,0 +1,17 @@
+---
+title: "Dr. Peter Shor Anchors Prominent Group of Quantum Scientists Joining Zapata’s Advisory Board - The Manila Times"
+date: "2026-10-20"
+updated: "2026-10-22"
+source: "agent"
+category: "machine-learning"
+tags: [machine-learning, google-news--qml-companies]
+url: "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNNDBrR3Bsa0RXMWRjY0tfOUN2SFcwYlZJTHZ3V0lCejU5WF8zNHdFZ3ZpQWVIeGhPUWU3czJzSE8wZ3dRNlFQZ2dSTlp0ZjNJVTZnbXpGVTZ2ZzVWSERNTUdjWjRtelZ0MlJEZ0tQc01JNGJhTDdRNzFRS0dmcnpfWENqNURNQTF2U3ZxQ19NVVlCNmdHYWQ5WlFRV3NnN0NwdUdUTDMtdy0xVDZ5OTlwWnVscV8yWHFLNWN4ekdDM3dpOWZFdVpmWVdYT1BNc2pUMDdCWTBfUWpOdDc0Y21zNnZSNndvNjBzY096eE1FY3hsc2pwYnJR0gH8AUFVX3lxTE84TnBqdVBNc2l3YjJoeU9YN2YyVXZUN0o1a2N4dDAxQmltV3RTanc0STlmU1ByRGg4aTZISU9vdl9YM3ZDczRFMlNTcGUwNGxQUW4yMzNTa1J5WGlGYXhKeDFHZktDZGxoZnVBSV9KRkQ3d1lfSlVoQk9MamVUWWJfaHhNU1VreWV5cXNMTlc3NHpwSHRiaEMySmlmSDFTaXg5Wk03STliWjl1UXFOdkZ1alhUeTVkTVZObGZpajV3NHFnN1RPUi1IZXl4M3MySzF5eXhFdVp0RkF5OEV6dXZiMVIybGFfeHBDWmpLQTB4clhCWVlReV9GbWx2Mw?oc=5"
+summary: "The Manila Times reports that Dr. Peter Shor has brought together a prominent group of quantum scientists, all of whom have joined Zapata Technologies’ advisory board. The story, which highlights Shor"
+last_verified: "2026-10-22"
+review_by: "2027-01-20"
+stale: false
+---
+
+The Manila Times reports that Dr. Peter Shor has brought together a prominent group of quantum scientists, all of whom have joined Zapata Technologies’ advisory board. The story, which highlights Shor’s leadership in the field, is distributed globally through Google News’ aggregated coverage.
+
+**Source:** [Google News: QML companies](https://news.google.com/rss/articles/CBMi9wFBVV95cUxNNDBrR3Bsa0RXMWRjY0tfOUN2SFcwYlZJTHZ3V0lCejU5WF8zNHdFZ3ZpQWVIeGhPUWU3czJzSE8wZ3dRNlFQZ2dSTlp0ZjNJVTZnbXpGVTZ2ZzVWSERNTUdjWjRtelZ0MlJEZ0tQc01JNGJhTDdRNzFRS0dmcnpfWENqNURNQTF2U3ZxQ19NVVlCNmdHYWQ5WlFRV3NnN0NwdUdUTDMtdy0xVDZ5OTlwWnVscV8yWHFLNWN4ekdDM3dpOWZFdVpmWVdYT1BNc2pUMDdCWTBfUWpOdDc0Y21zNnZSNndvNjBzY096eE1FY3hsc2pwYnJR0gH8AUFVX3lxTE84TnBqdVBNc2l3YjJoeU9YN2YyVXZUN0o1a2N4dDAxQmltV3RTanc0STlmU1ByRGg4aTZISU9vdl9YM3ZDczRFMlNTcGUwNGxQUW4yMzNTa1J5WGlGYXhKeDFHZktDZGxoZnVBSV9KRkQ3d1lfSlVoQk9MamVUWWJfaHhNU1VreWV5cXNMTlc3NHpwSHRiaEMySmlmSDFTaXg5Wk03STliWjl1UXFOdkZ1alhUeTVkTVZObGZpajV3NHFnN1RPUi1IZXl4M3MySzF5eXhFdVp0RkF5OEV6dXZiMVIybGFfeHBDWmpLQTB4clhCWVlReV9GbWx2Mw?oc=5) | 2026-10-20
