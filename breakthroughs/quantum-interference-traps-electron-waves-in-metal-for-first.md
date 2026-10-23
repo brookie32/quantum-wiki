@@ -14,4 +14,10 @@ stale: false
 
 Ever since quantum mechanics first described particles, like electrons, as rippling waves, researchers have wondered if those waves could be trapped in place. Writing today in Science a century later, a team of Columbia University researchers reports waves of electrons becoming trapped for the first time in a metal called Pd₅AlI₂.
 
+
+
+## Related
+- [[chemical-physicists-quantitatively-model-electron-interactio|Chemical physicists quantitatively model electron interactions in real quantum materials]]
+- [[heavy-fermions-emerge-at-an-atomic-layer-interface-unlocking|Heavy fermions emerge at an atomic-layer interface, unlocking new ways to design quantum materials]]
+
 **Source:** [Phys.org Quantum](https://phys.org/news/2026-10-quantum-electron-metal.html) | 2026-10-22

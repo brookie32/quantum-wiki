@@ -14,4 +14,11 @@ stale: false
 
 MIT researchers used a specialized self-attention neural network to solve complex equations related to quantum particles, confirming the existence of anti-Pfaffian topological states. This breakthrough provides a roadmap for building noise-resistant topological qubits in materials like monolayer WSe2 and semiconductor quantum wells. The post MIT Physicists Use First-Principles AI to Resolve Non-Abelian Anyon Order at Strong Landau Level Mixing appeared first on Quantum Computing Report.
 
+
+
+## Related
+- [[hamilton-zero-a-neural-tensor-network-foundation-model-for-g|Hamilton-Zero: A Neural Tensor-Network Foundation Model for Ground States of Arbitrary Quadratic Qubit Hamiltonians]]
+- [[chern-number-estimation-nearly-optimal-quantum-algorithm-and|Chern-number estimation: nearly optimal quantum algorithm and provable quantum speedup]]
+- [[d-wave-demonstrates-3d-analog-digital-quantum-simulation-of-|D-Wave Demonstrates 3D Analog-Digital Quantum Simulation of Higher-Order Topological Insulators Using 728 Qubits]]
+
 **Source:** [Quantum Computing Report](https://quantumcomputingreport.com/mit-physicists-use-first-principles-ai-to-resolve-non-abelian-anyon-order-at-strong-landau-level-mixing/) | 2026-10-17
