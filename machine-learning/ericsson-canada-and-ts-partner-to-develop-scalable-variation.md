@@ -1,0 +1,17 @@
+---
+title: "Ericsson Canada and ÉTS Partner to Develop Scalable Variational Quantum Algorithms for Telecom Network Optimization - Quantum Computing Report"
+date: "2026-10-24"
+updated: "2026-10-24"
+source: "agent"
+category: "machine-learning"
+tags: [machine-learning, google-news--qml]
+url: "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQQk4tc2VtTHEtRUl1M2YxM3hUSFBwOXNTMWRMQWlPR2VKV3NpcE9WWFBmOWZnbzRMMENvUDNpZXNZb2dyWHlXYnBSaF9rTFZRZk5CQl9GSzdyQWg1TktKUTdNbXZMMDhqVzByR3FTUFpmVVJSS2p6dkxBbWdOSzg1bHdQdFEtRXlMd2puSXV3eG9nUjM1Y3Q4dDc2NWt4ODRhQVZLQ0xuZnQtV0ZFUDNLczBiRmRZaFd4dGJncDhJZkIzTVF1V2YzWk9kbVA0WVYxcWVuWjZwYnZjU0V2ZnVtb0tQbG9Xd9IB6wFBVV95cUxPSjZvRi1wdm9mT1kxTGYzS1V0MlJvekEwM1U4T3Z2LTA3MTE3T3p6R3RpVWlHRUNZTE9MM0VJT0FnT25wZzZpM0cySzc3cmF3cVhxZXNrczRnLUJGTmhTV3NTbTNSdnJ5a3JiUlBtSUxCQXgyVmljTVdtZWw3Sk9jUkJ1XzcwaU05dEc1X2ttczVLT2FETVN6U2RwMGZ6ekRMRVFiRmxoTmZBWnNpcnlDQ29QVDNwMnlWcE4tQjR4UzV4aGpuYzUxMnlsMExES2I2OEw2VmNjaXpiMVhNdjBUWmQtMTlPbURKNEI4?oc=5"
+summary: "Ericsson Canada has partnered with ÉTS (École de technologie supérieure) to advance scalable variational quantum algorithms aimed at optimizing telecommunications networks. The collaboration focuses o"
+last_verified: "2026-10-24"
+review_by: "2027-01-22"
+stale: false
+---
+
+Ericsson Canada has partnered with ÉTS (École de technologie supérieure) to advance scalable variational quantum algorithms aimed at optimizing telecommunications networks. The collaboration focuses on applying quantum computing techniques—specifically variational methods—to improve network performance and resource allocation in telecom operations. This partnership represents a joint effort between industry and academia to explore cutting‑edge quantum solutions for the telecommunications sector.
+
+**Source:** [Google News: QML](https://news.google.com/rss/articles/CBMi5gFBVV95cUxQQk4tc2VtTHEtRUl1M2YxM3hUSFBwOXNTMWRMQWlPR2VKV3NpcE9WWFBmOWZnbzRMMENvUDNpZXNZb2dyWHlXYnBSaF9rTFZRZk5CQl9GSzdyQWg1TktKUTdNbXZMMDhqVzByR3FTUFpmVVJSS2p6dkxBbWdOSzg1bHdQdFEtRXlMd2puSXV3eG9nUjM1Y3Q4dDc2NWt4ODRhQVZLQ0xuZnQtV0ZFUDNLczBiRmRZaFd4dGJncDhJZkIzTVF1V2YzWk9kbVA0WVYxcWVuWjZwYnZjU0V2ZnVtb0tQbG9Xd9IB6wFBVV95cUxPSjZvRi1wdm9mT1kxTGYzS1V0MlJvekEwM1U4T3Z2LTA3MTE3T3p6R3RpVWlHRUNZTE9MM0VJT0FnT25wZzZpM0cySzc3cmF3cVhxZXNrczRnLUJGTmhTV3NTbTNSdnJ5a3JiUlBtSUxCQXgyVmljTVdtZWw3Sk9jUkJ1XzcwaU05dEc1X2ttczVLT2FETVN6U2RwMGZ6ekRMRVFiRmxoTmZBWnNpcnlDQ29QVDNwMnlWcE4tQjR4UzV4aGpuYzUxMnlsMExES2I2OEw2VmNjaXpiMVhNdjBUWmQtMTlPbURKNEI4?oc=5) | 2026-10-24
