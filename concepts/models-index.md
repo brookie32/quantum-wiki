@@ -14,7 +14,7 @@ stale: false
 
 # All Models
 
-Auto-generated index of models extracted from wiki entries. 17 models with 2+ mentions.
+Auto-generated index of models extracted from wiki entries. 18 models with 2+ mentions.
 
 ## Claude
 *Mentioned in 10 entries*
@@ -104,6 +104,12 @@ Auto-generated index of models extracted from wiki entries. 17 models with 2+ me
 
 - [[a-generative-deep-learning-workflow-for-inverse-molecular-de]]
 - [[implementation-of-quantum-implicit-neural-representation-in-]]
+
+## Helios
+*Mentioned in 2 entries*
+
+- [[quantinuum-and-oracle-launch-oci-quantum-ai-compute-beta-pro]]
+- [[quantinuum-and-oracle-partner-to-bring-helios-quantum-comput]]
 
 ## DeepONet
 *Mentioned in 2 entries*

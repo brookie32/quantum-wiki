@@ -1,50 +1,52 @@
 ---
 title: "Synthesis: Cryptography"
-date: "2026-10-18"
-updated: "2026-10-18"
+date: "2026-10-25"
+updated: "2026-10-25"
 source: "agent"
 category: "syntheses"
 tags: [synthesis, cryptography, auto-generated]
 url: ""
-summary: "Auto-generated synthesis of 1118 entries about cryptography"
-last_verified: "2026-10-18"
-review_by: "2026-10-18"
+summary: "Auto-generated synthesis of 1225 entries about cryptography"
+last_verified: "2026-10-25"
+review_by: "2026-10-25"
 stale: false
 ---
 
 # Cryptography: Knowledge Wiki Synthesis
 
 ## Overview
-Cryptography is undergoing a fundamental transition driven by the dual pressures of quantum computing threats and increasingly sophisticated classical attacks. The field is rapidly standardizing post-quantum cryptographic (PQC) algorithms while simultaneously defending against side-channel attacks, credential theft, and infrastructure vulnerabilities. Enterprise adoption of quantum-resistant systems is accelerating from theoretical research into commercial deployment.
+Cryptography is undergoing a period of significant transition, driven primarily by the looming threat of quantum computing to classical encryption standards. The field is simultaneously advancing post-quantum cryptographic primitives, refining homomorphic encryption schemes, and hardening threshold and side-channel-resistant protocols. Real-world deployment pressures — from enterprise key management to lightweight IoT security — are accelerating standardization and adoption timelines.
 
 ---
 
 ## Key Developments
-- **Post-quantum migration** is moving from research to production, with enterprises actively deploying PQC key encapsulation mechanisms (KEMs) and hybrid classical/post-quantum schemes
-- **New hardness assumptions** (e.g., quantum stabilizer decoding, LWE variants) are diversifying the mathematical foundations underpinning PQC to reduce single-point-of-failure risks
-- **Threshold and multi-party cryptography** (e.g., robust ECDSA threshold signing) is maturing for large-scale distributed and blockchain applications
-- **Side-channel attacks** on widely deployed primitives like SHA-256 and HMAC remain active threats requiring hardware-level defenses
-- **Quantum cryptography** (QRAM, oblivious quantum queries) is emerging as a research frontier for securing delegated quantum computation
-- **Credential theft via DNS hijacking** on public Wi-Fi highlights persistent weaknesses in real-world cryptographic infrastructure deployment
+- **Post-quantum cryptography (PQC)** is expanding beyond lattice-based schemes, with new approaches including quantum stabilizer decoding and isogeny-based signatures (e.g., ECLIPSE/PRISM)
+- **Hybrid key establishment** protocols are emerging to bridge classical and post-quantum KEMs during the transition period
+- **Homomorphic encryption** (e.g., CKKS) is being optimized for precision and reduced modulus consumption in practical deployments
+- **Threshold cryptography** (e.g., robust ECDSA at scale) is maturing for distributed and blockchain applications
+- **Side-channel attacks** on standard primitives like SHA-256/HMAC remain an active threat vector under investigation
+- **Enterprise PQC migration** is accelerating, with vendors surpassing significant revenue milestones from migration demand
+- **Quantum-classical model distinctions** are revealing breakdowns in previously assumed cryptographic equivalences
 
 ---
 
 ## Key Players & Organizations
-- **NSA** – long-standing cryptanalysis and standards influence
-- **Keyfactor** – enterprise PKI and post-quantum migration tooling ($200M+ ARR)
-- **IBM** – historical (Harvest system) and ongoing cryptographic hardware work
-- **Academic/arXiv community** – driving PQC algorithm design and cryptanalysis
+- **NSA / NIST** — historical and ongoing standards influence
+- **Keyfactor** — enterprise certificate and PQC key management
+- **IBM** — historical (Harvest machine) and ongoing cryptographic research
+- **Academic research community** — driving LWE algorithms, CKKS, threshold protocols, and OQRAM
 
 ---
 
 ## Outlook
-Post-quantum standardization will dominate near-term efforts, with hybrid schemes bridging the classical-to-quantum transition. Lightweight cryptography for IoT/embedded devices and quantum-secure protocols for delegated computation represent the next research frontier. Real-world deployment gaps—particularly in public infrastructure—remain critical vulnerabilities requiring urgent attention.
+The field is converging on **post-quantum standardization** as the dominant near-term priority, with hybrid schemes serving as a practical bridge. Lightweight cryptography for resource-constrained devices and quantum-secure memory access models (OQRAM) will grow in importance as quantum hardware matures and IoT deployments scale.
 
 ## Source Entries
 
 - [[how-candidates-could-use-ai-for-good|How Candidates Could Use AI for Good]]
 - [[hacking-public-wi-fi-dns-to-steal-credentials|Hacking Public Wi-Fi DNS to Steal Credentials]]
 - [[post-quantum-cryptography-from-quantum-stabilizer-decoding|Post-Quantum Cryptography from Quantum Stabilizer Decoding]]
+- [[high-precision-ckks-with-fixed-modulus-consumption|High-Precision CKKS with fixed Modulus Consumption]]
 - [[oqram-oblivious-quantum-random-access-memory-for-securing-de|OQRAM: Oblivious Quantum Random Access Memory for Securing Delegated Quantum Queries]]
 - [[on-the-nsas-supercomputer-from-the-1960s|On the NSA’s Supercomputer from the 1960s]]
 - [[friday-squid-blogging-neon-flying-squid|Friday Squid Blogging: Neon Flying Squid]]
@@ -56,4 +58,3 @@ Post-quantum standardization will dominate near-term efforts, with hybrid scheme
 - [[transcript-bound-combiners-for-downgrade-resilient-hybrid-po|Transcript-Bound Combiners for Downgrade-Resilient Hybrid Post-Quantum Key Establishment: Definition, Proof, and Embedded-Device Cost]]
 - [[a-provable-subexponential-time-algorithm-for-lwe-from-non-sa|A Provable Subexponential-Time Algorithm for LWE from (n+o(n)) Samples via Wagner-Style Gaussian Sampling]]
 - [[eclipse-strongly-unforgeable-isogeny-signatures-from-the-pri|ECLIPSE: Strongly Unforgeable Isogeny Signatures from the Prime-Degree Variant of PRISM]]
-- [[efficient-additive-randomized-encodings-for-string-oblivious|Efficient Additive Randomized Encodings for String Oblivious Transfer: A Core Primitive for General Functions]]
