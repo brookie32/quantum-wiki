@@ -14,4 +14,11 @@ stale: false
 
 arXiv:2610.10700v1 Announce Type: cross Abstract: Piezoelectric nanomechanical resonators operating at gigahertz frequencies are a promising platform for quantum information processing and precision sensing, but phonon lifetimes have been limited to the microsecond range, widely attributed to the higher intrinsic loss of piezoelectric materials. Here we show that this limitation is not fundamental. Using a fabrication process informed by recent studies of defect-mediated loss in lithium niobate, we combine chemical restoration of ion-milled surfaces with a shadow-mask metallization process to produce lithium niobate phononic crystal resonators with inferred internal phonon lifetimes of up to 21 milliseconds at 3.6 gigahertz, corresponding to quality factors exceeding 4imes10^8 (fdot Q_i > 10^{18}) at millikelvin temperatures. By systematically varying the electrode-to-resonator spacing, we demonstrate that the measured lifetime is set by external coupling between the device and the measurement circuit rather than material loss. This establishes that lithium niobate, once fabrication-induced surface damage is removed, achieves an intrinsic quality comparable to the best mechanical materials while remaining an intrinsically piezoelectric platform with strong electromechanical coupling.
 
+
+
+## Related
+- [[multibranched-parametric-resonance-and-swallowtail-catastrop|Multibranched parametric resonance and swallowtail catastrophe in electromechanical oscillators with nonlinear friction]]
+- [[theoretical-analysis-towards-accurate-optomechanical-detecti|Theoretical analysis towards accurate optomechanical detection of quantum gravity effects]]
+- [[phonon-enabled-collective-strong-coupling-of-color-centers-i|Phonon-Enabled Collective Strong Coupling of Color Centers in a Plasmonic Cavity]]
+
 **Source:** [arXiv quant-ph](https://arxiv.org/abs/2610.10700) | 2026-10-09
