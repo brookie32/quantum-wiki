@@ -14,4 +14,11 @@ stale: false
 
 In October 2026, Torsten V. Zache and collaborators reported in *Nature Physics* that a quantum computer successfully simulated a model particle‑collision event occurring above the threshold for producing new particles. The study demonstrates that complex high‑energy scattering processes—historically accessible only through large collider experiments—can now be replicated on quantum hardware, suggesting a complementary computational tool for future particle physics research.
 
+
+
+## Related
+- [[digital-quantum-simulations-of-scattering-in-quantum-field-t|Digital quantum simulations of scattering in quantum field theories using W states]]
+- [[quantum-field-theory-dynamics-on-a-spinphonon-quantum-comput|Quantum field theory dynamics on a spin–phonon quantum computer]]
+- [[a-1-bit-quantum-filter-for-particle-trajectory-reconstructio|A 1-bit quantum filter for particle trajectory reconstruction]]
+
 **Source:** [Nature: Quantum Physics](https://www.nature.com/articles/s41567-026-03490-2) | 2026-10-23
