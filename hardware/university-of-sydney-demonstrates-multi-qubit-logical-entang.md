@@ -1,0 +1,19 @@
+---
+title: "University of Sydney Demonstrates Multi-Qubit Logical Entanglement and 170-Round Stability on IBM Square-Lattice Nighthawk r2 Processor - Quantum Computing Report"
+date: "2026-10-29"
+updated: "2026-10-29"
+source: "agent"
+category: "hardware"
+tags: [hardware, google-news--error-correction]
+url: "https://news.google.com/rss/articles/CBMigAJBVV95cUxOQmRLNVM2MHI4YXNFLUNHZ0hVbVFzM2Q3eFZ3VXVJeDlBNWpfRE5HT1lXdGNjSEJVRTJOdUhaSl9NWWVGazZQckIzR01oMU54R0pVWUFHd1lWeUVKLWt6M20wRXg1ZjlQQXJ5QnRpZ2RoelQ5UGdpSE00RjE0S2N3LXoyV0Y0a3l3NDZFX0M4eFJGMXQyc3dkNElHUmdwU3dsaVNNMjBUTThnNTdrSWdiRFphT0ZEVFN0UzgtUTU2RTJxWmhMOXRiY0VGcU9lNlJ1TU1KaVJfdVZpa21yeDNEWDllREI2QkNYaEdqQXFpVGZ1NndRdlc1bHlSX1pGd00t0gGGAkFVX3lxTE9lWHNhOExzYUNfUzFFOVJ1NXJxU2gtWHZwdGhPc0VJczBxaXBCU0pUcWR1eFhmZ2RqeHRVYUdyYUJoM2Y2d3VjSVFsV19hV3hBLUp1VUt0dnNIZ1VqdmpsbjZmTjBTZHFjRnhlRWNwVWxfZUt5ekQzbU5SRVloaGh4MGtoVlMycFBMYmNUcGNVOEdqZlIwR3BNOWc0RVBIMUU1MjlwZk9teWJkUzlHV2ZJSTR5TXB4dEFyRS1ZNF9Fb1V5dXM2dVhVUk1LX2I5bEhzc1NTaDk1NDVGMWVpWmdjdzl0YkNUaXFHVDJLem9nUXZ3dEU2U2RuaDg0cUFSaHMtWFdXOWc?oc=5"
+summary: "**Summary** The University of Sydney demonstrated that the IBM Square‑Lattice Nighthawk r2 processor can sustain multi‑qubit logical entanglement across its lattice design for up to 170 consecutive er"
+last_verified: "2026-10-29"
+review_by: "2027-01-27"
+stale: false
+---
+
+**Summary**
+
+The University of Sydney demonstrated that the IBM Square‑Lattice Nighthawk r2 processor can sustain multi‑qubit logical entanglement across its lattice design for up to 170 consecutive error‑correction rounds, showcasing its potential for scalable quantum computation. The results confirm the device’s stability and fault‑tolerant performance in a large‑scale superconducting qubit array, marking a significant milestone in practical quantum hardware.
+
+**Source:** [Google News: error correction](https://news.google.com/rss/articles/CBMigAJBVV95cUxOQmRLNVM2MHI4YXNFLUNHZ0hVbVFzM2Q3eFZ3VXVJeDlBNWpfRE5HT1lXdGNjSEJVRTJOdUhaSl9NWWVGazZQckIzR01oMU54R0pVWUFHd1lWeUVKLWt6M20wRXg1ZjlQQXJ5QnRpZ2RoelQ5UGdpSE00RjE0S2N3LXoyV0Y0a3l3NDZFX0M4eFJGMXQyc3dkNElHUmdwU3dsaVNNMjBUTThnNTdrSWdiRFphT0ZEVFN0UzgtUTU2RTJxWmhMOXRiY0VGcU9lNlJ1TU1KaVJfdVZpa21yeDNEWDllREI2QkNYaEdqQXFpVGZ1NndRdlc1bHlSX1pGd00t0gGGAkFVX3lxTE9lWHNhOExzYUNfUzFFOVJ1NXJxU2gtWHZwdGhPc0VJczBxaXBCU0pUcWR1eFhmZ2RqeHRVYUdyYUJoM2Y2d3VjSVFsV19hV3hBLUp1VUt0dnNIZ1VqdmpsbjZmTjBTZHFjRnhlRWNwVWxfZUt5ekQzbU5SRVloaGh4MGtoVlMycFBMYmNUcGNVOEdqZlIwR3BNOWc0RVBIMUU1MjlwZk9teWJkUzlHV2ZJSTR5TXB4dEFyRS1ZNF9Fb1V5dXM2dVhVUk1LX2I5bEhzc1NTaDk1NDVGMWVpWmdjdzl0YkNUaXFHVDJLem9nUXZ3dEU2U2RuaDg0cUFSaHMtWFdXOWc?oc=5) | 2026-10-29

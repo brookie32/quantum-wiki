@@ -1,0 +1,17 @@
+---
+title: "I think our industry partners rather doubted we would get anywhere near these numbers but PsiQuantum team made this look easy. This chip en…"
+date: "2026-10-28"
+updated: "2026-10-29"
+source: "agent"
+category: "industry"
+tags: [industry, psiquantum--x]
+url: "https://x.com/PeteShadbolt/status/2115507039120359629"
+summary: "I think our industry partners rather doubted we would get anywhere near these numbers but PsiQuantum team made this look easy. This chip enables all-optical switching of network traffic without plugga"
+last_verified: "2026-10-29"
+review_by: "2027-01-27"
+stale: false
+---
+
+I think our industry partners rather doubted we would get anywhere near these numbers but PsiQuantum team made this look easy. This chip enables all-optical switching of network traffic without pluggable transceivers, moving mirrors, or amplifiers to compensate for loss. Google are still the only company brave enough to do OCS at any meaningful scale — huge credit to them for slamming free-space optics (!) in a datacenter rack. This photonic chip achieves similar power, throughput, and architectural advantages without moving parts, and in a much smaller package. 64-port strictly non-blocking silicon will go into test this year, 72-port device tapes out soon. All of these chips will run well under 3dB loss thanks to ludicrously good passives (<1mdB splitters and crossings, 1dB/m waveguides) and advanced edge coupling (~5X better than industry). No need to put an amplifier on every fiber. All of this is done using simple millisecond-rate thermal phase shifters, but lurking in the background is the prospect of fast switching with barium titanate — PsiQuantum already builds BTO switches that switch up to 64 ports in a nanosecond, and — somewhat in contrast with TFLN – we can fit a ton of switches on a reticle. This goes far beyond current industry demand but will unlock categorically new architectures for training and inference. We’re excited to make our first serious foray into classical computing hardware and believe this product will make the architectural benefits of optical circuit switching simpler and more accessible to the industry. We also would not be doing this if it were not extremely well-aligned with PsiQuantum’s mission. The OCS chip is strikingly similar to parts that we already make for pump laser distribution in the photonic quantum computer — so similar in fact that it only took a dozen engineers a couple weeks to design the part. We did not modify the photonics process, PDK, or packaging flow to achieve these results. Now, through the process of building hundreds of thousands of these chips for industry, we’re also going to improve the yield, reliability, and supply chain for parts that we need for utility-scale photonic quantum computing. This is a direct realization of the founding thesis of PsiQuantum — that by aligning ourselves with the prevailing wind of the conventional computing industry, fabs, OSATs, CMs etc, we can de-risk and accelerate the hard journey to a useful fault-tolerant quantum computer. AI is pushing computing infrastructure to its limits. Our photonics can help. Today, PsiQuantum is unveiling its industry-leading Optical Circuit Switch initiative with an 8×8 OCS demo built on the company’s low-loss silicon photonics platform—the same platform we’ve spent nearl…
+
+**Source:** [PsiQuantum (X)](https://x.com/PeteShadbolt/status/2115507039120359629) | 2026-10-28
