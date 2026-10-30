@@ -14,4 +14,9 @@ stale: false
 
 The Korea Research Institute of Standards and Science (KRISS) has remeasured a key transition frequency of the strontium (Sr) atom for the first time in 88 years, since 1938, using a photonic grating chip. It has established a new absolute frequency value with a measurement uncertainty reduced by more than 50 times. By providing an accurate reference value for next-generation quantum technologies, this achievement is expected to contribute to the precise control and miniaturization of quantum devices, including atomic clocks and neutral-atom quantum computers. The work is published in the journal Metrologia.
 
+
+
+## Related
+- [[pasqal-achieves-first-on-chip-neutral-atom-qubit-trapping-vi|Pasqal Achieves First On-Chip Neutral-Atom Qubit Trapping via Photonic Integrated Circuits]]
+
 **Source:** [Phys.org Quantum](https://phys.org/news/2026-10-scientists-redetermine-key-strontium-frequency.html) | 2026-10-19
