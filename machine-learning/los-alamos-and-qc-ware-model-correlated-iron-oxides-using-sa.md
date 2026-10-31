@@ -1,0 +1,17 @@
+---
+title: "Los Alamos and QC Ware Model Correlated Iron Oxides Using Sample-Based Quantum Diagonalization on IBM Hardware - Quantum Computing Report"
+date: "2026-10-31"
+updated: "2026-10-31"
+source: "agent"
+category: "machine-learning"
+tags: [machine-learning, google-news--qml-companies]
+url: "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPWnkxTFhVRlVEamNCUVEtR08tcERYTXdRT3lOTkJ5WV9OSkVLVUlYQkt3TWMyYXBYaWxmZmJrNGJrODlCcmdwMFNjRTdrUnJYNXdwS2xya3ZIcTJYQ2xuQzZ1YW9fcTZzWGtfaGlTcmhuUERYMjB1dTA5SGVMZktFWHZURE02aWNBLU5Ecm9OZ3NmTjk1Sy1CblpLVF9MWWthNTRwdTZOb215ZUlhUUR3MXRRZVVEZ1ZtZjhpdE9XaVdUaFhmMkZ6aThpV2pFczZzNEZXSXZJZFJVSEpPZHRj0gHkAUFVX3lxTE51VUF4VUphdGxNTG4yQnA1Q3NsT2ZHYU1Ud3VwUHNVMThybk9JUTl0cGItMFJWenpUNFFRS3FmZThNQnJESkNwUk5ER3lVY0YxNmJOZjNnN3NCMDM0ZzhNLWJNRGdCeGZZUU5tVDVnUGx1VnVEMEdSdWlMdlBsdXBvU3FKOGExa016Wlh4eHo0bDlVeWFpbkJhVUdTNlViVDdOSnoxVUNGT3dXdFdCZEd0RGJIUFB1UU9naGdzdU1XSGRVS1R6Qm4wejlNTzNRSVZfU3ZRMDBqNE9uY2VlUklFU1lqcw?oc=5"
+summary: "Los Alamos National Laboratory and QC Ware collaborated to simulate the electronic structure of iron‑oxide compounds on IBM Quantum hardware using a sample‑based quantum diagonalization algorithm. The"
+last_verified: "2026-10-31"
+review_by: "2027-01-29"
+stale: false
+---
+
+Los Alamos National Laboratory and QC Ware collaborated to simulate the electronic structure of iron‑oxide compounds on IBM Quantum hardware using a sample‑based quantum diagonalization algorithm.  The approach reduces the dimensionality of the strongly correlated problem, allowing near‑term quantum processors to approximate energy levels of transition‑metal oxides.  This demonstrates a practical pathway for applying current‑generation quantum computers to complex material‑science simulations.
+
+**Source:** [Google News: QML companies](https://news.google.com/rss/articles/CBMi3wFBVV95cUxPWnkxTFhVRlVEamNCUVEtR08tcERYTXdRT3lOTkJ5WV9OSkVLVUlYQkt3TWMyYXBYaWxmZmJrNGJrODlCcmdwMFNjRTdrUnJYNXdwS2xya3ZIcTJYQ2xuQzZ1YW9fcTZzWGtfaGlTcmhuUERYMjB1dTA5SGVMZktFWHZURE02aWNBLU5Ecm9OZ3NmTjk1Sy1CblpLVF9MWWthNTRwdTZOb215ZUlhUUR3MXRRZVVEZ1ZtZjhpdE9XaVdUaFhmMkZ6aThpV2pFczZzNEZXSXZJZFJVSEpPZHRj0gHkAUFVX3lxTE51VUF4VUphdGxNTG4yQnA1Q3NsT2ZHYU1Ud3VwUHNVMThybk9JUTl0cGItMFJWenpUNFFRS3FmZThNQnJESkNwUk5ER3lVY0YxNmJOZjNnN3NCMDM0ZzhNLWJNRGdCeGZZUU5tVDVnUGx1VnVEMEdSdWlMdlBsdXBvU3FKOGExa016Wlh4eHo0bDlVeWFpbkJhVUdTNlViVDdOSnoxVUNGT3dXdFdCZEd0RGJIUFB1UU9naGdzdU1XSGRVS1R6Qm4wejlNTzNRSVZfU3ZRMDBqNE9uY2VlUklFU1lqcw?oc=5) | 2026-10-31

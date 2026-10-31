@@ -14,4 +14,12 @@ stale: false
 
 arXiv:2609.39042v1 Announce Type: new Abstract: Broadening the study of quantum optimization algorithms from binary to k-element alphabets has been shown to open new avenues for potential quantum advantage. A quantum advantage claim for approximate optimization requires showing that, under the same assumptions, an efficient quantum algorithm provably achieves a better performance than can be proven for the best known efficient classical algorithms. We study local classical and quantum algorithms for Max-k-Cut on d-regular graphs of girth g. We advance classical algorithms for this problem by developing a local vector algorithm based on the explicit vector construction of Thompson, Parekh, and Marwaha (TPM). Our algorithm gives the best provable cut fraction guarantee among known efficient classical algorithms on regular graphs for kgeq3. To evaluate the performance of QAOA under identical assumptions of girth and regularity, we develop tensor network techniques for general d and k geq 2. In addition, using an equivalence to a coupled qudit--boson system, we compute the QAOA performance in the infinite-degree limit. Together, these techniques give provable guarantees on QAOA performance on large graphs. Despite the improvements we introduce to the classical algorithm, QAOA achieves a better cut fraction guarantee for depths pgeq 9, corresponding to girth ggeq 20, for both finite- and infinite-degree regimes. Thus, we obtain an apparent quantum advantage from applying QAOA to the Max-k-Cut problem.
 
+
+
+## Related
+- [[rate-optimal-quantum-discrete-simulation-optimization|Rate-Optimal Quantum Discrete Simulation Optimization]]
+- [[a-provable-quantum-advantage-for-approximate-optimization-vi|A provable quantum advantage for approximate optimization via decoded quantum interferometry]]
+- [[resource-and-entanglement-study-of-a-hybrid-qudit-qubit-quan|Resource and entanglement study of a hybrid qudit-qubit quantum algorithm for solving the integer programming problem]]
+- [[experimental-workflows-for-combinatorial-optimization-toward|Experimental Workflows for Combinatorial Optimization: Towards Quantum Advantage]]
+
 **Source:** [arXiv quant-ph](https://arxiv.org/abs/2609.39042) | 2026-10-01
