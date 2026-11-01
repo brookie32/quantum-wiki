@@ -1,42 +1,44 @@
 ---
 title: "Synthesis: Error-Correction"
-date: "2026-10-25"
-updated: "2026-10-25"
+date: "2026-11-01"
+updated: "2026-11-01"
 source: "agent"
 category: "syntheses"
 tags: [synthesis, error-correction, auto-generated]
 url: ""
-summary: "Auto-generated synthesis of 908 entries about error-correction"
-last_verified: "2026-10-25"
-review_by: "2026-10-25"
+summary: "Auto-generated synthesis of 954 entries about error-correction"
+last_verified: "2026-11-01"
+review_by: "2026-11-01"
 stale: false
 ---
 
-# Error-Correction: Knowledge Wiki Overview
+# Error Correction: Knowledge Wiki Overview
 
 ## Current State
-Quantum error correction (QEC) is rapidly maturing from theoretical framework to practical implementation, with researchers achieving milestone results such as decoding quantum data at error rates of one in ten million under 8.5% noise conditions. The field is converging on scalable decoder architectures and hardware-efficient code designs as the critical bottlenecks separating near-term devices from fault-tolerant quantum computation.
+Quantum error correction (QEC) is rapidly maturing from theoretical framework to practical implementation, with researchers achieving landmark results such as decoding quantum data at error rates of one in ten million under 8.5% noise conditions. The field is converging on scalable, hardware-efficient solutions as fault-tolerant quantum computation moves closer to real-world deployment.
+
+---
 
 ## Key Developments
-- **Hierarchical QEC schemes** combining hypergraph product codes with rotated surface codes are improving logical error suppression through concatenated architectures
-- **Real-time large-scale decoding** at megabit-per-second rates has been demonstrated for the first time, addressing a major throughput barrier
-- **AI/reinforcement learning** is being applied to QEC (notably by Google) to optimize decoding strategies adaptively
-- **Single-CPU decoders** (IonQ) and reduced-overhead decoding strategies are targeting computational cost as a practical bottleneck
-- **Bosonic error correction** with fluxonium qubits offers hardware-efficient alternatives to qubit-array approaches
-- **CPM-based quantum LDPC codes** and new pair-partition constructions are expanding the code design toolkit
-- **Cross-platform benchmarking** (Jülich Supercomputing Centre) is standardizing QEC primitive evaluation across Quantinuum, IBM, and IQM hardware
+- **Hierarchical QEC schemes** combining hypergraph product codes with rotated surface codes are demonstrating improved error suppression through code concatenation
+- **Real-time, large-scale decoding** at megahertz speeds has been demonstrated, addressing a critical throughput bottleneck for practical quantum systems
+- **AI/reinforcement learning** is being applied (notably by Google) to optimize error correction strategies dynamically
+- **Bosonic error correction** using fluxonium qubits offers hardware-efficient routes to fault tolerance
+- **Single-CPU decoders** (IonQ) and reduced-overhead decoding strategies are lowering computational costs for near-term hardware
+- **Cross-platform benchmarking** (Jülich Supercomputing Centre) is evaluating QEC primitives across Quantinuum, IBM, and IQM hardware to establish performance baselines
+
+---
 
 ## Key Players
-| Organization | Focus |
-|---|---|
-| Google | AI-driven decoding, surface codes |
-| IonQ | Single-CPU decoder architecture |
-| Riverlane | Decoder hardware/software stack |
-| D-Wave | Efficiency improvements in QEC |
-| IBM / Quantinuum / IQM | Hardware benchmarking |
+- **Google, IBM, IonQ, Quantinuum, IQM, D-Wave** — hardware and decoding development
+- **Riverlane** — dedicated QEC decoder technology; expanding U.S. presence via Maryland HQ
+- **Jülich Supercomputing Centre** — independent benchmarking and evaluation
+- **Academic researchers** (Min Ye, Andrii Maksymov, Nicolas Delfosse) — large-scale decoder breakthroughs
+
+---
 
 ## Outlook
-QEC is moving toward **real-time, hardware-integrated decoding** with reduced classical overhead, making fault-tolerant computation increasingly viable. The convergence of better code constructions, learned decoding strategies, and dedicated decoder hardware suggests practical fault-tolerant systems within the next several years.
+The near-term focus is on closing the gap between logical and physical error rates at scale, with decoder speed and resource efficiency as primary engineering targets. Integration of AI-driven decoding and hardware-specific code design is expected to accelerate the transition to commercially viable fault-tolerant quantum computing within the next several years.
 
 ## Source Entries
 

@@ -14,7 +14,7 @@ stale: false
 
 # All Papers
 
-Auto-generated index of papers extracted from wiki entries. 4 papers with 2+ mentions.
+Auto-generated index of papers extracted from wiki entries. 5 papers with 2+ mentions.
 
 ## Gottesman-Kitaev-Preskill
 *Mentioned in 5 entries*
@@ -24,6 +24,13 @@ Auto-generated index of papers extracted from wiki entries. 4 papers with 2+ men
 - [[our-ongoing-work-with-integrated-photonic-sources-for-gottes]]
 - [[what-does-it-take-to-make-quantum-computing-scalable-it-come]]
 - [[work-with-our-team-of-high-performing-quantum-experts-and-bu]]
+
+## Shor's algorithm
+*Mentioned in 3 entries*
+
+- [[alice-bob---shors-algorithm-compiled-on-cat-qubits-22-593-qu]]
+- [[alice-bob-estimates-22593-qubits-to-break-rsa-2048]]
+- [[btcquantum]]
 
 ## Fast, accurate, high-resolution simulation of large-scale Fermi-Hubbard models on a digital quantum processor
 *Mentioned in 2 entries*

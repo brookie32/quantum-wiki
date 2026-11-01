@@ -14,7 +14,7 @@ stale: false
 
 # All Tools
 
-Auto-generated index of tools extracted from wiki entries. 77 tools with 2+ mentions.
+Auto-generated index of tools extracted from wiki entries. 85 tools with 2+ mentions.
 
 ## CUDA-Q
 *Mentioned in 32 entries*
@@ -36,7 +36,7 @@ Auto-generated index of tools extracted from wiki entries. 77 tools with 2+ ment
 - [[nvidia-expands-open-source-cuda-q-platform-for-fault-toleran]]
 
 ## PennyLane
-*Mentioned in 29 entries*
+*Mentioned in 30 entries*
 
 - [[as-we-gear-up-for-qhack-2026the-premier-quantum-coding-compe]]
 - [[catch-the-session-from-100---230-pm-to-learn-how-pennylane-p]]
@@ -74,7 +74,7 @@ Auto-generated index of tools extracted from wiki entries. 77 tools with 2+ ment
 - [[qismc-a-model-checker-for-qiskit-program-debugging]]
 
 ## QAOA
-*Mentioned in 15 entries*
+*Mentioned in 16 entries*
 
 - [[a-swap-free-framework-for-qaoa]]
 - [[adaptive-differential-evolution-and-multistart-search-for-no]]
@@ -87,10 +87,10 @@ Auto-generated index of tools extracted from wiki entries. 77 tools with 2+ ment
 - [[landscape-compression-in-constrained-qaoa-tracks-feasibility]]
 - [[landscape-similarity-guided-optimization-in-divide-and-conqu]]
 - [[m-qam-mimo-maximum-likelihood-detection-with-qaoa-ml-rate-of]]
+- [[pauli-sparse-regularised-counterdiabatic-shortcuts-for-linea]]
 - [[saqc-a-sat-aware-compilation-framework-for-qaoa-based-quantu]]
 - [[setting-angles-in-quantum-approximate-optimization-at-utilit]]
 - [[solving-graph-coloring-problems-using-feedback-based-algorit]]
-- [[we-dont-work-on-applications-that-use-qaoa-at-xanaduai-why-o]]
 
 ## NVQLink
 *Mentioned in 10 entries*
@@ -117,6 +117,26 @@ Auto-generated index of tools extracted from wiki entries. 77 tools with 2+ ment
 - [[pauli-string-grouping-for-vqe-measurement-reduction-on-a-spa]]
 - [[probing-the-ground-state-of-the-antiferromagnetic-heisenberg]]
 - [[sok-adversarial-robustness-of-the-variational-quantum-eigens]]
+
+## Helios
+*Mentioned in 6 entries*
+
+- [[mitsui-co-and-mitsubishi-electric-benchmark-approximate-and-]]
+- [[quantinuum-achieves-factor-12-quantum-error-suppression-on-h]]
+- [[quantinuum-and-ge-vernova-target-high-temperature-supercondu]]
+- [[quantinuum-claims-quantum-error-correction-record-on-helios-]]
+- [[quantinuum-demonstrates-999995-logical-memory-fidelity-on-he]]
+- [[quantinuum-reports-tenfold-reduction-in-quantum-error-rates-]]
+
+## Backline
+*Mentioned in 6 entries*
+
+- [[light-moves-at-light-speed-so-photonic-processors-run-at-ext]]
+- [[quantum-is-rarely-ever-just-quantum-so-we-built-backline-int]]
+- [[the-october-xanadu-insider-is-here-inside-this-months-issue-]]
+- [[the-september-xanadu-insider-is-here-inside-this-months-issu]]
+- [[to-take-full-advantage-of-todays-quantum-hardware-we-need-to]]
+- [[xanadu-and-amd-launch-open-source-backline-extension-for-pen]]
 
 ## JUPITER
 *Mentioned in 6 entries*
@@ -164,15 +184,6 @@ Auto-generated index of tools extracted from wiki entries. 77 tools with 2+ ment
 - [[psiquantum-and-brookhaven-national-lab-partner-to-develop-fa]]
 - [[updates-from-the-team-behind-constructpsiquantums-open-acces]]
 
-## Helios
-*Mentioned in 5 entries*
-
-- [[mitsui-co-and-mitsubishi-electric-benchmark-approximate-and-]]
-- [[quantinuum-achieves-factor-12-quantum-error-suppression-on-h]]
-- [[quantinuum-claims-quantum-error-correction-record-on-helios-]]
-- [[quantinuum-demonstrates-999995-logical-memory-fidelity-on-he]]
-- [[quantinuum-reports-tenfold-reduction-in-quantum-error-rates-]]
-
 ## CUDA-Q Logical
 *Mentioned in 5 entries*
 
@@ -215,14 +226,6 @@ Auto-generated index of tools extracted from wiki entries. 77 tools with 2+ ment
 - [[qc-ware-demonstration-of-hybrid-quantum-classical-workflow-u]]
 - [[qc-wares-promethium-executes-first-quantum-chemistry-run-on-]]
 
-## Backline
-*Mentioned in 4 entries*
-
-- [[light-moves-at-light-speed-so-photonic-processors-run-at-ext]]
-- [[quantum-is-rarely-ever-just-quantum-so-we-built-backline-int]]
-- [[the-september-xanadu-insider-is-here-inside-this-months-issu]]
-- [[xanadu-and-amd-launch-open-source-backline-extension-for-pen]]
-
 ## variational quantum eigensolver
 *Mentioned in 4 entries*
 
@@ -230,6 +233,13 @@ Auto-generated index of tools extracted from wiki entries. 77 tools with 2+ ment
 - [[connectivity-controls-variational-accessibility-in-symmetry-]]
 - [[demonstration-of-subspace-search-variational-quantum-eigenso]]
 - [[on-the-convergence-of-the-variational-quantum-eigensolver-an]]
+
+## Google Beam
+*Mentioned in 3 entries*
+
+- [[a-new-experiment-brings-better-group-meetings-to-google-beam]]
+- [[google-beam-expands-with-new-regions-partners-and-customers]]
+- [[how-google-beam-connects-military-families-globally]]
 
 ## PennyLaneAI
 *Mentioned in 3 entries*
@@ -355,11 +365,17 @@ Auto-generated index of tools extracted from wiki entries. 77 tools with 2+ ment
 - [[mlxq-unified-memory-quantum-simulation-on-apple-silicon-via-]]
 - [[qupertino-pure-mlx-array-kernels-versus-hand-tuned-metal-sha]]
 
-## Google Beam
+## IBM Quantum
 *Mentioned in 2 entries*
 
-- [[a-new-experiment-brings-better-group-meetings-to-google-beam]]
-- [[google-beam-expands-with-new-regions-partners-and-customers]]
+- [[los-alamos-and-qc-ware-model-correlated-iron-oxides-using-sa]]
+- [[ngl-i-used-ibm-quantum-to-pick-lotto-numbers-and-now-i-have-]]
+
+## GPUs
+*Mentioned in 2 entries*
+
+- [[quantum-processing-units-qpus-pick-up-the-baton-where-classi]]
+- [[this-is-psiquantums-prototype-quantum-circuit-switch-unveile]]
 
 ## Orbit
 *Mentioned in 2 entries*
@@ -403,11 +419,23 @@ Auto-generated index of tools extracted from wiki entries. 77 tools with 2+ ment
 - [[qarakal-quantum-unveils-pangaea-architecture-for-modular-qua]]
 - [[qarakal-quantum-unveils-pangaea-modular-architecture-to-cut-]]
 
+## DMRG
+*Mentioned in 2 entries*
+
+- [[quantum-tensor-network-learning-with-dmrg]]
+- [[tensor-network-simulation-of-quantum-phase-estimation-in-the]]
+
 ## FPGA
 *Mentioned in 2 entries*
 
 - [[the-quantum-industry-has-assumed-enterprise-grade-gpus-are-m]]
 - [[tide-an-fpga-quantum-control-processor-for-deterministic-ada]]
+
+## Google News
+*Mentioned in 2 entries*
+
+- [[quantum-x-labs-launches-quantum-error-correction-program---q]]
+- [[zapata-quantum-inc-sec-filing-aug-11-2026---stock-titan]]
 
 ## ZX calculus
 *Mentioned in 2 entries*
@@ -517,6 +545,12 @@ Auto-generated index of tools extracted from wiki entries. 77 tools with 2+ ment
 - [[parityqc-launches-parity-twine-optimizer-for-quantum-optimiz]]
 - [[parityqc-launches-parity-twine-optimizer-via-ibm-qiskit-func]]
 
+## LAMMPS
+*Mentioned in 2 entries*
+
+- [[fix-uvt-and-fix-pimduvt-a-unified-lammps-framework-for-const]]
+- [[on-the-fly-estimation-of-quantum-corrected-thermodynamics-in]]
+
 ## Spacetime PEC
 *Mentioned in 2 entries*
 
@@ -541,6 +575,12 @@ Auto-generated index of tools extracted from wiki entries. 77 tools with 2+ ment
 - [[digicert-announces-general-availability-of-quantum-central-p]]
 - [[digicert-launches-quantum-central-for-post-quantum-cryptogra]]
 
+## Lean4
+*Mentioned in 2 entries*
+
+- [[jolt-qed-formally-verifying-bytecode-expansions-in-lean]]
+- [[the-exact-bit-security-of-hash-based-signatures]]
+
 ## Qt
 *Mentioned in 2 entries*
 
@@ -559,6 +599,12 @@ Auto-generated index of tools extracted from wiki entries. 77 tools with 2+ ment
 - [[descent-pbs-programmable-bootstrapping-beyond-the-ring-dimen]]
 - [[low-noise-multi-value-bootstrapping-via-log-unit-lattice-sea]]
 
+## JAX
+*Mentioned in 2 entries*
+
+- [[a-scalable-sample-based-quantum-diagonalization-solver-for-g]]
+- [[built-a-reproducible-neural-quantum-states-reference-impleme]]
+
 ## NVIDIA NVQLink
 *Mentioned in 2 entries*
 
@@ -576,6 +622,12 @@ Auto-generated index of tools extracted from wiki entries. 77 tools with 2+ ment
 
 - [[bloq-quantum-launches-bloq-maya-ai-agent-for-enterprise-quan]]
 - [[bloq-quantum-launches-bloq-maya-ai-agent-to-streamline-enter]]
+
+## Lean
+*Mentioned in 2 entries*
+
+- [[lean-quantumalg-a-framework-for-ai-agents-to-produce-quantum]]
+- [[physical-superintelligence-publishes-five-quantum-results-wi]]
 
 ## qBraid OS
 *Mentioned in 2 entries*

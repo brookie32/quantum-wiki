@@ -14,14 +14,15 @@ stale: false
 
 # All Models
 
-Auto-generated index of models extracted from wiki entries. 18 models with 2+ mentions.
+Auto-generated index of models extracted from wiki entries. 20 models with 2+ mentions.
 
 ## Claude
-*Mentioned in 10 entries*
+*Mentioned in 11 entries*
 
 - [[an-ai-agent-now-tunes-our-lasers-claude-working-with-anthrop]]
 - [[anthropics-claude-designs-leaner-quantum-circuits-reducing-r]]
 - [[are-ais-still-struggling-with-captchas]]
+- [[bloatware-in-aftermarket-auto-parts]]
 - [[claude-mythos-has-found-271-zero-days-in-firefox]]
 - [[designing-more-efficient-quantum-circuits-with-claude]]
 - [[i-feel-guilty-when-i-ask-claude-to-do-something-i-could-have]]
@@ -29,6 +30,15 @@ Auto-generated index of models extracted from wiki entries. 18 models with 2+ me
 - [[some-claude-chats-are-searchable-on-google]]
 - [[today-quera-is-announcing-results-from-our-research-preview-]]
 - [[using-ai-for-weapons-development]]
+
+## Transformer
+*Mentioned in 5 entries*
+
+- [[a-quantum-roadmap-for-softmax-attention-exact-born-rule-anal]]
+- [[learning-to-prepare-molecular-ground-states-with-transformer]]
+- [[predicting-multipartite-entanglement-in-quantum-circuits-usi]]
+- [[quantum-aware-transformer-model-for-state-classification]]
+- [[yonsei-university-researchers-develop-mamba-state-space-neur]]
 
 ## Willow
 *Mentioned in 4 entries*
@@ -67,13 +77,6 @@ Auto-generated index of models extracted from wiki entries. 18 models with 2+ me
 - [[aps-journals-report-massive-influx-of-amateur-papers-more-th]]
 - [[chatgpt-solves-all-tested-qiskit-homework-assignments]]
 - [[llm-based-social-engineering-scams]]
-
-## Transformer
-*Mentioned in 3 entries*
-
-- [[a-quantum-roadmap-for-softmax-attention-exact-born-rule-anal]]
-- [[learning-to-prepare-molecular-ground-states-with-transformer]]
-- [[predicting-multipartite-entanglement-in-quantum-circuits-usi]]
 
 ## Aquila
 *Mentioned in 2 entries*
@@ -140,3 +143,15 @@ Auto-generated index of models extracted from wiki entries. 18 models with 2+ me
 
 - [[firstqfm-foundation-model-cuts-quantum-gate-times-by-33-on-q]]
 - [[firstqfm-model-cuts-single-qubit-gate-times-by-33-on-quantwa]]
+
+## Mamba
+*Mentioned in 2 entries*
+
+- [[mamba-quantum-eigensolver-mqe-a-selective-state-space-model-]]
+- [[yonsei-university-researchers-develop-mamba-state-space-neur]]
+
+## ibm_phoenix
+*Mentioned in 2 entries*
+
+- [[bluequbit-benchmarks-quantum-computational-advantage-in-rand]]
+- [[entangled-logical-qubits-on-a-superconducting-quantum-proces]]

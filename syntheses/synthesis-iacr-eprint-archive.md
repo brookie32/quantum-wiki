@@ -1,46 +1,38 @@
 ---
 title: "Synthesis: Iacr-Eprint-Archive"
-date: "2026-10-25"
-updated: "2026-10-25"
+date: "2026-11-01"
+updated: "2026-11-01"
 source: "agent"
 category: "syntheses"
 tags: [synthesis, iacr-eprint-archive, auto-generated]
 url: ""
-summary: "Auto-generated synthesis of 779 entries about iacr-eprint-archive"
-last_verified: "2026-10-25"
-review_by: "2026-10-25"
+summary: "Auto-generated synthesis of 845 entries about iacr-eprint-archive"
+last_verified: "2026-11-01"
+review_by: "2026-11-01"
 stale: false
 ---
 
 # IACR ePrint Archive: Knowledge Wiki Overview
 
 ## Current State
-The IACR Cryptology ePrint Archive serves as the primary preprint repository for cutting-edge cryptographic research, spanning theory, applied cryptography, and system security. The archive reflects an exceptionally active research community, with current submissions addressing privacy-preserving computation, blockchain security, zero-knowledge proofs, and AI/ML security intersections.
-
----
+The IACR Cryptology ePrint Archive serves as the primary preprint repository for cutting-edge cryptographic research, hosting thousands of papers spanning theoretical foundations and applied security. It reflects an increasingly active field driven by demands from privacy-preserving computation, blockchain systems, and post-quantum cryptography. The archive functions as a real-time pulse of cryptographic innovation before formal peer review.
 
 ## Key Developments
+- **Zero-Knowledge Proofs (ZKP):** Rapid advancement driving ZK-friendly hash function design, sublinear verification systems, and distributed ZK protocols for secure multiparty computation
+- **Secure Multiparty Computation (MPC):** New protocols for oblivious joins, secure sorting, maliciously secure shuffles, and bridging passive/active security gaps on integer rings
+- **Privacy-Preserving AI:** Emerging work on private LLM inference (e.g., HERMES) and cryptanalytic extraction attacks on convolutional neural networks
+- **Blockchain & Incentive Mechanisms:** Formal analysis of selfish mining profitability and temporal composability in proof-of-work systems
+- **Elliptic Curve Cryptography:** Faster complete addition formulas for secp256k1, BN, and BLS curve families with practical efficiency gains
+- **Coding Theory:** New bounds for Reed-Solomon list decoding beyond the Johnson bound; NP-hardness results for lattice and rank-metric decoding problems
+- **Differential Privacy:** Growing literature on DP in multiparty settings, including abort handling and distributed trust models
 
-- **Privacy-Preserving Computation**: Significant advances in MPC protocols, secure sorting, oblivious joins (DISCO*), and shuffles (Truffle) targeting real-world deployment efficiency
-- **Zero-Knowledge Proofs**: Growing focus on ZK-friendly hash function analysis, including collision attacks on Reinforced Concrete, exposing vulnerabilities in ZK-optimized designs
-- **LLM Privacy**: Emerging work (HERMES) on private inference for large language models, addressing the tension between AI utility and user data confidentiality
-- **Blockchain & Incentives**: Formal analysis of selfish mining composability and proof-of-useful-work limitations, refining understanding of decentralized consensus security
-- **Differential Privacy**: New theoretical frameworks examining DP under abort conditions and distributed/multiparty settings
-- **Coding Theory**: Linear list-size bounds for Reed-Solomon codes beyond the Johnson bound, with implications for error-correcting code cryptographic applications
-- **Hardware Security**: Practical differential fault attacks demonstrated against deployed GPRS ciphers (GEA-1/GEA-2)
-
----
-
-## Key Players/Organizations
-
-- Academic institutions dominating contributions (MIT, ETH Zurich, CWI, and similar research universities)
-- **IACR** (International Association for Cryptologic Research) as the organizing body
-- Industry research labs (e.g., affiliated with cloud providers and blockchain foundations)
-
----
+## Key Players
+- Academic institutions (MIT, ETH Zurich, Stanford, and major European universities)
+- Industry research labs (Google, Meta, Microsoft Research, Cloudflare)
+- IACR itself as organizational steward
 
 ## Outlook
-Research trajectories point toward tighter integration of cryptography with AI systems, practical MPC deployment at scale, and continued hardening of ZK proof ecosystems. Post-quantum security and TEE-augmented protocols are expected to dominate near-term submissions.
+The archive will continue reflecting convergence between **cryptography and AI**, expanding post-quantum standardization research, and increasingly practical MPC/ZKP deployments. Trusted Execution Environments and their vulnerabilities will remain an active battleground as cloud computing adoption grows.
 
 ## Source Entries
 
@@ -51,11 +43,11 @@ Research trajectories point toward tighter integration of cryptography with AI s
 - [[one-proof-to-rule-them-all-practical-sublinear-verification-|One Proof to Rule Them All: Practical, Sublinear Verification for Actively Secure MPC on Z_{2^k} with Dishonest Majority and a Dealer (Full Version)]]
 - [[on-aborts-in-differential-privacy|On Aborts in Differential Privacy]]
 - [[hermes-high-performance-private-decoding-for-large-language-|HERMES: High-Performance Private Decoding for Large Language Models]]
+- [[faster-complete-formulas-and-their-application-to-curves-wit|Faster complete formulas and their application to curves with efficient endomorphisms]]
 - [[truffle-maliciously-secure-three-party-shuffles-with-applica|Truffle: Maliciously Secure Three-Party Shuffles with Applications to Parsing]]
 - [[extracting-cnns-in-the-unknown-architecture-and-feedback-agn|Extracting CNNs in the Unknown-Architecture and Feedback-Agnostic Setting]]
 - [[linear-list-size-bounds-for-reed-solomon-beyond-the-johnson-|Linear list size bounds for Reed-Solomon beyond the Johnson bound]]
 - [[practical-differential-fault-attacks-on-the-gprs-standard-ci|Practical Differential Fault Attacks on the GPRS Standard Ciphers]]
 - [[exact-cvp-is-np-complete-for-principal-cyclotomic-ideals|Exact CVP Is NP-Complete for Principal Cyclotomic Ideals]]
+- [[maximum-likelihood-decoding-of-gabidulin-codes-is-np-hard-ev|Maximum-Likelihood Decoding of Gabidulin Codes Is NP-Hard Even in Dimension One]]
 - [[rank-measures-and-exponential-lower-bounds-for-multilinear-s|Rank Measures and Exponential Lower Bounds for Multilinear Secret Sharing]]
-- [[a-spectral-theory-of-local-to-global-leakage|A Spectral Theory of Local-to-Global Leakage]]
-- [[proof-of-demand-is-not-proof-of-work-on-the-limits-of-demand|Proof of Demand Is Not Proof of Work: On the Limits of Demand-Weighted Consensus under Free Pseudonyms]]
