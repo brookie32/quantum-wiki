@@ -14,4 +14,9 @@ stale: false
 
 Insider Brief PRESS RELEASE — Adelaide University quantum engineers have found a new way to improve some of the world’s most sensitive sensors of electromagnetic fields, a breakthrough that could help advance brain imaging, medical diagnostics, communications technology and next-generation quantum devices. The research, published today in Physical Review Applied, is led by the University’s […]
 
+
+
+## Related
+- [[quantum-sensor-loop-design-could-improve-magnetic-measuremen|Quantum sensor loop design could improve magnetic measurements for medicine and communications]]
+
 **Source:** [The Quantum Insider](https://thequantuminsider.com/2026/11/02/adelaide-researchers-develop-simpler-design-for-highly-sensitive-quantum-sensors/) | 2026-11-02
