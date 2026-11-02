@@ -14,4 +14,11 @@ stale: false
 
 arXiv:2607.03549v2 Announce Type: replace Abstract: We formulate intrinsic matching frustration (IMF), a fluctuation-induced, kinetics-independent reduction in the mean capacity permitted by a prescribed matching rule. For complementary one-to-one matching, the instantaneous capacity is set by the minority population, so fluctuations produce a nonzero mean deficit even when the two populations are balanced on average. At finite size, this deficit depends on the full distribution of the population difference and is determined by its variance alone only in the Gaussian limit. Compartmentalization hides matching capacity by preventing cancellation between local imbalances of opposite sign. Fusion releases this hidden capacity monotonically under coarse graining, producing a measurable recovery of product yield following local reaction to completion.
 
+
+
+## Related
+- [[microscopic-theory-of-a-fluctuation-induced-dynamical-crosso|Microscopic Theory of a Fluctuation-Induced Dynamical Crossover in Supercooled Liquids]]
+- [[solubility-of-poorly-soluble-species-in-bulk-and-nanopores-f|Solubility of poorly soluble species in bulk and nanopores from grand-canonical Wang-Landau sampling]]
+- [[fluctuation-induced-ionic-friction-at-solid-electrolyte-inte|Fluctuation-induced ionic friction at solid-electrolyte interfaces]]
+
 **Source:** [arXiv physics.chem-ph](https://arxiv.org/abs/2607.03549) | 2026-09-21
