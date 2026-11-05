@@ -14,4 +14,10 @@ stale: false
 
 arXiv:2610.36038v1 Announce Type: new Abstract: We show that the steady state of a periodically driven Bose gas coupled to a thermal bath features emergent Fermi surfaces both in its high temperature and Bose-Einstein-condensate (BEC) states. These emergent Fermi surfaces are non-analyticities in the occupation function as a function of momentum arising from the lack of detailed balance of collisions away from equilibrium. They are stronger in the BEC than in the normal gas, and can be more robust against finite temperature smearing than the usual equilibrium Fermi surfaces of Fermi gases. We also show that they give rise to analogous rich phenomena, such as Friedel oscillations in the density correlations and quantum oscillations in response to applied magnetic fields controlled by their areas, albeit with marked quantitative differences. Our results establish non-equilibrium conditions as a promising alternative pathway to achieve the long-sought-after emergence of Fermi surfaces in bosonic system. We outline strategies to experimentally discover these exotic states in ultra-cold atomic clouds.
 
+
+
+## Related
+- [[high-temperature-quantum-oscillations-of-a-non-equilibrium-n|High-Temperature Quantum Oscillations of a Non-equilibrium Non-Fermi Liquid]]
+- [[highly-anisotropic-collective-modes-of-altermagnetic-superco|Highly anisotropic collective modes of altermagnetic superconductors with Bogoliubov Fermi surfaces]]
+
 **Source:** [arXiv cond-mat.quant-gas](https://arxiv.org/abs/2610.36038) | 2026-10-28

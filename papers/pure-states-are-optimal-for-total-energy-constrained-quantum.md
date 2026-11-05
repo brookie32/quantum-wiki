@@ -14,4 +14,12 @@ stale: false
 
 arXiv:2610.30295v1 Announce Type: new Abstract: We consider the discrimination of two quantum channels acting on bosonic modes, with a probe state of fixed mean photon number and no ancilla. We prove that pure probes are optimal: for every mixed probe there is a pure probe with exactly the same mean photon number that performs at least as well. The result holds for arbitrary channels and for every figure of merit built from the Chernoff quantities Tr[rho_1^srho_2^{1-s}], including the quantum Chernoff exponent, as well as for the single-shot error probability. The proof relies on a decomposition of any state of mean photon number nb into pure states of mean photon number exactly nb, which extends a matrix rank-one decomposition of Huang and Zhang to density operators of infinite rank.
 
+
+
+## Related
+- [[no-advantage-from-classical-assistance-for-energy-constraine|No advantage from classical assistance for energy-constrained bosonic dephasing channels]]
+- [[gaussian-optimality-of-energy-constrained-one-shot-communica|Gaussian Optimality of Energy-Constrained One-Shot Communication through Single-Mode Bosonic Gaussian Channels]]
+- [[enhancing-phase-retrievability-of-quantum-channels-via-inter|Enhancing Phase Retrievability of Quantum Channels via Interferometric Coupling]]
+- [[a-generalized-stein-lemma-for-quantum-channels|A Generalized Stein Lemma for Quantum Channels]]
+
 **Source:** [arXiv quant-ph](https://arxiv.org/abs/2610.30295) | 2026-10-23

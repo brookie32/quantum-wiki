@@ -14,4 +14,11 @@ stale: false
 
 arXiv:2609.40256v1 Announce Type: new Abstract: The nonrelativistic expansion method is applied to the Dirac-Coulomb energy and first order relativistic Breit potential corrections for light atomic and molecular systems to derive high-order effective energy correction operators for few-body systems. It is found that effective operators at the malpha^8 order contain incompletely separable divergences. These divergences must be canceled jointly with divergences arising from second- and third-order perturbations of lower-order energy correction operators, and such cancellation can be accomplished automatically by the nonrelativistic numerical expansion approach. Using Gaussian basis sets, we numerically compute contributions to the Dirac-Coulomb energy and relativistic Breit potential corrections up to order malpha^8 for the ground states of the hydrogen atom, hydrogen molecular ion, helium atom, and hydrogen molecule. These results confirm the reliability of the present method and enable its extension to more complex systems.
 
+
+
+## Related
+- [[qed-corrections-of-orders-malpha6-and-malpha6mm-for-hd-rovib|QED corrections of orders malpha^6 and malpha^6(m/M) for HD^+ rovibrational transitions beyond Born-Oppenheimer approximation]]
+- [[fully-relativistic-calculation-of-thermal-shifts-in-spectra-|Fully relativistic calculation of thermal shifts in spectra of hydrogen molecular ion]]
+- [[higher-order-corrections-to-the-field-shift-in-atomic-system|Higher-order corrections to the field shift in atomic systems]]
+
 **Source:** [arXiv physics.atom-ph](https://arxiv.org/abs/2609.40256) | 2026-10-01
