@@ -1,0 +1,17 @@
+---
+title: "Why Is IBM (IBM) Expanding Into Quantum Error Correction And AI Inference? - Simply Wall St"
+date: "2026-11-05"
+updated: "2026-11-05"
+source: "agent"
+category: "error-correction"
+tags: [error-correction, google-news--error-correction]
+url: "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPVmVOd1JPbS1kVEdpV0MyTzFmYVIyUnVBS1FjU1FPeXVYTXpodGVlYzBIaXpFUnhIXzZCblh1RWhaS1M5M01QaFpBUXNjbDFWNGZ1am9NdzQzNVB6QWdzSFYwdnR3WlgwZmlIamtkSW5FVTd0MTlzWGdhNTN4UklMSE4zeVIwbUlpemV1eWExejZmNGtiWmtrZXlIQUpLVFYwZEYzM1RtaVRoRmxWSVkxb3ZLbTl2c1NnVWg0MmNCa2JhcUVraDZ2bmRzN0lfNmtueFlzSFBvZVV3dDZsZTEwa9IB5gFBVV95cUxOeXFkc1NHLUFXTXFIU05xOXV1bzRwSDJzNUhmRWcydGpwZklGR3RBMFlldWFSV0ZtZFpuMjhLRjNSZndJM1RaXy15a3hRUUNrNF9wTVlEYTYwT3R2bjRrZlg5NGNPM3dobWN1d2pNQkhZQWMtaGJ0OW5saDh6ZVlDX0hzdHNROVZQVWFVTFJiU3F4ZGp6am50aC1KaVlEc2FkWEV4VHZGTXE1NEdqdlZreVBVZ2NWOWFzX09hQWg3NVpLUDVKaDBrVkRaMld6VjZPZ202UE9iNTQ2ZXlrT3VWcHpoenRnZw?oc=5"
+summary: "IBM is expanding its focus on quantum error correction and AI inference technologies to strengthen its next‑generation computing portfolio. This strategic move positions the company ahead of competito"
+last_verified: "2026-11-05"
+review_by: "2027-02-03"
+stale: false
+---
+
+IBM is expanding its focus on quantum error correction and AI inference technologies to strengthen its next‑generation computing portfolio. This strategic move positions the company ahead of competitors in both quantum computing reliability and advanced inference workloads. The information is drawn from a comprehensive, up‑to‑date aggregation of global news sources via Google News.
+
+**Source:** [Google News: error correction](https://news.google.com/rss/articles/CBMi4AFBVV95cUxPVmVOd1JPbS1kVEdpV0MyTzFmYVIyUnVBS1FjU1FPeXVYTXpodGVlYzBIaXpFUnhIXzZCblh1RWhaS1M5M01QaFpBUXNjbDFWNGZ1am9NdzQzNVB6QWdzSFYwdnR3WlgwZmlIamtkSW5FVTd0MTlzWGdhNTN4UklMSE4zeVIwbUlpemV1eWExejZmNGtiWmtrZXlIQUpLVFYwZEYzM1RtaVRoRmxWSVkxb3ZLbTl2c1NnVWg0MmNCa2JhcUVraDZ2bmRzN0lfNmtueFlzSFBvZVV3dDZsZTEwa9IB5gFBVV95cUxOeXFkc1NHLUFXTXFIU05xOXV1bzRwSDJzNUhmRWcydGpwZklGR3RBMFlldWFSV0ZtZFpuMjhLRjNSZndJM1RaXy15a3hRUUNrNF9wTVlEYTYwT3R2bjRrZlg5NGNPM3dobWN1d2pNQkhZQWMtaGJ0OW5saDh6ZVlDX0hzdHNROVZQVWFVTFJiU3F4ZGp6am50aC1KaVlEc2FkWEV4VHZGTXE1NEdqdlZreVBVZ2NWOWFzX09hQWg3NVpLUDVKaDBrVkRaMld6VjZPZ202UE9iNTQ2ZXlrT3VWcHpoenRnZw?oc=5) | 2026-11-05
