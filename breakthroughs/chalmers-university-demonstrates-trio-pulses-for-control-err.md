@@ -14,4 +14,11 @@ stale: false
 
 Chalmers University of Technology has developed TRIO pulses, a new quantum control framework for superconducting processors. These pulses enable single-qubit gates to maintain high fidelity even with significant control-amplitude miscalibrations and frequency detuning errors. This breakthrough offers a way to reduce recalibration overheads in large-scale quantum processors and has been demonstrated with an X-gate achieving 99.90% fidelity. The post Chalmers University Demonstrates TRIO Pulses for Control-Error-Robust Single-Qubit Gates in Superconducting Processors appeared first on Quantum Computing Report.
 
+
+
+## Related
+- [[chalmers-university-demonstrates-hardware-level-microwave-cr|Chalmers University Demonstrates Hardware-Level Microwave Crosstalk Suppression via Parasitic Capacitance Engineering]]
+- [[gothenburg-and-chalmers-researchers-develop-modular-graph-ne|Gothenburg and Chalmers Researchers Develop Modular Graph Neural Decoder for Surface Code Memory and Lattice Surgery]]
+- [[ibm-unveils-meter-scale-superconducting-l-couplers-connectin|IBM Unveils Meter-Scale Superconducting L-Couplers: Connecting Dual 120-Qubit Processors with 99% State Transfer Fidelity]]
+
 **Source:** [Quantum Computing Report](https://quantumcomputingreport.com/chalmers-university-demonstrates-trio-pulses-for-control-error-robust-single-qubit-gates-in-superconducting-processors/) | 2026-10-23
