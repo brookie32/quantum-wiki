@@ -14,4 +14,12 @@ stale: false
 
 arXiv:2601.08137v3 Announce Type: replace Abstract: We demonstrate a dissipative protocol for ground-state preparation of a quantum spin chain on a trapped-ion quantum computer. As a first step, we derive a Kraus representation of a dissipation channel for the protocol recently proposed by Ding et al. [Phys. Rev. Res. 6, 033147 (2024)] that still holds for arbitrary temporal discretization steps, extending the analysis beyond the Lindblad dynamics regime. The protocol guarantees that the fidelity with the ground state monotonically increases (or remains unchanged) under repeated applications of the channel to an arbitrary initial state, provided that the ground state is the unique steady state of the dissipation channel. Using this framework, we implement dissipative ground-state preparation of a transverse-field Ising chain for up to 19 spins on the trapped-ion quantum computer Reimei provided by Quantinuum. Despite the presence of hardware noise, the dynamics consistently converges to a low-energy state far away from the maximally mixed state even when the corresponding quantum circuits contain as many as 4110 entangling gates, demonstrating the intrinsic robustness of the protocol. By applying zero-noise extrapolation, the resulting energy expectation values are systematically improved to agree with noiseless simulations within statistical uncertainties.
 
+
+
+## Related
+- [[locality-and-filter-design-for-dissipative-ground-state-prep|Locality and filter design for dissipative ground-state preparation]]
+- [[beyond-lindblad-approximation-rigorous-guarantees-for-therma|Beyond Lindblad Approximation: Rigorous Guarantees for Thermal and Ground State Preservation under System-Bath Interactions]]
+- [[sympathetic-cooling-in-trapped-ions-with-spectral-selectivit|Sympathetic Cooling in Trapped Ions with Spectral Selectivity via the Zeeman Shift]]
+- [[rigorous-error-bounds-for-dissipative-thermal-state-preparat|Rigorous error bounds for dissipative thermal state preparation from weak system-bath coupling]]
+
 **Source:** [arXiv quant-ph](https://arxiv.org/abs/2601.08137) | 2026-09-10

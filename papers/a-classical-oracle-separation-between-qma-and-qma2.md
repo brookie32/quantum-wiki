@@ -14,4 +14,10 @@ stale: false
 
 arXiv:2610.06760v2 Announce Type: replace Abstract: We exhibit a classical oracle relative to which QMA neq QMA(2). The separation is based on a separable Hamiltonian problem defined by signed edge constraints on a graph. The YES instances have zero-energy product states, while the NO instances, constructed using the antisymmetric subspace, have entangled zero-energy states but no low-energy product states. For the QMA lower bound, we use compressed-oracle techniques to track the information learned by a quantum computation making few queries to a YES instance. The key step is to map the resulting superpositions of partial oracle records to the NO family without significantly changing the verifier's behavior.
 
+
+
+## Related
+- [[a-quantum-oracle-separation-between-qma2-and-qma|A quantum oracle separation between QMA(2) and QMA]]
+- [[fine-grained-complexity-for-quantum-problems-from-size-prese|Fine-Grained Complexity for Quantum Problems from Size-Preserving Circuit-to-Hamiltonian Constructions]]
+
 **Source:** [arXiv quant-ph](https://arxiv.org/abs/2610.06760) | 2026-11-05

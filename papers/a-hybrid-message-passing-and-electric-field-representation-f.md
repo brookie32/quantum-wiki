@@ -14,4 +14,11 @@ stale: false
 
 arXiv:2610.41523v1 Announce Type: cross Abstract: Within a hybrid quantum mechanics/molecular mechanics approach a small region of a large atomistic system is described quantum mechanically, while the rest of the system is represented by a classical force field. Despite this, the computational cost of the quantum calculation severely limits the accessible simulation and sampling time. Replacing the quantum calculation with a machine learning interatomic potential (MLIP) trained on quantum reference data can greatly increase the accessible simulation time. However, the accuracy and efficiency strongly depend on the specific way in which the MLIP incorporates information about the classical (electrostatic) environment. Here, we demonstrate that existing strategies based purely on features derived from an external electric field fail to distinguish certain environments, ultimately limiting their accuracy. As a solution, we propose an extension to the equivariant TensorNet architecture that mitigates this shortcoming by incorporating classical atoms close to the quantum region into the message-passing scheme, combined with features derived from the electric field for describing the environment farther away. We show that this combination achieves higher accuracy than either approach alone.
 
+
+
+## Related
+- [[learning-consistent-molecular-mechanics-force-fields-from-fi|Learning consistent molecular mechanics force fields from first principles]]
+- [[physics-aligned-electronic-ground-state-learning-improves-ge|Physics-Aligned Electronic Ground-State Learning Improves Generalization]]
+- [[a-nuclear-quantum-corrected-machine-learning-potential-revea|A nuclear-quantum-corrected machine-learning potential reveals quantum-enhanced hydrogen segregation at general grain boundaries in alpha-iron]]
+
 **Source:** [arXiv quant-ph](https://arxiv.org/abs/2610.41523) | 2026-11-02
