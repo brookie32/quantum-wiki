@@ -14,10 +14,10 @@ stale: false
 
 # All Models
 
-Auto-generated index of models extracted from wiki entries. 20 models with 2+ mentions.
+Auto-generated index of models extracted from wiki entries. 25 models with 2+ mentions.
 
 ## Claude
-*Mentioned in 11 entries*
+*Mentioned in 12 entries*
 
 - [[an-ai-agent-now-tunes-our-lasers-claude-working-with-anthrop]]
 - [[anthropics-claude-designs-leaner-quantum-circuits-reducing-r]]
@@ -26,6 +26,7 @@ Auto-generated index of models extracted from wiki entries. 20 models with 2+ me
 - [[claude-mythos-has-found-271-zero-days-in-firefox]]
 - [[designing-more-efficient-quantum-circuits-with-claude]]
 - [[i-feel-guilty-when-i-ask-claude-to-do-something-i-could-have]]
+- [[i-know-very-little-about-quantum-computing-so-i-had-claude-b]]
 - [[on-anthropics-ai-misuse-report]]
 - [[some-claude-chats-are-searchable-on-google]]
 - [[today-quera-is-announcing-results-from-our-research-preview-]]
@@ -78,6 +79,13 @@ Auto-generated index of models extracted from wiki entries. 20 models with 2+ me
 - [[chatgpt-solves-all-tested-qiskit-homework-assignments]]
 - [[llm-based-social-engineering-scams]]
 
+## Nighthawk
+*Mentioned in 3 entries*
+
+- [[ibm-amd-and-oak-ridge-pair-a-120-qubit-nighthawk-with-an-amd]]
+- [[ibm-deploys-quantum-system-two-at-hyde-park-labs-to-anchor-i]]
+- [[yonsei-to-install-ibm-nighthawk-quantum-processor-for-resear]]
+
 ## Aquila
 *Mentioned in 2 entries*
 
@@ -95,6 +103,12 @@ Auto-generated index of models extracted from wiki entries. 20 models with 2+ me
 
 - [[feasibility-and-optimum-recovery-in-warm-start-quantum-optim]]
 - [[safe-ma-qaoa-surrogate-assisted-and-fine-tuning-enhanced-mul]]
+
+## Borealis
+*Mentioned in 2 entries*
+
+- [[four-years-ago-today-xanadu-achieved-quantum-computational-a]]
+- [[read-the-story-behind-a-historic-milestone-in-quantum-comput]]
 
 ## Kolmogorov-Arnold Networks
 *Mentioned in 2 entries*
@@ -120,11 +134,23 @@ Auto-generated index of models extracted from wiki entries. 20 models with 2+ me
 - [[qpi-deeponet-mac-a-scalable-and-stable-hybrid-classical-quan]]
 - [[quantum-sedonet-spectrally-embedded-quantum-deep-operator-ne]]
 
+## IBM Quantum Nighthawk r2
+*Mentioned in 2 entries*
+
+- [[ibm-releases-nighthawk-r2-qpu-featuring-active-dissipative-q]]
+- [[yonsei-university-brings-ibm-quantum-nighthawk-r2-online-in-]]
+
 ## IonQ Superion 256
 *Mentioned in 2 entries*
 
 - [[at-our-investor-day-ceo-niccolodemasi-shared-a-major-milesto]]
 - [[today-we-debut-ionq-superion-256-our-256-physical-qubit-syst]]
+
+## Gemini 4 Argon
+*Mentioned in 2 entries*
+
+- [[the-latest-ai-news-we-announced-in-october-2026]]
+- [[the-latest-ai-news-we-announced-in-september-2026]]
 
 ## Advantage2
 *Mentioned in 2 entries*
@@ -155,3 +181,9 @@ Auto-generated index of models extracted from wiki entries. 20 models with 2+ me
 
 - [[bluequbit-benchmarks-quantum-computational-advantage-in-rand]]
 - [[entangled-logical-qubits-on-a-superconducting-quantum-proces]]
+
+## Variational Quantum Eigensolver
+*Mentioned in 2 entries*
+
+- [[grow-compress-and-perturb-a-hybrid-quantum-classical-pathway]]
+- [[researchers-cut-variational-quantum-eigensolver-energy-error]]

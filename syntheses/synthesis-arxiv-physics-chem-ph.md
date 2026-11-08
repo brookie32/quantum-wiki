@@ -1,43 +1,37 @@
 ---
 title: "Synthesis: Arxiv-Physics-Chem-Ph"
-date: "2026-11-01"
-updated: "2026-11-01"
+date: "2026-11-08"
+updated: "2026-11-08"
 source: "agent"
 category: "syntheses"
 tags: [synthesis, arxiv-physics-chem-ph, auto-generated]
 url: ""
-summary: "Auto-generated synthesis of 822 entries about arxiv-physics-chem-ph"
-last_verified: "2026-11-01"
-review_by: "2026-11-01"
+summary: "Auto-generated synthesis of 865 entries about arxiv-physics-chem-ph"
+last_verified: "2026-11-08"
+review_by: "2026-11-08"
 stale: false
 ---
 
 # arxiv-physics-chem-ph: Knowledge Wiki Overview
 
 ## Current State
-Computational and physical chemistry is undergoing rapid transformation driven by machine learning interatomic potentials, cavity quantum electrodynamics, and advanced spectroscopic methods. The field bridges fundamental quantum theory with applied materials challenges, including battery recycling and thermoelectric polymers. Integration of AI/ML with first-principles physics is now a central methodological paradigm.
-
----
+Computational and physical chemistry is undergoing rapid transformation driven by machine learning interatomic potentials, cavity quantum electrodynamics, and advanced spectroscopic methods. Research increasingly bridges quantum mechanical foundations with practical applications in energy storage, thermoelectrics, and molecular dynamics. The field is characterized by tight integration between theory, simulation, and experimental validation.
 
 ## Key Developments
+- **Machine Learning Potentials**: Graph neural networks and learned dynamical representations are accelerating molecular dynamics and conformer analysis, with new completeness theorems validating their theoretical foundations
+- **Polaritonic & Cavity Chemistry**: Active investigation of cavity-mediated effects on chemical reactivity, nuclear spin isomers, and radiative heat transfer, with the Pauli principle emerging as a key quantum constraint
+- **Battery & Materials Science**: Mechanistic diffusion-reaction models for LiCoO₂ leaching improve lithium/cobalt recovery prediction; machine-learned potentials are being validated for concentrated electrolyte speciation (e.g., ZnCl₂)
+- **Chiral Photochemistry**: Synthetic chiral light enables direct asymmetric photochemical synthesis, offering new stereochemical control strategies
+- **Thermoelectrics**: Homojunction engineering in conductive polymer films demonstrates thermopower enhancement, revitalizing organic thermoelectric research
+- **Density Functional Theory**: New work addresses V-representability in TDDFT and refined local pressure tensor formulations for inhomogeneous fluids
 
-- **Machine-learned force fields & potentials**: New frameworks learn consistent molecular mechanics FFs from first principles, with graph neural network potentials gaining rigorous completeness theory via hypergraph architectures
-- **Polaritonic/cavity chemistry**: Optical cavities are being exploited to control radiative heat transfer, nuclear spin isomers, and Pauli principle effects in strong light-matter coupling regimes
-- **Electrolyte & interface modeling**: ML interatomic potentials now tackle concentration-dependent speciation in ZnCl₂ electrolytes; water-magnetite interfacial structure is being decoded via protonation state analysis
-- **Battery recycling mechanistics**: Coupled diffusion-reaction kinetic models with film passivation effects advance lithium and cobalt recovery from LiCoO₂ cathodes
-- **Chiral photochemistry**: Synthetic chiral light enables direct asymmetric photochemical synthesis, extending beyond natural circularly polarized light
-- **Generative models for MD**: Machine-learned dynamical representations accelerate convergence of molecular dynamics ensemble sampling
-- **Thermoelectric polymers**: Homojunction engineering in conductive polymer films demonstrates significant thermopower enhancement
-
----
-
-## Key Players/Institutions
-Primarily academic research groups publishing via arXiv; no dominant commercial entities identified. Contributions span computational chemistry, condensed matter physics, and materials science communities globally.
-
----
+## Key Players & Groups
+- Academic research groups at institutions contributing to arXiv chem-ph (broadly distributed; no single dominant corporate player)
+- Emerging role of **generative AI/ML frameworks** (community-developed tools like GNNs for potentials)
+- Battery recycling and materials communities intersecting with electrochemical engineering groups
 
 ## Outlook
-The field is converging toward **unified ML-physics frameworks** capable of handling quantum, classical, and cavity-mediated phenomena within single architectures. Near-term priorities include transferable potentials for complex electrolytes, scalable polaritonic chemistry models, and experimentally validated chiral synthesis routes.
+The field is converging toward **end-to-end ML-augmented workflows** spanning quantum chemistry to materials design. Cavity chemistry and chiral photochemistry represent emerging experimental frontiers, while improved theoretical frameworks for DFT and pressure tensors will sharpen predictive accuracy at interfaces and in complex electrolytes.
 
 ## Source Entries
 
@@ -48,6 +42,7 @@ The field is converging toward **unified ML-physics frameworks** capable of hand
 - [[wide-field-opto-iontronic-iscat-mapping-of-interfacial-charg|Wide-Field Opto-Iontronic iSCAT Mapping of Interfacial Charging and Electrical Connectivity]]
 - [[machine-learned-dynamical-representations-for-accelerated-ri|Machine-Learned Dynamical Representations for Accelerated RiteWeight Convergence]]
 - [[near-field-contributions-to-cavity-mediated-radiative-heat-t|Near-field contributions to cavity-mediated radiative heat transfer]]
+- [[estimating-irving-kirkwood-pressure-profiles-from-per-atom-v|Estimating Irving-Kirkwood pressure profiles from per-atom virial and density profiles: a closure for the contour-dependent term in planar liquid films]]
 - [[finite-resolution-identifiability-and-measurement-design-for|Finite-Resolution Identifiability and Measurement Design for Molecular Conformer Spectroscopy]]
 - [[v-representability-beyond-singular-times-in-time-dependent-d|V-Representability Beyond Singular Times in Time-Dependent Density Functional Theory: The Hubbard Dimer Case]]
 - [[towards-decoding-the-structure-of-water-magnetite-interface|Towards decoding the structure of water-magnetite interface]]
@@ -55,4 +50,3 @@ The field is converging toward **unified ML-physics frameworks** capable of hand
 - [[reconstructing-local-environments-from-concise-atomistic-rep|Reconstructing local environments from concise atomistic representations]]
 - [[mytm-an-automated-melting-temperature-calculation-toolkit|MyTm: An Automated Melting Temperature Calculation Toolkit]]
 - [[why-multi-layer-message-passing-works-completeness-theory-fo|Why Multi-Layer Message Passing Works: Completeness Theory for Graph Neural Network Interatomic Potentials]]
-- [[learning-consistent-molecular-mechanics-force-fields-from-fi|Learning consistent molecular mechanics force fields from first principles]]
