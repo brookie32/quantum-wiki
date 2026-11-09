@@ -14,4 +14,11 @@ stale: false
 
 arXiv:2603.16765v3 Announce Type: replace Abstract: In a recent paper [arXiv:2205.06279], Danielson et al. demonstrated that the mere presence of a black hole causes universal decoherence of quantum superpositions (dubbed the DSW decoherence). We analyze decoherence in a superconducting analogue [arXiv:1709.06154] of the event horizon of a late-stage black hole, where Andreev reflection plays the role of Hawking radiation. We consider a normal metal interferometer threaded by an Aharonov-Bohm flux, where one of the arms of the interferometer is coupled to a superconductor by a tunnel coupling of varying strength. At absolute zero temperature and for weak coupling, we find that the scattering states of the interferometer are decohered by Andreev reflection, a nontrivial manifestation of the proximity effect analogous to DSW decoherence from the event horizon of a black hole. However, for increasing coupling strength to the superconductor, we find a reemergence of coherence via resonant tunneling through Andreev bound states. This suggests the existence of an analogue gravitational phenomenon wherein transmission mediated by virtual Hawking radiation leads to a reemergence of coherence in an interferometer placed near a black hole's event horizon.
 
+
+
+## Related
+- [[black-hole-microstate-hair-requires-a-horizon-measurement|Black-Hole Microstate Hair Requires a Horizon Measurement]]
+- [[simulating-black-hole-thermality-and-interior-scrambling-on-|Simulating Black Hole Thermality and Interior Scrambling on a Superconducting Quantum Processor]]
+- [[geometric-quantum-discord-in-the-black-hole-quantum-atmosphe|Geometric quantum discord in the black hole quantum atmosphere]]
+
 **Source:** [arXiv quant-ph](https://arxiv.org/abs/2603.16765) | 2026-11-05
