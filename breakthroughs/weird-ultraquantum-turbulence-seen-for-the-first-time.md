@@ -14,4 +14,10 @@ stale: false
 
 A Cambridge team has directly observed “ultra‑quantum” turbulence for the first time by cooling thousands of potassium atoms to near absolute zero and confining them in a micrometre‑scale cylinder. The resulting turbulent state consists of thin, tangled quantum vortices—tiny, string‑like whirlpools—that coexist with an otherwise still fluid before settling into equilibrium. This phenomenon provides a laboratory analogue for exotic superfluid environments such as liquid helium or the interiors of neutron stars.
 
+
+
+## Related
+- [[quantum-gas-microscope-reveals-individual-atoms-in-first-tun|Quantum gas microscope reveals individual atoms in first tunable three-component Hubbard system]]
+- [[pasqal-achieves-first-on-chip-neutral-atom-qubit-trapping-vi|Pasqal Achieves First On-Chip Neutral-Atom Qubit Trapping via Photonic Integrated Circuits]]
+
 **Source:** [New Scientist Physics](https://www.newscientist.com/article/2597812-weird-ultraquantum-turbulence-seen-for-the-first-time/?utm_campaign=RSS|NSNS&utm_content=physics&utm_medium=RSS&utm_source=NSNS) | 2026-11-09
