@@ -1,0 +1,17 @@
+---
+title: "Quantum-Enhanced QSAR for DYRK1A: Evaluating Complementary and Utility QPU-Derived Molecular Representations"
+date: "2026-11-11"
+updated: "2026-11-11"
+source: "agent"
+category: "chemistry"
+tags: [chemistry, arxiv-quant-ph]
+url: "https://arxiv.org/abs/2611.14179"
+summary: "arXiv:2611.14179v1 Announce Type: new Abstract: In drug discovery, hit identification selects a limited set of compounds for experimental evaluation from a larger collection of candidates. Because lab"
+last_verified: "2026-11-11"
+review_by: "2027-02-09"
+stale: false
+---
+
+arXiv:2611.14179v1 Announce Type: new Abstract: In drug discovery, hit identification selects a limited set of compounds for experimental evaluation from a larger collection of candidates. Because laboratory screening capacity is limited, that choice determines which chemical series continue into further investigation. A hit that is not assayed does not enter confirmation or the analog series, and that chemical series is not opened. For the DYRK1A kinase, the same test molecules were scored from a tabular representation of molecular descriptors and from a vector measured on a quantum processor, with the same RBF-SVM. The question is whether the two models propose the same set for experimental evaluation: they propose different compounds. The model on the vector measured on the quantum processor includes compounds that the tabular representation leaves out, and among them are already-labeled actives. The tabular representation includes actives that the vector measured on the quantum processor leaves out. What is reported is that set: who enters, with what label, and whether published chemistry already mentions it. No formal quantum advantage is claimed, nor a mechanism for why the two vectors separate differently. Those compounds fall within the neighborhood that both representations already cover; what changes is which model marks them active. From that follows the cost of predictive disagreement: each model would send a different chemical series to experimental evaluation.
+
+**Source:** [arXiv quant-ph](https://arxiv.org/abs/2611.14179) | 2026-11-11
