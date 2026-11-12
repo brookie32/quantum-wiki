@@ -14,4 +14,10 @@ stale: false
 
 Insider Brief PRESS RELEASE — Xanadu Quantum Technologies Limited (“Xanadu”; NASDAQ/TSX: XNDU), a leading photonic quantum computing company, in collaboration with HyperLight Corporation, a leading thin-film lithium niobate (TFLN) photonics company, today announced a significant hardware performance milestone using TFLN technology, reducing optical switch insertion loss to 7 millidecibels (mdB). This achievement represents a nearly […]
 
+
+
+## Related
+- [[xanadu-and-asml-partner-on-lithography-for-photonic-quantum-|Xanadu and ASML Partner on Lithography for Photonic Quantum Hardware]]
+- [[xanadu-and-globalfoundries-partner-on-photonic-quantum-manuf|Xanadu and GlobalFoundries Partner on Photonic Quantum Manufacturing]]
+
 **Source:** [The Quantum Insider](https://thequantuminsider.com/2026/11/10/xanadu-hyperlight-photonic-switch-loss-7-mdb/) | 2026-11-10
