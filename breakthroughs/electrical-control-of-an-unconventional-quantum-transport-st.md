@@ -14,4 +14,10 @@ stale: false
 
 Researchers at Tohoku University and the Japan Atomic Energy Agency (JAEA) have successfully controlled a unique quantum phenomenon—the quantum-geometric nonlinear Hall (QgNLH) state—using electric current for the first time. The breakthrough was achieved by revealing and exploiting the coupling between the spin structure and the QgNLH state in an electrically switchable chiral antiferromagnet.
 
+
+
+## Related
+- [[direct-observation-of-spontaneous-magnon-coherence-at-room-t|Direct observation of spontaneous magnon coherence at room temperature]]
+- [[quantum-interference-traps-electron-waves-in-metal-for-first|Quantum interference traps electron waves in metal for first time]]
+
 **Source:** [Phys.org Quantum](https://phys.org/news/2026-11-electrical-unconventional-quantum-state-magnet.html) | 2026-11-06
