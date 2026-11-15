@@ -1,49 +1,51 @@
 ---
 title: "Synthesis: Error-Correction"
-date: "2026-11-08"
-updated: "2026-11-08"
+date: "2026-11-15"
+updated: "2026-11-15"
 source: "agent"
 category: "syntheses"
 tags: [synthesis, error-correction, auto-generated]
 url: ""
-summary: "Auto-generated synthesis of 1039 entries about error-correction"
-last_verified: "2026-11-08"
-review_by: "2026-11-08"
+summary: "Auto-generated synthesis of 1102 entries about error-correction"
+last_verified: "2026-11-15"
+review_by: "2026-11-15"
 stale: false
 ---
 
 # Error-Correction: Knowledge Wiki Overview
 
 ## Current State
-Quantum error correction (QEC) is rapidly maturing from theoretical framework to practical implementation, with researchers achieving landmark milestones such as decoding quantum data at error rates of one in ten million under 8.5% noise conditions. The field is converging on scalable architectures, real-time decoding systems, and hardware-efficient code designs as fault-tolerant quantum computing moves closer to practical deployment.
+Quantum error correction (QEC) is rapidly maturing from theoretical framework to practical implementation, with researchers achieving landmark milestones such as decoding quantum data with error rates as low as one in ten million. The field is converging on scalable, real-time solutions that balance code performance with classical decoding overhead, making fault-tolerant quantum computation increasingly viable.
 
 ---
 
 ## Key Developments
-- **Real-time large-scale decoding** achieved at megahertz speeds, addressing a critical throughput bottleneck for fault-tolerant operation
-- **Hierarchical QEC schemes** combining hypergraph product codes with rotated surface codes to improve logical error suppression
-- **AI/reinforcement learning** applied to QEC (notably by Google), enabling adaptive decoding strategies beyond classical rule-based approaches
-- **Bosonic error correction** with fluxonium qubits emerging as a hardware-efficient alternative to qubit-array approaches
-- **Improved LDPC codes** (including CPM-based and pair-partition constructions) reducing qubit overhead significantly
-- **Cross-platform benchmarking** of QEC primitives across Quantinuum, IBM, and IQM hardware, enabling objective performance comparison
-- **Single-CPU decoders** (IonQ) targeting low-latency correction within tight hardware constraints
+- **Large-scale real-time decoding** demonstrated at megahertz speeds, addressing a critical throughput bottleneck
+- **Hierarchical QEC schemes** combining hypergraph product codes with rotated surface codes show improved threshold performance
+- **AI/reinforcement learning** applied to QEC (notably by Google) to optimize decoding strategies adaptively
+- **Bosonic error correction** with fluxonium qubits emerging as a hardware-efficient fault-tolerance pathway
+- **Quantum LDPC codes** advancing via new constructions (pair-partition, CPM-based) with improved encoding rates
+- **Cross-platform benchmarking** (Jülich Supercomputing Centre) evaluating QEC primitives across Quantinuum, IBM, and IQM hardware
+- **Single-CPU decoders** (IonQ) targeting reduced classical resource requirements for near-term devices
+- **Graph state generation** in linear optics improving resource efficiency for measurement-based QEC
 
 ---
 
 ## Key Players
-| Organization | Focus Area |
+| Organization | Focus |
 |---|---|
-| **Google** | AI-driven decoding, surface codes |
-| **IonQ** | Single-CPU decoder development |
-| **Riverlane** | Scalable decoding infrastructure |
-| **IBM / Quantinuum / IQM** | Hardware QEC benchmarking |
-| **D-Wave** | QEC efficiency improvements |
-| **Jülich Supercomputing Centre** | Independent benchmarking |
+| Google | AI-driven decoding, surface codes |
+| IonQ | Single-CPU decoder optimization |
+| IBM | Hardware benchmarking, code implementations |
+| Quantinuum | QEC primitive validation |
+| Riverlane | Decoder software, U.S. expansion |
+| D-Wave | QEC efficiency improvements |
+| Jülich Supercomputing Centre | Cross-platform benchmarking |
 
 ---
 
 ## Outlook
-The near-term trajectory points toward **decoder co-design with hardware**, tighter integration of classical compute for real-time correction, and the consolidation of LDPC-based codes as leading candidates for large-scale systems. Fault-tolerant quantum advantage within specific application domains appears increasingly plausible within
+The field is moving decisively toward **fault-tolerant quantum computation at scale**, with decoding speed, classical hardware efficiency, and code distance improvements as primary engineering targets. Integration of AI-assisted decoders and hierarchical code architectures is expected to close the gap between current noise levels and practical fault-tolerance th
 
 ## Source Entries
 

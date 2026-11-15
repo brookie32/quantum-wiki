@@ -14,7 +14,26 @@ stale: false
 
 # All Tools
 
-Auto-generated index of tools extracted from wiki entries. 90 tools with 2+ mentions.
+Auto-generated index of tools extracted from wiki entries. 100 tools with 2+ mentions.
+
+## PennyLane
+*Mentioned in 32 entries*
+
+- [[as-we-gear-up-for-qhack-2026the-premier-quantum-coding-compe]]
+- [[catch-the-session-from-100---230-pm-to-learn-how-pennylane-p]]
+- [[check-out-our-latest-blog-about-our-new-perspective-on-qml-h]]
+- [[daniel-felipe-nino-visited-the-mcmaster-computer-science-soc]]
+- [[eight-years-of-pennylaneai-proud-of-what-weve-built-and-exci]]
+- [[empowering-researchers-worldwide-is-at-the-core-of-what-we-d]]
+- [[exciting-quantum-milestone-from-rbc-rbc-great-to-see-them-ad]]
+- [[fault-tolerant-systems-need-classical-hardware-working-in-lo]]
+- [[from-the-basics-of-pennylaneai-to-the-complexities-of-quantu]]
+- [[great-to-see-the-next-generation-of-quantum-talent-in-action]]
+- [[hear-how-our-continued-collaboration-fuels-high-impact-resea]]
+- [[her-hands-on-session-train-classical-deploy-quantum-with-pen]]
+- [[ieee-quantum-week-ieeequantumweek-2026-is-right-around-the-c]]
+- [[lockheedmartin-will-explore-quantum-concepts-with-xanaduais-]]
+- [[next-week-the-global-quantum-community-lands-in-toronto-for-]]
 
 ## CUDA-Q
 *Mentioned in 32 entries*
@@ -35,27 +54,8 @@ Auto-generated index of tools extracted from wiki entries. 90 tools with 2+ ment
 - [[nvidia-expands-open-source-cuda-q-platform---the-quantum-ins]]
 - [[nvidia-expands-open-source-cuda-q-platform-for-fault-toleran]]
 
-## PennyLane
-*Mentioned in 31 entries*
-
-- [[as-we-gear-up-for-qhack-2026the-premier-quantum-coding-compe]]
-- [[catch-the-session-from-100---230-pm-to-learn-how-pennylane-p]]
-- [[check-out-our-latest-blog-about-our-new-perspective-on-qml-h]]
-- [[daniel-felipe-nino-visited-the-mcmaster-computer-science-soc]]
-- [[empowering-researchers-worldwide-is-at-the-core-of-what-we-d]]
-- [[exciting-quantum-milestone-from-rbc-rbc-great-to-see-them-ad]]
-- [[fault-tolerant-systems-need-classical-hardware-working-in-lo]]
-- [[from-the-basics-of-pennylaneai-to-the-complexities-of-quantu]]
-- [[great-to-see-the-next-generation-of-quantum-talent-in-action]]
-- [[hear-how-our-continued-collaboration-fuels-high-impact-resea]]
-- [[her-hands-on-session-train-classical-deploy-quantum-with-pen]]
-- [[ieee-quantum-week-ieeequantumweek-2026-is-right-around-the-c]]
-- [[lockheedmartin-will-explore-quantum-concepts-with-xanaduais-]]
-- [[next-week-the-global-quantum-community-lands-in-toronto-for-]]
-- [[participants-will-learn-how-to-how-to-develop-their-own-quan]]
-
 ## Qiskit
-*Mentioned in 22 entries*
+*Mentioned in 24 entries*
 
 - [[chatgpt-solves-all-tested-qiskit-homework-assignments]]
 - [[exploring-observability-options-for-quantum-sdk-workflows-ru]]
@@ -65,13 +65,13 @@ Auto-generated index of tools extracted from wiki entries. 90 tools with 2+ ment
 - [[ibm-qiskit-summer-school-2026-schedule]]
 - [[ibm-releases-qiskit-sdk-v26-with-c-api-pass-manager-framewor]]
 - [[ibms-benchpress-compiles-qiskit-without-seedtranspiler-i-mea]]
+- [[making-quantum-sdks-more-accessible-lessons-from-contributin]]
 - [[observing-the-quantum-compiler-through-automatic-experiment-]]
 - [[oxford-quantum-circuits-releases-erado-an-open-source-qiskit]]
 - [[q-hack-india-2026---the-quantum-build-challenge]]
+- [[qdc-2026-what-quantum-developers-need-to-know-ibm-quantum-co]]
 - [[qevolve-bench-a-seed-benchmark-for-quantum-sdk-evolution-and]]
 - [[qgss-2026-certificates-query]]
-- [[qiskit-qudits-a-qiskit-extension-for-simulating-qudit-circui]]
-- [[qismc-a-model-checker-for-qiskit-program-debugging]]
 
 ## QAOA
 *Mentioned in 17 entries*
@@ -93,7 +93,7 @@ Auto-generated index of tools extracted from wiki entries. 90 tools with 2+ ment
 - [[setting-angles-in-quantum-approximate-optimization-at-utilit]]
 
 ## NVQLink
-*Mentioned in 10 entries*
+*Mentioned in 11 entries*
 
 - [[alice-bob-demonstrates-gpu-decoding-for-ldpc-cat-codes-via-n]]
 - [[alice-bob-demonstrates-gpu-decoding-for-quantum-error-correc]]
@@ -101,15 +101,17 @@ Auto-generated index of tools extracted from wiki entries. 90 tools with 2+ ment
 - [[anyon-computing-unveils-open-source-real-time-control-plane-]]
 - [[ionq-selected-as-first-on-premise-qpu-deployment-at-nvidias-]]
 - [[iqm-and-zurich-instruments-launch-real-time-quantum-error-co]]
+- [[nvidias-alice-bob-decodes-cat-qubit-errors-on-gpus-with-nvql]]
 - [[qblox-achieves-sub-4-microsecond-latency-integrating-nvidia-]]
 - [[quandela-and-nvidia-outline-photonic-qpu-integration-archite]]
 - [[quandela-demonstrates-live-hybrid-photonic-gpu-qpu-architect]]
 - [[seeqc-demonstrates-quantum-error-correction-performance-gain]]
 
 ## Backline
-*Mentioned in 9 entries*
+*Mentioned in 10 entries*
 
 - [[co-designed-with-amd-backline-is-an-open-platform-for-low-la]]
+- [[fault-tolerant-quantum-computing-requires-real-time-classica]]
 - [[fault-tolerant-systems-need-classical-hardware-working-in-lo]]
 - [[have-you-noticed-that-today-quantum-is-never-purely-quantum-]]
 - [[light-moves-at-light-speed-so-photonic-processors-run-at-ext]]
@@ -205,6 +207,15 @@ Auto-generated index of tools extracted from wiki entries. 90 tools with 2+ ment
 - [[zapata-quantum-unveils-quantum-pilot-platform-for-automated-]]
 - [[zapata-quantum-zpta-opens-early-access-to-its-quantum-pilot-]]
 
+## IBM Quantum Functions Catalog
+*Mentioned in 5 entries*
+
+- [[jij-launches-sqoa-solver-in-ibm-quantum-functions-catalog-to]]
+- [[kipu-quantum-launches-rimay-quantum-feature-extraction-in-ib]]
+- [[ltm-becomes-first-global-systems-integrator-to-launch-functi]]
+- [[ltm-brings-ai-powered-quantum-error-mitigation-to-ibm-quantu]]
+- [[ltm-gains-on-bringing-ai-powered-quantum-error-mitigation-to]]
+
 ## PyTorch
 *Mentioned in 4 entries*
 
@@ -228,6 +239,14 @@ Auto-generated index of tools extracted from wiki entries. 90 tools with 2+ ment
 - [[qc-ware-and-ionq-demonstrate-hybrid-quantum-chemistry-workfl]]
 - [[qc-ware-demonstration-of-hybrid-quantum-classical-workflow-u]]
 - [[qc-wares-promethium-executes-first-quantum-chemistry-run-on-]]
+
+## Google News
+*Mentioned in 4 entries*
+
+- [[quantum-x-labs-launches-quantum-error-correction-program---q]]
+- [[tracking-progress-on-the-path-to-ibm-quantum-starling---ibm-]]
+- [[zapata-election-numbers---kgns]]
+- [[zapata-quantum-inc-sec-filing-aug-11-2026---stock-titan]]
 
 ## variational quantum eigensolver
 *Mentioned in 4 entries*
@@ -308,13 +327,6 @@ Auto-generated index of tools extracted from wiki entries. 90 tools with 2+ ment
 - [[the-quantum-industry-has-assumed-enterprise-grade-gpus-are-m]]
 - [[tide-an-fpga-quantum-control-processor-for-deterministic-ada]]
 
-## Google News
-*Mentioned in 3 entries*
-
-- [[quantum-x-labs-launches-quantum-error-correction-program---q]]
-- [[zapata-election-numbers---kgns]]
-- [[zapata-quantum-inc-sec-filing-aug-11-2026---stock-titan]]
-
 ## Monte Carlo
 *Mentioned in 3 entries*
 
@@ -342,6 +354,20 @@ Auto-generated index of tools extracted from wiki entries. 90 tools with 2+ ment
 - [[ionq-debuts-superion-256-quantum-computing-platform---ionq]]
 - [[ionq-stock-on-track-to-hit-over-1-month-high-on-nvidia-super]]
 - [[ionq-to-deploy-superion-256-quantum-computer-at-florida-inte]]
+
+## IBM Quantum System Two
+*Mentioned in 3 entries*
+
+- [[ibm-and-lockheed-martin-partner-with-eth-zurich-to-deploy-sw]]
+- [[ibm-deploys-quantum-system-two-at-hyde-park-labs-to-anchor-i]]
+- [[qunova-computing-achieves-chemical-accuracy-at-80-qubits-on-]]
+
+## ADAPT-VQE
+*Mentioned in 3 entries*
+
+- [[a-case-study-on-noise-resilient-operator-selection-in-adapti]]
+- [[from-projected-subspaces-to-full-space-implementations-repre]]
+- [[pool-free-residual-triggered-ansatz-growth-for-variational-i]]
 
 ## IQM Spark
 *Mentioned in 3 entries*
@@ -422,6 +448,12 @@ Auto-generated index of tools extracted from wiki entries. 90 tools with 2+ ment
 
 - [[quantum-processing-units-qpus-pick-up-the-baton-where-classi]]
 - [[this-is-psiquantums-prototype-quantum-circuit-switch-unveile]]
+
+## Reimei
+*Mentioned in 2 entries*
+
+- [[quantinuum-and-riken-execute-end-to-end-hybrid-quantum-hpc-c]]
+- [[riken-activates-roquo-supercomputer-integrating-quantinuums-]]
 
 ## Orbit
 *Mentioned in 2 entries*
@@ -525,18 +557,6 @@ Auto-generated index of tools extracted from wiki entries. 90 tools with 2+ ment
 - [[sealsq-and-wolfssl-add-wolftpm-support-for-qvault-post-quant]]
 - [[sealsq-integrates-wolftpm-support-into-post-quantum-silicon-]]
 
-## IBM Quantum System Two
-*Mentioned in 2 entries*
-
-- [[ibm-and-lockheed-martin-partner-with-eth-zurich-to-deploy-sw]]
-- [[ibm-deploys-quantum-system-two-at-hyde-park-labs-to-anchor-i]]
-
-## ADAPT-VQE
-*Mentioned in 2 entries*
-
-- [[a-case-study-on-noise-resilient-operator-selection-in-adapti]]
-- [[from-projected-subspaces-to-full-space-implementations-repre]]
-
 ## Plaquette
 *Mentioned in 2 entries*
 
@@ -609,17 +629,41 @@ Auto-generated index of tools extracted from wiki entries. 90 tools with 2+ ment
 - [[jolt-qed-formally-verifying-bytecode-expansions-in-lean]]
 - [[the-exact-bit-security-of-hash-based-signatures]]
 
+## Phio TX
+*Mentioned in 2 entries*
+
+- [[quantum-xchange-partners-with-carahsoft-to-distribute-fips-v]]
+- [[quantum-xchange-phio-tx-becomes-first-post-quantum-cryptogra]]
+
+## Dirac-3S
+*Mentioned in 2 entries*
+
+- [[inmune-bio-engages-quantum-computing-inc-to-expand-drug-indi]]
+- [[motzkin-straus-optimization-on-an-entropy-computing-platform]]
+
 ## Qt
 *Mentioned in 2 entries*
 
 - [[qt-612-lts-released-with-qml-hot-reload-gpu-accelerated-canv]]
 - [[qt-612-lts-released-with-qml-hot-reloading-stylekit-in-exper]]
 
+## Quantum Approximate Optimization Algorithm
+*Mentioned in 2 entries*
+
+- [[parameter-dependent-noise-resilience-in-the-quantum-approxim]]
+- [[transferred-qaoa-parameters-remember-the-penalty-scale-a-lam]]
+
 ## AgenticOS
 *Mentioned in 2 entries*
 
 - [[haiqu-releases-agenticos-to-plan-and-check-quantum-research]]
 - [[haiqu-unveils-agenticos-platform-for-automated-scientificall]]
+
+## Constellation
+*Mentioned in 2 entries*
+
+- [[quantum-elements-constellation-wins-tmcnet-2026-quantum-comp]]
+- [[rigetti-computing-integrates-quantum-elements-constellation-]]
 
 ## FHEW
 *Mentioned in 2 entries*
@@ -686,3 +730,27 @@ Auto-generated index of tools extracted from wiki entries. 90 tools with 2+ ment
 
 - [[faultscope-a-software-package-for-fast-error-attribution-in-]]
 - [[faultscope-software-pinpoints-errors-in-quantum-error-correc]]
+
+## Fugaku
+*Mentioned in 2 entries*
+
+- [[quantinuum-and-riken-execute-end-to-end-hybrid-quantum-hpc-c]]
+- [[riken-and-quantinuum-demonstrate-heterogeneous-multi-qpu-wor]]
+
+## Boulder Opal
+*Mentioned in 2 entries*
+
+- [[anyon-technologies-and-q-ctrl-partner-on-self-calibrating-hy]]
+- [[q-ctrl-demonstrates-push-button-cold-start-calibration-on-qu]]
+
+## SEAFOOD
+*Mentioned in 2 entries*
+
+- [[seafood-puts-octopus-and-quantum-computers-on-the-same-menu]]
+- [[university-of-osaka-integrates-domestic-superconducting-quan]]
+
+## OCTOPUS
+*Mentioned in 2 entries*
+
+- [[seafood-puts-octopus-and-quantum-computers-on-the-same-menu]]
+- [[university-of-osaka-integrates-domestic-superconducting-quan]]

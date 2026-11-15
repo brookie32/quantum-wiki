@@ -1,44 +1,45 @@
 ---
 title: "Synthesis: Iacr-Eprint-Archive"
-date: "2026-11-08"
-updated: "2026-11-08"
+date: "2026-11-15"
+updated: "2026-11-15"
 source: "agent"
 category: "syntheses"
 tags: [synthesis, iacr-eprint-archive, auto-generated]
 url: ""
-summary: "Auto-generated synthesis of 903 entries about iacr-eprint-archive"
-last_verified: "2026-11-08"
-review_by: "2026-11-08"
+summary: "Auto-generated synthesis of 957 entries about iacr-eprint-archive"
+last_verified: "2026-11-15"
+review_by: "2026-11-15"
 stale: false
 ---
 
 # IACR ePrint Archive: Knowledge Wiki Overview
 
 ## Current State
-The IACR Cryptology ePrint Archive serves as the primary preprint repository for cutting-edge cryptographic research, hosting thousands of papers spanning theoretical foundations to applied systems. The archive reflects a field experiencing rapid expansion driven by zero-knowledge proofs, secure multiparty computation, and privacy-preserving technologies. It functions as the de facto first-publication venue for cryptographic breakthroughs before formal peer review.
+The IACR ePrint Archive serves as the primary preprint repository for cryptographic research, hosting cutting-edge work spanning theoretical foundations, applied cryptography, and emerging paradigms. The archive reflects an increasingly applied field where privacy-preserving computation, zero-knowledge proofs, and blockchain security are dominating research output alongside classical hardness results.
 
 ---
 
 ## Key Developments
-- **ZK-friendly primitives**: New hash function designs (e.g., Reinforced Concrete) are being analyzed and attacked, refining ZKP-optimized cryptography
-- **Secure computation at scale**: Advances in MPC protocols (DISCO, Truffle) address distributed oblivious computation, shuffling, and sorting with improved efficiency
-- **Privacy-preserving ML**: Systems like HERMES enable private LLM inference, pushing PI into practical deployment territory
-- **Blockchain security**: Selfish mining composability and temporal profitability analyses are sharpening incentive-compatibility understanding in proof-of-work systems
-- **Lattice complexity**: NP-hardness results for CVP on cyclotomic ideals and Gabidulin code decoding tighten theoretical bounds in post-quantum foundations
-- **Efficient elliptic curve arithmetic**: Faster complete formulas for secp256k1/BN/BLS curves offer direct real-world cryptographic performance gains
-- **Differential privacy in multiparty settings**: Abort-aware DP models expand practical deployment of distributed privacy guarantees
+
+- **Privacy-preserving computation** advances include maliciously secure MPC protocols, oblivious joins via TEEs (DISCO*), and efficient three-party shuffles (Truffle)
+- **Zero-knowledge proof efficiency** is driving new ZK-friendly hash function designs and attacks, including collision attacks on Reinforced Concrete
+- **LLM privacy** is an emerging frontier, with systems like HERMES enabling private inference on large language models
+- **Blockchain security** research covers selfish mining incentive analysis and temporal composability challenges in proof-of-work systems
+- **Algorithmic cryptography** advances include faster elliptic curve scalar multiplication for secp256k1/BN/BLS families and improved Reed-Solomon list decoding bounds
+- **Hardness results** include NP-completeness proofs for CVP on cyclotomic ideals and ML-decoding of Gabidulin codes
+- **Differential privacy** research is expanding into multiparty and distributed protocol settings
 
 ---
 
-## Key Players
-- Academic institutions (MIT, ETH Zurich, Stanford, CWI) dominating theoretical contributions
-- Industry cryptography teams at **Google**, **Cloudflare**, **Protocol Labs**, and **a16z crypto**
-- Blockchain foundations (Ethereum, Zcash) driving ZKP application research
+## Key Players & Organizations
+- Academic institutions and IACR member researchers (primary contributors)
+- Industry cryptography teams at cloud providers and blockchain projects consuming TEE and MPC research
+- The **better.codes** autoresearch project (noted in Reed-Solomon advances)
 
 ---
 
 ## Outlook
-The archive will increasingly feature convergence of **AI and cryptography** (private inference, model extraction attacks), continued **post-quantum standardization** follow-on research, and practical MPC deployment papers as secure computation moves from theory to production infrastructure.
+The archive trajectory points toward **practical deployment** of theoretically mature primitives — MPC, ZKP, and differential privacy — in real-world systems including AI/ML pipelines and decentralized infrastructure. Hardness results for lattice-based problems will continue informing post-quantum standardization efforts as NIST finalization drives implementation research.
 
 ## Source Entries
 

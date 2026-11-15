@@ -14,7 +14,7 @@ stale: false
 
 # All Models
 
-Auto-generated index of models extracted from wiki entries. 25 models with 2+ mentions.
+Auto-generated index of models extracted from wiki entries. 27 models with 2+ mentions.
 
 ## Claude
 *Mentioned in 12 entries*
@@ -31,6 +31,15 @@ Auto-generated index of models extracted from wiki entries. 25 models with 2+ me
 - [[some-claude-chats-are-searchable-on-google]]
 - [[today-quera-is-announcing-results-from-our-research-preview-]]
 - [[using-ai-for-weapons-development]]
+
+## Gemini
+*Mentioned in 5 entries*
+
+- [[amie-our-research-medical-ai-system-demonstrates-real-time-c]]
+- [[gemini-for-science-ai-experiments-and-tools-for-a-new-era-of]]
+- [[quera-is-placed-in-the-market-shapers-quadrant-of-gartners-e]]
+- [[queras-bloqade-is-now-a-full-neutral-atom-sdk-one-line-to-st]]
+- [[the-latest-ai-news-we-announced-in-june-2026]]
 
 ## Transformer
 *Mentioned in 5 entries*
@@ -49,14 +58,6 @@ Auto-generated index of models extracted from wiki entries. 25 models with 2+ me
 - [[published-in-science-today-magic-state-cultivation-works-in-]]
 - [[studying-particle-diffusion-in-quantum-systems-is-a-major-cl]]
 
-## Gemini
-*Mentioned in 4 entries*
-
-- [[amie-our-research-medical-ai-system-demonstrates-real-time-c]]
-- [[gemini-for-science-ai-experiments-and-tools-for-a-new-era-of]]
-- [[queras-bloqade-is-now-a-full-neutral-atom-sdk-one-line-to-st]]
-- [[the-latest-ai-news-we-announced-in-june-2026]]
-
 ## Quasar 438B
 *Mentioned in 4 entries*
 
@@ -72,12 +73,26 @@ Auto-generated index of models extracted from wiki entries. 25 models with 2+ me
 - [[multiverse-computing-launches-littlelamb-model-family-on-hug]]
 - [[multiverse-computing-launches-ultra-compressed-littlelamb-mo]]
 
+## Aquila
+*Mentioned in 3 entries*
+
+- [[a-hybrid-workflow-on-queras-aquila-matched-or-beat-an-exact-]]
+- [[quench-a-180-qubit-spin-system-on-aquila-it-doesnt-thermaliz]]
+- [[queras-bloqade-is-now-a-full-neutral-atom-sdk-one-line-to-st]]
+
 ## ChatGPT
 *Mentioned in 3 entries*
 
 - [[aps-journals-report-massive-influx-of-amateur-papers-more-th]]
 - [[chatgpt-solves-all-tested-qiskit-homework-assignments]]
 - [[llm-based-social-engineering-scams]]
+
+## QAOA
+*Mentioned in 3 entries*
+
+- [[feasibility-and-optimum-recovery-in-warm-start-quantum-optim]]
+- [[quantum-informed-graph-decomposition]]
+- [[safe-ma-qaoa-surrogate-assisted-and-fine-tuning-enhanced-mul]]
 
 ## Nighthawk
 *Mentioned in 3 entries*
@@ -86,23 +101,18 @@ Auto-generated index of models extracted from wiki entries. 25 models with 2+ me
 - [[ibm-deploys-quantum-system-two-at-hyde-park-labs-to-anchor-i]]
 - [[yonsei-to-install-ibm-nighthawk-quantum-processor-for-resear]]
 
-## Aquila
-*Mentioned in 2 entries*
+## Nighthawk r3
+*Mentioned in 3 entries*
 
-- [[quench-a-180-qubit-spin-system-on-aquila-it-doesnt-thermaliz]]
-- [[queras-bloqade-is-now-a-full-neutral-atom-sdk-one-line-to-st]]
+- [[ibm-plans-1000-qubit-system-for-2027-with-nighthawk-r3---new]]
+- [[ibm-unveils-520-qubit-nighthawk-r3-processor-1040-qubit-link]]
+- [[quantum-leap-ibm-plans-to-scale-beyond-1000-qubits-in-2027-w]]
 
 ## CompactifAI
 *Mentioned in 2 entries*
 
 - [[multiverse-computing-reports-all-compactifai-models-now-run-]]
 - [[multiverse-computing-unveils-breakthrough-all-compactifai-mo]]
-
-## QAOA
-*Mentioned in 2 entries*
-
-- [[feasibility-and-optimum-recovery-in-warm-start-quantum-optim]]
-- [[safe-ma-qaoa-surrogate-assisted-and-fine-tuning-enhanced-mul]]
 
 ## Borealis
 *Mentioned in 2 entries*
@@ -145,6 +155,12 @@ Auto-generated index of models extracted from wiki entries. 25 models with 2+ me
 
 - [[at-our-investor-day-ceo-niccolodemasi-shared-a-major-milesto]]
 - [[today-we-debut-ionq-superion-256-our-256-physical-qubit-syst]]
+
+## System Model H2
+*Mentioned in 2 entries*
+
+- [[large-scale-nmr-simulation-on-a-trapped-ion-quantum-computer]]
+- [[riken-upgrades-reimei-fugaku-hybrid-quantum-platform-with-56]]
 
 ## Gemini 4 Argon
 *Mentioned in 2 entries*

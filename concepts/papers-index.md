@@ -14,7 +14,7 @@ stale: false
 
 # All Papers
 
-Auto-generated index of papers extracted from wiki entries. 6 papers with 2+ mentions.
+Auto-generated index of papers extracted from wiki entries. 7 papers with 2+ mentions.
 
 ## Gottesman-Kitaev-Preskill
 *Mentioned in 5 entries*
@@ -55,3 +55,9 @@ Auto-generated index of papers extracted from wiki entries. 6 papers with 2+ men
 
 - [[quantum-koopman-algorithms]]
 - [[what-if-quantum-computers-could-simulate-complex-systems-wit]]
+
+## A proof of the Aaronson-Ambainis conjecture
+*Mentioned in 2 entries*
+
+- [[a-proof-of-the-aaronson-ambainis-conjecture]]
+- [[a-proof-of-the-aaronson-ambainis-conjecture---physics-is-acc]]
