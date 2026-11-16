@@ -14,4 +14,11 @@ stale: false
 
 arXiv:2611.13967v1 Announce Type: new Abstract: Vibrational excitations, or phonons, in trapped ions serve as useful resources for quantum information processing, including quantum simulation and computing. Localized excitations of ions' vibrational motion (local phonons) can be used for simulating quantum particles that propagate over a system. Here, we experimentally investigate the propagation of a localized vibrational excitation in a one-dimensional trapped-ion crystal. A 10-ion crystal confined in a harmonic potential is used. It is found that inhomogeneity in the spacing between the ions leads to characteristic behaviors such as adjacent hopping and global movement. A comparison of the experimental results with numerical simulations shows agreement up to fine details. The system explored here may be extended to many-body systems of bosonic particles as well as more complex quasiparticles.
 
+
+
+## Related
+- [[reshaping-coupled-bosonic-networks-a-bipartite-graph-framewo|Reshaping coupled bosonic networks: A bipartite-graph framework for optimal quantum excitation transfer]]
+- [[reconstructing-the-phonon-distribution-of-trapped-ions-out-o|Reconstructing the phonon distribution of trapped ions out of the Lamb-Dicke regime]]
+- [[a-linear-rotor-trapped-and-coupled-to-the-vibrational-modes-|A linear rotor trapped and coupled to the vibrational modes of an ion crystal]]
+
 **Source:** [arXiv quant-ph](https://arxiv.org/abs/2611.13967) | 2026-11-11

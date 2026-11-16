@@ -14,4 +14,9 @@ stale: false
 
 Scientists from the Quantum Technologies Group at the Institute of Physics Zagreb, in collaboration with a colleague from the Physics Department at the Faculty of Science (PMF), have experimentally demonstrated for the first time the existence of discrete one-dimensional (1D) solitons in an optically induced photonic lattice in warm rubidium vapor.
 
+
+
+## Related
+- [[quantum-gas-microscope-reveals-individual-atoms-in-first-tun|Quantum gas microscope reveals individual atoms in first tunable three-component Hubbard system]]
+
 **Source:** [Phys.org Quantum](https://phys.org/news/2026-10-laser-lattice-reveals-discrete-solitons.html) | 2026-10-22

@@ -14,4 +14,10 @@ stale: false
 
 arXiv:2608.08464v1 Announce Type: new Abstract: The relativistic dynamics of bound states across inertial reference frames are investigated using the computational quantum field theory (CQFT). The results reveal that the spatiotemporal properties of bound states within a given potential well are strictly frame-dependent. Crucially, this spatiotemporal modulation of the external field enables a reduction in the laser intensity threshold required for vacuum electron-positron pair creation. Analytical and numerical calculations demonstrate that this threshold reduction originates from the Lorentz transformation of the four-momentum, which reshapes the vacuum excitation pathways in phase space. By developing CQFT, we establish a comprehensive framework in which relativistic effects intrinsically govern the quantum vacuum decay process
 
+
+
+## Related
+- [[thermal-time-and-irreversibility-from-non-commuting-observab|Thermal Time and Irreversibility from Non-Commuting Observables in Accelerated Quantum Systems]]
+- [[optimal-estimation-of-quantum-boundary-effect-in-cosmic-stri|Optimal estimation of quantum boundary effect in cosmic string space-time]]
+
 **Source:** [arXiv quant-ph](https://arxiv.org/abs/2608.08464) | 2026-08-11

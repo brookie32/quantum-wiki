@@ -14,4 +14,12 @@ stale: false
 
 A programmable neutral‑atom quantum simulator with up to 180 qubits was used to study sudden quenches of spin models, revealing multiple robust dynamical regimes that persist as Floquet‑like prethermal steady states over exponentially long timescales. The experiments identified sharp peaks in the dynamical response attributable to resonant melting of the prethermal phase, quantitatively matching theoretical predictions. In two dimensions, a first‑order dynamical phase transition was observed, associated with the proliferation of Néel‑order defects during quench dynamics.
 
+
+
+## Related
+- [[dynamical-signatures-of-conventional-and-asymptotic-quantum-|Dynamical signatures of conventional and asymptotic quantum many-body scars on a trapped ion simulator]]
+- [[probing-entanglement-scaling-across-a-quantum-phase-transiti|Probing entanglement scaling across a quantum phase transition on a quantum computer]]
+- [[quantum-many-body-mixed-phase-space-revealed-by-hybrid-feedb|Quantum many-body mixed phase space revealed by hybrid feedback control]]
+- [[nonequilibrium-dynamical-quantum-phase-transitions-in-the-ex|Nonequilibrium Dynamical Quantum Phase Transitions in the Extended Agassi Model]]
+
 **Source:** [Nature: Quantum Physics](https://www.nature.com/articles/s41586-026-11225-9) | 2026-11-04
