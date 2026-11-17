@@ -14,4 +14,11 @@ stale: false
 
 arXiv:2609.00489v2 Announce Type: replace-cross Abstract: This work studies hybrid quantum-classical neural networks for learning routing heuristics. Specifically, this paper asks whether small quantum neural networks can replace parameter-heavy modules inside a competitive attention-based routing model while maintaining solution quality. For the capacitated vehicle routing problem, encoder feed-forward replacement emerges as the most promising design: it reduces the number of model parameters by 56.6% while keeping the hybrid model close to the classical neural baseline at small and medium instance sizes, although the gap grows for larger instances. This work also compares to classical routing algorithms, which remain highly competitive and often superior on the fixed Euclidean test sets. Our results therefore do not indicate quantum advantage or solver dominance, but identify encoder feed-forward replacement as a viable hybrid-module compression strategy for neural combinatorial optimization.
 
+
+
+## Related
+- [[hybrid-quantum-classical-end-to-end-pipeline-for-solving-mil|Hybrid quantum-classical end-to-end pipeline for solving MILPs: a vehicle routing case study]]
+- [[hybrid-boson-sampling-neural-network-architecture-for-enhanc|Hybrid boson sampling-neural network architecture for enhanced classification]]
+- [[resource-and-entanglement-study-of-a-hybrid-qudit-qubit-quan|Resource and entanglement study of a hybrid qudit-qubit quantum algorithm for solving the integer programming problem]]
+
 **Source:** [arXiv quant-ph](https://arxiv.org/abs/2609.00489) | 2026-11-05
