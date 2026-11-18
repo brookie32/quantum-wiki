@@ -14,4 +14,9 @@ stale: false
 
 For the first time, an international team of researchers from Germany, Thailand, India, China and the United States has created a three-component Hubbard system with tunable interactions in the laboratory. In doing so, the team used a quantum gas microscope to make the individual atoms visible. The study, published in Science, provides an important foundation for future quantum simulations of nuclear physics and materials science.
 
+
+
+## Related
+- [[quantum-gas-microscope-resolves-the-color-of-individual-atom|Quantum-gas microscope resolves the 'color' of individual atoms in a single shot]]
+
 **Source:** [Phys.org Quantum](https://phys.org/news/2026-11-quantum-gas-microscope-reveals-individual.html) | 2026-11-06

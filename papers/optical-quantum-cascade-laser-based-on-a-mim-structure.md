@@ -14,4 +14,9 @@ stale: false
 
 arXiv:2609.29482v1 Announce Type: new Abstract: A quantum cascade laser based on a metal-insulator-metal structure is proposed, the heterostructure of which consists of diamond and metal films. The profile of the quantum potential in a quasi-periodic MIM heterostructure and the structure of metastable levels in quantum wells are investigated. A number of CCL configurations have been proposed. The possibility of generating radiation from the UV to THz range is theoretically shown.
 
+
+
+## Related
+- [[predictive-electronic-feedback-control-for-narrow-linewidth-|Predictive electronic feedback control for narrow-linewidth lasers]]
+
 **Source:** [arXiv quant-ph](https://arxiv.org/abs/2609.29482) | 2026-09-25
