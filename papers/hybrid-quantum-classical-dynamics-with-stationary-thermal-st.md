@@ -14,4 +14,11 @@ stale: false
 
 arXiv:2604.02484v2 Announce Type: replace Abstract: Quantum and classical systems can consistently be coupled via non-unitary time-irreversible mechanisms. In this paper we characterize which kind of corresponding dynamics converge in the stationary regime to a thermal hybrid state, that is, a density matrix that maximizes the hybrid arrangement entropy under the constraints of a canonical ensemble. Introducing a detailed balance condition, it is found that a specific subclass of hybrid Lindblad equations fulfill the demanded requirement. The main theoretical results are exemplified through a set of specific examples that in addition lighten how the thermal state of each subsystem in isolation is affected by their mutual coupling. In particular, a Gaussian thermal state could become a bimodal distribution when increasing the interaction strength of a classical subsystem with a quantum two-level subsystem.
 
+
+
+## Related
+- [[entanglement-of-quantum-systems-via-a-classical-mediator-in-|Entanglement of quantum systems via a classical mediator in hybrid van Hove theory]]
+- [[interpreting-liouvillian-eigenmodes-quantized-orbits-in-diss|Interpreting Liouvillian Eigenmodes: Quantized Orbits in Dissipative Systems]]
+- [[resonance-protected-pointer-states-stationary-phase-analysis|Resonance-Protected Pointer States: Stationary-Phase Analysis of Entanglement in an Environment-Coupled Two-Spin System]]
+
 **Source:** [arXiv quant-ph](https://arxiv.org/abs/2604.02484) | 2026-08-14

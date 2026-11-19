@@ -14,4 +14,11 @@ stale: false
 
 arXiv:2605.26743v2 Announce Type: replace-cross Abstract: We study the finite-temperature Casimir effect for a massless scalar field confined between two parallel plates in a Schwarzschild-like wormhole spacetime. Imposing Dirichlet boundary conditions, we compute the renormalized Casimir free energy in the comoving frame. We find that the thermal correction to the renormalized Casimir free energy decreases gradually with the temperature and becomes independent of the background geometry in this frame. Thermodynamic quantities derived from the Casimir free energy, namely, the renormalized Casimir entropy, internal energy, and heat capacity at constant volume, exhibit distinct temperature dependence. At low temperatures, all thermodynamic quantities recover the expected behavior, consistent with the fundamental laws of thermodynamics. These results provide a compact framework for analyzing quantum vacuum forces in gravitational backgrounds.
 
+
+
+## Related
+- [[static-and-dynamical-casimir-effects-in-a-wedge-within-the-w|Static and dynamical Casimir effects in a wedge within the worldline formulation]]
+- [[dynamical-casimir-effect-in-the-worldline-formulation|Dynamical Casimir effect in the worldline formulation]]
+- [[casimir-sign-reversal-from-finite-range-bogoliubov-fluctuati|Casimir Sign Reversal from Finite-Range Bogoliubov Fluctuations]]
+
 **Source:** [arXiv quant-ph](https://arxiv.org/abs/2605.26743) | 2026-09-24

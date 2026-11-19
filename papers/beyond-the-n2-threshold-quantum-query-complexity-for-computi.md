@@ -14,4 +14,11 @@ stale: false
 
 arXiv:2611.09809v1 Announce Type: new Abstract: The oracle-interrogation algorithm [van Dam, FOCS '98] computes every n-bit Boolean function with bounded error using n/2+O(sqrt n) quantum queries. In contrast, parity can be computed exactly using lceil n/2rceil queries, but whether an additive overhead beyond n/2 is necessary for a single Boolean output has remained open. In this work, we construct an explicit family of symmetric Boolean functions requiring n/2+Omega(n^{1/3}) quantum queries at a fixed positive constant error. We also give an algorithm that recovers the exact Hamming weight using n/2+O(n^{1/3}) quantum queries with bounded error, and therefore computes every symmetric Boolean function within the same query bound. Together, these results determine the optimal additive order for Hamming weight recovery and for the worst case over symmetric Boolean functions at sufficiently small constant error.
 
+
+
+## Related
+- [[the-role-of-symmetry-in-quantum-query-to-communication-simul|The Role of Symmetry in Quantum Query-to-Communication Simulation]]
+- [[fanout-complexity-of-symmetric-boolean-functions-in-mathsfqa|Fanout Complexity of Symmetric Boolean Functions in mathsf{QAC}^0]]
+- [[optimal-separations-between-randomized-and-quantum-query-com|Optimal Separations Between Randomized and Quantum Query Complexity under Permutation Symmetry]]
+
 **Source:** [arXiv quant-ph](https://arxiv.org/abs/2611.09809) | 2026-11-09
