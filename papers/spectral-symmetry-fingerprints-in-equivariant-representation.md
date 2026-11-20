@@ -14,4 +14,12 @@ stale: false
 
 arXiv:2611.07410v1 Announce Type: cross Abstract: Symmetry governs the organization of physical structures, while symmetry breaking reveals their transformations. In geometric deep learning, symmetry imposes rank constraints on equivariant representations, limiting the expressive capacity of equivariant graph neural networks (GNNs). Here we show that these constraints can instead be exploited: the singular-value spectra of equivariant representations provide a unified fingerprint of structural symmetry. We introduce spectral symmetry fingerprints (SymFP), which enable discrete point-group identification through rank-template matching and continuous symmetry analysis by quantifying spectral energy beyond target rank constraints. SymFP is orientation invariant and architecture agnostic, enabling a parameter-free GNN implementation. Its spectra can be reused across multiple target groups, and the resulting leakage scores satisfy subgroup monotonicity. Across synthetic structures, molecules, coordination complexes and large biological assemblies, SymFP accurately identifies point groups, tracks controlled symmetry breaking and reveals local and degree-resolved symmetry changes that can be obscured by global geometric measures. These results establish the spectral structure of equivariant representations as a general framework for characterizing symmetry across physical systems.
 
+
+
+## Related
+- [[nemora-neural-equivariant-multipole-operators-for-long-range|NEMORA: Neural Equivariant Multipole Operators for Long-Range Atomistic Learning]]
+- [[branchip-learning-adaptive-equivariant-computation-for-inter|BranchIP: Learning Adaptive Equivariant Computation for Interatomic Potentials]]
+- [[physics-based-molecular-fingerprints-from-spectral-graph-the|Physics-Based Molecular Fingerprints from Spectral Graph Theory Provide Efficient Geometry-Aware Measures of Chemical Similarity]]
+- [[equivariant-learning-of-a-transferable-three-dimensional-cla|Equivariant learning of a transferable three-dimensional classical density functional]]
+
 **Source:** [arXiv physics.chem-ph](https://arxiv.org/abs/2611.07410) | 2026-11-06

@@ -14,4 +14,11 @@ stale: false
 
 arXiv:2602.18364v4 Announce Type: replace-cross Abstract: Maximum likelihood prediction (MLP) is a core task at the heart of modern large language models. Here, we study a quantum version of this task for a simplified data model consisting of independent and identically distributed samples, as a first step. The quantum maximum likelihood predictor (QMLP) is obtained by embedding of empirical probability distributions into quantum states and performing a minimization of quantum relative entropy over a given class of states. We derive non-asymptotic performance guarantees for QMLP in terms of convergence rates and concentration inequalities, both in trace norm and quantum relative entropy. Our approach provides a unified framework to handle MLP within both classical and quantum LLMs. We also consider the related problem of quantum information projection and generalize the quantum Pythagorean theorem to mixture families specified by possibly non-self-adjoint linear constraints. We further show that the Pythagorean inequality continues to hold in the infinite-dimensional setting whenever the convex information-projection problem attains a finite minimum.
 
+
+
+## Related
+- [[quantum-attention-by-overlap-interference-predicting-classic|Quantum Attention by Overlap Interference: Predicting Classical and Many-Body Quantum Sequences]]
+- [[shuttling-compiler-for-trapped-ion-quantum-computers-based-o|Shuttling Compiler for Trapped-Ion Quantum Computers Based on Fine-Tuned Large Language Models]]
+- [[private-and-interpretable-clinical-prediction-with-quantum-i|Private and interpretable clinical prediction with quantum-inspired tensor train models]]
+
 **Source:** [arXiv quant-ph](https://arxiv.org/abs/2602.18364) | 2026-09-03

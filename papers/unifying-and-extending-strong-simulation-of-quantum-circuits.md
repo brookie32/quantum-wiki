@@ -14,4 +14,12 @@ stale: false
 
 arXiv:2610.00547v1 Announce Type: new Abstract: We establish functional aggregate queries (FAQs) as a unifying language for exact classical simulation of quantum circuits. A circuit becomes a sum-product query: factors encode gates, internal wire variables are aggregated, and free boundary variables index transition amplitudes. The central insight is that distinct sources of simulation tractability can be exploited within the same InsideOut evaluation scheme. The query specifies what is computed; the evaluation plan, semiring, and representation of intermediate factors determine the cost. This view unifies structural and algebraic simulation guarantees. With explicit factor representations, FAQ evaluation recovers the treewidth bound for tensor-network contraction and yields finer sparsity-sensitive bounds via fractional covers. Over a formal phase semiring, compressed intermediate factors recover rank-width-based simulation for compatible quadratic phase representations. For Clifford circuits, affine-quadratic factors are closed under multiplication and marginalization and remain polynomial in size, yielding polynomial-time exact amplitude computation without any bounded-width assumption. Beyond these recoveries, the framework yields a new tractability criterion: tensor layout symmetry width. This parameter combines local cut-rank with separator symmetry through exact tree-tensor representations. We give a constructive evaluation bound and exhibit a circuit family with bounded tensor layout symmetry width but unbounded phase-graph rank-width and circuit line-graph treewidth. These results establish representation-aware FAQ evaluation as a common algorithmic foundation for classical simulation and a systematic route to new tractable regimes.
 
+
+
+## Related
+- [[realified-tensor-networks-quantum-circuit-simulation-on-real|Realified tensor networks: quantum circuit simulation on real-valued matrix accelerators]]
+- [[strong-simulation-of-1d-quantum-circuits-via-reduced-transit|Strong Simulation of 1D Quantum Circuits via Reduced Transition Matrices]]
+- [[arctn-efficient-tensor-network-contraction-planning-for-quan|ArcTN: Efficient Tensor-Network Contraction Planning for Quantum Circuit Simulation]]
+- [[numerically-exact-simulation-of-open-quantum-networks-with-s|Numerically exact simulation of open quantum networks with strong system-bath couplings using tensor network path integrals]]
+
 **Source:** [arXiv quant-ph](https://arxiv.org/abs/2610.00547) | 2026-10-02
