@@ -1,45 +1,46 @@
 ---
 title: "Synthesis: Cryptography"
-date: "2026-11-15"
-updated: "2026-11-15"
+date: "2026-11-22"
+updated: "2026-11-22"
 source: "agent"
 category: "syntheses"
 tags: [synthesis, cryptography, auto-generated]
 url: ""
-summary: "Auto-generated synthesis of 1475 entries about cryptography"
-last_verified: "2026-11-15"
-review_by: "2026-11-15"
+summary: "Auto-generated synthesis of 1507 entries about cryptography"
+last_verified: "2026-11-22"
+review_by: "2026-11-22"
 stale: false
 ---
 
 # Cryptography: Knowledge Wiki Overview
 
 ## Current State
-Cryptography is undergoing a fundamental transition driven by the looming threat of quantum computing, pushing the field toward post-quantum cryptographic standards while simultaneously advancing privacy-preserving techniques like homomorphic encryption and oblivious RAM. Classical cryptographic primitives remain widely deployed but are increasingly scrutinized for quantum vulnerabilities. The field spans theoretical foundations, hardware security, and urgent real-world migration challenges.
+Cryptography is undergoing a pivotal transition driven by the dual pressures of quantum computing threats and increasingly sophisticated attack surfaces. The field spans classical encryption, post-quantum cryptography (PQC), homomorphic encryption, and privacy-preserving computation, with standardization efforts and enterprise adoption accelerating rapidly. Both theoretical foundations and practical implementations are evolving in tandem to address emerging vulnerabilities.
 
 ---
 
 ## Key Developments
-- **Post-quantum cryptography (PQC)** is rapidly maturing, with new hardness assumptions (e.g., quantum stabilizer decoding) diversifying the foundation beyond a small set of vulnerable problems
-- **Homomorphic encryption** (e.g., CKKS scheme) is advancing in precision and efficiency, enabling computation on encrypted data
-- **Oblivious RAM (ORAM)** and quantum extensions (OQRAM) are protecting memory access patterns in untrusted computing environments
-- **Threshold cryptography** (e.g., robust ECDSA at scale) is enabling decentralized, fault-tolerant signing for blockchain and enterprise use
-- **Side-channel attacks** on SHA-2/HMAC and stream cipher cryptanalysis highlight ongoing vulnerabilities in deployed systems
-- **Hybrid key establishment** protocols are bridging classical and post-quantum schemes during the migration period
-- **DNS-based credential theft** and public Wi-Fi attacks underscore the continuing gap between cryptographic theory and real-world deployment
+- **Post-quantum cryptography** is maturing beyond NIST standardization, with new hardness assumptions (e.g., quantum stabilizer decoding) diversifying the PQC foundation
+- **Hybrid key establishment** protocols combining classical and post-quantum KEMs are being designed for resilience during the transition period
+- **Homomorphic encryption** (e.g., CKKS) is advancing in precision and efficiency, enabling computation on encrypted data
+- **Oblivious RAM (ORAM)** and quantum variants (OQRAM) are protecting memory access patterns in untrusted and delegated computing environments
+- **Threshold cryptography** (e.g., robust ECDSA at scale) is enabling decentralized signing for blockchain and distributed systems
+- **Side-channel attacks** on hash functions (SHA-256, HMAC) remain active research concerns
+- **DNS and public Wi-Fi attacks** highlight persistent gaps between cryptographic theory and real-world deployment
 
 ---
 
 ## Key Players & Organizations
-- **NSA/NIST** – standardization and historical cryptanalysis leadership
-- **Keyfactor** – enterprise post-quantum migration, surpassing $200M ARR
-- **IBM** – historical (Harvest machine) and ongoing cryptographic hardware
-- Academic research groups publishing via **arXiv** across PQC, PIR, and secure computation
+- **NIST** – driving PQC standardization
+- **NSA** – historical and ongoing cryptanalysis capabilities
+- **Keyfactor** – enterprise PKI and post-quantum migration ($200M+ ARR)
+- **Academic research community** – arXiv-driven advances in PQC, PIR, and secure computation
+- **IBM** – historical (Harvest supercomputer) and ongoing cryptographic hardware
 
 ---
 
 ## Outlook
-The field is converging on a **post-quantum migration era**, with enterprises accelerating PQC adoption, hybrid protocols becoming standard practice, and privacy-preserving computation moving closer to practical deployment. Quantum-safe infrastructure will define the next decade of cryptographic engineering.
+The cryptographic landscape will increasingly bifurcate into **legacy migration** (enterprises transitioning to PQC) and **frontier research** (quantum-native protocols, fully homomorphic encryption at scale). Automation and AI-assisted cryptanalysis will pressure both sides, making agile, hybrid cryptographic architectures the dominant paradigm
 
 ## Source Entries
 

@@ -1,37 +1,43 @@
 ---
 title: "Synthesis: Arxiv-Physics-Chem-Ph"
-date: "2026-11-15"
-updated: "2026-11-15"
+date: "2026-11-22"
+updated: "2026-11-22"
 source: "agent"
 category: "syntheses"
 tags: [synthesis, arxiv-physics-chem-ph, auto-generated]
 url: ""
-summary: "Auto-generated synthesis of 883 entries about arxiv-physics-chem-ph"
-last_verified: "2026-11-15"
-review_by: "2026-11-15"
+summary: "Auto-generated synthesis of 920 entries about arxiv-physics-chem-ph"
+last_verified: "2026-11-22"
+review_by: "2026-11-22"
 stale: false
 ---
 
-# arxiv-physics-chem-ph: Synthesis Overview
+# arxiv-physics-chem-ph: Knowledge Wiki Overview
 
 ## Current State
-The chemical physics preprint landscape reflects a field increasingly defined by machine learning integration, quantum mechanical modeling, and materials characterization at atomic resolution. Research spans from fundamental quantum chemistry (TDDFT, polaritonic chemistry) to applied electrochemistry (batteries, fuel cells), with computational methods accelerating discovery across all subdomains. The boundaries between physics, chemistry, and materials science continue to blur.
+Computational and physical chemistry is undergoing rapid transformation driven by machine learning interatomic potentials, cavity quantum electrodynamics, and advanced electrochemical modeling. Researchers are bridging quantum mechanical foundations with practical applications in energy storage, thermoelectrics, and spectroscopy. The field increasingly combines data-driven methods with rigorous physics-based frameworks.
+
+---
 
 ## Key Developments
-- **ML-accelerated simulation**: Machine-learned interatomic potentials and dynamical representations are enabling faster, more transferable molecular simulations (e.g., ZnCl₂ electrolytes, melting temperature prediction)
-- **Polaritonic and cavity chemistry**: Strong light-matter coupling is revealing new physics, including nuclear spin isomer effects governed by the Pauli principle and cavity-mediated radiative heat transfer
-- **Battery materials science**: Mechanistic models now couple diffusion-reaction kinetics with film passivation for LiCoO₂ leaching, advancing sustainable battery recycling
-- **Chiral photochemistry**: Synthetic chiral light enables direct asymmetric photochemistry, opening routes to enantioselective synthesis without traditional chiral catalysts
-- **Interface characterization**: Novel techniques (opto-iontronic iSCAT, EXAFS, water-magnetite modeling) are resolving ion accumulation and connectivity at electrochemical interfaces
-- **Thermoelectrics**: Homojunction engineering in conductive polymer films demonstrates renewed potential for organic thermoelectric devices
+
+- **Machine Learning Potentials**: ML-based interatomic potentials are accelerating molecular dynamics and speciation studies in complex electrolytes (e.g., ZnCl₂ systems), improving transferability across concentration regimes
+- **Polaritonic Chemistry**: Nuclear spin isomers and the Pauli principle are being rigorously examined within cavity-coupled quantum systems, opening new routes for reaction control
+- **Battery Recycling Modeling**: Mechanistic diffusion-reaction models with film passivation are enabling quantitative prediction of lithium/cobalt recovery during acidic leaching of LiCoO₂
+- **Chiral Photochemistry**: Synthetic chiral light sources now enable direct asymmetric photochemical synthesis, bypassing traditional chiral catalyst requirements
+- **Thermoelectric Polymers**: Homojunction engineering in conductive polymer films demonstrates measurable thermopower enhancement after two decades of foundational research
+- **Pressure Tensor Methods**: New closure approaches for Irving-Kirkwood profiles are resolving long-standing ambiguities in local stress calculations for inhomogeneous fluids
+- **TDDFT Advances**: V-representability problems in time-dependent DFT are being systematically characterized using tractable model systems like the Hubbard dimer
+
+---
 
 ## Key Players
-- Academic research groups (arXiv submissions suggest broad university-driven contributions)
-- Computational chemistry software communities (TDDFT, ML potential frameworks)
-- Battery and fuel cell research consortia
+Primarily **academic research groups** across computational chemistry, chemical physics, and materials science departments worldwide; contributions span institutions in Europe, North America, and Asia publishing via arXiv preprints.
+
+---
 
 ## Outlook
-The field is converging toward **physics-informed ML models** that retain mechanistic interpretability while dramatically reducing computational cost. Polaritonic chemistry and chiral photochemistry represent emerging experimental frontiers with significant synthetic implications. Electrochemical interface science will increasingly leverage combined simulation-spectroscopy workflows to design next-generation energy storage and conversion materials.
+The field is converging toward **physics-informed ML workflows** for materials discovery and electrochemical engineering. Cavity-mediated chemistry and chiral light manipulation are expected to yield experimentally deployable tools within the next 3–5 years.
 
 ## Source Entries
 

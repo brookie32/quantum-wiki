@@ -32,11 +32,22 @@ Auto-generated index of models extracted from wiki entries. 27 models with 2+ me
 - [[today-quera-is-announcing-results-from-our-research-preview-]]
 - [[using-ai-for-weapons-development]]
 
+## Willow
+*Mentioned in 6 entries*
+
+- [[alphaevolves-quantum-result-was-trotter-formula-optimization]]
+- [[bringing-the-magic-google-breaks-open-a-bottleneck-in-quantu]]
+- [[entanglement-usually-steals-the-show-in-quantum-computing-bu]]
+- [[google-quantum-ai-demonstrates-measurement-contextuality-acr]]
+- [[published-in-science-today-magic-state-cultivation-works-in-]]
+- [[studying-particle-diffusion-in-quantum-systems-is-a-major-cl]]
+
 ## Gemini
-*Mentioned in 5 entries*
+*Mentioned in 6 entries*
 
 - [[amie-our-research-medical-ai-system-demonstrates-real-time-c]]
 - [[gemini-for-science-ai-experiments-and-tools-for-a-new-era-of]]
+- [[how-watch-duty-is-using-gemini-to-get-wildfire-alerts-out-fa]]
 - [[quera-is-placed-in-the-market-shapers-quadrant-of-gartners-e]]
 - [[queras-bloqade-is-now-a-full-neutral-atom-sdk-one-line-to-st]]
 - [[the-latest-ai-news-we-announced-in-june-2026]]
@@ -49,14 +60,6 @@ Auto-generated index of models extracted from wiki entries. 27 models with 2+ me
 - [[predicting-multipartite-entanglement-in-quantum-circuits-usi]]
 - [[quantum-aware-transformer-model-for-state-classification]]
 - [[yonsei-university-researchers-develop-mamba-state-space-neur]]
-
-## Willow
-*Mentioned in 4 entries*
-
-- [[alphaevolves-quantum-result-was-trotter-formula-optimization]]
-- [[bringing-the-magic-google-breaks-open-a-bottleneck-in-quantu]]
-- [[published-in-science-today-magic-state-cultivation-works-in-]]
-- [[studying-particle-diffusion-in-quantum-systems-is-a-major-cl]]
 
 ## Quasar 438B
 *Mentioned in 4 entries*

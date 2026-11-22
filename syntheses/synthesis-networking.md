@@ -1,42 +1,44 @@
 ---
 title: "Synthesis: Networking"
-date: "2026-11-15"
-updated: "2026-11-15"
+date: "2026-11-22"
+updated: "2026-11-22"
 source: "agent"
 category: "syntheses"
 tags: [synthesis, networking, auto-generated]
 url: ""
-summary: "Auto-generated synthesis of 615 entries about networking"
-last_verified: "2026-11-15"
-review_by: "2026-11-15"
+summary: "Auto-generated synthesis of 642 entries about networking"
+last_verified: "2026-11-22"
+review_by: "2026-11-22"
 stale: false
 ---
 
 # Networking (Quantum)
 
 ## Overview
-Quantum networking is rapidly advancing from theoretical foundations toward real-world infrastructure, focusing on entanglement distribution, quantum teleportation, and secure communication protocols. Research and commercial deployment are accelerating simultaneously, with governments, universities, and private companies investing heavily in prototype quantum networks. The field is converging on solving key engineering challenges including memory coherence times, entanglement generation rates, and error correction at scale.
+Quantum networking is rapidly transitioning from theoretical research to experimental infrastructure, with key milestones being achieved in entanglement distribution, quantum memory, and teleportation. Research institutions and commercial players are demonstrating increasingly practical quantum communication primitives, while government-backed initiatives are funding prototype quantum network deployments at scale.
 
 ---
 
 ## Key Developments
-- **Entanglement milestones**: Oxford researchers achieved multi-species atom network entanglement with memory storage exceeding 10 seconds; separate teams surpassed 1 kHz entanglement rates between trapped ion and solid-state qubits
-- **Quantum teleportation**: Benchmarked on real IBM hardware with fidelities approaching 0.96; non-Gaussian teleportation resource-state generators demonstrated in real-time
-- **Repeater progress**: Scalable encoded hybrid repeater chains developed to enable long-distance entanglement distribution with error correction
-- **Security protocols**: Experimental quantum key distribution implemented under indefinite causal order, offering novel cryptographic advantages
-- **Infrastructure investment**: EU awarded €47.5M to the Quantum Internet Alliance (QIA) for a quantum network prototype
+- **Entanglement milestone**: Rates exceeding 1,000 per second (1 kHz) achieved between trapped ion qubits and solid-state quantum memory nodes
+- **Multi-species atom networks**: Oxford demonstrated entangled networks using strontium and calcium atoms, with memory storage beyond 10 seconds
+- **Quantum Key Distribution (QKD)**: Experimental implementations now exploring indefinite causal order for enhanced security
+- **Repeater chains**: New protocols for scalable long-distance entanglement distribution using encoded hybrid repeater architectures
+- **Teleportation benchmarking**: Real-device testing of quantum teleportation across IBM hardware revealing measurable dephasing characteristics
+- **EU investment**: €47.5M grant awarded to the Quantum Internet Alliance (QIA) for quantum network prototyping
 
 ---
 
 ## Key Players
 - **Academic**: University of Oxford, IBM (hardware benchmarking)
-- **Companies**: IonQ, Infleqtion, Cisco (distributed quantum networks collaboration)
-- **Regional initiatives**: ABQ-Net (New Mexico), QIA (European Union), SDT/IonQ hub (South Korea)
+- **Commercial**: IonQ (Superion 256 deployment, SiV memory hub in South Korea), Infleqtion/Cisco (distributed quantum networks collaboration)
+- **Regional initiatives**: ABQ-Net (New Mexico), Quantum Internet Alliance (EU)
+- **Infrastructure partners**: SDT (South Korea), SDxCentral-covered carriers
 
 ---
 
 ## Outlook
-Quantum networking is transitioning from laboratory demonstrations toward national and international infrastructure. Near-term priorities include reducing service latency, scaling entanglement distribution, and deploying quantum memory hubs. Within the next several years, regional testbeds are expected to mature into interoperable prototype networks, laying the groundwork for a global quantum internet.
+Quantum networking is converging toward near-term deployable repeater networks and standardized teleportation protocols, supported by growing public and private investment. The critical bottlenecks—memory coherence times, entanglement rates, and error correction—are being addressed simultaneously, suggesting functional metropolitan-scale quantum networks within the next 3–5 years.
 
 ## Source Entries
 

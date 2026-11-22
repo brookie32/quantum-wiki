@@ -1,45 +1,43 @@
 ---
 title: "Synthesis: Quantum-Computing-Report"
-date: "2026-11-15"
-updated: "2026-11-15"
+date: "2026-11-22"
+updated: "2026-11-22"
 source: "agent"
 category: "syntheses"
 tags: [synthesis, quantum-computing-report, auto-generated]
 url: ""
-summary: "Auto-generated synthesis of 627 entries about quantum-computing-report"
-last_verified: "2026-11-15"
-review_by: "2026-11-15"
+summary: "Auto-generated synthesis of 678 entries about quantum-computing-report"
+last_verified: "2026-11-22"
+review_by: "2026-11-22"
 stale: false
 ---
 
-# Quantum Computing: Knowledge Synthesis Overview
+# Quantum Computing Report: Knowledge Synthesis
 
 ## Current State
-Quantum computing is advancing rapidly across hardware, software, and applications, with multiple organizations demonstrating meaningful milestones in qubit scale, fidelity, and early quantum advantage. The field is transitioning from proof-of-concept demonstrations toward fault-tolerant systems and commercially relevant benchmarks. Significant public and private investment is accelerating development across North America, Europe, and Asia.
+Quantum computing is advancing rapidly across multiple hardware modalities—superconducting qubits, trapped ions, neutral atoms, and photonics—with leading institutions and companies demonstrating increasingly capable processors and early quantum advantage claims. Government investment is accelerating globally, with major public funding initiatives in Europe and Germany supporting fault-tolerant system development. The field is transitioning from laboratory demonstrations toward benchmarked, commercially relevant applications.
 
 ---
 
 ## Key Developments
-- **Hardware scaling**: IQM demonstrated full-chip entanglement across 54 qubits; D-Wave simulated topological insulators using 728 qubits
-- **Interconnects**: IBM developed meter-scale superconducting L-couplers linking dual 120-qubit processors at 99% state transfer fidelity
-- **Fault tolerance**: Germany's NFQC-1k project (€122M) targets a fault-tolerant trapped-ion system via QUDORA-led consortium
-- **Novel hardware approaches**: Pasqal achieved on-chip neutral-atom trapping via photonic integrated circuits; Cornell demonstrated standing-wave EIT cooling for trapped ions
-- **Quantum advantage signals**: IBM and partners claimed "Trusted Quantum Advantage" beyond classical supercomputers; FirstQFM outperformed classical financial benchmarks on Rigetti's 108-qubit processor
-- **Benchmarking**: Launch of QOBLIB provides a standardized library to track progress toward quantum advantage
-- **Policy/funding**: EuroHPC selected 13 European QPU startups for its Quantum Grand Challenge
+- **IBM** demonstrated "Trusted Quantum Advantage" beyond classical supercomputers and unveiled meter-scale L-couplers connecting dual 120-qubit processors at 99% fidelity
+- **IQM** verified full-chip entanglement across a 54-qubit Emerald superconducting processor and reported its first public earnings as a listed company
+- **D-Wave** simulated higher-order topological insulators using 728 qubits in a 3D analog-digital hybrid approach
+- **Pasqal** achieved first on-chip neutral-atom qubit trapping via photonic integrated circuits
+- **QOBLIB** launched as a global benchmarking library to rigorously track progress toward quantum advantage in optimization
+- **EuroHPC JU** selected 13 European QPU startups for its Quantum Grand Challenge program
+- Germany committed **€122 million** to the QUDORA-led NFQC-1k fault-tolerant trapped-ion project
+- **FirstQFM** demonstrated quantum reservoir computing on Rigetti's 108-qubit processor, outperforming classical financial benchmarks
 
 ---
 
 ## Key Players
-**Hardware**: IBM, IQM, D-Wave, Rigetti, Pasqal, QUDORA
-**Research**: MIT, Cornell, Chalmers University, University of Pennsylvania
-**Policy/Funding**: EuroHPC Joint Undertaking, German Government
-**Applications**: FirstQFM, Algorithmiq, Qedma Quantum Computing
+**IBM, IQM, D-Wave, Pasqal, Rigetti, QUDORA, Chalmers University, MIT, Cornell, University of Pennsylvania, EuroHPC JU**
 
 ---
 
 ## Outlook
-The near-term trajectory points toward fault-tolerant quantum computers exceeding 1,000 high-fidelity qubits, standardized benchmarking frameworks, and early commercial quantum advantage in finance, materials science, and
+The near-term trajectory points toward fault-tolerant systems exceeding 1,000 physical qubits, standardized benchmarking frameworks replacing ad hoc advantage claims, and deeper integration with AI methods for error characterization and algorithm discovery. Commercial pilots in finance, materials simulation, and optimization are expected to multiply as hardware fidelity and
 
 ## Source Entries
 
