@@ -14,4 +14,9 @@ stale: false
 
 arXiv:2512.15967v2 Announce Type: replace-cross Abstract: We propose and implement an aberration correction method for the creation of extended arrays of spots well beyond the isoplanatic region of any optical system. The method relies on an extensive calibration of aberrations in terms of Zernike polynomials over the full accessible field of an optical system. We introduce a modified Gerchberg-Saxton algorithm for generating holographic phase masks creating fully corrected arbitrary arrays of spots. By applying the method to an aspherical lens, and using a liquid-crystal spatial light modulator (SLM), we increase the aberration-free field of view from 50 to 500 mum, only limited by the largest diffraction angles accessible to the SLM. This opens new perspectives for the generation of large arrays of optical tweezers, especially for neutral atom based quantum processors and simulators.
 
+
+
+## Related
+- [[theoretical-and-experimental-study-of-the-correlation-betwee|Theoretical and experimental study of the correlation between pulsed light repetition frequency and electric field measurement]]
+
 **Source:** [arXiv quant-ph](https://arxiv.org/abs/2512.15967) | 2026-11-20
