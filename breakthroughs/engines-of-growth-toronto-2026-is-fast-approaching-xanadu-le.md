@@ -14,4 +14,10 @@ stale: false
 
 Engines of Growth Toronto 2026 is fast approaching! Xanadu Lead Quantum Scientist Stepan Fomichev will be speaking on the panel "Building the Quantum Advantage," covering exciting developments expected in 2027 for quantum computing and exploring how quantum is relevant to cryptography. November 24th 3:00-3:30 PM Learn more: https://www.eog-toronto.com/
 
+
+
+## Related
+- [[still-thinking-about-the-energy-in-the-room-at-the-recent-la|Still thinking about the energy in the room at the recent launch event for Quantum Advantage Toronto (QAT). Xanadu’s Sacha Kocsis took the …]]
+- [[as-part-of-a-featured-icqc-2026-satellite-meeting-torin-will|As part of a featured ICQC 2026 satellite meeting, Torin will present his talk, 'Quantum Simulations of Spectroscopy: Algorithms and Applica…]]
+
 **Source:** [Xanadu (X)](https://x.com/XanaduAI/status/2123114017463881938) | 2026-11-18
