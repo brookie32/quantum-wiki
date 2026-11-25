@@ -14,4 +14,11 @@ stale: false
 
 Combining their skills in theory and experiment, Yale researchers have observed for the first time a type of energy-carrying composite particle move in a highly unexpected way. It's a finding that could lead to advances in quantum technologies, solar energy, LEDs and other optoelectronic technologies. The work is published in Nature Physics.
 
+
+
+## Related
+- [[heavy-fermions-emerge-at-an-atomic-layer-interface-unlocking|Heavy fermions emerge at an atomic-layer interface, unlocking new ways to design quantum materials]]
+- [[chemical-physicists-quantitatively-model-electron-interactio|Chemical physicists quantitatively model electron interactions in real quantum materials]]
+- [[quantum-interference-traps-electron-waves-in-metal-for-first|Quantum interference traps electron waves in metal for first time]]
+
 **Source:** [Phys.org Quantum](https://phys.org/news/2026-11-excitons-mimic-atom-thin-material.html) | 2026-11-20

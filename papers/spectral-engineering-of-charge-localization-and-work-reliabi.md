@@ -14,4 +14,12 @@ stale: false
 
 arXiv:2611.23789v1 Announce Type: new Abstract: The performance of a quantum battery depends not only on how much energy it stores, but also on how rapidly useful charge can be restored after work extraction. We show how engineering the reservoir spectrum connects these properties in an interacting collective-spin battery. Interactions separate the Dicke transition frequencies, allowing frequency-selective pumping and loss to control where excitation accumulates and how populations move along the ladder. Analytical results relate the pump-to-loss ratio to charge localization, fluctuations, and extractable work. Two reservoirs producing the same mean charge can nevertheless exhibit markedly different localization and charging times. Under repeated extraction, finite-time recharging also generates correlations between successive work outputs. At matched mean work, these correlations can reverse the ordering of single-cycle and long-time fluctuations: a protocol with larger fluctuations in individual strokes can deliver more reliable accumulated work. An exact counting relation connects these statistics to net charging-energy transfer, while relaxation modes distinguish recovery of the stationary state from recovery of useful work. Finally, local dephasing redistributes population among collective-spin sectors, leading to an exact stationary symmetry-dilution law and a finite operating window for work extraction under a collective transverse controller.
 
+
+
+## Related
+- [[collective-dissipation-induced-dark-and-metastable-like-stat|Collective-dissipation-induced dark and metastable-like states for enhanced quantum battery performance]]
+- [[catalytic-stabilization-of-ergotropy-and-backflow-suppressio|Catalytic Stabilization of Ergotropy and Backflow Suppression in Open Many-Body Quantum Batteries]]
+- [[collective-thermalization-work-reliability-and-resource-boun|Collective thermalization, work reliability, and resource bounds in a population-inverted Dicke Otto engine]]
+- [[one-bit-of-collective-information-is-worth-n-ln-2-bits-of-lo|One Bit of Collective Information Is Worth N ln 2 Bits of Local Information in a Many-Body Quantum Battery]]
+
 **Source:** [arXiv quant-ph](https://arxiv.org/abs/2611.23789) | 2026-11-19

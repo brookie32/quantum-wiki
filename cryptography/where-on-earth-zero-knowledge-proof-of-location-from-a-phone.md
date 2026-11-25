@@ -1,0 +1,17 @@
+---
+title: "Where on Earth? Zero-Knowledge Proof of Location from a Phone Photograph of the Moon and Stars"
+date: "2026-11-23"
+updated: "2026-11-25"
+source: "agent"
+category: "cryptography"
+tags: [cryptography, iacr-eprint-archive]
+url: "https://eprint.iacr.org/2026/3002"
+summary: "We study whether a single photograph taken with commodity hardware, such as an unmodified phone, can serve as a privacy-preserving proof of location. The physical anchor is lunar parallax. The Moon is"
+last_verified: "2026-11-25"
+review_by: "2027-02-23"
+stale: false
+---
+
+We study whether a single photograph taken with commodity hardware, such as an unmodified phone, can serve as a privacy-preserving proof of location. The physical anchor is lunar parallax. The Moon is close enough to the Earth that its position against the background stars shifts by up to about one degree depending on where the observer stands, so a frame that shows the Moon among a few stars, together with its capture time, determines the camera's position: one arcsecond of measurement error corresponds to about 1.9 km on the ground. Nothing is transmitted and nothing is received; the only infrastructure is the sky, a star catalogue and an ephemeris (a published table of where the Moon is at any given time). We make three contributions. First, we measure what phone cameras actually achieve. Our study is based on 356 captures, of which 6 RAW frames give a position, with errors from tens to under two hundred kilometres. We analyse what limits the measurement and the ranges of capture parameters in which it is feasible. Second, we turn the measurement into a zero-knowledge proof. One proof binds a signed RAW file to a Merkle commitment of its pixels; a second proof recomputes the star centroids, the camera calibration, the Moon's centre and the parallax from the committed pixels, and shows that every position consistent with the photograph lies inside a public region, revealing neither the position, the photograph, nor the signing device. The prover is left with essentially no choices: the camera must be the least-squares fit to a complete, magnitude-limited star set, which cuts the prover's influence on the result from more than a thousand kilometres to under 25 km in our measurements. Six telephoto frames from one phone at two sites are accepted, with regions between roughly 370 x 370 and 710 x 640 km, as are three further test photographs, two of them published photographs from dedicated cameras. Both proofs run on two zkVMs; on the faster one the full pipeline for a photograph, ending in a zero-knowledge proof, takes about ten minutes of GPU and CPU time, and verification takes under half a second. Third, we analyse what the proof does not establish. A photograph of a laptop screen displaying a rendered sky is accepted as a proof for the original site, because the proof binds pixels to a signing device and its clock, not to the physical sky. We enumerate the trust assumptions, survey which device signals could narrow the gap, and outline measures that would raise the cost of more advanced forgeries well beyond the resources of an individual. The result is a working approach for building location proofs from commodity-phone photographs, at country-to-region granularity, and not yet a complete proof-of-location system.
+
+**Source:** [IACR ePrint Archive](https://eprint.iacr.org/2026/3002) | 2026-11-23
