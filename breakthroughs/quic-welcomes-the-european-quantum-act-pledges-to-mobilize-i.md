@@ -14,4 +14,9 @@ stale: false
 
 Insider Brief PRESS RELEASE — The European Quantum Industry Consortium (QuIC) welcomes the publication of the European Commission’s proposal for the European Quantum Act, marking a significant milestone in Europe’s ambition to establish itself as a global leader in quantum technologies. As Europe’s largest quantum industry consortium, QuIC is committed to supporting the ambitions of […]
 
+
+
+## Related
+- [[cyberridge-selected-for-the-lucrative-eic-award-for-innovati|CyberRidge Selected for The Lucrative EIC Award For Innovation In Quantum Security]]
+
 **Source:** [The Quantum Insider](https://thequantuminsider.com/2026/11/25/quic-welcomes-the-european-quantum-act-pledges-to-mobilize-industry/) | 2026-11-25
