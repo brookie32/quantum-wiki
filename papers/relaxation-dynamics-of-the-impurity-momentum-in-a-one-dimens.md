@@ -14,4 +14,11 @@ stale: false
 
 arXiv:2611.32280v1 Announce Type: new Abstract: We consider a single mobile impurity coupled by a repulsive contact interaction to a gas of free spinless fermions of equal mass in one dimension. Using the determinant overlaps between the interacting eigenstates and free-fermion states, we derive closed determinant formulas for the matrix elements of the impurity momentum operator and of its square between arbitrary Bethe-ansatz eigenstates of a finite system. At infinite coupling we prove a selection rule: both operators have vanishing matrix elements between distinct eigenstates that share the same rapidity, and every eigenstate carries the per-particle share of the total momentum. For an impurity injected into the Fermi sea we have the following: at infinite coupling the average impurity momentum relaxes completely in the thermodynamic limit, while at finite coupling relaxation remains incomplete. The closed-form matrix elements turn the spectral representation of the average impurity momentum into explicit finite sums over eigenstates. We evaluate the post-injection dynamics, resolve the quantum-flutter oscillations and the approach towards the diagonal-ensemble value, and map the stationary momentum as a function of the injection momentum and the coupling. Finally, we analyse the thermodynamic limit and its asymptotics as an integral over Fredholm determinants.
 
+
+
+## Related
+- [[finite-temperature-mass-gap-and-quench-dynamics-of-mobile-im|Finite-temperature mass gap and quench dynamics of mobile impurities in a Fermi gas]]
+- [[explicit-proof-of-andersons-orthogonality-catastrophe-for-th|Explicit proof of Anderson's orthogonality catastrophe for the one-dimensional Fermi polaron with attractive interaction]]
+- [[quench-dynamics-and-quantum-flutter-properties-of-one-dimens|Quench dynamics and quantum flutter properties of one-dimensional attractive single-spin flipped Fermi gases]]
+
 **Source:** [arXiv cond-mat.quant-gas](https://arxiv.org/abs/2611.32280) | 2026-11-25
