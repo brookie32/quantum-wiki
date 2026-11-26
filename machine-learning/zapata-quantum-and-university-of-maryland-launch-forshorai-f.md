@@ -1,0 +1,17 @@
+---
+title: "Zapata Quantum and University of Maryland Launch ForShor.ai Formal Verification Challenge for AI-Assisted Quantum Algorithm Design - Quantum Computing Report"
+date: "2026-11-26"
+updated: "2026-11-26"
+source: "agent"
+category: "machine-learning"
+tags: [machine-learning, google-news--qml-companies]
+url: "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQZzM4NnItNmRVa3JXMFlpOXJuNFFtT1ZBaEZNSl9uMm5KZk03NGtKRFA1a2FSR3U5ZzR1WUVnRnhsbmRHQWNwWjUzOGJlaGlsU1AwbFU2ZzY1OGRLMFZNaHpQT082T253UlBuUHpKMllmWHh6ZW1RVUVMcnZpMDMzb0hBTUxPVS12ekRjOU1IUDMtYWMtQXVSZzg4bjhaVFhRRkg1R042TFhGOVBBS2tTeU5PY19vaGctUEU1YzlLYWtIZEg0RnZaWTNJMUY0MG9GaHVzVHdEaDVNQXg5Qzc5eXFjSmNfUlBTN0xmV1VEd0UtbzZZRUI0WXN30gH_AUFVX3lxTE1TS2VhRGtuY2dOWVN3aVFHbGExYzZ0aFRRTk1VT1J1OWVDd2hubHNDVF8tWmhjOEFUSElfUjVhUTVTNS1NRnlpUDNXSGZDQkVrak5sbmZ3X1dYdExIbldvRzBVQ1ZpRl80Z2M4STAyNTFSVDYxdHpPbC1hN3VuS3MtRDIyWE44NE1PenJwS1JtWjgyY0Z3VU5lSXdmUWs5Y2xyTEIwbURubk91UEU4ZzRndjJPZWlRd0p4NUQ1SVczV2xFZWZEQlpkYXRrMTQ2TWFEd1Z4VXp2VHdPajc4Sm45b19VQU04UW14S1F0elNkbFFMdFViS1NqTVRiUzQ4cw?oc=5"
+summary: "Zapata Quantum has teamed with the University of Maryland to launch the **ForShor.ai Formal Verification Challenge**, a competition focused on improving AI‑assisted design of quantum algorithms. The c"
+last_verified: "2026-11-26"
+review_by: "2027-02-24"
+stale: false
+---
+
+Zapata Quantum has teamed with the University of Maryland to launch the **ForShor.ai Formal Verification Challenge**, a competition focused on improving AI‑assisted design of quantum algorithms. The challenge invites researchers and developers to apply formal verification methods within the ForShor.ai framework, aiming to enhance the correctness and reliability of emerging quantum programs. This initiative supports collaborative progress toward higher confidence in quantum software development.
+
+**Source:** [Google News: QML companies](https://news.google.com/rss/articles/CBMi-gFBVV95cUxQZzM4NnItNmRVa3JXMFlpOXJuNFFtT1ZBaEZNSl9uMm5KZk03NGtKRFA1a2FSR3U5ZzR1WUVnRnhsbmRHQWNwWjUzOGJlaGlsU1AwbFU2ZzY1OGRLMFZNaHpQT082T253UlBuUHpKMllmWHh6ZW1RVUVMcnZpMDMzb0hBTUxPVS12ekRjOU1IUDMtYWMtQXVSZzg4bjhaVFhRRkg1R042TFhGOVBBS2tTeU5PY19vaGctUEU1YzlLYWtIZEg0RnZaWTNJMUY0MG9GaHVzVHdEaDVNQXg5Qzc5eXFjSmNfUlBTN0xmV1VEd0UtbzZZRUI0WXN30gH_AUFVX3lxTE1TS2VhRGtuY2dOWVN3aVFHbGExYzZ0aFRRTk1VT1J1OWVDd2hubHNDVF8tWmhjOEFUSElfUjVhUTVTNS1NRnlpUDNXSGZDQkVrak5sbmZ3X1dYdExIbldvRzBVQ1ZpRl80Z2M4STAyNTFSVDYxdHpPbC1hN3VuS3MtRDIyWE44NE1PenJwS1JtWjgyY0Z3VU5lSXdmUWs5Y2xyTEIwbURubk91UEU4ZzRndjJPZWlRd0p4NUQ1SVczV2xFZWZEQlpkYXRrMTQ2TWFEd1Z4VXp2VHdPajc4Sm45b19VQU04UW14S1F0elNkbFFMdFViS1NqTVRiUzQ4cw?oc=5) | 2026-11-26
