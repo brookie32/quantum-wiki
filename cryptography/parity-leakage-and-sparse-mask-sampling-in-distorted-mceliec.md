@@ -1,0 +1,17 @@
+---
+title: "Parity Leakage and Sparse-Mask Sampling in Distorted-McEliece Pseudorandom Codes"
+date: "2026-11-26"
+updated: "2026-11-27"
+source: "agent"
+category: "cryptography"
+tags: [cryptography, iacr-eprint-archive]
+url: "https://eprint.iacr.org/2026/3068"
+summary: "Dyseryn, Francati and Venturi (DFV) recently proposed binary public-key pseudorandom codes that combine robustness to a constant fraction of substitutions with conjectured subexponential security. The"
+last_verified: "2026-11-27"
+review_by: "2027-02-25"
+stale: false
+---
+
+Dyseryn, Francati and Venturi (DFV) recently proposed binary public-key pseudorandom codes that combine robustness to a constant fraction of substitutions with conjectured subexponential security. Their public key is a generator matrix of a binary expansion of a Reed--Solomon subcode, called a Raw Reed--Solomon code, multiplied by the inverse of a uniformly random invertible matrix in which every row has the same weight gammage3. That this key is indistinguishable from a uniform matrix is their Distorted McEliece Public Key assumption (DistMcEPKP), from which the hardness of the ciphertext-level assumption is derived. We observe that over F_2 such a matrix necessarily has odd row weight and therefore fixes the all-ones vector, so that the distortion preserves the parity of the weight of every codeword. Raw Reed--Solomon codes whose support is all of F_{2^m}^*, the support for which these codes were originally defined and one that the definition used by DFV does not exclude, contain only even-weight words. For this support DistMcEPKP is false: the Kimes N public key is distinguished from a uniform matrix with advantage 1-2^{-K} by computing K parities, for every distortion weight. For arbitrary supports the leak occurs if and only if certain power sums of the support vanish. For the two code families of Silbak, Kopparty and Shaltiel, whose odd exponents are 1,3,ots,2au-1, this means that the support is a codeword of the primitive BCH code of designed distance 2au+1. The leak therefore never occurs when between 1 and 2au points are removed from the full support, and it occurs for a uniformly random support with probability at most inom{lceil M/2rceil+au}{au}^{-1} unconditionally and (1+o(1))2^{-mau} in the Weil range, where M=2^m-1. We then study the action of sparse distortions on dual codewords: we give the exact mean weight of the image of a fixed word, a binomial domination of its moment generating function derived from the log-concavity of matroid basis polynomials (hence Chernoff concentration without independence of the rows), the images of the words of the shortened BCH codes that the dual of every Raw Reed--Solomon code contains, and a worst-case contraction to weight one. Finally we analyse how the mask can be sampled: rejection of independent rows succeeds with probability e^{-Theta(N)}, row-by-row rejection runs in polynomial time but is not uniform, diagonal anchoring is biased by the permanent, and the basis-exchange walk produces an arepsilon-uniform mask with O(Nlog(N/arepsilon)) rank-one updates, that is, O(N^3log(N/arepsilon)) bit operations. All statements are accompanied by exact enumerations and reproducible experiments. The results refute DistMcEPKP for the full support and determine how the support must be restricted. They give neither a key recovery nor a distinguisher for ciphertexts at constant noise rate, so the ciphertext-level assumption is not refuted.
+
+**Source:** [IACR ePrint Archive](https://eprint.iacr.org/2026/3068) | 2026-11-26
